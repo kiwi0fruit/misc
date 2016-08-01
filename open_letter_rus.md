@@ -1,7 +1,8 @@
 # К задаче построения наиболее простой модели, в которой из естественного отбора структур возникает эволюция законов природы
 
 [[MORE]]
-_English version of the letter_: [/open_letter](http://zagubisalo.tumblr.com/open_letter)
+_English version of the letter_:  
+[gitbook.com/book/kiwi0fruit/ultimate-question/details][eng]
 
 Здравствуйте.
 
@@ -16,7 +17,8 @@ _English version of the letter_: [/open_letter](http://zagubisalo.tumblr.com/ope
 
    Задача, которую я пытаюсь решить, может быть описана как **построить наиболее простую модель, в которой из естественного отбора структур возникает эволюция законов природы**. Данный подход предполагает: индетерминизм и постулирует случайный и спонтанный характер некоторых событий. Так же предполагается, что у вселенной было начало - первый момент времени существования. Предполагается, что решение этой задачи снабдит идею тихизма Чарльза Пирса динамической математической моделью.
 
-**_Concise formulation of the question on which I got stuck_: [/shortquestion](http://zagubisalo.tumblr.com/shortquestion)**
+**_Concise formulation of the question on which I got stuck_:  
+[kiwi0fruit.gitbooks.io/ultimate-question/content/short_question.html](https://kiwi0fruit.gitbooks.io/ultimate-question/content/short_question.html)**
 
 ## <a name="toc"></a>Содержание:
 
@@ -29,13 +31,13 @@ _English version of the letter_: [/open_letter](http://zagubisalo.tumblr.com/ope
     - 2.3 [Модель как структура, изменяющаяся во времени](#2.3)
     - 2.4 [Паттерн в структуре является одним и тем же, что и особь в эволюции](#2.4)
     - 2.5 [Некоторые вопросы](#2.5)
-3. [On atrificial life, open ended evolution and “why these laws of nature?” question](http://zagubisalo.tumblr.com/post/143525654379/openletter#3.0)
-4. [The minimum mathematical model for open ended evolution (the more precise description of the mathematical part)](http://zagubisalo.tumblr.com/post/143525654379/openletter#4.0)
-    - 4.1 [Possible restrictions and constraints of the model](http://zagubisalo.tumblr.com/post/143525654379/openletter#4.1)
-    - 4.2 [Examples of the models that resemble the desired model](http://zagubisalo.tumblr.com/post/143525654379/openletter#4.2)  
-        - 4.2.1 [The first example](http://zagubisalo.tumblr.com/post/143525654379/openletter#4.2.1)
-        - 4.2.2 [The second example](http://zagubisalo.tumblr.com/post/143525654379/openletter#4.2.2)
-5. [Why this task? On “Why is there something rather than nothing?” question](http://zagubisalo.tumblr.com/post/143525654379/openletter#5.0)
+3. [On atrificial life, open ended evolution and “why these laws of nature?” question][eng]
+4. [The minimum mathematical model for open ended evolution (the more precise description of the mathematical part)][eng]
+    - 4.1 [Possible restrictions and constraints of the model][eng]
+    - 4.2 [Examples of the models that resemble the desired model][eng]  
+        - 4.2.1 [The first example][eng]
+        - 4.2.2 [The second example][eng]
+5. [Why this task? On “Why is there something rather than nothing?” question][eng]
 6. [P.S.](#6.0)
 7. [Литература](#7.0)
 8. [Ссылки на обсуждение](#8.0)
@@ -159,11 +161,11 @@ _**Описанная исследовательская задача предп
    Что мне стало более ясно в последнее время, так это то, что целью является не построение этой модели именно мною, а построение этой модели. И я отчаянно нуждаюсь в совете по поводу того, как сделать так, чтобы данная математическая модель была построена (не важно, мной или кем-то другим). Как попробовать думать? Кого попробовать привлечь к задаче? Советы по переформулировке проблемы и её корректности тоже важны.
 
 
-## 3. On atrificial life, open ended evolution and “why these laws of nature?” question [≡ eng](http://zagubisalo.tumblr.com/post/143525654379/openletter#toc)
+## 3. On atrificial life, open ended evolution and “why these laws of nature?” question [≡ eng][eng]
 
-## 4. The minimum mathematical model for open ended evolution (the more precise description of the mathematical part) [≡ eng](http://zagubisalo.tumblr.com/post/143525654379/openletter#toc)
+## 4. The minimum mathematical model for open ended evolution (the more precise description of the mathematical part) [≡ eng][eng]
 
-## 5. Why this task? On “Why is there something rather than nothing?” question [≡ eng](http://zagubisalo.tumblr.com/post/143525654379/openletter#toc)
+## 5. Why this task? On “Why is there something rather than nothing?” question [≡ eng][eng]
 
 
 ## <a name="6.0"></a>6. P.S. [≡](#toc)
@@ -201,3 +203,5 @@ _**Описанная исследовательская задача предп
 
 *Исходный код Markdown:*  
 [github.com/kiwi0fruit/open-letter](https://github.com/kiwi0fruit/open-letter)
+
+[eng]: https://www.gitbook.com/book/kiwi0fruit/ultimate-question/details
