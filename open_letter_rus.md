@@ -2,7 +2,7 @@
 
 [[MORE]]
 _English version of the letter_:  
-[gitbook.com/book/kiwi0fruit/ultimate-question/details][eng]
+[kiwi0fruit.gitbooks.io/ultimate-question/content/ultimate_question.html][eng]
 
 Здравствуйте.
 
@@ -204,4 +204,4 @@ _**Описанная исследовательская задача предп
 *Исходный код Markdown:*  
 [github.com/kiwi0fruit/open-letter](https://github.com/kiwi0fruit/open-letter)
 
-[eng]: https://www.gitbook.com/book/kiwi0fruit/ultimate-question/details
+[eng]: https://kiwi0fruit.gitbooks.io/ultimate-question/content/ultimate_question.html
