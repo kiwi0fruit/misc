@@ -1,0 +1,40 @@
+body { font-family: georgia, serif, sans-serif;
+  font-size: 120%;
+  line-height: 1.4;
+} 
+body p, body li {
+  text-align: justify;
+} 
+
+/*
+    replace fonts in the css with
+        georgia, serif, sans-serif
+    then add the following to the end:
+*/
+
+h1,h2,h3,h4,h5,h6 {
+  color: #005075;
+}
+a, header a {
+  color: #0088cc;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* The following can be useful but at the moment it doesn't work properly:
+
+@import url(https://fonts.googleapis.com/css?family=Crimson+Text|EB+Garamond|Cormorant+Garamond);
+
+Nice Latin and OK Cyrillic of the same size: 
+    Crimson+Text|EB+Garamond|Cormorant+Garamond 
+    'Crimson Text', 'EB Garamond', 'Cormorant Garamond' 
+    font-size: 145%;
+    line-height: 1.4;
+ 
+Nice Cyrillic: 
+    Lora
+    font-size: 120%;
+    line-height: 1.5;
+*/
