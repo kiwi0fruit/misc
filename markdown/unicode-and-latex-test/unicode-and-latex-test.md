@@ -58,6 +58,11 @@ df = sns.load_dataset("iris")
 df.head()
 ```
 
+* Colored LaTeX code:
+
+```latex
+$$x \cos{\left (y z \right )} + \begin{cases} 0 & \text{for}\: y = 0 \\- \frac{1}{y} \cos{\left (x y \right )} & \text{otherwise} \end{cases}$$
+```
 
 Some text:
 
