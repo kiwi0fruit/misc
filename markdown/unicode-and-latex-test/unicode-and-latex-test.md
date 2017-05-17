@@ -38,14 +38,14 @@ $$
 \end{aligned}
 $$
 
-* Colored python code:
+* Colored python code compatible with Hydrogen:
 
-```{.python}
+```{.python} <!-- # %% -->
 import pandas as pd
 pd.options.display.latex.repr = True
 import seaborn as sns
 df = sns.load_dataset("iris")
-df.head()
+df.head() # %%
 ```
 
 Some text:
