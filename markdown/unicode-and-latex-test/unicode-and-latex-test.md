@@ -67,7 +67,7 @@ $$x \cos{\left (y z \right )} + \begin{cases} 0 & \text{for}\: y = 0 \\- \frac{1
 * Colored batch script:
 
 ```bat
-set PYTHONPATH=%USERPROFILE%\Anaconda
+set PYTHONPATH=%LOCALAPPDATA%\Anaconda
 set PATH=%PATH%;%PYTHONPATH%;%PYTHONPATH%\Scripts;%PYTHONPATH%\Library\bin;%PYTHONPATH%\Library\mingw-w64\bin;
 cd /d %PYTHONPATH%
 cmd /k
