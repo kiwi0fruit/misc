@@ -64,6 +64,15 @@ df.head()
 $$x \cos{\left (y z \right )} + \begin{cases} 0 & \text{for}\: y = 0 \\- \frac{1}{y} \cos{\left (x y \right )} & \text{otherwise} \end{cases}$$
 ```
 
+* Colored batch script:
+
+```bat
+set PYTHONPATH=%USERPROFILE%\Anaconda
+set PATH=%PATH%;%PYTHONPATH%;%PYTHONPATH%\Scripts;%PYTHONPATH%\Library\bin;%PYTHONPATH%\Library\mingw-w64\bin;
+cd /d %PYTHONPATH%
+cmd /k
+```
+
 Some text:
 
 Their long association with humans has led dogs to be uniquely attuned to human behavior and they are able to thrive on a starch-rich diet that would be inadequate for other canid species. Dogs vary widely in shape, size and colours. Dogs perform many roles for people, such as hunting, herding, pulling loads, protection, assisting police and military, companionship and, more recently, aiding handicapped individuals. This influence on human society has given them the sobriquet "man's best friend".
