@@ -48,6 +48,17 @@ df = sns.load_dataset("iris")
 df.head() # %%
 ```
 
+* Colored python code:
+
+```{.python}
+import pandas as pd
+pd.options.display.latex.repr = True
+import seaborn as sns
+df = sns.load_dataset("iris")
+df.head()
+```
+
+
 Some text:
 
 Their long association with humans has led dogs to be uniquely attuned to human behavior and they are able to thrive on a starch-rich diet that would be inadequate for other canid species. Dogs vary widely in shape, size and colours. Dogs perform many roles for people, such as hunting, herding, pulling loads, protection, assisting police and military, companionship and, more recently, aiding handicapped individuals. This influence on human society has given them the sobriquet "man's best friend".
