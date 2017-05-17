@@ -12,6 +12,7 @@
     - **Bold serif: ≥, ≈, ∈, ⟨⟩, α, β, γ, δ**,
     - _**Bold italic serif: ≥, ≈, ∈, ⟨⟩, α, β, γ, δ**_,
     - `Regular monospace: ≥, ≈, ∈, ⟨⟩, α, β, γ, δ`,
+    - Markdown Unicode math: _a ≥ b ≈ x_&thinsp;∈⟨_α, β, γ, δ_⟩, MathJax Unicode math: $a≥b≈x∈⟨α,β,γ,δ⟩$
 * Emoji Unicode: 👊, _👊_, **👊**, _**👊**_, `👊`,
 * Buggy symbols on some Windows fonts: ♡, _♡_, **♡**, _**♡**_, `♡`, ♥, _♥_, **♥**, _**♥**_, `♥`,
 * CJK:
