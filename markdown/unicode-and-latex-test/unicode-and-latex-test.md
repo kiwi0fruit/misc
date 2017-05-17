@@ -50,7 +50,7 @@ df.head() # %%
 
 * Colored python code:
 
-```{.python}
+```python
 import pandas as pd
 pd.options.display.latex.repr = True
 import seaborn as sns
