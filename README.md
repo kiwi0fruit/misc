@@ -18,8 +18,13 @@ Crossposts to: [myanimelist.net/forum/?topicid=1459621](https://myanimelist.ne
 
 # Jung-Augustinavichiute-Talanov personality model (Socionics)
 
-- [Markdown code](jat-socionics/intro.md) for two blog posts: [one](http://kiwi0fruit.tumblr.com/post/141190741188), [two](http://kiwi0fruit.tumblr.com/post/141375887235) (Edit posts: [one](https://www.tumblr.com/edit/141190741188), [two](https://www.tumblr.com/edit/141375887235)).
-- [Markdown code](jat-socionics/reddit.md) for a short reddit post: [reddit.com/r/mbti/64sc2f](https://www.reddit.com/r/mbti/comments/64sc2f/socionics_intermediate_types_mbti_incompatibility/)
+- [Markdown code](socionics-jat/intro.md) for two blog posts: [one](http://kiwi0fruit.tumblr.com/post/141190741188), [two](http://kiwi0fruit.tumblr.com/post/141375887235) (Edit posts: [one](https://www.tumblr.com/edit/141190741188), [two](https://www.tumblr.com/edit/141375887235)).
+- [Markdown code](socionics-jat/reddit.md) for a short reddit post: [reddit.com/r/mbti/64sc2f](https://www.reddit.com/r/mbti/comments/64sc2f/socionics_intermediate_types_mbti_incompatibility/)
+- [Markdown code in russian](socionics-rus/socionics_short.md) for [blog post](http://kiwi0fruit.tumblr.com/post/53623222016) ([edit post](https://www.tumblr.com/edit/53623222016)).
+- [Markdown code in russian](socionics-rus/socionics_framework.md) for [blog post](http://kiwi0fruit.tumblr.com/post/36128399399) ([edit post](https://www.tumblr.com/edit/36128399399)).
+- [Markdown code in russian](socionics-rus/functions.md) for [blog post](http://kiwi0fruit.tumblr.com/post/53774683435) ([edit post](https://www.tumblr.com/edit/53774683435)).
+- [Markdown code in russian](socionics-rus/valuable_functions.md) for [blog post](http://kiwi0fruit.tumblr.com/post/101332420320) ([edit post](https://www.tumblr.com/edit/101332420320)).
+- [Markdown code in russian](socionics-rus/functions_from_wikipedia.md) for [blog post](http://kiwi0fruit.tumblr.com/post/57594360708) ([edit post](https://www.tumblr.com/edit/57594360708)).
 
 # Markdown
 
