@@ -1,0 +1,2417 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<!--
+		 Created by XML Export feature at MyAnimeList.net
+		 Programmed by Xinil
+		 Last updated 5/27/2008
+		-->
+		
+		<myanimelist>
+		
+			<myinfo>
+				<user_id>6458049</user_id>
+				<user_name>ixtx</user_name>
+				<user_export_type>1</user_export_type>
+				<user_total_anime>104</user_total_anime>
+				<user_total_watching>2</user_total_watching>
+				<user_total_completed>66</user_total_completed>
+				<user_total_onhold>0</user_total_onhold>
+				<user_total_dropped>36</user_total_dropped>
+				<user_total_plantowatch>0</user_total_plantowatch>
+			</myinfo>
+		
+		
+				<anime>
+					<series_animedb_id>6408</series_animedb_id>
+					<series_title><![CDATA["Bungaku Shoujo" Movie]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Tooko Amano, [not sure IxTx], [not sure about romance], [haven't watched]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>25397</series_animedb_id>
+					<series_title><![CDATA[Absolute Duo]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>12</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Julie Sigtuna]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>11759</series_animedb_id>
+					<series_title><![CDATA[Accel World]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>24</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Kuroyukihime, [not sure about romance]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>12291</series_animedb_id>
+					<series_title><![CDATA[Acchi Kocchi (TV)]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>12</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Tsumiki Miniwa, [Aggressive. But aggression is kinda fake: she does not use it to force her will]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>16273</series_animedb_id>
+					<series_title><![CDATA[Acchi Kocchi (TV): Place=Princess]]></series_title>
+					<series_type>Special</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>1</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Tsumiki Miniwa]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>32828</series_animedb_id>
+					<series_title><![CDATA[Amaama to Inazuma]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>12</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Kotori Iida, [not sure IxTx]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>8676</series_animedb_id>
+					<series_title><![CDATA[Amagami SS]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>25</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Ai Nanasaki, [not sure IxTx], [13-16ep]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>22147</series_animedb_id>
+					<series_title><![CDATA[Amagi Brilliant Park]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>13</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>13</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Isuzu Sento, [not sure IxTx], [though she is violent sometimes]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>30206</series_animedb_id>
+					<series_title><![CDATA[Amagi Brilliant Park: Nonbirishiteiru Hima ga Nai!]]></series_title>
+					<series_type>Special</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>1</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Isuzu Sento, [not sure IxTx]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>6547</series_animedb_id>
+					<series_title><![CDATA[Angel Beats!]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>13</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>13</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Kanade Tachibana]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>9062</series_animedb_id>
+					<series_title><![CDATA[Angel Beats! Specials]]></series_title>
+					<series_type>Special</series_type>
+					<series_episodes>2</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>2</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Kanade Tachibana]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>14669</series_animedb_id>
+					<series_title><![CDATA[Aura: Maryuuin Kouga Saigo no Tatakai]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>1</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Ryouko Satou, [not sure IxTx]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>5081</series_animedb_id>
+					<series_title><![CDATA[Bakemonogatari]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>15</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>15</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Hitagi Senjougahara, [not sure IxTx] ]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>10396</series_animedb_id>
+					<series_title><![CDATA[Ben-To]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>12</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Sen Yarizui]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>31043</series_animedb_id>
+					<series_title><![CDATA[Boku dake ga Inai Machi]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Kayo Hinazuki, [not sure IxTx],[not sure about romance], [haven't watched]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>10719</series_animedb_id>
+					<series_title><![CDATA[Boku wa Tomodachi ga Sukunai]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>12</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[Yozora Mikazuki]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>14967</series_animedb_id>
+					<series_title><![CDATA[Boku wa Tomodachi ga Sukunai Next]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>12</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[Yozora Mikazuki]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>14027</series_animedb_id>
+					<series_title><![CDATA[Boku wa Tomodachi ga Sukunai: Relay Shousetsu wa Ketsumatsu ga Hanpanai]]></series_title>
+					<series_type>OVA</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>1</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[Yozora Mikazuki]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>21405</series_animedb_id>
+					<series_title><![CDATA[Bokura wa Minna Kawaisou]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>12</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Ritsu Kawai]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>24913</series_animedb_id>
+					<series_title><![CDATA[Bokura wa Minna Kawaisou: Hajimete no]]></series_title>
+					<series_type>Special</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>1</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Ritsu Kawai]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>1575</series_animedb_id>
+					<series_title><![CDATA[Code Geass: Hangyaku no Lelouch]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>25</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, C.C., [not sure IxTx], [not sure about romance]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>5941</series_animedb_id>
+					<series_title><![CDATA[Cross Game]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>50</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>50</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Aoba Tsukishima, [not sure IxTx]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>20031</series_animedb_id>
+					<series_title><![CDATA[D-Frag!]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>12</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Roka Shibasaki, [not sure IxTx]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>23383</series_animedb_id>
+					<series_title><![CDATA[D-Frag! OVA]]></series_title>
+					<series_type>OVA</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>1</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Roka Shibasaki, [not sure IxTx]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>32189</series_animedb_id>
+					<series_title><![CDATA[Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Kyouko Kirigiri, [haven't watched]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>16592</series_animedb_id>
+					<series_title><![CDATA[Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>13</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>13</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡,  Kyouko Kirigiri, [romance is in sequels]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>2025</series_animedb_id>
+					<series_title><![CDATA[Darker than Black: Kuro no Keiyakusha]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>25</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>25</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Yin, [not sure about romance], [may be romance is in sequels], [though she does not have much story time]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>7338</series_animedb_id>
+					<series_title><![CDATA[Darker than Black: Kuro no Keiyakusha Gaiden]]></series_title>
+					<series_type>Special</series_type>
+					<series_episodes>4</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Yin, [not sure about romance],[haven't watched]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>4182</series_animedb_id>
+					<series_title><![CDATA[Darker than Black: Kuro no Keiyakusha Special]]></series_title>
+					<series_type>Special</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>1</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Yin, [not sure about romance], [may be romance is in sequels]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>9379</series_animedb_id>
+					<series_title><![CDATA[Denpa Onna to Seishun Otoko]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>12</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Erio Touwa, [not sure IxTx]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>10638</series_animedb_id>
+					<series_title><![CDATA[Denpa Onna to Seishun Otoko Special]]></series_title>
+					<series_type>Special</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>1</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Erio Touwa, [not sure IxTx]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>5177</series_animedb_id>
+					<series_title><![CDATA[Denpa-teki na Kanojo]]></series_title>
+					<series_type>OVA</series_type>
+					<series_episodes>2</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>2</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Ame Ochibana]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>28121</series_animedb_id>
+					<series_title><![CDATA[Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>13</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>13</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Ais Wallenstein, [looks like she isn't the main lead]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>32801</series_animedb_id>
+					<series_title><![CDATA[Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka OVA]]></series_title>
+					<series_type>OVA</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>1</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Ais Wallenstein, [looks like she isn't the main lead]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>1250</series_animedb_id>
+					<series_title><![CDATA[Erementar Gerad]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>26</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Reverie Metherlence, [not sure IxTx], [not sure about romance], [haven't watched]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>356</series_animedb_id>
+					<series_title><![CDATA[Fate/stay night]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>24</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[Saber, [not sure IxTx], [haven't watched]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>227</series_animedb_id>
+					<series_title><![CDATA[FLCL]]></series_title>
+					<series_type>OVA</series_type>
+					<series_episodes>6</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>6</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Eri Ninamori, [not sure IxTx]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>28907</series_animedb_id>
+					<series_title><![CDATA[Gate: Jieitai Kanochi nite, Kaku Tatakaeri]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>12</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[Lelei la Lalena]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>31637</series_animedb_id>
+					<series_title><![CDATA[Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>12</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[Lelei la Lalena]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>8425</series_animedb_id>
+					<series_title><![CDATA[Gosick]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>24</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Victorique de Blois]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>10793</series_animedb_id>
+					<series_title><![CDATA[Guilty Crown]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>22</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Inori Yuzuriha, [not sure IxTx],
+ [not sure about romance], [haven't watched]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>3299</series_animedb_id>
+					<series_title><![CDATA[H2O: Footprints in the Sand]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Hayami Kohinata, [not sure IxTx]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>15225</series_animedb_id>
+					<series_title><![CDATA[Hentai Ouji to Warawanai Neko.]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>12</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Tsukiko Tsutsukakushi]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>11617</series_animedb_id>
+					<series_title><![CDATA[High School DxD]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[Koneko Toujou]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>11013</series_animedb_id>
+					<series_title><![CDATA[Inu x Boku SS]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Ririchiyo Shirakiin]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>10568</series_animedb_id>
+					<series_title><![CDATA[Kamisama no Memochou]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[Yuuko Shionji, [not sure IxTx]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>2593</series_animedb_id>
+					<series_title><![CDATA[Kara no Kyoukai 1: Fukan Fuukei]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>1</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Shiki Ryougi, [not sure about romance]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>3782</series_animedb_id>
+					<series_title><![CDATA[Kara no Kyoukai 2: Satsujin Kousatsu (Zen)]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Shiki Ryougi, [haven't watched]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>6045</series_animedb_id>
+					<series_title><![CDATA[Kimi ni Todoke]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>25</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Sawako Kuronuma, [not sure IxTx], [She is more like chimera than IxTx but still is closer to IxTx. Also characters seem to be a bit stupid. But funny anyway]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>2927</series_animedb_id>
+					<series_title><![CDATA[Kimikiss Pure Rouge]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>24</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>24</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Eriko Futami]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>11887</series_animedb_id>
+					<series_title><![CDATA[Kokoro Connect]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>13</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>13</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, 👊, Himeko Inaba]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>16001</series_animedb_id>
+					<series_title><![CDATA[Kokoro Connect: Michi Random]]></series_title>
+					<series_type>Special</series_type>
+					<series_episodes>4</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>4</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, 👊, Himeko Inaba]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>8841</series_animedb_id>
+					<series_title><![CDATA[Kore wa Zombie Desu ka?]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>12</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Eucliwood Hellscythe]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>10790</series_animedb_id>
+					<series_title><![CDATA[Kore wa Zombie Desu ka? of the Dead]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>10</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>10</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Eucliwood Hellscythe]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>15437</series_animedb_id>
+					<series_title><![CDATA[Kore wa Zombie Desu ka? of the Dead OVA]]></series_title>
+					<series_type>OVA</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>1</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Eucliwood Hellscythe]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>10209</series_animedb_id>
+					<series_title><![CDATA[Kore wa Zombie Desu ka? OVA]]></series_title>
+					<series_type>OVA</series_type>
+					<series_episodes>2</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>2</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Eucliwood Hellscythe]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>10456</series_animedb_id>
+					<series_title><![CDATA[Kyoukaisenjou no Horizon]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>13</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡,Horizon Ariadust, [not sure IxTx],[not sure about romance], [haven't watched]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>14349</series_animedb_id>
+					<series_title><![CDATA[Little Witch Academia]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>1</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[Sucy Manbavaran]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>33489</series_animedb_id>
+					<series_title><![CDATA[Little Witch Academia (TV)]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>25</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>25</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[Sucy Manbavaran]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>19489</series_animedb_id>
+					<series_title><![CDATA[Little Witch Academia: Mahoujikake no Parade]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>1</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[Sucy Manbavaran]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>17265</series_animedb_id>
+					<series_title><![CDATA[Log Horizon]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>25</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>25</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Akatsuki, [not sure IxTx], akatsukishiroe.wordpress.com]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>23321</series_animedb_id>
+					<series_title><![CDATA[Log Horizon 2nd Season]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>25</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>25</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Akatsuki, [not sure IxTx], akatsukishiroe.wordpress.com]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>23945</series_animedb_id>
+					<series_title><![CDATA[Majimoji Rurumo]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Rurumo Maji Mojiruka, [not sure IxTx], [haven't watched]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>10110</series_animedb_id>
+					<series_title><![CDATA[Mayo Chiki!]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>13</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>13</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Subaru Konoe, [not sure IxTx]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>17074</series_animedb_id>
+					<series_title><![CDATA[Monogatari Series: Second Season]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>26</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>26</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Hitagi Senjougahara, [not sure IxTx]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>2926</series_animedb_id>
+					<series_title><![CDATA[Myself; Yourself]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>13</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Nanaka Yatsushiro, [not sure IxTx]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>26351</series_animedb_id>
+					<series_title><![CDATA[Nagato Yuki-chan no Shoushitsu]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>16</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Yuki Nagato, [not sure IxTx], [not sure about romance]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>12467</series_animedb_id>
+					<series_title><![CDATA[Nazo no Kanojo X]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>13</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>13</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Mikoto Urabe]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>13093</series_animedb_id>
+					<series_title><![CDATA[Nazo no Kanojo X: Nazo no Natsu Matsuri]]></series_title>
+					<series_type>OVA</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>1</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Mikoto Urabe]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>30</series_animedb_id>
+					<series_title><![CDATA[Neon Genesis Evangelion]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>26</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[Rei Ayanami]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>19815</series_animedb_id>
+					<series_title><![CDATA[No Game No Life]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>12</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[Shiro]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>17549</series_animedb_id>
+					<series_title><![CDATA[Non Non Biyori]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[Renge Miyauchi]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>18095</series_animedb_id>
+					<series_title><![CDATA[Nourin]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Ringo Kinoshita, [not sure IxTx]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>8769</series_animedb_id>
+					<series_title><![CDATA[Ore no Imouto ga Konnani Kawaii Wake ga Nai]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Ruri Gokou, [not sure IxTx], [haven't watched]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>19221</series_animedb_id>
+					<series_title><![CDATA[Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>10</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>10</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, 👊, (a bit 👊), Furano Yukihira, [Aggressive. But aggression is kinda fake: she does not use it to force her will]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>20939</series_animedb_id>
+					<series_title><![CDATA[Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru OVA]]></series_title>
+					<series_type>OVA</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>1</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, 👊, (a bit 👊), Furano Yukihira, ]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>853</series_animedb_id>
+					<series_title><![CDATA[Ouran Koukou Host Club]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>26</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>26</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Haruhi Fujioka]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>1943</series_animedb_id>
+					<series_title><![CDATA[Paprika]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>1</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Atsuko Chiba, [small story of side characters actually]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>31240</series_animedb_id>
+					<series_title><![CDATA[Re:Zero kara Hajimeru Isekai Seikatsu]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>25</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[Rem, [not sure IxTx]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>30015</series_animedb_id>
+					<series_title><![CDATA[ReLIFE]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>13</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>13</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Chizuru Hishiro]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>28497</series_animedb_id>
+					<series_title><![CDATA[Rokka no Yuusha]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Fremy Speeddraw]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>13759</series_animedb_id>
+					<series_title><![CDATA[Sakurasou no Pet na Kanojo]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>24</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Mashiro Shiina]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>22663</series_animedb_id>
+					<series_title><![CDATA[Seiken Tsukai no World Break]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Shizuno Urushibara, [not sure IxTx], [not sure about romance]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>16498</series_animedb_id>
+					<series_title><![CDATA[Shingeki no Kyojin]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>25</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>25</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Mikasa Ackerman, [may be romance in the sequel]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>25777</series_animedb_id>
+					<series_title><![CDATA[Shingeki no Kyojin Season 2]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>12</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Mikasa Ackerman, [not sure about romance], [haven't watched]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>5958</series_animedb_id>
+					<series_title><![CDATA[Sora no Otoshimono]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>13</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Ikaros, [not sure IxTx], [not sure about romance]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>9253</series_animedb_id>
+					<series_title><![CDATA[Steins;Gate]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>24</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>24</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Kurisu Makise, [not sure IxTx]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>10863</series_animedb_id>
+					<series_title><![CDATA[Steins;Gate: Oukoubakko no Poriomania]]></series_title>
+					<series_type>Special</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>1</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Kurisu Makise, [not sure IxTx]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>7311</series_animedb_id>
+					<series_title><![CDATA[Suzumiya Haruhi no Shoushitsu]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>1</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[Yuki Nagato]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>849</series_animedb_id>
+					<series_title><![CDATA[Suzumiya Haruhi no Yuuutsu]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>14</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>14</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[Yuki Nagato]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>4382</series_animedb_id>
+					<series_title><![CDATA[Suzumiya Haruhi no Yuuutsu (2009)]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>14</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>14</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[Yuki Nagato]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>14227</series_animedb_id>
+					<series_title><![CDATA[Tonari no Kaibutsu-kun]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>13</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>13</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Shizuku Mizutani]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>2129</series_animedb_id>
+					<series_title><![CDATA[True Tears]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>13</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Hiromi Yuasa, [not sure IxTx]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>34902</series_animedb_id>
+					<series_title><![CDATA[Tsurezure Children]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>0</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Watching</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Chizuru Takano, Fuyumi Toda, others]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>16742</series_animedb_id>
+					<series_title><![CDATA[Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[Tomoko Kuroki, [not sure IxTx]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>18245</series_animedb_id>
+					<series_title><![CDATA[White Album 2]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>13</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Kazusa Touma]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>21085</series_animedb_id>
+					<series_title><![CDATA[Witch Craft Works]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Ayaka Kagari]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>7</series_animedb_id>
+					<series_title><![CDATA[Witch Hunter Robin]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>26</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Robin Sena, [not sure IxTx]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>14813</series_animedb_id>
+					<series_title><![CDATA[Yahari Ore no Seishun Love Comedy wa Machigatteiru.]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>13</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>13</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Yukino Yukinoshita]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>18753</series_animedb_id>
+					<series_title><![CDATA[Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA]]></series_title>
+					<series_type>OVA</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>1</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Yukino Yukinoshita]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>23847</series_animedb_id>
+					<series_title><![CDATA[Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>13</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>13</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Yukino Yukinoshita]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>28677</series_animedb_id>
+					<series_title><![CDATA[Yamada-kun to 7-nin no Majo (TV)]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>12</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Urara Shiraishi]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>7785</series_animedb_id>
+					<series_title><![CDATA[Yojouhan Shinwa Taikei]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>11</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>11</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Akashi, [though she does not have much story time]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>35507</series_animedb_id>
+					<series_title><![CDATA[Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV)]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>0</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Watching</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[Suzune Horikita]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+			</myanimelist>
+			

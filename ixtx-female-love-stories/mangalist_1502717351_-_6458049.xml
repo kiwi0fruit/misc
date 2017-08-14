@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	
+	<!--
+	 Created by XML Export feature at MyAnimeList.net
+	 Programmed by Xinil
+	 Last updated 5/27/2008
+	-->
+	
+	<myanimelist>
+	
+		<myinfo>
+			<user_id>6458049</user_id>
+			<user_name>ixtx</user_name>
+			<user_export_type>2</user_export_type>
+			<user_total_manga>40</user_total_manga>
+			<user_total_reading>0</user_total_reading>
+			<user_total_completed>18</user_total_completed>
+			<user_total_onhold>0</user_total_onhold>
+			<user_total_dropped>22</user_total_dropped>
+			<user_total_plantoread>0</user_total_plantoread>
+		</myinfo>
+	
+	
+				<manga>
+					<manga_mangadb_id>51025</manga_mangadb_id>
+					<manga_title><![CDATA[Absolute Duo]]></manga_title>
+					<manga_volumes>0</manga_volumes>
+					<manga_chapters>0</manga_chapters>
+					<my_id>61047389</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡,Julie Sigtuna]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>17775</manga_mangadb_id>
+					<manga_title><![CDATA[Acchi Kocchi]]></manga_title>
+					<manga_volumes>0</manga_volumes>
+					<manga_chapters>0</manga_chapters>
+					<my_id>61047413</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡,Tsumiki Miniwa]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>63579</manga_mangadb_id>
+					<manga_title><![CDATA[Aizawa-san Zoushoku]]></manga_title>
+					<manga_volumes>5</manga_volumes>
+					<manga_chapters>39</manga_chapters>
+					<my_id>61047416</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡,Shino Aizawa,[not sure IxTx]]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>63535</manga_mangadb_id>
+					<manga_title><![CDATA[Amaama to Inazuma]]></manga_title>
+					<manga_volumes>0</manga_volumes>
+					<manga_chapters>0</manga_chapters>
+					<my_id>61047422</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡,Kotori Iida,[not sure IxTx], [anime ends at vol.4 ch.19]]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>98104</manga_mangadb_id>
+					<manga_title><![CDATA[Boku no Kanojo ga Majimesugiru Shojo Bitch na Ken]]></manga_title>
+					<manga_volumes>0</manga_volumes>
+					<manga_chapters>0</manga_chapters>
+					<my_id>61047424</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡,Akiho Kousaka,[not sure IxTx]]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>26769</manga_mangadb_id>
+					<manga_title><![CDATA[Bokura wa Minna Kawaisou]]></manga_title>
+					<manga_volumes>0</manga_volumes>
+					<manga_chapters>0</manga_chapters>
+					<my_id>61047345</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡,Ritsu Kawai, [anime ends at vol.3 ch.28 + ch.34-36]]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>103890</manga_mangadb_id>
+					<manga_title><![CDATA[Bokutachi wa Benkyou ga Dekinai]]></manga_title>
+					<manga_volumes>0</manga_volumes>
+					<manga_chapters>0</manga_chapters>
+					<my_id>61047238</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡, Rizu Ogata, [unlikely to be the main lead]]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>41</manga_mangadb_id>
+					<manga_title><![CDATA[Busou Renkin]]></manga_title>
+					<manga_volumes>10</manga_volumes>
+					<manga_chapters>83</manga_chapters>
+					<my_id>61047432</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡,Tokiko Tsumura,[not sure IxTx], [not sure about romance], [haven't read]]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>14721</manga_mangadb_id>
+					<manga_title><![CDATA[D-Frag!]]></manga_title>
+					<manga_volumes>0</manga_volumes>
+					<manga_chapters>0</manga_chapters>
+					<my_id>61047241</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡, Roka Shibasaki,[not sure IxTx], [anime ends at vol.4 ch.36]]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>21555</manga_mangadb_id>
+					<manga_title><![CDATA[Denpa Onna to Seishun Otoko]]></manga_title>
+					<manga_volumes>9</manga_volumes>
+					<manga_chapters>0</manga_chapters>
+					<my_id>61047437</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡,Erio Touwa,[not sure IxTx] ]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>21729</manga_mangadb_id>
+					<manga_title><![CDATA[Fujimura-kun Mates]]></manga_title>
+					<manga_volumes>8</manga_volumes>
+					<manga_chapters>97</manga_chapters>
+					<my_id>61047441</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡,Eriko Usami,[not sure IxTx]]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>15578</manga_mangadb_id>
+					<manga_title><![CDATA[GE: Good Ending]]></manga_title>
+					<manga_volumes>16</manga_volumes>
+					<manga_chapters>158</manga_chapters>
+					<my_id>61293049</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[Yuki Kurokawa,[not sure IxTx]]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>45275</manga_mangadb_id>
+					<manga_title><![CDATA[Girls of the Wild's]]></manga_title>
+					<manga_volumes>0</manga_volumes>
+					<manga_chapters>260</manga_chapters>
+					<my_id>61047448</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡,In Gyi Yoon, [not sure IxTx],[not sure about romance], [haven't read]]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>70345</manga_mangadb_id>
+					<manga_title><![CDATA[Grand Blue]]></manga_title>
+					<manga_volumes>0</manga_volumes>
+					<manga_chapters>0</manga_chapters>
+					<my_id>61047253</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡, Chisa Kotegawa, [no romance
+ yet]]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>52741</manga_mangadb_id>
+					<manga_title><![CDATA[Hadi Girl]]></manga_title>
+					<manga_volumes>5</manga_volumes>
+					<manga_chapters>30</manga_chapters>
+					<my_id>61047307</my_id>
+					<my_read_volumes>5</my_read_volumes>
+					<my_read_chapters>30</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡, Sae Kagura,[not sure IxTx] ]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>87466</manga_mangadb_id>
+					<manga_title><![CDATA[Henjo: Hen na Joshikousei Amaguri Chiko]]></manga_title>
+					<manga_volumes>0</manga_volumes>
+					<manga_chapters>0</manga_chapters>
+					<my_id>61047258</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡, Senko Amaguri]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>44501</manga_mangadb_id>
+					<manga_title><![CDATA[High Score Girl]]></manga_title>
+					<manga_volumes>0</manga_volumes>
+					<manga_chapters>0</manga_chapters>
+					<my_id>61047265</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡, 👊, Akira Oono]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>90125</manga_mangadb_id>
+					<manga_title><![CDATA[Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen]]></manga_title>
+					<manga_volumes>0</manga_volumes>
+					<manga_chapters>0</manga_chapters>
+					<my_id>61047452</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡,Kaguya Shinomiya,[not sure IxTx]]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>105244</manga_mangadb_id>
+					<manga_title><![CDATA[Ki ni Naru Mori-san]]></manga_title>
+					<manga_volumes>1</manga_volumes>
+					<manga_chapters>12</manga_chapters>
+					<my_id>61047311</my_id>
+					<my_read_volumes>1</my_read_volumes>
+					<my_read_chapters>12</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡,Mori-san]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>44155</manga_mangadb_id>
+					<manga_title><![CDATA[Kimi wa Midara na Boku no Joou]]></manga_title>
+					<manga_volumes>0</manga_volumes>
+					<manga_chapters>0</manga_chapters>
+					<my_id>61047455</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡,Subaru Kawana,[not sure IxTx]]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>19980</manga_mangadb_id>
+					<manga_title><![CDATA[Koi dano Ai dano]]></manga_title>
+					<manga_volumes>11</manga_volumes>
+					<manga_chapters>46</manga_chapters>
+					<my_id>61047315</my_id>
+					<my_read_volumes>11</my_read_volumes>
+					<my_read_chapters>46</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡,Kanoko Naedoko]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>30315</manga_mangadb_id>
+					<manga_title><![CDATA[Last Game]]></manga_title>
+					<manga_volumes>11</manga_volumes>
+					<manga_chapters>66</manga_chapters>
+					<my_id>61047459</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡,Mikoto Kujou]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>21860</manga_mangadb_id>
+					<manga_title><![CDATA[Mayo Chiki!]]></manga_title>
+					<manga_volumes>7</manga_volumes>
+					<manga_chapters>40</manga_chapters>
+					<my_id>61047319</my_id>
+					<my_read_volumes>7</my_read_volumes>
+					<my_read_chapters>40</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡,Subaru Konoe, [not sure IxTx], [anime ends at vol.3 ch.19]]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>84339</manga_mangadb_id>
+					<manga_title><![CDATA[Mizutama Honey Boy]]></manga_title>
+					<manga_volumes>0</manga_volumes>
+					<manga_chapters>0</manga_chapters>
+					<my_id>61047468</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡,Mei Sengoku,[not sure IxTx]]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>1926</manga_mangadb_id>
+					<manga_title><![CDATA[Nazo no Kanojo X]]></manga_title>
+					<manga_volumes>12</manga_volumes>
+					<manga_chapters>96</manga_chapters>
+					<my_id>61047322</my_id>
+					<my_read_volumes>12</my_read_volumes>
+					<my_read_chapters>96</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡,Mikoto Urabe, [anime ends at vol.5 ch.36]]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>26566</manga_mangadb_id>
+					<manga_title><![CDATA[Not Lives]]></manga_title>
+					<manga_volumes>10</manga_volumes>
+					<manga_chapters>54</manga_chapters>
+					<my_id>61047476</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡,Kyouka Amamiya, [not sure about romance]]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>30</manga_mangadb_id>
+					<manga_title><![CDATA[Ouran Koukou Host Club]]></manga_title>
+					<manga_volumes>18</manga_volumes>
+					<manga_chapters>87</manga_chapters>
+					<my_id>61047482</my_id>
+					<my_read_volumes>18</my_read_volumes>
+					<my_read_chapters>87</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡,Haruhi Fujioka,[anime ends at vol.9 (let it be vol.8 ch.36.5). Some new stories start at vol.6 ch.21]]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>19358</manga_mangadb_id>
+					<manga_title><![CDATA[Ratman]]></manga_title>
+					<manga_volumes>12</manga_volumes>
+					<manga_chapters>65</manga_chapters>
+					<my_id>61047532</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡,Mirea Mizushima,[not sure IxTx], [not sure about romance], [haven't read]]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>78523</manga_mangadb_id>
+					<manga_title><![CDATA[ReLIFE]]></manga_title>
+					<manga_volumes>0</manga_volumes>
+					<manga_chapters>0</manga_chapters>
+					<my_id>61047271</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡, Chizuru Hishiro, [anime ends at ch.108~]]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>92182</manga_mangadb_id>
+					<manga_title><![CDATA[Seishun Buta Yarou wa Bunny Girl-senpai no Yume wo Minai]]></manga_title>
+					<manga_volumes>0</manga_volumes>
+					<manga_chapters>0</manga_chapters>
+					<my_id>61047537</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡,Mai Sakurajima, [not sure IxTx], ,[haven't read]]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>26404</manga_mangadb_id>
+					<manga_title><![CDATA[Seishun Forget!]]></manga_title>
+					<manga_volumes>4</manga_volumes>
+					<manga_chapters>20</manga_chapters>
+					<my_id>61047543</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡,Hinata Kokage]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>39327</manga_mangadb_id>
+					<manga_title><![CDATA[Seitokai Tantei Kirika]]></manga_title>
+					<manga_volumes>9</manga_volumes>
+					<manga_chapters>43</manga_chapters>
+					<my_id>61047282</my_id>
+					<my_read_volumes>9</my_read_volumes>
+					<my_read_chapters>43</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡, Kirika Hijiribashi]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>98971</manga_mangadb_id>
+					<manga_title><![CDATA[Suki x Suki]]></manga_title>
+					<manga_volumes>2</manga_volumes>
+					<manga_chapters>23</manga_chapters>
+					<my_id>61047285</my_id>
+					<my_read_volumes>2</my_read_volumes>
+					<my_read_chapters>23</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡,Touka Aizuki, [not sure IxTx]]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>92149</manga_mangadb_id>
+					<manga_title><![CDATA[Tomo-chan wa Onnanoko!]]></manga_title>
+					<manga_volumes>0</manga_volumes>
+					<manga_chapters>0</manga_chapters>
+					<my_id>61292550</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[Misuzu Gundou]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>13702</manga_mangadb_id>
+					<manga_title><![CDATA[Tonari no Kaibutsu-kun]]></manga_title>
+					<manga_volumes>13</manga_volumes>
+					<manga_chapters>55</manga_chapters>
+					<my_id>61047548</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡,Shizuku Mizutani, [anime ends at vol.4 ch.16]]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>58027</manga_mangadb_id>
+					<manga_title><![CDATA[Tsurezure Children]]></manga_title>
+					<manga_volumes>0</manga_volumes>
+					<manga_chapters>0</manga_chapters>
+					<my_id>61047292</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡,Chizuru Takano, Fuyumi Toda, others]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>10412</manga_mangadb_id>
+					<manga_title><![CDATA[Warau Kanoko-sama]]></manga_title>
+					<manga_volumes>3</manga_volumes>
+					<manga_chapters>15</manga_chapters>
+					<my_id>61047329</my_id>
+					<my_read_volumes>3</my_read_volumes>
+					<my_read_chapters>15</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡,Kanoko Naedoko]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>13463</manga_mangadb_id>
+					<manga_title><![CDATA[Watashi ni xx Shinasai!]]></manga_title>
+					<manga_volumes>19</manga_volumes>
+					<manga_chapters>82</manga_chapters>
+					<my_id>61047550</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡,Yukina Himuro,[not sure IxTx]]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>40171</manga_mangadb_id>
+					<manga_title><![CDATA[Yahari Ore no Seishun Love Comedy wa Machigatteiru.]]></manga_title>
+					<manga_volumes>0</manga_volumes>
+					<manga_chapters>0</manga_chapters>
+					<my_id>61047349</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡, Yukino Yukinoshita]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>18204</manga_mangadb_id>
+					<manga_title><![CDATA[Zettai†Joousei]]></manga_title>
+					<manga_volumes>2</manga_volumes>
+					<manga_chapters>13</manga_chapters>
+					<my_id>61047340</my_id>
+					<my_read_volumes>2</my_read_volumes>
+					<my_read_chapters>13</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡,Shia Arisugawa,[not sure IxTx]]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+		</myanimelist>
+		
