@@ -1,6 +1,6 @@
 [IxTx list]
 ================================
-This is a special MAL profile that contains anime, manga and LN with:
+This is a special MAL profile https://myanimelist.net/profile/ixtx that contains anime, manga and LN with:
 
 1) romance with IxTx females (♡ tag).
 2) or when IxTx is one of the main characters.
