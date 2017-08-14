@@ -17,7 +17,7 @@ And togeter (IxTx) it's a smart and reserved personality, sometimes it's a shy p
 
 ***So the criteria is actually IxTx.***
 
-List of anime, manga, movies, books, TV series & comics is in this **[special MAL profile](https://myanimelist.net/profile/ixtx)**.
+List of anime, manga, movies, books, TV series & comics with IxTx romance is in this **[special MAL profile](https://myanimelist.net/profile/ixtx)**.
 
 ### UPD
 
