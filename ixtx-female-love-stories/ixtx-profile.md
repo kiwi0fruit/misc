@@ -35,5 +35,6 @@ I've read/watched "completed" media. I've dropped or haven't even started "dropp
 a) There are some tags (soc tag) for other MBTI types in this MAL: https://myanimelist.net/profile/kiwi0fruit
 
 b) There are some interesting male characters with INTx personality traits:
+
 1. Jonathan Strange & Mr Norrell (2015) [TV series] - Mr Norrell [No love story, only good friendship story but it deserves mentioning because this kind of personality is so rare in movies.]
 2. Salmon Fishing in the Yemen (2011) [movie] - Alfred Jones [Asperger's actually]
