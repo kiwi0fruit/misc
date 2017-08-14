@@ -10,9 +10,7 @@ Please note that Tumblr markdown engine isn't LaTeX aware so you cannot use `\\`
 # IxTx, introverted and logical female love stories
 
 - [Anime BBCode version](ixtx-female-love-stories/bbcode.txt) ([Markdown -> BBCode](http://feralhosting.github.io))
-- [Anime version](ixtx-female-love-stories/anime.md) **Kuudere, dandere, introverted and logical female love stories**
-- [Manga version](ixtx-female-love-stories/manga.md)
-- [Movie version](ixtx-female-love-stories/movie.md) **Emotionless girls, introverted and logical female love stories**
+- [Markdown version](ixtx-female-love-stories/reddit_1.md) **Kuudere, dandere, introverted and logical female love stories**, **Emotionless girls, introverted and logical female love stories**
 
 Crossposts to: [myanimelist.net/forum/?topicid=1459621](https://myanimelist.net/forum/?topicid=1459621#msg50058937), [reddit.com/r/anime/60ffp8](https://www.reddit.com/r/anime/comments/60ffp8/kuudere_dandere_introverted_and_logical_female/), [reddit.com/r/Animesuggest/60lwpx](https://www.reddit.com/r/Animesuggest/comments/60lwpx/kuudere_dandere_introverted_and_logical_female/), [reddit.com/r/mbti/64dosf](https://www.reddit.com/r/mbti/comments/64dosf/ixtx_introverted_and_logical_female_love_stories/), [reddit.com/r/INTP/64dqne](https://www.reddit.com/r/INTP/comments/64dqne/ixtx_introverted_and_logical_female_love_stories/), [reddit.com/r/MovieSuggestions/64i155](https://www.reddit.com/r/MovieSuggestions/comments/64i155/emotionless_girls_introverted_and_logical_female/), [reddit.com/r/manga/66nqpc](https://www.reddit.com/r/manga/comments/66nqpc/kuudere_dandere_introverted_and_logical_female/).
 
