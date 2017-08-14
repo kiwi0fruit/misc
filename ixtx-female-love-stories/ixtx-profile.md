@@ -5,7 +5,7 @@ This is a special MAL profile https://myanimelist.net/profile/ixtx that contains
 1) romance with IxTx females (♡ tag).
 2) or when IxTx is one of the main characters.
 
-IxTx personality is like kuuderes or not very emotional danderes. See MBTI for more details or in this text: https://github.com/kiwi0fruit/misc/blob/master/ixtx-female-love-stories/movie.md
+IxTx personality is like kuuderes or not very emotional danderes. See MBTI for more details or in this text: https://github.com/kiwi0fruit/misc/blob/master/ixtx-female-love-stories/reddit_1.md
 
 👊 tag marks IxTx that are violent/agressive or something like that.
 
