@@ -1,5 +1,7 @@
 # Princess Mononoke
 
+(1997, Hayao Miyazaki)
+
 The picture of hatred between sides that have their own truth is astonishing. Together with the successful fight with inner hatred. Pictures of the cursed god that visualize hatred are also astonishing. This is also my second anime after Paprika by Kon.
 
 # PS
