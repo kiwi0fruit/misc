@@ -2,9 +2,9 @@
 
 The picture of hatred between sides that have their own truth is astonishing. Together with the successful fight with inner hatred. Pictures of the cursed god that visualize hatred are also astonishing. This is also my second anime after Paprika by Kon.
 
-[From my original comment](http://www.crunchyroll.com/forumtopic-963547/top-5-ghibli-films#55376983):
+# PS
 
-I've watched almost all of Ghibli movies. My top 5:
+[From my original comment](http://www.crunchyroll.com/forumtopic-963547/top-5-ghibli-films#55376983): I've watched almost all of Ghibli movies. My top 5:
 
 1. Princess Mononoke
 2. The Wind Rises
