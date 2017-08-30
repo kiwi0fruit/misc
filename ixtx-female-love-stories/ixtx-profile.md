@@ -16,6 +16,9 @@ I've read/watched "completed" media. I've dropped or haven't even started "dropp
 ================================
 1. https://myanimelist.net/animelist/ixtx
 2. https://myanimelist.net/mangalist/ixtx
+3. Some media that I watched but haven't added the the lists above:  
+https://myanimelist.net/animelist/kiwi0fruit?status=7&tag=2list  
+https://myanimelist.net/mangalist/kiwi0fruit?status=7&tag=2list
 
 
 [Movies and TV series with IxTx female characters]
