@@ -1,3 +1,7 @@
+# Kiwi0Fruit's translit
+
+## Yet another one Russian to Latin translit
+
 Придумал зачем-то еще один транслит. При этом он:
 
 * взаимооднозначный для обычных русских слов,
@@ -9,19 +13,19 @@
 
 | - | -  | - |
 |---|----|---|
-| ё | jo |   |
+| ё | jo | jozh/ёж |
 | ж | zh | jozh/ёж |
-| й | јh | belyjh/белый   jhod/йод |
-| х | kh | khokhol/хохол |
+| й | јh/j | belyj/белый   jhod/йод |
+| х | kh/h | hohol/хохол (когда вокруг гласные)  skhomjachitw/схомячить |
 | ц | c  | civilizacija/цивилизация |
 | ч | ch | chernyjh/черный   schjotnaja/счётная |
-| ш | sh | |
+| ш | sh | shlem/шлем |
 | щ | shh | shhupalwca/щупальца |
 | ъ | j  | izjjan/изъян   objekt/объект |
-| ы | y  | |	
+| ы | y  | kryska/крыска |	
 | ь | w  | kamenw/камень   berechwsja/беречься |
 | э | eh | ehkran/экран |
-| ю | ju | |
+| ю | ju | Julja/Юля |
 | я | ja | Izja/Изя |
 | а | a | |
 | б | b | |
