@@ -43,3 +43,7 @@ Archive markdown code for posts from [Open letter blog](http://zagubisalo.tumblr
 
 **This is outdated version!**  
 For latest version see [github.com/kiwi0fruit/ultimate-question](https://github.com/kiwi0fruit/ultimate-question).
+
+# Yet another one Russian to Latin translit
+
+[Kiwi0Fruit's translit](translit.md)
