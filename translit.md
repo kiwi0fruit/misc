@@ -15,10 +15,10 @@
 |---|----|---|
 | ё | jo | jozh/ёж |
 | ж | zh | jozh/ёж |
-| й | јh/j | belyj/белый   jhod/йод |
+| й | јh/j | belyj/белый (когда в конце)   jhod/йод |
 | х | kh/h | hohol/хохол (когда вокруг гласные)  skhomjachitw/схомячить |
 | ц | c  | civilizacija/цивилизация |
-| ч | ch | chernyjh/черный   schjotnaja/счётная |
+| ч | ch | chernyj/черный   schjotnaja/счётная |
 | ш | sh | shlem/шлем |
 | щ | shh | shhupalwca/щупальца |
 | ъ | j  | izjjan/изъян   objekt/объект |
