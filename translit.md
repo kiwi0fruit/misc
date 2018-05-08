@@ -20,7 +20,7 @@
 | ц | c  | civilizacija/цивилизация |
 | ч | ch | chernyj/черный   schjotnaja/счётная |
 | ш | sh | shlem/шлем |
-| щ | shh | shhupal_j_ca/щупальца   pomoshhw/помощь |
+| щ | shh | shhupal_j_ca/щупальца   pomoshh_j/помощь |
 | ъ | j/\_h\_ | izjjan/изъян   objekt/объект (j только перед гласными е, ё, я, ю)   Chan_h_an_j/Чанъань   Mu_h_minat/Муъминат   on_h/онъ (\_h\_ в остальных странных случаях) |
 | ы | y  | kryska/крыска |	
 | ь | \_j\_/' | den_j__noch_j/den'_noch'/день_ночь   berech_j_sja/berech'sja/беречься |
