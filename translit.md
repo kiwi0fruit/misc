@@ -20,7 +20,7 @@
 | ц | c  | civilizacija/цивилизация |
 | ч | ch | chernyj/черный   schjotnaja/счётная |
 | ш | sh | shlem/шлем |
-| щ | shw | shwupalwca/щупальца   shwwevr/щьевр |
+| щ | shh | shhupalwca/щупальца   pomoshhw/помощь |
 | ъ | j/x | izjjan/изъян   objekt/объект (только перед гласными е, ё, я, ю)   Chanxanw/Чанъань   Muxminat/Муъминат   onx/онъ (остальные странные случаи) |
 | ы | y  | kryska/крыска |	
 | ь | w  | kamenw/камень   berechwsja/беречься |
