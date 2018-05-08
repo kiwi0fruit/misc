@@ -21,7 +21,7 @@
 | ч | ch | chernyj/черный   schjotnaja/счётная |
 | ш | sh | shlem/шлем |
 | щ | shh | shhupalwca/щупальца   pomoshhw/помощь |
-| ъ | j/_h_ | izjjan/изъян   objekt/объект (только перед гласными е, ё, я, ю)   Chan_h_anw/Чанъань   Mu_h_minat/Муъминат   on_h/онъ (остальные странные случаи) |
+| ъ | j/`_h_` | izjjan/изъян   objekt/объект (только перед гласными е, ё, я, ю)   Chan_h_anw/Чанъань   Mu_h_minat/Муъминат   on_h/онъ (остальные странные случаи) |
 | ы | y  | kryska/крыска |	
 | ь | w  | kamenw/камень   berechwsja/беречься |
 | э | eh | ehkran/экран |
