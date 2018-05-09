@@ -70,12 +70,12 @@
     * ь после согласной (но не й) → j
     * ь в остальных случаях → \_j\_
 
-    |                           |                        |                                       |                            |
-    |:-------------------------:|:----------------------:|:-------------------------------------:|:--------------------------:|
-    |             й             |           х            |                   ъ                   |             ь              |
-    |          јh / j           |         kh / h         |              jj / \_h\_               |         j / \_j\_          |
-    |         jhod/йод          | skhomjachitj/схомячить |    izjjjan/изъян, podjjjom/подъём     |    berechjsja/беречься     |
-    |   belyj/белый, moj/мой    |   mekh/мех, mehr/мэр   |       objjekt/объект, onjj/онъ        |        pjesa/пьеса         |
-    |        jippi/йиппи        |    hoholok/хохолок     |  Chan_h_anj/Чанъань, chanjjin/чанъин  |        perjja/перья        |
-    |     jes/йес, jjas/йяс     |  ehkho/эхо, ehon/эон   | Mu_h_minat/Муъминат, murjjmin/муръмин | konj/конь, pomoshhj/помощь |
-    | arjhes/арйес, аrjhja/арйя |                        |  murjjjhin/муръйин, murjjhin/мурьйин  |  \_j\_/ь, \_\_j\_\_/\_ь\_  |
+|                           |                        |                                       |                            |
+|:-------------------------:|:----------------------:|:-------------------------------------:|:--------------------------:|
+|             й             |           х            |                   ъ                   |             ь              |
+|          јh / j           |         kh / h         |              jj / \_h\_               |         j / \_j\_          |
+|         jhod/йод          | skhomjachitj/схомячить |    izjjjan/изъян, podjjjom/подъём     |    berechjsja/беречься     |
+|   belyj/белый, moj/мой    |   mekh/мех, mehr/мэр   |       objjekt/объект, onjj/онъ        |        pjesa/пьеса         |
+|        jippi/йиппи        |    hoholok/хохолок     |  Chan_h_anj/Чанъань, chanjjin/чанъин  |        perjja/перья        |
+|     jes/йес, jjas/йяс     |  ehkho/эхо, ehon/эон   | Mu_h_minat/Муъминат, murjjmin/муръмин | konj/конь, pomoshhj/помощь |
+| arjhes/арйес, аrjhja/арйя |                        |  murjjjhin/муръйин, murjjhin/мурьйин  |  \_j\_/ь, \_\_j\_\_/\_ь\_  |
