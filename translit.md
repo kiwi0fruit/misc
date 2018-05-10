@@ -110,4 +110,4 @@
 |   belyj/белый, moj/мой    |   mekh/мех, mehr/мэр   |       objjekt/объект, on_h_/онъ       |        pjesa/пьеса         |
 |        jippi/йиппи        |    hoholok/хохолок     |  Chan_h_anj/Чанъань, chan_h_in/чанъин |        perjja/перья        |
 | jes/йес, jjas/йяс, jh_h_ig/йъиг |ehho/эхо, ehon/эон| Mu_h_minat/Муъминат, mur_h_min/муръмин| konj/конь, pomoshhj/помощь |
-| arjhes/арйес, аrjhja/арйя |                        | mur_h_jin/муръйин, mur_j_jin/мурьйин, murjin/мурьин, murjkhin/мурьхин, mur_h_hin/муръхин | \_j\_/ь, \_\_j\_\_/\_ь\_ |
+| arjhes/арйес, аrjhja/арйя |                        | mur_h_jin/муръйин, mur_h_hin/муръхин  | mur_j_jin/мурьйин, murjin/мурьин, murjkhin/мурьхин, \_j\_/ь, \_\_j\_\_/\_ь\_ |
