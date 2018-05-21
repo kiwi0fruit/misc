@@ -1,3 +1,5 @@
+Fixes [this](https://github.com/ContinuumIO/anaconda-issues/issues/1660).
+
 # Install
 
 Simply copy to `Scripts` folder of the env. Then activate env and:
