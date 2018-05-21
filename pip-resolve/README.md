@@ -10,9 +10,11 @@ pip install --ignore-installed setuptools
 
 # Usage
 
-`pip-resolve "module1 module2"`
+```
+pip-resolve "module1 module2"
+```
 
-Suppose pip-resolve found module3 and module4 version missmatch. Then:
+Suppose pip-resolve found `module3` and `module4` version missmatch. Then:
 
 ```
 call conda remove --force module3 module4
