@@ -1,7 +1,7 @@
 import os
 import re
 
-folder = os.environ['envcache']
+folder = os.environ['USERPROFILE']
 
 conda_file = os.path.join(folder, 'conda_list.txt')
 pip_file = os.path.join(folder, 'pip_list.txt')
