@@ -1,0 +1,297 @@
+
+// Default Markdown Preview Plus Plus styles
+
+// These are the default Markdown Preview styles.
+// They use the syntax-variables to adapt to the color scheme of syntax themes.
+
+  // Tested on *One Light* UI Theme and *Base16 Tomorrow Light* Syntax Theme.
+
+
+@import "syntax-variables";
+@import "custom-fonts.less";
+
+// Tweakable options ------------
+@text-width: 30em;
+@code-chunk-width: 42em;
+@mjx-mono-font-size: 95%;  // MathJax monospace font size (works only with Lattex Pandoc filter)
+@code-chunk-min-height: 1.5em; // fixes absent empty lines "bug" in code chunks (exported HTML only)
+@link-color: #4183c4;
+@quote-bar-color: #e1e1e1;
+@header-width: 150mm;
+@line-height: 1.5;
+@code-line-height: 1.7;
+
+
+.markdown-preview:not([data-use-github-style]) {
+
+  // Fonts ----------------------------
+
+    // Fonts: Sizes -------------------
+  font-size: @main-font-size;
+  pre, code, atom-text-editor, kbd {
+    font-size: @mono-font-size;
+  }
+
+    // Fonts: Other -------------------
+  line-height: @line-height;
+  font-family: @main-font-family;
+  pre, code, atom-text-editor, kbd {
+    font-family: @mono-font-family;
+  }
+  pre, atom-text-editor {
+    line-height: @code-line-height;
+  }
+
+  .MJX-BoldItalic, .MJX-BoldItalic * {
+	font-family: MathJax_Math-bold-italic, MathJax_Main-bold, MathJax_Math, MathJax_Main, @mjx-undef-family !important;
+	font-weight: bold !important;
+	font-style: italic !important;
+  }
+  .MJX-TextBoldItalic, .MJX-TextBoldItalic * {
+	font-weight: bold !important;
+	font-style: italic !important;
+  }
+  .MJX-Monospace, .MJX-Monospace * {
+	font-family: @mono-font-family !important;
+  }
+  .MJX-Monospace {
+	font-size: @mjx-mono-font-size;
+  }
+  .MJX-Monospace .mo * {
+    font-size: 100% !important;
+  }
+  .math .mn {
+    font-family: @mjx-numbers-font-family !important;
+  }
+
+  // Colors ---------------------------
+
+  @fg-accent: @link-color;
+  @fg: @syntax-text-color;
+  @bg: @syntax-background-color;
+  @fg-strong: contrast(@bg, darken(@fg, 32%), lighten(@fg, 32%));
+  @fg-subtle: contrast(@fg, lighten(@fg, 24%), darken(@fg, 24%));
+  @border: contrast(@bg, lighten(@bg, 16%), darken(@bg, 16%));
+  color: @fg;
+  background-color: @bg;
+
+
+  // Max-width ------------------------
+
+  @code-chunk-padding: 1em;
+  @img-cap-shorter: 1em;
+
+  max-width: 100%;
+  @img-width: 100%;
+  @img-height: 80vh;
+
+  h1, h2, h3, h4, h5, h6 {
+    max-width: @header-width;
+  }
+
+  p, ol, ul, blockquote {
+    max-width: @text-width;
+  }
+
+  pre {
+    max-width: @code-chunk-width - 2 * @code-chunk-padding;
+  }
+
+  div.figure, div.subfigures p:first-child {
+    max-width: @img-width;
+  }
+  div.figure p, div.subfigures p:not(:first-child) {
+    max-width: @text-width - @img-cap-shorter;
+  }
+  img {
+    max-width: @img-width;
+    max-height: @img-height;
+  }
+
+
+  // Position / Centered --------------
+
+  h1, h2, h3, h4, h5, h6,
+  p, ol, ul, blockquote,
+  table,
+  atom-text-editor,
+  pre,
+  div.figure,
+  div.figure img,
+  div.subfigures,
+  div.subfigures p:first-child,
+  div.subfigures img {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  div.figure, div.subfigures p:first-child {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  // Other settings -------------------
+
+  @margin: 1.5em;
+  padding: 1em;
+  overflow: auto;
+
+  p, ol, ul {
+    text-align: justify;
+  }
+
+
+  // Elements -------------------------
+
+  // Headings -------------------------
+
+  h1, h2, h3, h4, h5, h6 {
+    line-height: 1.5;
+    margin-top: @margin;
+    margin-bottom: @margin/3;
+    color: @fg-strong;
+  }
+
+  h1 { font-size: 2.4em; font-weight: 300; }
+  h2 { font-size: 1.8em; font-weight: 400; }
+  h3 { font-size: 1.5em; font-weight: 500; }
+  h4 { font-size: 1.2em; font-weight: 600; }
+  h5 { font-size: 1.1em; font-weight: 600; }
+  h6 { font-size: 1.0em; font-weight: 600; }
+
+
+  // Emphasis -------------------------
+
+  strong {
+    color: @fg-strong;
+  }
+
+  del {
+    color: @fg-subtle;
+  }
+
+
+  // Link -----------------------------
+
+  a,
+  a code,
+  a strong {
+    color: @fg-accent;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+
+  // Images ---------------------------
+
+  div.figure {
+    color: @fg-subtle;
+    margin-bottom: @margin/3;
+  }
+
+
+  // Paragraph ------------------------
+
+  & > p, blockquote > p {
+    margin-top: 0;
+    margin-bottom: @margin/3;
+  }
+
+
+  // List -----------------------------
+
+  & > ul, blockquote > ul,
+  & > ol, blockquote > ol {
+    margin-bottom: @margin;
+  }
+
+
+  // Blockquotes ----------------------
+
+  blockquote {
+    margin-top: @margin;
+    margin-bottom: @margin;
+    font-size: inherit;
+    color: @fg-subtle;
+    border-width: 4px;
+    padding: 4px 0px 0px 17px;
+    border-left: 4px solid @quote-bar-color;
+  }
+
+
+  // HR -------------------------------
+
+  hr {
+    margin: @margin*2 0;
+    border-top: 2px dashed @border;
+    background: none;
+  }
+
+
+  // Table ----------------------------
+
+  table {
+    margin-top: @margin;
+    margin-bottom: @margin;
+  }
+
+  th {
+    color: @fg-strong;
+  }
+
+  th,
+  td {
+    padding: 0.2em 0.5em;
+    border: 1px solid @border;
+  }
+
+
+  // Code -----------------------------
+
+  pre, code {
+    color: @fg-strong;
+    background-color: contrast(@syntax-background-color, lighten(@syntax-background-color, 8%), darken(@syntax-background-color, 6%));
+  }
+
+  pre, atom-text-editor {
+    margin-top: @margin;
+    margin-bottom: @margin;
+    padding: @code-chunk-padding;
+    border-radius: 3px;
+    background-color: contrast(@syntax-background-color, lighten(@syntax-background-color, 4%), darken(@syntax-background-color, 4%));
+  }
+
+  pre, code {
+    overflow-wrap: break-word;
+    white-space: pre-wrap;
+  }
+
+  // div.sourceCode pre, div.output pre
+  pre .line {
+    min-height: @code-chunk-min-height;
+    white-space: normal;
+  }
+
+
+  // KBD ------------------------------
+
+  kbd {
+    color: @fg-strong;
+    border: 1px solid @border;
+    border-bottom: 2px solid darken(@border, 6%);
+    background-color: contrast(@syntax-background-color, lighten(@syntax-background-color, 8%), darken(@syntax-background-color, 6%));
+  }
+
+}
+
+
+// Styles inside Atom panes -----------
+atom-pane .markdown-preview:not([data-use-github-style]) {
+  atom-text-editor {
+    max-width: @code-chunk-width;
+  }
+}
