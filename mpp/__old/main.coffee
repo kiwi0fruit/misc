@@ -1,5 +1,7 @@
 url = require 'url'
 fs = require 'fs-plus'
+path = require 'path'
+{CompositeDisposable} = require 'atom'
 
 MarkdownPreviewView = null
 renderer = null
@@ -11,10 +13,59 @@ isMarkdownPreviewView = (object) ->
 
 module.exports =
   config:
+    mainFontFamily:
+      type: 'string'
+      default: "'Times New Roman', 'STIX Two Text', 'Segoe UI Symbol', 'Noto Sans Symbols', 'Noto Sans Symbols2', 'Noto Serif CJK TC ExtraLight', serif"
+      title: 'Main font family'
+      order: 0
+    mainFontSize:
+      type: 'string'
+      default: '17px'
+      title: 'Main font size'
+      order: 1
+    monoFontFamilyExample:
+      type: 'string'
+      default: "Consolas, 'TeX Gyre Schola Math monospacified for Consolas', 'Symbola monospacified for Consolas', 'STIX Two Text', 'Segoe UI Symbol', 'Noto Sans Symbols', 'Noto Sans Symbols2', 'Microsoft JhengHei', 'Noto Sans CJK TC Thin', monospace"
+      title: 'Monospace font family Example'
+      description: 'It is an example only. See other style settings in `styles/markdown-preview-default.less` (press *View Code* button above).'
+      order: 180
+    monoFontFamily:
+      type: 'string'
+      default: ''
+      title: 'Monospace font family'
+      description: 'Default is Atom editor font family'
+      order: 181
+    monoFontSize:
+      type: 'string'
+      default: ''
+      title: 'Monospace font size'
+      description: 'Default is Atom Editor font size'
+      order: 182
+    mjxUndefinedFamily:
+      type: 'string'
+      default: "'Times New Roman', 'STIX Two Text', 'Segoe UI Symbol', 'Noto Sans Symbols', 'Noto Sans Symbols2', 'Noto Serif CJK TC ExtraLight', serif"
+      title: 'MathJax undefinedFamily:'
+      order: 183
+    mjxNumbersFamily:
+      type: 'string'
+      default: "'STIX Two Text', MathJax_Main, serif"
+      title: 'MathJax numbers font family:'
+      order: 184
+    mjxExtensions:
+      type: 'array'
+      default: [
+        "AMSmath.js",
+        "AMSsymbols.js",
+        "noErrors.js",
+        "noUndefined.js",
+        "HTML.js"
+      ]
+      title: 'MathJax extensions:'
+      order: 185
     breakOnSingleNewline:
       type: 'boolean'
       default: false
-      order: 0
+      order: 5
     liveUpdate:
       type: 'boolean'
       default: true
@@ -43,7 +94,7 @@ module.exports =
     enableLatexRenderingByDefault:
       title: 'Enable Math Rendering By Default'
       type: 'boolean'
-      default: false
+      default: true
       order: 40
     useLazyHeaders:
       title: 'Use Lazy Headers'
@@ -58,7 +109,7 @@ module.exports =
       order: 50
     enablePandoc:
       type: 'boolean'
-      default: false
+      default: true
       title: 'Enable Pandoc Parser'
       order: 100
     useNativePandocCodeStyles:
@@ -77,7 +128,7 @@ module.exports =
       order: 110
     pandocFilters:
       type: 'array'
-      default: []
+      default: ['pandoc-crossref', 'pandoc-citeproc']
       title: 'Pandoc Options: Filters'
       description: 'Comma separated pandoc filters, in order of application. Will be passed via command-line arguments'
       dependencies: ['enablePandoc']
@@ -91,7 +142,7 @@ module.exports =
       order: 120
     pandocMarkdownFlavor:
       type: 'string'
-      default: 'markdown-raw_tex+tex_math_single_backslash'
+      default: 'markdown-raw_tex'
       title: 'Pandoc Options: Markdown Flavor'
       description: 'Enter the pandoc markdown flavor you want'
       dependencies: ['enablePandoc']
@@ -143,8 +194,39 @@ module.exports =
       dependencies: ['pandocBibliography']
       order: 175
 
+  generateConfig: ->
+    conf = atom.config.get(@packageName)
+    edit = atom.config.get('editor')
+    lessConf = """
+      @main-font-size: #{conf.mainFontSize};
+      @mono-font-size: #{if conf.monoFontSize == '' then edit.fontSize + 'px' else conf.monoFontSize};
+      @main-font-family: #{conf.mainFontFamily};
+      @mono-font-family: #{if conf.monoFontFamily == '' then edit.fontFamily else conf.monoFontFamily};
+      @mjx-undef-family: #{conf.mjxUndefinedFamily};
+      @mjx-numbers-font-family : #{conf.mjxNumbersFamily};
+    """
+    return lessConf
+
+  writeConfig: (path) ->
+    fs.writeFileSync path, @generateConfig()
+
+  deactivate: ->
+    @disposables?.dispose()
 
   activate: ->
+    # adapted from https://github.com/coopermaruyama/apathy-theme/blob/master/lib/apathy.coffee
+    @disposables = new CompositeDisposable
+    @packageName = require('../package.json').name
+    customStylePath = "#{__dirname}/../styles/custom.less"
+    @writeConfig(customStylePath)
+    # watch for changes
+    cbLessVarChanged = => @writeConfig(customStylePath)
+    @disposables.add atom.config.onDidChange("editor.fontSize", cbLessVarChanged)
+    @disposables.add atom.config.onDidChange("editor.fontFamily", cbLessVarChanged)
+    lessVariables = ["mainFontSize", "monoFontSize", "mainFontFamily", "monoFontFamily", "mjxUndefinedFamily", "mjxNumbersFamily"]
+    for variable in lessVariables
+      @disposables.add atom.config.onDidChange("#{@packageName}.#{variable}", cbLessVarChanged)
+
     if parseFloat(atom.getVersion()) < 1.7
       atom.deserializers.add
         name: 'MarkdownPreviewView'
