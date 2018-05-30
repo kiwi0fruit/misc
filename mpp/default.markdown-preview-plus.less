@@ -3,26 +3,30 @@
 // They use the syntax-variables to adapt to the color scheme of syntax themes.
 // Tested on *One Light* UI Theme and *Base16 Tomorrow Light* Syntax Theme.
 
+// Defaults: ----------------------------------
 @main-font-size: 16px;
 @mono-font-size: 15px;
 @main-font-family: serif;
 @mono-font-family: monospace;
 @mjx-undefined-family: serif;
 @mjx-numbers-font-family : MathJax_Main, serif;
+@mjx-mono-font-size: 90%;  // MathJax monospace font size (works only with SugarTeX)
 
-@import "syntax-variables";
+// Import user's fonts: -----------------------
 @import "custom-fonts.less";
 
-// Tweakable options ------------
+// Tweakable options: -------------------------
 @text-width: 30em;
 @code-chunk-width: 42em;
-@mjx-mono-font-size: 95%;  // MathJax monospace font size (works only with SugarTeX)
-// @code-chunk-min-height: 1.5em; // fixes absent empty lines "bug" in code chunks (exported HTML only)
 @link-color: #4183c4;
 @quote-bar-color: #e1e1e1;
 @header-width: 150mm;
 @line-height: 1.5;
 @code-line-height: 1.7;
+@code-chunk-min-height: @code-line-height;  // fixes absent empty lines "bug" in code chunks (exported HTML only)
+
+
+@import "syntax-variables";
 
 
 markdown-preview-plus-view:not([data-use-github-style]) {
@@ -275,7 +279,7 @@ markdown-preview-plus-view:not([data-use-github-style]) {
 
   // div.sourceCode pre, div.output pre
   pre .line {
-    // min-height: @code-chunk-min-height;
+    min-height: @code-chunk-min-height;
     white-space: normal;
   }
 
