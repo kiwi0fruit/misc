@@ -26,7 +26,7 @@ _**English version of the letter**_:
     - 2.2 [Модель как процесс естественного отбора](#2.2)
     - 2.3 [Модель как структура, изменяющаяся во времени](#2.3)
     - 2.4 [Паттерн в структуре является одним и тем же, что и особь в эволюции](#2.4)
-    - 2.5 [Other properties of the model: separability, meaning of life, strange loop][eng]
+    - 2.5 [Other properties of the model: separability, meaning of life, strange loop][eng]
     - 2.6 [Некоторые вопросы](#2.6) и [Chaotic thoughts][eng]
 3. [On atrificial life, open ended evolution and “why these laws of nature?” question][eng]
 4. [The minimum mathematical model for open ended evolution (the more precise description of the mathematical part)][eng]
