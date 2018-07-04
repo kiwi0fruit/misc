@@ -1,8 +1,7 @@
 # К задаче построения наиболее простой модели, в которой из естественного отбора структур возникает эволюция законов природы
 
-[[MORE]]
-_English version of the letter_:  
-[kiwi0fruit.gitbooks.io/ultimate-question/content/ultimate_question.html][eng]
+_**English version of the letter**_:  
+[github.com/kiwi0fruit/ultimate-question][eng]
 
 Здравствуйте.
 
@@ -17,9 +16,6 @@ _English version of the letter_:
 
    Задача, которую я пытаюсь решить, может быть описана как **построить наиболее простую модель, в которой из естественного отбора структур возникает эволюция законов природы**. Данный подход предполагает: индетерминизм и постулирует случайный и спонтанный характер некоторых событий. Так же предполагается, что у вселенной было начало - первый момент времени существования. Предполагается, что решение этой задачи снабдит идею тихизма Чарльза Пирса динамической математической моделью.
 
-**_Concise formulation of the question on which I got stuck_:  
-[kiwi0fruit.gitbooks.io/ultimate-question/content/short_question.html](https://kiwi0fruit.gitbooks.io/ultimate-question/content/short_question.html)**
-
 ## <a name="toc"></a>Содержание:
 
 1. [Физические и философские предпосылки задачи](#1.0)
@@ -30,7 +26,8 @@ _English version of the letter_:
     - 2.2 [Модель как процесс естественного отбора](#2.2)
     - 2.3 [Модель как структура, изменяющаяся во времени](#2.3)
     - 2.4 [Паттерн в структуре является одним и тем же, что и особь в эволюции](#2.4)
-    - 2.5 [Некоторые вопросы](#2.5)
+    - 2.5 [Other properties of the model: separability, meaning of life, strange loop][eng]
+    - 2.6 [Некоторые вопросы](#2.6) и [Chaotic thoughts][eng]
 3. [On atrificial life, open ended evolution and “why these laws of nature?” question][eng]
 4. [The minimum mathematical model for open ended evolution (the more precise description of the mathematical part)][eng]
     - 4.1 [Possible restrictions and constraints of the model][eng]
@@ -154,18 +151,11 @@ _**Описанная исследовательская задача предп
 
    Задача состоит в создании динамической математической модели, которая удовлетворяет описанным условиям. На данный момент мне не хватает интуитивных догадок о возможной структуре модели. Предполагается угадывать возможные структуры и проверять подходят ли они под критерии. Это большей частью математическая задача.
 
-### <a name="2.5"></a>2.5 Некоторые вопросы [≡](#toc)
+### <a name="2.6"></a>2.6 Некоторые вопросы [≡](#toc)
 
    Проблема моя заключается не только в нюансах и сложностях построения этой математической модели (за три года не особенно частых размышлений нет особых подвижек), но и в ощущении, что я мог выбрать неудачные инструменты для построения этой модели (например, себя). А так же в том, что сами выбранные критерии конечной модели могут содержать противоречия или другие проблемы. Так что я нуждаюсь в советах или помощи не только теоретического характера, но и практического: в плане выбора инструментов и коррекции целей.
 
    Что мне стало более ясно в последнее время, так это то, что целью является не построение этой модели именно мною, а построение этой модели. И я отчаянно нуждаюсь в совете по поводу того, как сделать так, чтобы данная математическая модель была построена (не важно, мной или кем-то другим). Как попробовать думать? Кого попробовать привлечь к задаче? Советы по переформулировке проблемы и её корректности тоже важны.
-
-
-## 3. On atrificial life, open ended evolution and “why these laws of nature?” question [≡ eng][eng]
-
-## 4. The minimum mathematical model for open ended evolution (the more precise description of the mathematical part) [≡ eng][eng]
-
-## 5. Why this task? On “Why is there something rather than nothing?” question [≡ eng][eng]
 
 
 ## <a name="6.0"></a>6. P.S. [≡](#toc)
@@ -194,14 +184,9 @@ _**Описанная исследовательская задача предп
 
 ## <a name="8.0"></a>8. Ссылки на обсуждение [≡](#toc)
 
-Здесь можно обсудить это открытое письмо: [/discussletter](http://zagubisalo.tumblr.com/discussletter) 
+Здесь можно обсудить это открытое письмо: [ultimate-question/issues](https://github.com/kiwi0fruit/ultimate-question/issues/2) 
 
-**Новости по поводу исследования будут появляться в этом блоге. Подписаться на RSS**: [/rss](http://zagubisalo.tumblr.com/rss).
+**Новости по поводу исследования будут появляться в этом блоге. Подписаться на RSS**: [zagubisalo.tumblr.com/rss](http://zagubisalo.tumblr.com/rss).
 
-*Короткая ссылка на эту статью:*  
-[zagubisalo.tumblr.com/openletterrus](http://zagubisalo.tumblr.com/openletterrus)
 
-*Исходный код Markdown:*  
-[github.com/kiwi0fruit/open-letter](https://github.com/kiwi0fruit/open-letter)
-
-[eng]: https://kiwi0fruit.gitbooks.io/ultimate-question/content/ultimate_question.html
+[eng]: https://github.com/kiwi0fruit/ultimate-question
