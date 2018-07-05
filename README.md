@@ -7,12 +7,14 @@ Modified [Ashley Tumblr theme](https://www.tumblr.com/theme/37012) by [Jxnblk](h
 
 Please note that Tumblr markdown engine isn't LaTeX aware so you cannot use `\\` in equations so you may need to use `\newline` instead.
 
+
 # IxTx, introverted and logical female love stories
 
 - [Anime BBCode version](ixtx-female-love-stories/bbcode.txt) ([Markdown -> BBCode](http://feralhosting.github.io))
 - [Markdown version](ixtx-female-love-stories/reddit_1.md) **Kuudere, dandere, introverted and logical female love stories**, **Emotionless girls, introverted and logical female love stories**
 
 Crossposts to: [myanimelist.net/forum/?topicid=1459621](https://myanimelist.net/forum/?topicid=1459621#msg50058937), [reddit.com/r/anime/60ffp8](https://www.reddit.com/r/anime/comments/60ffp8/kuudere_dandere_introverted_and_logical_female/), [reddit.com/r/Animesuggest/60lwpx](https://www.reddit.com/r/Animesuggest/comments/60lwpx/kuudere_dandere_introverted_and_logical_female/), [reddit.com/r/mbti/64dosf](https://www.reddit.com/r/mbti/comments/64dosf/ixtx_introverted_and_logical_female_love_stories/), [reddit.com/r/INTP/64dqne](https://www.reddit.com/r/INTP/comments/64dqne/ixtx_introverted_and_logical_female_love_stories/), [reddit.com/r/MovieSuggestions/64i155](https://www.reddit.com/r/MovieSuggestions/comments/64i155/emotionless_girls_introverted_and_logical_female/), [reddit.com/r/manga/66nqpc](https://www.reddit.com/r/manga/comments/66nqpc/kuudere_dandere_introverted_and_logical_female/).
+
 
 # Jung-Augustinavichiute-Talanov personality model (Socionics)
 
@@ -24,15 +26,18 @@ Crossposts to: [myanimelist.net/forum/?topicid=1459621](https://myanimelist.ne
 - [Markdown code in russian](socionics-rus/valuable_functions.md) for [blog post](http://kiwi0fruit.tumblr.com/post/101332420320) ([edit post](https://www.tumblr.com/edit/101332420320)).
 - [Markdown code in russian](socionics-rus/functions_from_wikipedia.md) for [blog post](http://kiwi0fruit.tumblr.com/post/57594360708) ([edit post](https://www.tumblr.com/edit/57594360708)).
 
+
 # Markdown
 
 * **Markdown Mobile**: [markdown code](markdown/markdown-mobile.md) for [my review](http://kiwi0fruit.tumblr.com/post/160341086820) of markdown editors for Android that support LaTeX ([Edit post](https://www.tumblr.com/edit/160341086820)).
 * **Markdown Desktop**: [markdown code](markdown/markdown-desktop.md) for [my review](http://kiwi0fruit.tumblr.com/post/160364082720) of markdown editors for Windows that support LaTeX ([Edit post](https://www.tumblr.com/edit/160364082720)).
 * [Markdown Unicode and LaTeX test for HTML/PDF](markdown/unicode-and-latex-test).
 
+
 # Morrowind gameplay fixes pack by Kiwi0Fruit
 
 - [Markdown code](morrowind/morrowind.md) for a [blog post](http://kiwi0fruit.tumblr.com/post/75569701908) ([Edit post](https://www.tumblr.com/edit/75569701908)).
+
 
 # Open Letter
 
@@ -44,6 +49,12 @@ Archive markdown code for posts from [Open letter blog](http://zagubisalo.tumblr
 **This is outdated version!**  
 For latest version see [github.com/kiwi0fruit/ultimate-question](https://github.com/kiwi0fruit/ultimate-question).
 
+
 # Yet another one Russian to Latin translit
 
 [Kiwi0Fruit's translit](translit.md)
+
+
+# Markdown+HTML as PDF, MS Word and others killer
+
+See the [dream description](https://github.com/kiwi0fruit/misc/blob/master/pdf_and_word_killer.md).
