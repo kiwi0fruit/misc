@@ -18,6 +18,8 @@ Using sanitizing and plugins would allow trustworthy document sharing. Plugins c
 
 Export to export format can be added to Markdown editors like Atom and VS Code - together with server app set up for consistent preview experience.
 
+Server renderer _can even show small ads_ from trusted providers.
+
 The server renders files to something like Gitbook. Actually Gitbook is a very close to this idea: it supports plugins and it's legacy version is FOSS. Actually this not very sane idea of PDF and MS Word killer yet again visited me after I set up one unfairly abandoned article of mine as [Gitbook static site](https://kiwi0fruit.github.io/ultimate-question/). Looks nice and neat, can even adjust font size (manually) that is useful as mobile browsers are very inconsistent in this regard - I'm still to find/implement a way to set font size properly without manual adjusting (together with (1) expanding page size x2 with empty space to allow zoom out and quick scroll on mobile and (2) fixing scroll bugs: address bar no auto hide on mobile and broken PDF print).
 
 In addition to least common denominator format there can be specified some Markdown dialects that can also be rendered on the server - this would allow even better text/representation separation.
