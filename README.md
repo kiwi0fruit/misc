@@ -55,6 +55,13 @@ For latest version see [github.com/kiwi0fruit/ultimate-question](https://github.
 [Kiwi0Fruit's translit](translit.md)
 
 
+# Convenient and easily tweakable Atom+Markdown+Pandoc+Jupyter experience (can export to ipynb)
+
+## (R Markdown alternative)
+
+[Article](https://github.com/kiwi0fruit/misc/blob/master/atom_jupyter_pandoc_markdown.md).
+
+
 # Markdown+HTML as PDF, MS Word and others killer
 
 See the [dream description](https://github.com/kiwi0fruit/misc/blob/master/pdf_and_word_killer.md).
