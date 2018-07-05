@@ -29,7 +29,7 @@ I guess some very similar propriate (and even FOSS) tools exist that do somethin
 
 It would be nice to know about them.
 
-![](http://cdn.playbuzz.com/cdn//814660cb-6b6b-4a7c-834b-eec0abfde9a2/1b62a687-a561-4fc9-b45d-0739f88f9b80.jpg)
+![Pinky and the Brain](http://cdn.playbuzz.com/cdn//814660cb-6b6b-4a7c-834b-eec0abfde9a2/1b62a687-a561-4fc9-b45d-0739f88f9b80.jpg)
 
 ## [Discuss on GitHub](https://github.com/kiwi0fruit/misc/issues/1)
 
