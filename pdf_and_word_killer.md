@@ -33,4 +33,21 @@ It would be nice to know about them.
 
 ![Pinky and the Brain](http://cdn.playbuzz.com/cdn//814660cb-6b6b-4a7c-834b-eec0abfde9a2/1b62a687-a561-4fc9-b45d-0739f88f9b80.jpg)
 
+
+## UPD
+
+It's not actually about writing Markdown. It's about how to share it's html output securely (without worrying about malicious JavaScript) and conveniently. (And view html is better than PDF on both Mobile and desktop - for different reasons). And the proposed solution seems better to me than modern ebook formats with js.
+
+Sharing documents directly is more convenient than hosting them. So the Jupyter on demand rendering on server (by link or upload) is a good thing. But design lacks and you should write a notebook instead of normal Markdown. But on Gitbook you have a nice design, plugins, maybe even security and normal Markdown but need to host a whole repo. Moreover: it's better to write Markdown in offline editor like Atom/VS Code ([Pandoctools](https://github.com/kiwi0fruit/pandoctools) can already export to ipynb). So it would be nice to have best of all: style, plugins, security and design from Gitbook, render single file on demand online like Jupyter, edit in Atom offline.
+
+If to implement it all together as a ready to use solution - that would be a killer.
+
+* nbviewer is almost ideal at server side actually: https://github.com/jupyter/nbviewer/issues/778
+* pandoctools are almost ideal for writing in Atom and exporting to ipynb: https://github.com/kiwi0fruit/pandoctools/issues/14
+
+But still lot of work to do.
+
+* https://help.plot.ly/json-chart-schema/ can be used for interactive graphics with plot.ly plugin.
+
+
 ## [Discuss on GitHub](https://github.com/kiwi0fruit/misc/issues/1)
