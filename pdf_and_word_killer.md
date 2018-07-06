@@ -42,12 +42,12 @@ Sharing documents directly is more convenient than hosting them. So the Jupyter 
 
 If to implement it all together as a ready to use solution - that would be a killer.
 
-* nbviewer is almost ideal at server side actually: https://github.com/jupyter/nbviewer/issues/778
-* pandoctools are almost ideal for writing in Atom and exporting to ipynb: https://github.com/kiwi0fruit/pandoctools/issues/14
+* [nbviewer](https://github.com/jupyter/nbviewer/issues/778) is almost ideal at server side actually,
+* [pandoctools](https://github.com/kiwi0fruit/pandoctools/issues/14) are almost ideal for writing in Atom and exporting to ipynb.
 
 But still lot of work to do.
 
-* https://help.plot.ly/json-chart-schema/ can be used for interactive graphics with plot.ly plugin.
+* [plot.ly json chart schema](https://help.plot.ly/json-chart-schema/) can be used for interactive graphics with plot.ly plugin.
 
 
 ## [Discuss on GitHub](https://github.com/kiwi0fruit/misc/issues/1)
