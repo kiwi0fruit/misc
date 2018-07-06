@@ -38,7 +38,7 @@ Some hooks to start with:
 * [markdown preview plus](https://github.com/atom-community/markdown-preview-plus) and [pandoctools](https://github.com/kiwi0fruit/pandoctools/issues/14) are good for writing in Atom and exporting to ipynb (but still not ideal).
 * [plot.ly json chart schema](https://help.plot.ly/json-chart-schema/) can be used for interactive graphics with plot.ly js plugin.
 
-But still lot of work to do.
+But is's still a lot of work to do.
 
 ![Pinky and the Brain](http://cdn.playbuzz.com/cdn//814660cb-6b6b-4a7c-834b-eec0abfde9a2/1b62a687-a561-4fc9-b45d-0739f88f9b80.jpg)
 
