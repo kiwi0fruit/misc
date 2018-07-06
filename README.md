@@ -65,3 +65,7 @@ For latest version see [github.com/kiwi0fruit/ultimate-question](https://github.
 # Markdown+HTML as PDF, MS Word and others killer
 
 See the [dream description](https://github.com/kiwi0fruit/misc/blob/master/pdf_and_word_killer.md).
+
+# Alternatives to R Markdown
+
+[list](https://github.com/kiwi0fruit/misc/blob/master/alternatives_to_r_markdown.md)
