@@ -28,7 +28,7 @@ Viewing html in the browser can be a much better experience than any pdf or docx
 It would be nice to have best of Jupyter/Atom/Gitbook: style, design and plugins from Gitbook, server side render like in nbviewer, edit in Atom offline (plus protection from malicious javascript).
 
 
-#### UPD
+### UPD
 
 I chose ipynb as an a output format because it has decent python support, popular and can serve two purposes:
 
