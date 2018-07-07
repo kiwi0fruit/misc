@@ -28,6 +28,16 @@ Viewing html in the browser can be a much better experience than any pdf or docx
 It would be nice to have best of Jupyter/Atom/Gitbook: style, design and plugins from Gitbook, server side render like in nbviewer, edit in Atom offline (plus protection from malicious javascript).
 
 
+#### UPD
+
+I chose ipynb as an a output format because it has decent python support, popular and can serve two purposes:
+
+* be viewed by nbviewer online: here it can use only js plugins,
+* be run in Jupyter: here it can also use python back end interactively.
+
+As about sticking to some Markdown spec: I think it's useless as there are infinite number of Markdown flavours if we are to use Pandoc filters. And it's really nice to use them! So Jupyter notebook with it's Markdown flavour is no worse than any other if we treat it as output format for pandoc/pandoctools.
+
+
 ## Afterword
 
 I guess some very similar propriate and even FOSS tools exist that do something similar to the idea proposed above (to some extent). It would be nice to know about them.
