@@ -1,6 +1,8 @@
 # Jupyter notebooks as PDF, MS Word and others killer
 
-## (ipynb as pdf, docx and other formats killer)
+More strictly speaking:
+
+## Idea to enhance nbviewer to make ipynb killer of pdf, docx and other formats
 
 There's an idee fixe that pops up at me once in a while: I clearly see how jupyter notebooks (based on Markdown + HTML) can replace almost any other text centered media containers.
 
