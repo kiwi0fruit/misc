@@ -19,9 +19,9 @@ There's an idee fixe that pops up at me once in a while: I clearly see how jupyt
 nbviewer.jupyter.org can [render notebooks](https://nbviewer.jupyter.org/github/jrjohansson/qutip-lectures/blob/master/Lecture-1-Jaynes-Cumming-model.ipynb) to static html on demand on server side but at the same time the user himself hosts files anywhere he likes but simply shares the link to the rendered html on nbviewer.jupyter.org.
 
 This scheme can give security and anti-malicious protection together with ease of documents sharing. 
-nbviewer is a FOSS server that can be installed on any server - really nice! Server renderer can even show small ads from trusted providers (if needed).
+nbviewer is a FOSS server that can be installed on any server - really nice! Server renderer can even show small ads from trusted providers (if needed to support hosting).
 
-I suggest add sanitizing, javascript plugins and css themes to the nbviewer. This would allow trustworthy document sharing (so the security issues are handled by plugins and white list of plugins allowed on the nbviewer server).
+I suggest add sanitizing, javascript plugins and css themes to the nbviewer (I guess sanitizing is already there but I'm not sure). This would allow trustworthy document sharing (so the security issues are handled by plugins and white list of plugins allowed on the nbviewer server).
 
 Export to the ipynb can be added to Markdown editors like Atom and VS Code - together with a nbviewer server as an Atom package - for consistent preview experience when writing documents ([pandoctools](https://github.com/kiwi0fruit/pandoctools) can already export to ipynb so it's attainable for any Markdown editor).
 
@@ -29,7 +29,7 @@ nbviewer is nice but lacks not only plugins for interactive js but also css cust
 
 Viewing html in the browser can be a much better experience than any pdf or docx. PDF fonts are ugly on desktop, PDF documents do not adjust layout for small mobile screens (rewrap breaks layout...). And I think using browser directly is more convenient than epub. Using ipynb as a sharing format allows good content/representation separation. And it's a popular format.
 
-It would be nice to have best of Jupyter/Atom/Gitbook: style, design and plugins from Gitbook, server side render like in nbviewer, edit in Atom offline (plus protection from malicious javascript).
+It would be nice to have best of Jupyter/Atom/Gitbook: style, design and plugins from Gitbook, server side render like in nbviewer, edit in Atom or Jupyter offline (plus protection from malicious javascript).
 
 
 ### UPD
@@ -50,7 +50,7 @@ Some hooks to start with:
 
 * [nbviewer](https://github.com/jupyter/nbviewer/issues/778) is almost ideal at server side actually,
 * [markdown preview plus](https://github.com/atom-community/markdown-preview-plus) and [pandoctools](https://github.com/kiwi0fruit/pandoctools/issues/14) are good for writing in Atom and exporting to ipynb (but still not ideal).
-* [plot.ly json chart schema](https://help.plot.ly/json-chart-schema/) can be used for interactive graphics with plot.ly js plugin.
+* [plot.ly json chart schema](https://help.plot.ly/json-chart-schema/) can be used for interactive graphics with plot.ly js plugin. Or may be [plotlyhtmlexporter](https://github.com/plotly/plotlyhtmlexporter) approach is better than json + js nbviewer plugin (but I still prefer separarion of content and representation so the latter is better).
 
 But is's still a lot of work to do.
 
