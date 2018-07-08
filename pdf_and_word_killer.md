@@ -2,7 +2,7 @@
 
 More strictly speaking:
 
-## Idea to enhance nbviewer with js/css plugins to make nbviewer+ipynb secure, dynamic and mobile friendly
+# Idea to enhance nbviewer with js/css plugins to make nbviewer+ipynb secure, dynamic and mobile friendly
 
 There's an idee fixe that pops up at me once in a while: I clearly see how jupyter notebooks (based on Markdown + HTML) can replace almost any other text centered media containers.
 
