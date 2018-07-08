@@ -12,7 +12,7 @@ There's an idee fixe that pops up at me once in a while: I clearly see how jupyt
 * write any Markdown flavour you like in any editor you like (or write .ipynb directly),
 * export to .ipynb with required javascript plugins and css themes specified in json,
 * render that exported file on a server that sanitizes notebook (html/js) and loads required js plugins and css themes (so the one who reads the notebook doesn't worry about malicious javascript),
-* this would create a new online publishing experience. New in a sense that we are still to get a secure one click solution convenient both for the publishers and for users.
+* this would create a new online publishing experience. New in a sense that we are still to get a secure one click solution convenient both for the content publishers and for content readers.
 
 
 ## Details
