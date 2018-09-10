@@ -9,4 +9,5 @@
 | **2**  | [**open-fonts**](https://github.com/kiwi0fruit/open-fonts). Collection of beautiful free and open source fonts: instructions for installing, Unicode fallback chains. |
 | **2**  | [**shortcutter**](https://github.com/kiwi0fruit/shortcutter). Easy cross-platform creation of shortcuts supporting virtual and Anaconda environments. |
 | **1**  | [**knitty**](https://github.com/kiwi0fruit/knitty). Atom/Hydrogen friendly inrterface wrapper for Stitch/Knotr: reproducible report generation tool via Jupyter, Pandoc and Markdown. Export to Jupyter notebook via Notedown. |
+| **0**  | [**sugartex-completions**](https://github.com/kiwi0fruit/sugartex-completions). Easy Unicode input for Atom optimized for [SugarTeX](https://github.com/kiwi0fruit/sugartex). |
 | **0**  | [**enaml-video-app**](https://github.com/kiwi0fruit/enaml-video-app). Easy to install cross-platform python desktop app that gets video via OpenCV and displays it via LGPL Qt 5 for Python (PySide2) GUI composed with Enaml & distributed with PyAppShare (uses Miniconda). |
