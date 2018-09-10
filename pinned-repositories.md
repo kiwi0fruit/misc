@@ -14,3 +14,4 @@
 |        | **Non-software** |
 | **1**  | [**ultimate-question**](https://github.com/kiwi0fruit/ultimate-question). The Ultimate Question of Life, the Universe, and Everything (On natural selection of the laws of nature, Artificial life and Open-ended evolution, Universal Darwinism, Occam's razor). [kiwi0fruit.github.io/ultimate-question](https://kiwi0fruit.github.io/ultimate-question) |
 | **1**  | [**breton**](https://github.com/kiwi0fruit/breton). Breton dances, French Balfolk and some celtic dances (music, video, dances descriptions in Russian). |
+| **0**  | [**misc**](https://github.com/kiwi0fruit/misc). [*Jupyter notebooks as PDF, MS Word and others killer*](https://github.com/kiwi0fruit/misc/blob/master/pdf_and_word_killer.md) and other miscellaneous stuff (markdown texts, html/css themes, etc.). |
