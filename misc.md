@@ -1,4 +1,4 @@
-# List of all miscellaneous stuff
+# Miscellaneous stuff
 
 Markdown texts, html/css themes, etc.
 
