@@ -1,6 +1,11 @@
 # Jupyter notebooks as PDF, MS Word and others killer
 
-See the [dream description](https://github.com/kiwi0fruit/misc/blob/master/pdf_and_word_killer.md).
+See the [dream description](pdf_and_word_killer.md).
+
+
+# List of all miscellaneous stuff
+
+[List of all miscellaneous stuff](misc.md)
 
 
 # Ashley Math Tumblr theme
