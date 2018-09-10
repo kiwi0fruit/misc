@@ -72,7 +72,7 @@ For latest version see [github.com/kiwi0fruit/ultimate-question](https://github.
 
 # Convenient and easily tweakable Atom+Markdown+Pandoc+Jupyter experience 
 
-## Can export to ipynb, R Markdown alternative
+**(Can export to ipynb, R Markdown alternative)**
 
 [Article](https://github.com/kiwi0fruit/misc/blob/master/atom_jupyter_pandoc_markdown.md).
 
