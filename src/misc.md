@@ -10,7 +10,7 @@ See the [dream description](pdf_and_word_killer.md).
 
 ## Pinned repositories
 
-[Pinned repositories](README.md).
+[Pinned repositories](../README.md).
 
 
 ## Ashley Math Tumblr theme
