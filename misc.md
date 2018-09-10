@@ -5,12 +5,12 @@ See the [dream description](pdf_and_word_killer.md).
 
 # Pinned repositories
 
-[Pinned repositories](README.md)
+[Pinned repositories](README.md).
 
 
 # List of all miscellaneous stuff
 
-[Miscellaneous stuff](misc.md)
+[Miscellaneous stuff](misc.md).
 
 
 # Ashley Math Tumblr theme
@@ -67,7 +67,7 @@ For latest version see [github.com/kiwi0fruit/ultimate-question](https://github.
 
 # Yet another one Russian to Latin translit
 
-[Kiwi0Fruit's translit](translit.md)
+[Kiwi0Fruit's translit](translit.md).
 
 
 # Convenient and easily tweakable Atom+Markdown+Pandoc+Jupyter experience 
@@ -79,4 +79,4 @@ For latest version see [github.com/kiwi0fruit/ultimate-question](https://github.
 
 # Alternatives to R Markdown
 
-[list](https://github.com/kiwi0fruit/misc/blob/master/alternatives_to_r_markdown.md)
+[The list](https://github.com/kiwi0fruit/misc/blob/master/alternatives_to_r_markdown.md).
