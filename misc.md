@@ -3,6 +3,11 @@
 See the [dream description](pdf_and_word_killer.md).
 
 
+# Pinned repositories
+
+[Pinned repositories](README.md)
+
+
 # List of all miscellaneous stuff
 
 [List of all miscellaneous stuff](misc.md)
