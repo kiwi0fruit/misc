@@ -11,3 +11,5 @@
 | **1**  | [**knitty**](https://github.com/kiwi0fruit/knitty). Atom/Hydrogen friendly inrterface wrapper for Stitch/Knotr: reproducible report generation tool via Jupyter, Pandoc and Markdown. Export to Jupyter notebook via Notedown. |
 | **0**  | [**sugartex-completions**](https://github.com/kiwi0fruit/sugartex-completions). Easy Unicode input for Atom optimized for [SugarTeX](https://github.com/kiwi0fruit/sugartex). |
 | **0**  | [**enaml-video-app**](https://github.com/kiwi0fruit/enaml-video-app). Easy to install cross-platform python desktop app that gets video via OpenCV and displays it via LGPL Qt 5 for Python (PySide2) GUI composed with Enaml & distributed with PyAppShare (uses Miniconda). |
+| **0**  | [**miranda-im-111**](https://github.com/kiwi0fruit/miranda-im-111). Miranda IM 111 Pack source code and latest installer |
+| **1**  | [**breton**](https://github.com/kiwi0fruit/breton). Breton dances, French Balfolk and some celtic dances (music, video, dances descriptions in Russian). |
