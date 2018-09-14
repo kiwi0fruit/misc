@@ -74,9 +74,9 @@ For latest version see [github.com/kiwi0fruit/ultimate-question](https://github.
 
 **(Can export to ipynb, R Markdown alternative)**
 
-[Article](https://github.com/kiwi0fruit/misc/blob/master/atom_jupyter_pandoc_markdown.md).
+[Article](atom_jupyter_pandoc_markdown.md).
 
 
 ## Alternatives to R Markdown
 
-[The list](https://github.com/kiwi0fruit/misc/blob/master/alternatives_to_r_markdown.md).
+[The list](alternatives_to_r_markdown.md).
