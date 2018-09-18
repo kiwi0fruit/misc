@@ -16,4 +16,9 @@
 | **1**  | [**breton**](https://github.com/kiwi0fruit/breton). Breton dances, French Balfolk and some celtic dances (music, video, dances descriptions in Russian). |
 | **0**  | [**misc**](https://github.com/kiwi0fruit/misc). [Jupyter notebooks as PDF, MS Word and others killer](src/pdf_and_word_killer.md) and other [miscellaneous stuff](src/misc.md) (markdown texts, html/css themes, etc.). |
 
-# [Jupyter notebooks as PDF, MS Word and others killer](src/pdf_and_word_killer.md)
+
+## [Jupyter notebooks as PDF, MS Word and others killer](src/pdf_and_word_killer.md)
+
+More strictly speaking:
+
+### [Idea to enhance nbviewer with js/css plugins to make nbviewer+ipynb secure, dynamic and mobile friendly](src/pdf_and_word_killer.md)
