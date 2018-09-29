@@ -8,7 +8,11 @@
 4. Ведется поиск альтернативы знакам функций ШСС, в том числе с использованием пунктов 1-3.
 5. Делается попытка угадать эволюционные корни психических функций.
 
-**[Здесь ссылка на pdf документ](http://kiwi0fruit.tumblr.com/socionics_framework.pdf)**. Так же есть его бэкап в github.com/kiwi0fruit/misc [в этой папке](https://github.com/kiwi0fruit/misc/blob/master/socionics-rus).
+
+**[Here is the document translatable to english](socionics_framework_eng.md)**
+
+**[Здесь ссылка на русский pdf документ](http://kiwi0fruit.tumblr.com/socionics_framework.pdf)**. Так же есть его бэкап в github.com/kiwi0fruit/misc [в этой папке](https://github.com/kiwi0fruit/misc/blob/master/socionics-rus).
+
 
 ## Важное дополнение:
 
@@ -27,6 +31,7 @@
 - Как интересно! Тогда и вообще взаимодействие с миром у БИ-шника другое будет: может делать то, что другие не могут.
 - Да, в качестве примера: ЧС-ник пытается воздействовать на психику человека, найти зацепки чтобы вызвать страх и подавить его. Но, поскольку, он пугает объективными вещами, на БИ-шника это действует слабо. В его мире восприятие объективных вещей совсем иное.
 
+
 ## Обсуждение этой статьи в других местах:
 
 * [vk.com/topic-440094_27232944](http://vk.com/topic-440094_27232944),
@@ -35,6 +40,7 @@
 * [vk.com/topic-7262763_28314739](http://vk.com/topic-7262763_28314739),
 * [socioforum.su/viewtopic.php?f=800&t=52872](http://www.socioforum.su/viewtopic.php?f=800&t=52872),
 * [socionik.com/thread/19164-last.html](http://www.socionik.com/thread/19164-last.html)
+
 
 ## История версий
 
