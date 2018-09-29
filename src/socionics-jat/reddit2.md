@@ -34,16 +34,16 @@ But there are some differences between definitions of **cognitive functions** in
 
 Names are in the following order:
 
-- **Socionics name**, Socionics name literal translation, MBTI name, **Number name**, other names.
+- **Socionics name**, Socionics name literal translation, MBTI name, **Number name**.
 
 In my translation of socionics types names to english the 4 letter code shows the position on 4 axes that can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part after hyphen (if needed) shows cognitive functions stack. MBTI does not have counterpart types for introverts. For example the closest counterpart for *INTJ-Ti-dom* is *INTx* that is one of two types *INTJ/INTP* (or their mixture).
 
 | quadra | EP | IJ | IP | EJ |
 |:--:|:--:|:--:|:--:|:--:|
-| α | **ENTP**  ILE  ENTP  **1** | **INTJ-&#8288;Ti-&#8288;dom**  LII  INTx  **2**  INTJ/α | **ISFP-&#8288;Si-&#8288;dom**  SEI  ISFx  **3**  ISFP/α | **ESFJ**  ESE  ESFJ  **4** |
-| β | **ESTP**  SLE  ESTP  **5** | **ISTJ-&#8288;Ti-&#8288;dom**  LSI  ISTx  **6**  ISTJ/β | **INFP-&#8288;Ni-&#8288;dom**  IEI  INFx  **7**  INFP/β | **ENFJ**  EIE  ENFJ  **8** |
-| γ | **ESFP**  SEE  ESFP  **9** | **ISFJ-&#8288;Fi-&#8288;dom**  ESI  ISFx  **10**  ISFJ/γ | **INTP-&#8288;Ni-&#8288;dom**  ILI  INTx  **11**  INTP/γ | **ENTJ**  LIE  ENTJ  **12** |
-| δ | **ENFP**  IEE  ENFP  **13** | **INFJ-&#8288;Fi-&#8288;dom**  EII  INFx  **14**  INFJ/δ | **ISTP-&#8288;Si-&#8288;dom**  SLI  ISTx  **15**  ISTP/δ | **ESTJ**  LSE  ESTJ  **16** |
+| α | **ENTP**  ILE  ENTP  **1** | **INTJ-&#8288;Ti-&#8288;dom**  LII  INTx  **2** | **ISFP-&#8288;Si-&#8288;dom**  SEI  ISFx  **3** | **ESFJ**  ESE  ESFJ  **4** |
+| β | **ESTP**  SLE  ESTP  **5** | **ISTJ-&#8288;Ti-&#8288;dom**  LSI  ISTx  **6** | **INFP-&#8288;Ni-&#8288;dom**  IEI  INFx  **7** | **ENFJ**  EIE  ENFJ  **8** |
+| γ | **ESFP**  SEE  ESFP  **9** | **ISFJ-&#8288;Fi-&#8288;dom**  ESI  ISFx  **10** | **INTP-&#8288;Ni-&#8288;dom**  ILI  INTx  **11** | **ENTJ**  LIE  ENTJ  **12** |
+| δ | **ENFP**  IEE  ENFP  **13** | **INFJ-&#8288;Fi-&#8288;dom**  EII  INFx  **14** | **ISTP-&#8288;Si-&#8288;dom**  SLI  ISTx  **15** | **ESTJ**  LSE  ESTJ  **16** |
 
 
 ## 4. Why quadras grouped this way?
@@ -79,7 +79,7 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 | INxJ<2,14> | INTJ[2] ∨ INFJ[14] ∨ INuJ[2~14] ∨ ... | INuJ[2~14] |
 | IxTx<2,15> | INTJ[2] ∨ ISTP[15] ∨ IuTu[2~15] ∨ ... | IuTu[2~15] |
 | INxx<2,7> | INTJ[2] ∨ INFP[7] ∨ INuu[2~7] ∨ ... | INuu[2~7] |
-| xNxx<1,2,13,14>,</br> xNxx/ad<1,2,13,14> | INTJ[2] ∨ ENTP ∨ INFJ[14] ∨ ENFP ∨ ENuP ∨ INuJ[2~14] ∨ uNTu[1~2] ∨ uNFu[13~14] ∨ ... | ? (ad := alpha delta) |
+| xNxx<1,2,13,14>,</br> xNxx/ad<1,2,13,14> | INTJ[2] ∨ ENTP ∨ INFJ[14] ∨ ENFP ∨ ENuP ∨ INuJ[2\~14] ∨ uNTu[1~2] ∨ uNFu[13\~14] ∨ ... | ? (ad := alpha delta) |
 | Ixxx<6,7,10,11>,</br> Ixxx/bg<6,7,10,11> | ISTJ[6] ∨ INFP[7] ∨ ISFJ[10] ∨ INTP[11] ∨ ... | ? (bg := beta gamma) |
 | IxxJ<2,10> | INTJ[2] ∨ ISFJ[10] ∨ IuuJ[2~10] ∨ ... | IuuJ[2~10] |
 | xNxP<1,7,11,13> | ENTP ∨ INFP[7] ∨ INTP[11] ∨ ENFP ∨ ENuP ∨ ... | ? |
