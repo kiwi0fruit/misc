@@ -44,3 +44,19 @@ In my translation of socionics types names to english the 4 letter code shows th
 | β | **ESTP**&nbsp;&nbsp;SLE&nbsp;&nbsp;ESTP&nbsp;&nbsp;**5** | **ISTJ-&#8288;Ti-&#8288;dom**&nbsp;&nbsp;LSI&nbsp;&nbsp;ISTx&nbsp;&nbsp;**6** | **INFP-&#8288;Ni-&#8288;dom**&nbsp;&nbsp;IEI&nbsp;&nbsp;INFx&nbsp;&nbsp;**7** | **ENFJ**&nbsp;&nbsp;EIE&nbsp;&nbsp;ENFJ&nbsp;&nbsp;**8** |
 | γ | **ESFP**&nbsp;&nbsp;SEE&nbsp;&nbsp;ESFP&nbsp;&nbsp;**9** | **ISFJ-&#8288;Fi-&#8288;dom**&nbsp;&nbsp;ESI&nbsp;&nbsp;ISFx&nbsp;&nbsp;**10** | **INTP-&#8288;Ni-&#8288;dom**&nbsp;&nbsp;ILI&nbsp;&nbsp;INTx&nbsp;&nbsp;**11** | **ENTJ**&nbsp;&nbsp;LIE&nbsp;&nbsp;ENTJ&nbsp;&nbsp;**12** |
 | δ | **ENFP**&nbsp;&nbsp;IEE&nbsp;&nbsp;ENFP&nbsp;&nbsp;**13** | **INFJ-&#8288;Fi-&#8288;dom**&nbsp;&nbsp;EII&nbsp;&nbsp;INFx&nbsp;&nbsp;**14** | **ISTP-&#8288;Si-&#8288;dom**&nbsp;&nbsp;SLI&nbsp;&nbsp;ISTx&nbsp;&nbsp;**15** | **ESTJ**&nbsp;&nbsp;LSE&nbsp;&nbsp;ESTJ&nbsp;&nbsp;**16** |
+
+
+## 4. Why quadras grouped this way?
+
+Let's explain this in the example of the delta quadra.
+
+Deltas are: ENFP-Ne-dom, INFJ-Fi-dom, ESTJ-Te-dom, ISTP-Si-dom. So as commonly believed in MBTI xNFP and xSTJ are not delta. As believed in socionics:
+
+* ENFP-Ne-dom has auxiliary Fi, and Si as most inferior function (to the point of not controlling it so it has its own motivation and becomes valuable function),
+* INFJ-Fi-dom has auxiliary Ne, and Te as most inferior,
+* ESTJ-Te-dom has auxiliary Si, and Fi as most inferior,
+* ISTP-Si-dom has auxiliary Te, and Ne as most inferior.
+
+So the functions the type values most are dominant, auxiliary and the most inferior. For some reason commonly ENFP-Ne-dom also values Te, INFJ-Fi-dom also values Si, ESTJ-Te-dom also values Ne, ISTP-Si-dom also values Fi (as believed in socionics).
+
+So this can be seen that these 4 types has the same 4 most valued functions.
