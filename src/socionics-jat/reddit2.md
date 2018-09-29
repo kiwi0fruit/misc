@@ -62,7 +62,7 @@ So the functions the type values most are dominant, auxiliary and the most infer
 So this can be seen that these 4 types has the same 4 most valued functions.
 
 
-## 5. Intermediate types
+## 5. Intermediate types names
 
 1. Names for truly **intermediate types** are proposed. Names for unknown types like ExTJ are common (this can be ENTJ, ESTJ or intermediate type, we do not know which one exactly). Similarly EμTJ/EuTJ (like μTorrent/uTorrent) is the name for truly intermediate type. **μ** is the standard symbol that denotes mean value. We also automatically get **explicit notation** like IxTJ-Ti-dom. The existence of intermediate types is still an open question. It's easy to imagine intermediate type between types with the same dominant function but not with different ones.
 2. Below are some examples of short names for types, unknown types and intermediate/mixed types. The 4 letter code at the beginning shows the position on 4 axes that can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part shows cognitive functions stack. I guess it may even be possible to have **ENTJ-Ne-dom** if the person is a mixture equally of ENTP, ENTJ and INTJ-Ti-dom: ENTJ<1\~2~12>. But at the moment it's a speculation only.
