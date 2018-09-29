@@ -84,5 +84,5 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 | IxxJ<2,10> | INTJ[2] ∨ ISFJ[10] ∨ IuuJ[2~10] ∨ ... | IuuJ[2~10] |
 | xNxP<1,7,11,13> | ENTP ∨ INFP[7] ∨ INTP[11] ∨ ENFP ∨ ENuP ∨ ... | ? |
 | IxTx<2,6,11,15> | INTJ[2] ∨ ISTJ[6] ∨ INTP[11] ∨ ISTP[15] ∨ IuTJ[2~6] ∨ ... | ? |
-| ENxP<1,[1~13]> | ENTP ∨ ENuP ∨ ... (but not ENFP) | ENTP[1>13] |
-| xNTx<2,[1~2]> | INTJ[2] ∨ uNTu[1~2] ∨ ... (but not ENTP) | INTJ[2>1] |
+| ENxP<1,[1~13]> | ENTP ∨ ENuP ∨ ... (but not ENFP) | ENTP[1<-13] |
+| xNTx<2,[1~2]> | INTJ[2] ∨ uNTu[1~2] ∨ ... (but not ENTP) | INTJ[2<-1] |
