@@ -1,4 +1,4 @@
-# Socionics: MBTI incompatibility, JAT cognitive functions
+# Socionics-MBTI incompatibility, Jung-Augustinavichiute-Talanov cognitive functions
 
 
 ## 1. MBTI incompatibility
@@ -6,7 +6,7 @@
 ***Explicit notation*** for socionics types are **INTJ-Ti-dom** and **INTP-Ni-dom**. **J**/**P** in socionics mean the same as in MBTI and Big Five (high/low conscientiousness). Same is for E/I, N/S, T/F. And **dom** is a dominant function as Jung meant it. The rule is simple: judging type has a judging dominant function (perceiving type -> perceiving dominant function). Introverted type has an introverted dominant function (extraverted type -> extraverted dominant function). And this notation explicitly reminds about it.
 
 
-## 2. JAT cognitive functions
+## 2. Jung-Augustinavichiute-Talanov cognitive functions
 
 But there are some differences between definitions of **cognitive functions** in MBTI and in *Jung-Augustinavichiute-Talanov personality model* (JAT). Actually my understanding of Talanov's ideas is a outdated. **JAT cognitive functions** roughly speaking are the ways of thinking:
 
