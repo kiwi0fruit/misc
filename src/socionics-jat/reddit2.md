@@ -34,16 +34,16 @@ But there are some differences between definitions of **cognitive functions** in
 
 Names are in the following order:
 
-- **Socionics name**, Socionics name literal translation, MBTI name, **Number name**.
+- **Socionics name**, Socionics name literal translation, MBTI name, **Number name**, other names.
 
 In my translation of socionics types names to english the 4 letter code shows the position on 4 axes that can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part after hyphen (if needed) shows cognitive functions stack. MBTI does not have counterpart types for introverts. For example the closest counterpart for *INTJ-Ti-dom* is *INTx* that is one of two types *INTJ/INTP* (or their mixture).
 
 | quadra | EP | IJ | IP | EJ |
 |:--:|:--:|:--:|:--:|:--:|
-| α | **ENTP**&nbsp;&nbsp;ILE&nbsp;&nbsp;ENTP&nbsp;&nbsp;**1** | **INTJ-&#8288;Ti-&#8288;dom**&nbsp;&nbsp;LII&nbsp;&nbsp;INTx&nbsp;&nbsp;**2** | **ISFP-&#8288;Si-&#8288;dom**&nbsp;&nbsp;SEI&nbsp;&nbsp;ISFx&nbsp;&nbsp;**3** | **ESFJ**&nbsp;&nbsp;ESE&nbsp;&nbsp;ESFJ&nbsp;&nbsp;**4** |
-| β | **ESTP**&nbsp;&nbsp;SLE&nbsp;&nbsp;ESTP&nbsp;&nbsp;**5** | **ISTJ-&#8288;Ti-&#8288;dom**&nbsp;&nbsp;LSI&nbsp;&nbsp;ISTx&nbsp;&nbsp;**6** | **INFP-&#8288;Ni-&#8288;dom**&nbsp;&nbsp;IEI&nbsp;&nbsp;INFx&nbsp;&nbsp;**7** | **ENFJ**&nbsp;&nbsp;EIE&nbsp;&nbsp;ENFJ&nbsp;&nbsp;**8** |
-| γ | **ESFP**&nbsp;&nbsp;SEE&nbsp;&nbsp;ESFP&nbsp;&nbsp;**9** | **ISFJ-&#8288;Fi-&#8288;dom**&nbsp;&nbsp;ESI&nbsp;&nbsp;ISFx&nbsp;&nbsp;**10** | **INTP-&#8288;Ni-&#8288;dom**&nbsp;&nbsp;ILI&nbsp;&nbsp;INTx&nbsp;&nbsp;**11** | **ENTJ**&nbsp;&nbsp;LIE&nbsp;&nbsp;ENTJ&nbsp;&nbsp;**12** |
-| δ | **ENFP**&nbsp;&nbsp;IEE&nbsp;&nbsp;ENFP&nbsp;&nbsp;**13** | **INFJ-&#8288;Fi-&#8288;dom**&nbsp;&nbsp;EII&nbsp;&nbsp;INFx&nbsp;&nbsp;**14** | **ISTP-&#8288;Si-&#8288;dom**&nbsp;&nbsp;SLI&nbsp;&nbsp;ISTx&nbsp;&nbsp;**15** | **ESTJ**&nbsp;&nbsp;LSE&nbsp;&nbsp;ESTJ&nbsp;&nbsp;**16** |
+| α | **ENTP**  ILE  ENTP  **1** | **INTJ-&#8288;Ti-&#8288;dom**  LII  INTx  **2**  INTJ/α | **ISFP-&#8288;Si-&#8288;dom**  SEI  ISFx  **3**  ISFP/α | **ESFJ**  ESE  ESFJ  **4** |
+| β | **ESTP**  SLE  ESTP  **5** | **ISTJ-&#8288;Ti-&#8288;dom**  LSI  ISTx  **6**  ISTJ/β | **INFP-&#8288;Ni-&#8288;dom**  IEI  INFx  **7**  INFP/β | **ENFJ**  EIE  ENFJ  **8** |
+| γ | **ESFP**  SEE  ESFP  **9** | **ISFJ-&#8288;Fi-&#8288;dom**  ESI  ISFx  **10**  ISFJ/γ | **INTP-&#8288;Ni-&#8288;dom**  ILI  INTx  **11**  INTP/γ | **ENTJ**  LIE  ENTJ  **12** |
+| δ | **ENFP**  IEE  ENFP  **13** | **INFJ-&#8288;Fi-&#8288;dom**  EII  INFx  **14**  INFJ/δ | **ISTP-&#8288;Si-&#8288;dom**  SLI  ISTx  **15**  ISTP/δ | **ESTJ**  LSE  ESTJ  **16** |
 
 
 ## 4. Why quadras grouped this way?
@@ -60,3 +60,29 @@ Deltas are: ENFP-Ne-dom, INFJ-Fi-dom, ESTJ-Te-dom, ISTP-Si-dom. So as commonly b
 So the functions the type values most are dominant, auxiliary and the most inferior. For some reason commonly ENFP-Ne-dom also values Te, INFJ-Fi-dom also values Si, ESTJ-Te-dom also values Ne, ISTP-Si-dom also values Fi (as believed in socionics).
 
 So this can be seen that these 4 types has the same 4 most valued functions.
+
+
+## 5. Intermediate types
+
+1. Names for truly **intermediate types** are proposed. Names for unknown types like ExTJ are common (this can be ENTJ, ESTJ or intermediate type, we do not know which one exactly). Similarly EμTJ/EuTJ (like μTorrent/uTorrent) is the name for truly intermediate type. **μ** is the standard symbol that denotes mean value. We also automatically get **explicit notation** like IxTJ-Ti-dom. The existence of intermediate types is still an open question. It's easy to imagine intermediate type between types with the same dominant function but not with different ones.
+2. Below are some examples of short names for types, unknown types and intermediate/mixed types. The 4 letter code at the beginning shows the position on 4 axes that can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part shows cognitive functions stack. I guess it may even be possible to have **ENTJ-Ne-dom** if the person is a mixture equally of ENTP, ENTJ and INTJ-Ti-dom: ENTJ<1\~2~12>. But at the moment it's a speculation only.
+3. Additional postfixes are needed when there should be noted that socioics types are meant (but not the MBTI types). This is relevant for unknown types with **x** on J/P axis because quadra letters only do not help in this case. For example **INTx<2,11>** = INTJ-Ti-dom or INTP-Ni-dom or INTu. But if we take MBTI types then **INTx** = INTP-Ti-dom or INTJ-Ni-dom or INTu. This is not relevant for intermediate types with **u** on J/P axis.
+
+| **Unknown types** | **Meaning of unknown types** | **Mixed type** |
+|:--:|:--:|:--:|
+| ExTJ | ENTJ ∨ ESTJ ∨ EuTJ ∨ ... | EuTJ |
+| ENxJ | ENTJ ∨ ENFJ ∨ ENuJ ∨ ... | ENuJ |
+| INTx<2,11> | INTJ[2] ∨ INTP[11] ∨ INTu ∨ ... | INTu[2~11], INTu |
+| IxTJ<2,6> | INTJ[2] ∨ ISTJ[6] ∨ IuTJ[2~6] ∨ ... | IuTJ[2~6] |
+| xNTx<1,2> | ENTP ∨ INTJ[2] ∨ uNTu[1~2] ∨ ... | uNTu[1~2] |
+| xNTJ<2,12> | ENTJ ∨ INTJ[2] ∨ uNTJ[2~12] ∨ ... | uNTJ[2~12] |
+| INxJ<2,14> | INTJ[2] ∨ INFJ[14] ∨ INuJ[2~14] ∨ ... | INuJ[2~14] |
+| IxTx<2,15> | INTJ[2] ∨ ISTP[15] ∨ IuTu[2~15] ∨ ... | IuTu[2~15] |
+| INxx<2,7> | INTJ[2] ∨ INFP[7] ∨ INuu[2~7] ∨ ... | INuu[2~7] |
+| xNxx<1,2,13,14>,</br> xNxx/ad<1,2,13,14> | INTJ[2] ∨ ENTP ∨ INFJ[14] ∨ ENFP ∨ ENuP ∨ INuJ[2~14] ∨ uNTu[1~2] ∨ uNFu[13~14] ∨ ... | ? (ad := alpha delta) |
+| Ixxx<6,7,10,11>,</br> Ixxx/bg<6,7,10,11> | ISTJ[6] ∨ INFP[7] ∨ ISFJ[10] ∨ INTP[11] ∨ ... | ? (bg := beta gamma) |
+| IxxJ<2,10> | INTJ[2] ∨ ISFJ[10] ∨ IuuJ[2~10] ∨ ... | IuuJ[2~10] |
+| xNxP<1,7,11,13> | ENTP ∨ INFP[7] ∨ INTP[11] ∨ ENFP ∨ ENuP ∨ ... | ? |
+| IxTx<2,6,11,15> | INTJ[2] ∨ ISTJ[6] ∨ INTP[11] ∨ ISTP[15] ∨ IuTJ[2~6] ∨ ... | ? |
+| ENxP<1,[1~13]> | ENTP ∨ ENuP ∨ ... (but not ENFP) | ENTP[1<-13] |
+| xNTx<2,[1~2]> | INTJ[2] ∨ uNTu[1~2] ∨ ... (but not ENTP) | INTJ[2<-1] |
