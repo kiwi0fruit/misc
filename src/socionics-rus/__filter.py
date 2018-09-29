@@ -3,8 +3,8 @@ import panflute as pf
 img_grey = 'media/image1.png'
 reps = {
     img_grey: 'pic/grey.png',
-    'media/image2.png': 'Si',
-    'media/image3.png': 'Fe',
+    'media/image2.png': 'Fe',
+    'media/image3.png': 'Si',
     'media/image4.png': 'Ni',
     'media/image5.png': 'Se',
     'media/image6.png': 'Ti',
