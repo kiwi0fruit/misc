@@ -1,4 +1,4 @@
-# Socionics-MBTI incompatibility, Jung-Augustinavichiute-Talanov cognitive functions
+# Socionics-MBTI incompatibility, Jung-Augustinavichiute-Talanov cognitive functions, Socionics/MBTI types names
 
 
 ## 1. MBTI incompatibility
