@@ -33,6 +33,9 @@ Crossposts to: [myanimelist.net/forum/?topicid=1459621](https://myanimelist.ne
 
 ## Jung-Augustinavichiute-Talanov personality model (Socionics)
 
+* [Socionics-MBTI incompatibility, Jung-Augustinavichiute-Talanov cognitive functions](socionics-jat/reddit2.md)
+* [The framework of the typology of Jung-Augustinavichyute (Socionics Framework)](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fgithub.com%2Fkiwi0fruit%2Fmisc%2Ftree%2Fmaster%2Fsrc%2Fsocionics-rus) ([original in russian](socionics-rus)).
+
 - [Markdown code](socionics-jat/intro.md) for two blog posts: [one](http://kiwi0fruit.tumblr.com/post/141190741188), [two](http://kiwi0fruit.tumblr.com/post/141375887235) (Edit posts: [one](https://www.tumblr.com/edit/141190741188), [two](https://www.tumblr.com/edit/141375887235)).
 - [Markdown code](socionics-jat/reddit.md) for a short reddit post: [reddit.com/r/mbti/64sc2f](https://www.reddit.com/r/mbti/comments/64sc2f/socionics_intermediate_types_mbti_incompatibility/)
 - [Markdown code in russian](socionics-rus/socionics_short.md) for [blog post](http://kiwi0fruit.tumblr.com/post/53623222016) ([edit post](https://www.tumblr.com/edit/53623222016)).
