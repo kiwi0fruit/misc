@@ -28,3 +28,19 @@ But there are some differences between definitions of **cognitive functions** in
 - **Ti** - _Introverted task-oriented thinking_. Order, laws, structures, classification, analysis and comparison.
 - **Fe** - _Extraverted feelings-oriented thinking_. Modifying the mood and the emotional state of people hence manipulating their activities (e.g. by means of inspiration and enthusiasm). Modifying group activity is specifically important.
 - **Fi** - _Introverted feelings-oriented thinking_. Moral judgment and evaluation, building relationships, synchronization of attitude towards something in a group of people, morality.
+
+
+## 3. Socionics / MBTI types names
+
+Names are in the following order:
+
+- **Socionics name**, Socionics name literal translation, MBTI name, **Number name**.
+
+In my translation of socionics types names to english the 4 letter code shows the position on 4 axes that can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part after hyphen (if needed) shows cognitive functions stack. MBTI does not have counterpart types for introverts. For example the closest counterpart for *INTJ-Ti-dom* is *INTx* that is one of two types *INTJ/INTP* (or their mixture).
+
+| quadra | EP | IJ | IP | EJ |
+|:--:|:--:|:--:|:--:|:--:|
+| α | **ENTP**&nbsp;&nbsp;ILE&nbsp;&nbsp;ENTP&nbsp;&nbsp;**1** | **INTJ-&#8288;Ti-&#8288;dom**&nbsp;&nbsp;LII&nbsp;&nbsp;INTx&nbsp;&nbsp;**2** | **ISFP-&#8288;Si-&#8288;dom**&nbsp;&nbsp;SEI&nbsp;&nbsp;ISFx&nbsp;&nbsp;**3** | **ESFJ**&nbsp;&nbsp;ESE&nbsp;&nbsp;ESFJ&nbsp;&nbsp;**4** |
+| β | **ESTP**&nbsp;&nbsp;SLE&nbsp;&nbsp;ESTP&nbsp;&nbsp;**5** | **ISTJ-&#8288;Ti-&#8288;dom**&nbsp;&nbsp;LSI&nbsp;&nbsp;ISTx&nbsp;&nbsp;**6** | **INFP-&#8288;Ni-&#8288;dom**&nbsp;&nbsp;IEI&nbsp;&nbsp;INFx&nbsp;&nbsp;**7** | **ENFJ**&nbsp;&nbsp;EIE&nbsp;&nbsp;ENFJ&nbsp;&nbsp;**8** |
+| γ | **ESFP**&nbsp;&nbsp;SEE&nbsp;&nbsp;ESFP&nbsp;&nbsp;**9** | **ISFJ-&#8288;Fi-&#8288;dom**&nbsp;&nbsp;ESI&nbsp;&nbsp;ISFx&nbsp;&nbsp;**10** | **INTP-&#8288;Ni-&#8288;dom**&nbsp;&nbsp;ILI&nbsp;&nbsp;INTx&nbsp;&nbsp;**11** | **ENTJ**&nbsp;&nbsp;LIE&nbsp;&nbsp;ENTJ&nbsp;&nbsp;**12** |
+| δ | **ENFP**&nbsp;&nbsp;IEE&nbsp;&nbsp;ENFP&nbsp;&nbsp;**13** | **INFJ-&#8288;Fi-&#8288;dom**&nbsp;&nbsp;EII&nbsp;&nbsp;INFx&nbsp;&nbsp;**14** | **ISTP-&#8288;Si-&#8288;dom**&nbsp;&nbsp;SLI&nbsp;&nbsp;ISTx&nbsp;&nbsp;**15** | **ESTJ**&nbsp;&nbsp;LSE&nbsp;&nbsp;ESTJ&nbsp;&nbsp;**16** |
