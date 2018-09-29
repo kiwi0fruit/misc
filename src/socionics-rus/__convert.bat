@@ -2,6 +2,6 @@ set "script_dir=%~dp0"
 cd /d "%script_dir%"
 
 pandoc __socionics_framework.docx --to json | ^
-python filter.py markdown | ^
+python __filter.py markdown | ^
 pandoc --from json --to markdown | ^
-pandoc --from markdown --to gfm -o __socionics_framework.md
+pandoc --from markdown --to gfm -o socionics_framework_eng.md
