@@ -79,8 +79,8 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 | INxJ<2,14> | INTJ[2] ∨ INFJ[14] ∨ INuJ[2~14] ∨ ... | INuJ[2~14] |
 | IxTx<2,15> | INTJ[2] ∨ ISTP[15] ∨ IuTu[2~15] ∨ ... | IuTu[2~15] |
 | INxx<2,7> | INTJ[2] ∨ INFP[7] ∨ INuu[2~7] ∨ ... | INuu[2~7] |
-| xNxx<1,2,13,14>,</br> xNxx/ad<1,2,13,14> | INTJ[2] ∨ ENTP ∨ INFJ[14] ∨ ENFP ∨ ENuP ∨ INuJ[2\~14] ∨ uNTu[1~2] ∨ uNFu[13\~14] ∨ ... | ? (ad := alpha delta) |
-| Ixxx<6,7,10,11>,</br> Ixxx/bg<6,7,10,11> | ISTJ[6] ∨ INFP[7] ∨ ISFJ[10] ∨ INTP[11] ∨ ... | ? (bg := beta gamma) |
+| xNxx<1,2,13,14>, xNxx/ad<1,2,13,14> | INTJ[2] ∨ ENTP ∨ INFJ[14] ∨ ENFP ∨ ENuP ∨ ... | ? (ad := alpha delta) |
+| Ixxx<6,7,10,11>, Ixxx/bg<6,7,10,11> | ISTJ[6] ∨ INFP[7] ∨ ISFJ[10] ∨ INTP[11] ∨ ... | ? (bg := beta gamma) |
 | IxxJ<2,10> | INTJ[2] ∨ ISFJ[10] ∨ IuuJ[2~10] ∨ ... | IuuJ[2~10] |
 | xNxP<1,7,11,13> | ENTP ∨ INFP[7] ∨ INTP[11] ∨ ENFP ∨ ENuP ∨ ... | ? |
 | IxTx<2,6,11,15> | INTJ[2] ∨ ISTJ[6] ∨ INTP[11] ∨ ISTP[15] ∨ IuTJ[2~6] ∨ ... | ? |
