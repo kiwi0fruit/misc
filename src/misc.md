@@ -8,6 +8,11 @@ Markdown texts, html/css themes, etc.
 See the [dream description](pdf_and_word_killer.md).
 
 
+## Markdown Preview Plus patch
+
+[Patch for Atom editor package](mpp).
+
+
 ## Pinned repositories
 
 [Pinned repositories](../README.md).
@@ -36,13 +41,13 @@ Crossposts to: [myanimelist.net/forum/?topicid=1459621](https://myanimelist.ne
 * [Socionics-MBTI incompatibility, Jung-Augustinavichiute-Talanov cognitive functions, Socionics/MBTI types names](socionics-jat/reddit2.md)
 * [The framework of the typology of Jung-Augustinavichyute (Socionics Framework)](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fgithub.com%2Fkiwi0fruit%2Fmisc%2Ftree%2Fmaster%2Fsrc%2Fsocionics-rus) ([original in russian](socionics-rus)).
 
-- [Markdown code](socionics-jat/intro.md) for two blog posts: [one](http://kiwi0fruit.tumblr.com/post/141190741188), [two](http://kiwi0fruit.tumblr.com/post/141375887235) (Edit posts: [one](https://www.tumblr.com/edit/141190741188), [two](https://www.tumblr.com/edit/141375887235)).
-- [Markdown code](socionics-jat/reddit.md) for a short reddit post: [reddit.com/r/mbti/64sc2f](https://www.reddit.com/r/mbti/comments/64sc2f/socionics_intermediate_types_mbti_incompatibility/)
-- [Markdown code in russian](socionics-rus/socionics_short.md) for [blog post](http://kiwi0fruit.tumblr.com/post/53623222016) ([edit post](https://www.tumblr.com/edit/53623222016)).
-- [Markdown code in russian](socionics-rus/socionics_framework.md) for [blog post](http://kiwi0fruit.tumblr.com/post/36128399399) ([edit post](https://www.tumblr.com/edit/36128399399)).
-- [Markdown code in russian](socionics-rus/functions.md) for [blog post](http://kiwi0fruit.tumblr.com/post/53774683435) ([edit post](https://www.tumblr.com/edit/53774683435)).
-- [Markdown code in russian](socionics-rus/valuable_functions.md) for [blog post](http://kiwi0fruit.tumblr.com/post/101332420320) ([edit post](https://www.tumblr.com/edit/101332420320)).
-- [Markdown code in russian](socionics-rus/functions_from_wikipedia.md) for [blog post](http://kiwi0fruit.tumblr.com/post/57594360708) ([edit post](https://www.tumblr.com/edit/57594360708)).
+- (*Alternative translation of socionics to english + On incompatibility of Socionics and MBTI*) [Markdown code](socionics-jat/intro.md) for two blog posts: [one](http://kiwi0fruit.tumblr.com/post/141190741188), [two](http://kiwi0fruit.tumblr.com/post/141375887235) (Edit posts: [one](https://www.tumblr.com/edit/141190741188), [two](https://www.tumblr.com/edit/141375887235)).
+- (*Socionics: intermediate types, MBTI incompatibility, JAT cognitive functions*) [Markdown code](socionics-jat/reddit.md) for a short reddit post: [reddit.com/r/mbti/64sc2f](https://www.reddit.com/r/mbti/comments/64sc2f/socionics_intermediate_types_mbti_incompatibility/)
+- (*Что такое соционика? или Уходя из соционики...*) [Markdown code in russian](socionics-rus/socionics_short.md) for [blog post](http://kiwi0fruit.tumblr.com/post/53623222016) ([edit post](https://www.tumblr.com/edit/53623222016)).
+- (*Каркас типологии Юнга-Аугустинавичюте (Каркас соционики)*) [Markdown code in russian](socionics-rus/socionics_framework.md) for [blog post](http://kiwi0fruit.tumblr.com/post/36128399399) ([edit post](https://www.tumblr.com/edit/36128399399)).
+- (*Психические функции как эволюционные адаптации и как источник мотиваций*) [Markdown code in russian](socionics-rus/functions.md) for [blog post](http://kiwi0fruit.tumblr.com/post/53774683435) ([edit post](https://www.tumblr.com/edit/53774683435)).
+- (*Ценностные и вытесненные функции*) [Markdown code in russian](socionics-rus/valuable_functions.md) for [blog post](http://kiwi0fruit.tumblr.com/post/101332420320) ([edit post](https://www.tumblr.com/edit/101332420320)).
+- (*Соционика:аспекты по функциям*) [Markdown code in russian](socionics-rus/functions_from_wikipedia.md) for [blog post](http://kiwi0fruit.tumblr.com/post/57594360708) ([edit post](https://www.tumblr.com/edit/57594360708)).
 
 
 ## Markdown
@@ -70,16 +75,14 @@ For latest version see [github.com/kiwi0fruit/ultimate-question](https://github.
 
 ## Yet another one Russian to Latin translit
 
-[Kiwi0Fruit's translit](translit.md).
+[Kiwi0Fruit's translit](translit/translit.md).
 
 
-## Convenient and easily tweakable Atom+Markdown+Pandoc+Jupyter experience 
+## Movie reviews
 
-**(Can export to ipynb, R Markdown alternative)**
-
-[Article](atom_jupyter_pandoc_markdown.md).
+[Movie reviews](review).
 
 
-## Alternatives to R Markdown
+## pip resolve
 
-[The list](alternatives_to_r_markdown.md).
+[**Tool**](pip-resolve) that can be used to see what pip packages would be installed instead of conda packages.

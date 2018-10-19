@@ -1,4 +1,4 @@
-Fixes [this](https://github.com/ContinuumIO/anaconda-issues/issues/1660).
+Can be used to see what pip packages would be installed instead of conda packages.
 
 # Install
 
