@@ -13,7 +13,7 @@
 | **0**  | [**miranda-im-111**](https://github.com/kiwi0fruit/miranda-im-111). Miranda IM 111 Pack source code and latest installer. |
 |        | **Non-software** |
 | **2**  | [**ultimate-question**](https://github.com/kiwi0fruit/ultimate-question). The Ultimate Question of Life, the Universe, and Everything (On natural selection of the laws of nature, Artificial life and Open-ended evolution, Universal Darwinism, Occam's razor). [kiwi0fruit.github.io/ultimate-question](https://kiwi0fruit.github.io/ultimate-question), [reddit.com/r/compsci/comments/97s8dl](https://www.reddit.com/r/compsci/comments/97s8dl/on_natural_selection_of_the_laws_of_nature/) |
-| **1**  | [**breton**](https://github.com/kiwi0fruit/breton). Breton dances, French Balfolk and some celtic dances (music, video, dances descriptions in Russian). |
+| **2**  | [**breton**](https://github.com/kiwi0fruit/breton). Breton dances, French Balfolk and some celtic dances (music, video, dances descriptions in Russian). |
 | **0**  | [**misc**](https://github.com/kiwi0fruit/misc). [Jupyter notebooks as PDF, MS Word and others killer](src/pdf_and_word_killer.md) and other [miscellaneous stuff](src/misc.md) (markdown texts, html/css themes, etc.). |
 
 
