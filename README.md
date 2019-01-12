@@ -11,7 +11,7 @@
 | **0**  | [**sugartex-completions**](https://github.com/kiwi0fruit/sugartex-completions). Easy Unicode input for Atom optimized for [SugarTeX](https://github.com/kiwi0fruit/sugartex). |
 | **1**  | [**enaml-video-app**](https://github.com/kiwi0fruit/enaml-video-app). Easy to install cross-platform python desktop app that gets video via OpenCV and displays it via LGPL Qt 5 for Python (PySide2) GUI composed with Enaml & distributed with PyAppShare (uses Miniconda & Shortcutter). |
 | **1**  | [**matplotlibhelper**](https://github.com/kiwi0fruit/matplotlibhelper). Matplotlib Helper is my custom helper to tune Matplotlib experience for [Pandoctools/Knitty](https://github.com/kiwi0fruit/pandoctools). I tuned fonts, made some tweaks to use it with SugarTeX, some tweaks to use mpl interactive plots in Atom/Hydrogen. |
-| **0**  | [**featherhelper**](https://github.com/kiwi0fruit/featherhelper). Concise interface to cache 2D numpy arrays and pandas dataframes. I use it with  [Pandoctools/Knitty](https://github.com/kiwi0fruit/pandoctools). |
+| **0**  | [**featherhelper**](https://github.com/kiwi0fruit/featherhelper). Concise interface to cache numpy arrays and pandas dataframes. I use it with  [Pandoctools/Knitty](https://github.com/kiwi0fruit/pandoctools). |
 | **0**  | [**tabulatehelper**](https://github.com/kiwi0fruit/tabulatehelper). Converts tabular data like Pandas dataframe to GitHub Flavored Markdown pipe table (wrapper around [tabulate](https://pypi.org/project/tabulate/) module). I use it with  [Pandoctools/Knitty](https://github.com/kiwi0fruit/pandoctools). |
 | **0**  | [**miranda-im-111**](https://github.com/kiwi0fruit/miranda-im-111). Miranda IM 111 Pack source code and latest installer. |
 |        | **Non-software** |
