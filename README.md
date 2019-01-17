@@ -13,7 +13,7 @@
 | **1**  | [**matplotlibhelper**](https://github.com/kiwi0fruit/matplotlibhelper). Matplotlib Helper is my custom helper to tune Matplotlib experience for [Pandoctools/Knitty](https://github.com/kiwi0fruit/pandoctools). I tuned fonts, made some tweaks to use it with SugarTeX, some tweaks to use mpl interactive plots in Atom/Hydrogen. | |
 | **0**  | [**featherhelper**](https://github.com/kiwi0fruit/featherhelper). Concise interface to cache numpy arrays and pandas dataframes. I use it with  [Pandoctools/Knitty](https://github.com/kiwi0fruit/pandoctools). | |
 | **0**  | [**tabulatehelper**](https://github.com/kiwi0fruit/tabulatehelper). Converts tabular data like Pandas dataframe to GitHub Flavored Markdown pipe table (wrapper around [tabulate](https://pypi.org/project/tabulate/) module). I use it with  [Pandoctools/Knitty](https://github.com/kiwi0fruit/pandoctools). | |
-| **0**  | [**litereval**](https://github.com/kiwi0fruit/litereval). Wrapper around ast.literal_eval with new {foo='bar', key=None} dict syntax. + Deep merge two dictionaries. | |
+| **0**  | [**litereval**](https://github.com/kiwi0fruit/litereval). Wrapper around `ast.literal_eval` with new `{foo='bar', key=None}` dict syntax. + Deep merge two dictionaries. | |
 | **0**  | [**pyppdf**](https://github.com/kiwi0fruit/litereval): Pyppeteer PDF. Print html sites and files to pdf via pyppeteer (uses patched pyppeteer that by default downloads updated Chromium revision via https with certifi). | |
 | **0**  | [**miranda-im-111**](https://github.com/kiwi0fruit/miranda-im-111). Miranda IM 111 Pack source code and latest installer. | |
 |        | **Non-software** | |
