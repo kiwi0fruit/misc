@@ -3,6 +3,7 @@
 | Stars  | Software | Forks |
 |:------:|:---------|:-----:|
 | **64** | [**sugartex**](https://github.com/kiwi0fruit/sugartex). SugarTeX is a more readable LaTeX language extension and transcompiler to LaTeX. Fast Unicode autocomplete in Atom editor via [SugarTeX Completions for Atom](https://github.com/kiwi0fruit/sugartex-completions). | 1 |
+| **0** | [**sugartex-core**](https://github.com/kiwi0fruit/sugartex-core). Core of [SugarTeX](https://github.com/kiwi0fruit/sugartex) that doesn't depend on Pandoc. | |
 | **12** | [**pandoctools**](https://github.com/kiwi0fruit/pandoctools). Profile manager of text processing pipelines: Pandoc filters, any text CLI filters. Atom+Markdown+Pandoc+Jupyter workflow, export to ipynb. Uses [Knitty](https://github.com/kiwi0fruit/knitty) - a Stitch fork. | |
 | **6**  | [**pyappshare**](https://github.com/kiwi0fruit/pyappshare). PyAppShare is a cookbook for creating cross-platform desktop python applications in a moment. With shortcuts supporting virtual and Anaconda environments via [Shortcutter](https://github.com/kiwi0fruit/shortcutter). | |
 | **3**  | [**open-fonts**](https://github.com/kiwi0fruit/open-fonts). Collection of beautiful free and open source fonts: instructions for installing, Unicode fallback chains. | |
