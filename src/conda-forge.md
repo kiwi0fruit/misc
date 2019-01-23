@@ -1,6 +1,6 @@
 # conda-forge recipes
 
-* [pandoctools](https://github.com/conda-forge/pandoctools-feedstock)
+* [pandoctools](https://github.com/conda-forge/pandoctools-feedstock) (should update git dep to the latest conda-forge)
 * [matplotlibhelper](https://github.com/conda-forge/matplotlibhelper-feedstock)
 * [featherhelper](https://github.com/conda-forge/featherhelper-feedstock)
 * [tabulatehelper](https://github.com/conda-forge/tabulatehelper-feedstock)
