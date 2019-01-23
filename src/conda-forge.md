@@ -16,3 +16,4 @@
 * [pyee](https://github.com/conda-forge/pyee-feedstock)
 * [pandoc](https://github.com/conda-forge/pandoc-feedstock)
 * [sphinxcontrib-restbuilder](https://github.com/conda-forge/sphinxcontrib-restbuilder-feedstock)
+* [git](https://github.com/conda-forge/git-feedstock)
