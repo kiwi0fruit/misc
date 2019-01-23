@@ -12,3 +12,5 @@
 * [litereval](https://github.com/conda-forge/litereval-feedstock)
 * [pyppeteer](https://github.com/conda-forge/pyppeteer-feedstock)
 * [pyee](https://github.com/conda-forge/pyee-feedstock)
+* [pandoc](https://github.com/conda-forge/pandoc-feedstock)
+* [sphinxcontrib-restbuilder](https://github.com/conda-forge/sphinxcontrib-restbuilder-feedstock)
