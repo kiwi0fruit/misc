@@ -27,6 +27,6 @@
 More strictly speaking: [**Idea to enhance nbviewer with js/css plugins to make nbviewer+ipynb secure, dynamic and mobile friendly**](src/pdf_and_word_killer.md)
 
 
-## conda-forge recipes
+## [conda-forge recipes](src/conda-forge.md)
 
 [conda forge recipes](src/conda-forge.md)
