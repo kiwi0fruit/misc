@@ -15,6 +15,5 @@
 * [pyppeteer](https://github.com/conda-forge/pyppeteer-feedstock)
 * [pyee](https://github.com/conda-forge/pyee-feedstock)
 * [sphinxcontrib-restbuilder](https://github.com/conda-forge/sphinxcontrib-restbuilder-feedstock)
-* [git](https://github.com/conda-forge/git-feedstock) (another's)
+* conda-forge [git](https://github.com/conda-forge/git-feedstock/blob/master/recipe/meta.yaml), anaconda [git](https://anaconda.org/anaconda/git/files) 
 * [pandoc](https://github.com/conda-forge/pandoc-feedstock) (another's)
-* Anaconda [git](https://anaconda.org/anaconda/git/files)
