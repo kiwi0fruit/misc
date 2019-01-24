@@ -17,3 +17,4 @@
 * [sphinxcontrib-restbuilder](https://github.com/conda-forge/sphinxcontrib-restbuilder-feedstock)
 * [git](https://github.com/conda-forge/git-feedstock) (another's)
 * [pandoc](https://github.com/conda-forge/pandoc-feedstock) (another's)
+* Anaconda [git](https://anaconda.org/anaconda/git/files)
