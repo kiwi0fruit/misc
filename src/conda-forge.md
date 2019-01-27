@@ -1,6 +1,6 @@
 # conda-forge recipes
 
-* [pandoctools](https://github.com/conda-forge/pandoctools-feedstock) (should update git dep to the latest conda-forge)
+* [pandoctools](https://github.com/conda-forge/pandoctools-feedstock)
 * [matplotlibhelper](https://github.com/conda-forge/matplotlibhelper-feedstock)
 * [featherhelper](https://github.com/conda-forge/featherhelper-feedstock)
 * [tabulatehelper](https://github.com/conda-forge/tabulatehelper-feedstock)
@@ -15,5 +15,4 @@
 * [pyppeteer](https://github.com/conda-forge/pyppeteer-feedstock)
 * [pyee](https://github.com/conda-forge/pyee-feedstock)
 * [sphinxcontrib-restbuilder](https://github.com/conda-forge/sphinxcontrib-restbuilder-feedstock)
-* conda-forge [git](https://github.com/conda-forge/git-feedstock/blob/master/recipe/meta.yaml), anaconda [git](https://anaconda.org/anaconda/git/files) 
 * [pandoc](https://github.com/conda-forge/pandoc-feedstock) (another's)
