@@ -31,6 +31,23 @@
 More strictly speaking: [**Idea to enhance nbviewer with js/css plugins to make nbviewer+ipynb secure, dynamic and mobile friendly**](src/pdf_and_word_killer.md)
 
 
-## [conda-forge recipes](src/conda-forge.md)
+## conda-forge recipes
 
-[conda forge recipes](src/conda-forge.md)
+* [featherhelper](https://github.com/conda-forge/featherhelper-feedstock)
+* [ipynb-py-convert](https://github.com/conda-forge/ipynb-py-convert-feedstock)
+* [knitty](https://github.com/conda-forge/knitty-feedstock)
+* [litereval](https://github.com/conda-forge/litereval-feedstock)
+* [matplotlibhelper](https://github.com/conda-forge/matplotlibhelper-feedstock)
+* [mathjax](https://github.com/conda-forge/mathjax-feedstock)
+* [pandoc](https://github.com/conda-forge/pandoc-feedstock)
+* [pandoc-crossref](https://github.com/conda-forge/pandoc-crossref-feedstock)
+* [pandoctools](https://github.com/conda-forge/pandoctools-feedstock)
+* [panflute](https://github.com/conda-forge/panflute-feedstock)
+* [pyee](https://github.com/conda-forge/pyee-feedstock)
+* [pyppdf](https://github.com/conda-forge/pyppdf-feedstock)
+* [pyppeteer](https://github.com/conda-forge/pyppeteer-feedstock)
+* [pypugjs](https://github.com/conda-forge/pypugjs-feedstock)
+* [shortcutter](https://github.com/conda-forge/shortcutter-feedstock)
+* [sphinxcontrib-restbuilder](https://github.com/conda-forge/sphinxcontrib-restbuilder-feedstock)
+* [sugartex](https://github.com/conda-forge/sugartex-feedstock)
+* [tabulatehelper](https://github.com/conda-forge/tabulatehelper-feedstock)
