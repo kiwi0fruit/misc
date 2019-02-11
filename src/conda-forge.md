@@ -5,7 +5,7 @@
 * [knitty](https://github.com/conda-forge/knitty-feedstock)
 * [litereval](https://github.com/conda-forge/litereval-feedstock)
 * [matplotlibhelper](https://github.com/conda-forge/matplotlibhelper-feedstock)
-* [pandoc](https://github.com/conda-forge/pandoc-feedstock) (another's)
+* [pandoc](https://github.com/conda-forge/pandoc-feedstock)
 * [pandoc-crossref](https://github.com/conda-forge/pandoc-crossref-feedstock)
 * [pandoctools](https://github.com/conda-forge/pandoctools-feedstock)
 * [panflute](https://github.com/conda-forge/panflute-feedstock)
