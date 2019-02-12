@@ -17,11 +17,11 @@
 | **0**  | [**atom-sugartex-completions**](https://github.com/kiwi0fruit/sugartex-completions) (*fork*). Easy Unicode input for Atom optimized for [SugarTeX](https://github.com/kiwi0fruit/sugartex). | |
 | **0**  | [**atom-highlight-bad-chars-bl**](https://github.com/kiwi0fruit/atom-highlight-bad-chars-bl) (*fork*). Atom plugin: Highlight bad Unicode characters that can cause hard to spot syntax errors. | |
 | **0**  | [**miranda-im-111**](https://github.com/kiwi0fruit/miranda-im-111). Miranda IM 111 Pack source code and latest installer. | |
-|        | **Repackages** | |
+|        | **Repackaged** | |
 | **0**  | [**py-mathjax**](https://github.com/kiwi0fruit/py-mathjax). MathJax in pip and conda. | |
 | **0**  | [**py-pandoc-crossref**](https://github.com/kiwi0fruit/py-pandoc-crossref). pandoc-crossref in pip and conda. | |
 | **0**  | [**py-pandoc**](https://github.com/kiwi0fruit/py-pandoc). Pandoc in pip and conda. | |
-| **0**  | [**pandoc-attrs**](https://github.com/kiwi0fruit/pandoc-attrs) (*fork*). Repackage of the [aaren/pandoc-attributes](https://github.com/aaren/pandoc-attributes) | |
+| **0**  | [**pandoc-attrs**](https://github.com/kiwi0fruit/pandoc-attrs) (*fork*). [aaren/pandoc-attributes](https://github.com/aaren/pandoc-attributes) repackaged. | |
 | **0**  | [**ipynb-py-convert**](https://github.com/kiwi0fruit/ipynb-py-convert) (*fork*). Convert .py files runnable in VSCode or Atom/Hydrogen to Jupyter .ipynb notebooks and vice versa. | |
 |        | **Non-software** | |
 | **2**  | [**ultimate-question**](https://github.com/kiwi0fruit/ultimate-question). The Ultimate Question of Life, the Universe, and Everything (On natural selection of the laws of nature, Artificial life and Open-ended evolution, Universal Darwinism, Occam's razor). [kiwi0fruit.github.io/ultimate-question](https://kiwi0fruit.github.io/ultimate-question), [reddit.com/r/compsci/comments/97s8dl](https://www.reddit.com/r/compsci/comments/97s8dl/on_natural_selection_of_the_laws_of_nature/) | |
@@ -44,6 +44,7 @@ More strictly speaking: [**Idea to enhance nbviewer with js/css plugins to make 
 * [mathjax](https://github.com/conda-forge/mathjax-feedstock)
 * [pandoc](https://github.com/conda-forge/pandoc-feedstock)
 * [pandoc-crossref](https://github.com/conda-forge/pandoc-crossref-feedstock)
+* [pandoc-attrs](https://github.com/conda-forge/pandoc-attrs-feedstock)
 * [pandoctools](https://github.com/conda-forge/pandoctools-feedstock)
 * [panflute](https://github.com/conda-forge/panflute-feedstock)
 * [py-mathjax](https://github.com/conda-forge/py-mathjax-feedstock)
