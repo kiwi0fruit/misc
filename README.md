@@ -21,6 +21,7 @@
 | **0**  | [**atom-highlight-bad-chars-bl**](https://github.com/kiwi0fruit/atom-highlight-bad-chars-bl) (*fork*). Atom plugin: Highlight bad Unicode characters that can cause hard to spot syntax errors. | |
 | **0**  | [**ipynb-py-convert**](https://github.com/kiwi0fruit/ipynb-py-convert) (*fork*). Convert .py files runnable in VSCode or Atom/Hydrogen to Jupyter .ipynb notebooks and vice versa. | |
 | **0**  | [**miranda-im-111**](https://github.com/kiwi0fruit/miranda-im-111). Miranda IM 111 Pack source code and latest installer. | |
+| **0**  | [**pandoc-attrs**](https://github.com/kiwi0fruit/pandoc-attrs). Repackage of the [aaren/pandoc-attributes](https://github.com/aaren/pandoc-attributes) | |
 |        | **Non-software** | |
 | **2**  | [**ultimate-question**](https://github.com/kiwi0fruit/ultimate-question). The Ultimate Question of Life, the Universe, and Everything (On natural selection of the laws of nature, Artificial life and Open-ended evolution, Universal Darwinism, Occam's razor). [kiwi0fruit.github.io/ultimate-question](https://kiwi0fruit.github.io/ultimate-question), [reddit.com/r/compsci/comments/97s8dl](https://www.reddit.com/r/compsci/comments/97s8dl/on_natural_selection_of_the_laws_of_nature/) | |
 | **2**  | [**breton**](https://github.com/kiwi0fruit/breton). Breton dances, French Balfolk and some celtic dances (music, video, dances descriptions in Russian). | |
