@@ -1,6 +1,6 @@
 # Jung-Augustinavichiute-Talanov cognitive functions
 
-There are some differences between definitions of **cognitive functions** in MBTI and in *Jung-Augustinavichiute-Talanov personality model* (JAT). Actually my understanding of Talanov's ideas is a outdated. **JAT cognitive functions** roughly speaking are the ways of thinking:
+**Cognitive functions** roughly speaking are the ways of thinking:
 
 - Additional **function attitude**:
     - [**Introverted** functions (**I**)] Introverted, passed through oneself, passive, restoring, energy saving functions vs.
