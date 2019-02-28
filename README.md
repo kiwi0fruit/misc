@@ -57,6 +57,7 @@ More strictly speaking: [**Idea to enhance nbviewer with js/css plugins to make 
 * [pyppeteer](https://github.com/conda-forge/pyppeteer-feedstock)
 * [pypugjs](https://github.com/conda-forge/pypugjs-feedstock)
 * [shortcutter](https://github.com/conda-forge/shortcutter-feedstock)
+* [shutilwhich-cwdpatch](https://github.com/conda-forge/shutilwhich-cwdpatch-feedstock)
 * [sphinxcontrib-restbuilder](https://github.com/conda-forge/sphinxcontrib-restbuilder-feedstock)
 * [sugartex](https://github.com/conda-forge/sugartex-feedstock)
 * [tabulatehelper](https://github.com/conda-forge/tabulatehelper-feedstock)
