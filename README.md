@@ -18,6 +18,7 @@
 | **0**  | [**atom-sugartex-completions**](https://github.com/kiwi0fruit/sugartex-completions) (*fork*). Easy Unicode input for Atom optimized for [SugarTeX](https://github.com/kiwi0fruit/sugartex). | |
 | **0**  | [**atom-highlight-bad-chars-bl**](https://github.com/kiwi0fruit/atom-highlight-bad-chars-bl) (*fork*). Atom plugin: Highlight bad Unicode characters that can cause hard to spot syntax errors. | |
 | **0**  | [**miranda-im-111**](https://github.com/kiwi0fruit/miranda-im-111). Miranda IM 111 Pack source code and latest installer. | |
+| **0**  | [**shutilwhich-cwdpatch**](https://github.com/kiwi0fruit/shutilwhich-cwdpatch). Patch for shutil.which and shutilwhich that disables search in CWD on Windows. | |
 |        | **Repackaged (5)** | |
 | **0**  | [**py-mathjax**](https://github.com/kiwi0fruit/py-mathjax). MathJax in pip and conda. | |
 | **0**  | [**py-pandoc-crossref**](https://github.com/kiwi0fruit/py-pandoc-crossref). pandoc-crossref in pip and conda. | |
