@@ -20,6 +20,7 @@
 | **0**  | [**miranda-im-111**](https://github.com/kiwi0fruit/miranda-im-111). Miranda IM 111 Pack source code and latest installer. | |
 | **0**  | [**shutilwhich-cwdpatch**](https://github.com/kiwi0fruit/shutilwhich-cwdpatch). Patch for shutil.which and shutilwhich that disables search in CWD on Windows. | |
 |        | **Repackaged (5)** | |
+| **0**  | [**git-bash**](https://github.com/kiwi0fruit/git-bash). Repackage of the Git Bash for Windows for Conda package manager. | |
 | **0**  | [**py-mathjax**](https://github.com/kiwi0fruit/py-mathjax). MathJax in pip and conda. | |
 | **0**  | [**py-pandoc-crossref**](https://github.com/kiwi0fruit/py-pandoc-crossref). pandoc-crossref in pip and conda. | |
 | **0**  | [**py-pandoc**](https://github.com/kiwi0fruit/py-pandoc). Pandoc in pip and conda. | |
@@ -39,6 +40,7 @@ More strictly speaking: [**Idea to enhance nbviewer with js/css plugins to make 
 ## conda-forge recipes
 
 * [featherhelper](https://github.com/conda-forge/featherhelper-feedstock)
+* [git-bash](https://github.com/conda-forge/git-bash-feedstock)
 * [ipynb-py-convert](https://github.com/conda-forge/ipynb-py-convert-feedstock)
 * [knitty](https://github.com/conda-forge/knitty-feedstock)
 * [litereval](https://github.com/conda-forge/litereval-feedstock)
