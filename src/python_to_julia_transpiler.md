@@ -25,3 +25,12 @@ A good example of a transipiler from Python is [Transcrypt](https://github.com/Q
 I guess it should be done via IDE friendly mapping and juthon module with source to source mapping for Julia autocompletion and lynting passthrough as it seems that automatic creating of typed and documented python stubs would require more work than source mapping; for example Julia to python transpiling for other modules inspection. That would mean lack of type inspection inside IDE - errors should be displayed by jit transpiler and later julia compiler.
 
 [a bit of previous discussion](https://github.com/JuliaLang/Juleps/issues/55).
+
+UPD: Discussions:
+
+* [reddit.com/r/Python](https://www.reddit.com/r/Python/comments/axj0wz/pep_for_pythonfree_interop_at_c_level_vs_python)
+* [discourse.julialang.org](https://discourse.julialang.org/t/python-to-julia-transpiler/21473/8)
+
+The most probable outcome is that there won't be neither need for py2ju transpiler nor the transpiler itself. But compiling Julia to Python modules would appear some day (nothing like that now). As well as easy installing Julia for Python (there are still some problems there).
+
+There is an example of using low level C interfaces in Python: https://stackoverflow.com/a/51157909/9071377 It's pain to see it. But hopefully with Numba development dealing with such interfases can become more elegant.
