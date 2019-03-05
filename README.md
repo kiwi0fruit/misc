@@ -29,12 +29,17 @@
 |        | **Non-software (3)** | |
 | **2**  | [**ultimate-question**](https://github.com/kiwi0fruit/ultimate-question). The Ultimate Question of Life, the Universe, and Everything (On natural selection of the laws of nature, Artificial life and Open-ended evolution, Universal Darwinism, Occam's razor). [kiwi0fruit.github.io/ultimate-question](https://kiwi0fruit.github.io/ultimate-question), [reddit.com/r/compsci/comments/97s8dl](https://www.reddit.com/r/compsci/comments/97s8dl/on_natural_selection_of_the_laws_of_nature/) | |
 | **2**  | [**breton**](https://github.com/kiwi0fruit/breton). Breton dances, French Balfolk and some celtic dances (music, video, dances descriptions in Russian). | |
-| **0**  | [**misc**](https://github.com/kiwi0fruit/misc). [Jupyter notebooks as PDF, MS Word and others killer](src/pdf_and_word_killer.md) and other [miscellaneous stuff](src/misc.md) (markdown texts, html/css themes, etc.). | |
+| **0**  | [**misc**](https://github.com/kiwi0fruit/misc). [Jupyter notebooks as PDF, MS Word and others killer](src/pdf_and_word_killer.md), [PEP for Python-free interop at C level vs. Python to Julia transpiler](https://github.com/kiwi0fruit/misc/issues/6) and other [miscellaneous stuff](src/misc.md) (markdown texts, html/css themes, etc.). | |
 
 
 ## [Jupyter notebooks as PDF, MS Word and others killer](src/pdf_and_word_killer.md)
 
 More strictly speaking: [**Idea to enhance nbviewer with js/css plugins to make nbviewer+ipynb secure, dynamic and mobile friendly**](src/pdf_and_word_killer.md)
+
+
+## PEP for Python-free interop at C level vs. Python to Julia transpiler
+
+[PEP for Python-free interop at C level vs. Python to Julia transpiler](https://github.com/kiwi0fruit/misc/issues/6)
 
 
 ## conda-forge recipes
