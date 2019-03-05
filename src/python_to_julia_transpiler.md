@@ -1,3 +1,5 @@
+# PEP for Python-free interop at C level vs. Python to Julia transpiler
+
 There is a interesting question in the Python community about standartizing API that exports and accepts fast functions so that computation utilizing multiple packages can happen outside of the Python interpreter. Unfortunately it's not that popular question. Sometimes it turns into [Cython/Numba/C/C++ battles](https://github.com/pydata/sparse/issues/126).
 
 There is a discussion of this issue: [Why Julia? Will Python/Numba and Python/Cython lose to Julia?](https://github.com/numba/numba/issues/3814). And I cannot foresee any solution to this disarray except maybe [interop at the C level](https://numba.pydata.org/numba-doc/dev/user/cfunc.html#example). If there would be a PEP specification for such API then it would be even better. But I guess the solution to this should be as pythonic as possible (mentioned Numba tools to create C functions in a pythonic way are really good).
