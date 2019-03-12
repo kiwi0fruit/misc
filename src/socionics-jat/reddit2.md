@@ -40,10 +40,10 @@ In my translation of socionics types names to english the 4 letter code shows th
 
 | quadra | EP | IJ | IP | EJ |
 |:--:|:--:|:--:|:--:|:--:|
-| α | **ENTP**  ILE  ENTP  **1** | **INTJ-&#8288;Ti-&#8288;dom**  LII  INTx  **2** | **ISFP-&#8288;Si-&#8288;dom**  SEI  ISFx  **3** | **ESFJ**  ESE  ESFJ  **4** |
-| β | **ESTP**  SLE  ESTP  **5** | **ISTJ-&#8288;Ti-&#8288;dom**  LSI  ISTx  **6** | **INFP-&#8288;Ni-&#8288;dom**  IEI  INFx  **7** | **ENFJ**  EIE  ENFJ  **8** |
-| γ | **ESFP**  SEE  ESFP  **9** | **ISFJ-&#8288;Fi-&#8288;dom**  ESI  ISFx  **10** | **INTP-&#8288;Ni-&#8288;dom**  ILI  INTx  **11** | **ENTJ**  LIE  ENTJ  **12** |
-| δ | **ENFP**  IEE  ENFP  **13** | **INFJ-&#8288;Fi-&#8288;dom**  EII  INFx  **14** | **ISTP-&#8288;Si-&#8288;dom**  SLI  ISTx  **15** | **ESTJ**  LSE  ESTJ  **16** |
+| α alpha | **ENTP**  ILE  ENTP  **1** | **INTJ-&#8288;Ti-&#8288;dom**  LII  INTx  **2** | **ISFP-&#8288;Si-&#8288;dom**  SEI  ISFx  **3** | **ESFJ**  ESE  ESFJ  **4** |
+| β beta | **ESTP**  SLE  ESTP  **5** | **ISTJ-&#8288;Ti-&#8288;dom**  LSI  ISTx  **6** | **INFP-&#8288;Ni-&#8288;dom**  IEI  INFx  **7** | **ENFJ**  EIE  ENFJ  **8** |
+| γ gamma | **ESFP**  SEE  ESFP  **9** | **ISFJ-&#8288;Fi-&#8288;dom**  ESI  ISFx  **10** | **INTP-&#8288;Ni-&#8288;dom**  ILI  INTx  **11** | **ENTJ**  LIE  ENTJ  **12** |
+| δ delta | **ENFP**  IEE  ENFP  **13** | **INFJ-&#8288;Fi-&#8288;dom**  EII  INFx  **14** | **ISTP-&#8288;Si-&#8288;dom**  SLI  ISTx  **15** | **ESTJ**  LSE  ESTJ  **16** |
 
 
 ## 4. Why quadras grouped this way?
@@ -70,19 +70,19 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 
 | **Unknown types** | **Meaning of unknown types** | **Mixed type** |
 |:--:|:--:|:--:|
-| ExTJ | ENTJ ∨ ESTJ ∨ EuTJ ∨ ... | EuTJ |
-| ENxJ | ENTJ ∨ ENFJ ∨ ENuJ ∨ ... | ENuJ |
-| INTx<2,11> | INTJ-Ti-dom ∨ INTP-Ni-dom ∨ INTu ∨ ... | INTu[2~11], INTu |
-| IxTJ<2,6> | INTJ-Ti-dom ∨ ISTJ-Ti-dom ∨ IuTJ[2~6] ∨ ... | IuTJ[2~6] |
-| xNTx<1,2> | ENTP ∨ INTJ-Ti-dom ∨ uNTu[1~2] ∨ ... | uNTu[1~2] |
-| xNTJ<2,12> | ENTJ ∨ INTJ-Ti-dom ∨ uNTJ[2~12] ∨ ... | uNTJ[2~12] |
-| INxJ<2,14> | INTJ-Ti-dom ∨ INFJ-Fi-dom ∨ INuJ[2~14] ∨ ... | INuJ[2~14] |
-| IxTx<2,15> | INTJ-Ti-dom ∨ ISTP-Si-dom ∨ IuTu[2~15] ∨ ... | IuTu[2~15] |
-| INxx<2,7> | INTJ-Ti-dom ∨ INFP-Ni-dom ∨ INuu[2~7] ∨ ... | INuu[2~7] |
-| xNxx<1,2,13,14>, xNxx[A+D] | INTJ-Ti-dom ∨ ENTP ∨ INFJ-Fi-dom ∨ ENFP ∨ ENuP ∨ ... | ? (A+D = alpha or delta) |
-| Ixxx<6,7,10,11>, Ixxx[B+G] | ISTJ-Ti-dom ∨ INFP-Ni-dom ∨ ISFJ-Fi-dom ∨ INTP-Ni-dom ∨ ... | ? (B+G = beta or gamma) |
-| IxxJ<2,10> | INTJ-Ti-dom ∨ ISFJ-Fi-dom ∨ IuuJ[2~10] ∨ ... | IuuJ[2~10] |
-| xNxP<1,7,11,13> | ENTP ∨ INFP-Ni-dom ∨ INTP-Ni-dom ∨ ENFP ∨ ENuP ∨ INuP-Ni-dom ... | ? |
-| IxTx<2,6,11,15> | INTJ-Ti-dom ∨ ISTJ-Ti-dom ∨ INTP-Ni-dom ∨ ISTP-Si-dom ∨ IuTJ[2~6] ∨ ... | ? |
-| ENxP<1,[1~13]> | ENTP ∨ ENuP ∨ ... (but not ENFP) | ENTP[1<-13] |
-| xNTx<2,[1~2]> | INTJ-Ti-dom ∨ uNTu[1~2] ∨ ... (but not ENTP) | INTJ[2<-1] |
+| ExTJ | ENTJ v ESTJ v EuTJ v ... | EuTJ |
+| ENxJ | ENTJ v ENFJ v ENuJ v ... | ENuJ |
+| INTx<2,11> | INTJ-Ti-dom v INTP-Ni-dom v INTu v ... | INTu[2~11], INTu |
+| IxTJ<2,6> | INTJ-Ti-dom v ISTJ-Ti-dom v IuTJ[2~6] v ... | IuTJ[2~6] |
+| xNTx<1,2> | ENTP v INTJ-Ti-dom v uNTu[1~2] v ... | uNTu[1~2] |
+| xNTJ<2,12> | ENTJ v INTJ-Ti-dom v uNTJ[2~12] v ... | uNTJ[2~12] |
+| INxJ<2,14> | INTJ-Ti-dom v INFJ-Fi-dom v INuJ[2~14] v ... | INuJ[2~14] |
+| IxTx<2,15> | INTJ-Ti-dom v ISTP-Si-dom v IuTu[2~15] v ... | IuTu[2~15] |
+| INxx<2,7> | INTJ-Ti-dom v INFP-Ni-dom v INuu[2~7] v ... | INuu[2~7] |
+| xNxx<1,2,13,14>, xNxx[A+D] | INTJ-Ti-dom v ENTP v INFJ-Fi-dom v ENFP v ENuP v ... | ? (A+D = alpha or delta) |
+| Ixxx<6,7,10,11>, Ixxx[B+G] | ISTJ-Ti-dom v INFP-Ni-dom v ISFJ-Fi-dom v INTP-Ni-dom v ... | ? (B+G = beta or gamma) |
+| IxxJ<2,10> | INTJ-Ti-dom v ISFJ-Fi-dom v IuuJ[2~10] v ... | IuuJ[2~10] |
+| xNxP<1,7,11,13> | ENTP v INFP-Ni-dom v INTP-Ni-dom v ENFP v ENuP v INuP-Ni-dom ... | ? |
+| IxTx<2,6,11,15> | INTJ-Ti-dom v ISTJ-Ti-dom v INTP-Ni-dom v ISTP-Si-dom v IuTJ[2~6] v ... | ? |
+| ENxP<1,[1~13]> | ENTP v ENuP v ... (but not ENFP) | ENTP[1<-13] |
+| xNTx<2,[1~2]> | INTJ-Ti-dom v uNTu[1~2] v ... (but not ENTP) | INTJ[2<-1] |
