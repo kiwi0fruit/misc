@@ -79,8 +79,8 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 | INxJ<2;14> | INTJ-Ti-dom v INFJ-Fi-dom v INuJ[2~14] v ... | INuJ[2~14] |
 | IxTx<2;15> | INTJ-Ti-dom v ISTP-Si-dom v IuTu[2~15] v ... | IuTu[2~15] |
 | INxx<2;7> | INTJ-Ti-dom v INFP-Ni-dom v INuu[2~7] v ... | INuu[2~7] |
-| xNxx<1;2;13;14>, xNxx[A+D] | INTJ-Ti-dom v ENTP v INFJ-Fi-dom v ENFP v ENuP v ... | ? (A+D = alpha or delta) |
-| Ixxx<6;7;10;11>, Ixxx[B+G] | ISTJ-Ti-dom v INFP-Ni-dom v ISFJ-Fi-dom v INTP-Ni-dom v ... | ? (B+G = beta or gamma) |
+| xNxx<1;2;13;14>, xNxx[A;D] | INTJ-Ti-dom v ENTP v INFJ-Fi-dom v ENFP v ENuP v ... | ? (A;D = alpha or delta) |
+| Ixxx<6;7;10;11>, Ixxx[B;G] | ISTJ-Ti-dom v INFP-Ni-dom v ISFJ-Fi-dom v INTP-Ni-dom v ... | ? (B;G = beta or gamma) |
 | IxxJ<2;10> | INTJ-Ti-dom v ISFJ-Fi-dom v IuuJ[2~10] v ... | IuuJ[2~10] |
 | xNxP<1;7;11;13> | ENTP v INFP-Ni-dom v INTP-Ni-dom v ENFP v ENuP v INuP-Ni-dom ... | ? |
 | IxTx<2;6;11;15> | INTJ-Ti-dom v ISTJ-Ti-dom v INTP-Ni-dom v ISTP-Si-dom v IuTJ[2~6] v ... | ? |
