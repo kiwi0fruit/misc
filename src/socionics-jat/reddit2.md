@@ -73,7 +73,7 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 | ExTJ | ENTJ v ESTJ v EuTJ v ... | EuTJ |
 | ENxJ | ENTJ v ENFJ v ENuJ v ... | ENuJ |
 | INTx<2,11> | INTJ-Ti-dom v INTP-Ni-dom v INTu v ... | INTu[2~11], INTu |
-| IxTJ<2,6> | INTJ-Ti-dom v ISTJ-Ti-dom v IuTJ[2~6] v ... | IuTJ[2~6] |
+| IxTJ<2,6>, IxTJ-Ti-dom | INTJ-Ti-dom v ISTJ-Ti-dom v IuTJ[2~6] v ... | IuTJ[2~6] |
 | xNTx<1,2> | ENTP v INTJ-Ti-dom v uNTu[1~2] v ... | uNTu[1~2] |
 | xNTJ<2,12> | ENTJ v INTJ-Ti-dom v uNTJ[2~12] v ... | uNTJ[2~12] |
 | INxJ<2,14> | INTJ-Ti-dom v INFJ-Fi-dom v INuJ[2~14] v ... | INuJ[2~14] |
