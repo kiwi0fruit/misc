@@ -40,10 +40,10 @@ In my translation of socionics types names to english the 4 letter code shows th
 
 | quadra | EP | IJ | IP | EJ |
 |:--:|:--:|:--:|:--:|:--:|
-| α alpha | **ENTP**  ILE  ENTP  **1** | **INTJ-&#8288;Ti-&#8288;dom**  LII  INTx  **2** | **ISFP-&#8288;Si-&#8288;dom**  SEI  ISFx  **3** | **ESFJ**  ESE  ESFJ  **4** |
-| β beta | **ESTP**  SLE  ESTP  **5** | **ISTJ-&#8288;Ti-&#8288;dom**  LSI  ISTx  **6** | **INFP-&#8288;Ni-&#8288;dom**  IEI  INFx  **7** | **ENFJ**  EIE  ENFJ  **8** |
-| γ gamma | **ESFP**  SEE  ESFP  **9** | **ISFJ-&#8288;Fi-&#8288;dom**  ESI  ISFx  **10** | **INTP-&#8288;Ni-&#8288;dom**  ILI  INTx  **11** | **ENTJ**  LIE  ENTJ  **12** |
-| δ delta | **ENFP**  IEE  ENFP  **13** | **INFJ-&#8288;Fi-&#8288;dom**  EII  INFx  **14** | **ISTP-&#8288;Si-&#8288;dom**  SLI  ISTx  **15** | **ESTJ**  LSE  ESTJ  **16** |
+| α alpha **A** | **ENTP**  ILE  ENTP  **1** | **INTJ-&#8288;Ti-&#8288;dom**  LII  INTx  **2** | **ISFP-&#8288;Si-&#8288;dom**  SEI  ISFx  **3** | **ESFJ**  ESE  ESFJ  **4** |
+| β beta **B** | **ESTP**  SLE  ESTP  **5** | **ISTJ-&#8288;Ti-&#8288;dom**  LSI  ISTx  **6** | **INFP-&#8288;Ni-&#8288;dom**  IEI  INFx  **7** | **ENFJ**  EIE  ENFJ  **8** |
+| γ gamma **G** | **ESFP**  SEE  ESFP  **9** | **ISFJ-&#8288;Fi-&#8288;dom**  ESI  ISFx  **10** | **INTP-&#8288;Ni-&#8288;dom**  ILI  INTx  **11** | **ENTJ**  LIE  ENTJ  **12** |
+| δ delta **D** | **ENFP**  IEE  ENFP  **13** | **INFJ-&#8288;Fi-&#8288;dom**  EII  INFx  **14** | **ISTP-&#8288;Si-&#8288;dom**  SLI  ISTx  **15** | **ESTJ**  LSE  ESTJ  **16** |
 
 
 ## 4. Why quadras grouped this way?
