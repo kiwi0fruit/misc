@@ -72,17 +72,17 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 |:--:|:--:|:--:|
 | ExTJ | ENTJ ∨ ESTJ ∨ EuTJ ∨ ... | EuTJ |
 | ENxJ | ENTJ ∨ ENFJ ∨ ENuJ ∨ ... | ENuJ |
-| INTx<2,11> | INTJ[2] ∨ INTP[11] ∨ INTu ∨ ... | INTu[2~11], INTu |
-| IxTJ<2,6> | INTJ[2] ∨ ISTJ[6] ∨ IuTJ[2~6] ∨ ... | IuTJ[2~6] |
-| xNTx<1,2> | ENTP ∨ INTJ[2] ∨ uNTu[1~2] ∨ ... | uNTu[1~2] |
-| xNTJ<2,12> | ENTJ ∨ INTJ[2] ∨ uNTJ[2~12] ∨ ... | uNTJ[2~12] |
-| INxJ<2,14> | INTJ[2] ∨ INFJ[14] ∨ INuJ[2~14] ∨ ... | INuJ[2~14] |
-| IxTx<2,15> | INTJ[2] ∨ ISTP[15] ∨ IuTu[2~15] ∨ ... | IuTu[2~15] |
-| INxx<2,7> | INTJ[2] ∨ INFP[7] ∨ INuu[2~7] ∨ ... | INuu[2~7] |
-| xNxx<1,2,13,14>, xNxx/ad<1,2,13,14> | INTJ[2] ∨ ENTP ∨ INFJ[14] ∨ ENFP ∨ ENuP ∨ ... | ? (ad := alpha delta) |
-| Ixxx<6,7,10,11>, Ixxx/bg<6,7,10,11> | ISTJ[6] ∨ INFP[7] ∨ ISFJ[10] ∨ INTP[11] ∨ ... | ? (bg := beta gamma) |
-| IxxJ<2,10> | INTJ[2] ∨ ISFJ[10] ∨ IuuJ[2~10] ∨ ... | IuuJ[2~10] |
-| xNxP<1,7,11,13> | ENTP ∨ INFP[7] ∨ INTP[11] ∨ ENFP ∨ ENuP ∨ ... | ? |
-| IxTx<2,6,11,15> | INTJ[2] ∨ ISTJ[6] ∨ INTP[11] ∨ ISTP[15] ∨ IuTJ[2~6] ∨ ... | ? |
-| ENxP<1,[1~13]> | ENTP ∨ ENuP ∨ ... (but not ENFP) | ENTP[1<-13] |
-| xNTx<2,[1~2]> | INTJ[2] ∨ uNTu[1~2] ∨ ... (but not ENTP) | INTJ[2<-1] |
+| INTx<2,11> | INTJ-Ti-dom ∨ INTP-Ni-dom ∨ INTu ∨ ... | INTu[2+11], INTu |
+| IxTJ<2,6> | INTJ-Ti-dom ∨ ISTJ-Ti-dom ∨ IuTJ[2+6] ∨ ... | IuTJ[2+6] |
+| xNTx<1,2> | ENTP ∨ INTJ-Ti-dom ∨ uNTu[1+2] ∨ ... | uNTu[1+2] |
+| xNTJ<2,12> | ENTJ ∨ INTJ-Ti-dom ∨ uNTJ[2+12] ∨ ... | uNTJ[2+12] |
+| INxJ<2,14> | INTJ-Ti-dom ∨ INFJ-Fi-dom ∨ INuJ[2+14] ∨ ... | INuJ[2+14] |
+| IxTx<2,15> | INTJ-Ti-dom ∨ ISTP-Si-dom ∨ IuTu[2+15] ∨ ... | IuTu[2+15] |
+| INxx<2,7> | INTJ-Ti-dom ∨ INFP-Ni-dom ∨ INuu[2+7] ∨ ... | INuu[2+7] |
+| xNxx<1,2,13,14>, xNxx[A+D] | INTJ-Ti-dom ∨ ENTP ∨ INFJ-Fi-dom ∨ ENFP ∨ ENuP ∨ ... | ? (A+D = alpha or delta) |
+| Ixxx<6,7,10,11>, Ixxx[B+G] | ISTJ-Ti-dom ∨ INFP-Ni-dom ∨ ISFJ-Fi-dom ∨ INTP-Ni-dom ∨ ... | ? (B+G = beta or gamma) |
+| IxxJ<2,10> | INTJ-Ti-dom ∨ ISFJ-Fi-dom ∨ IuuJ[2+10] ∨ ... | IuuJ[2+10] |
+| xNxP<1,7,11,13> | ENTP ∨ INFP-Ni-dom ∨ INTP-Ni-dom ∨ ENFP ∨ ENuP ∨ INuP-Ni-dom ... | ? |
+| IxTx<2,6,11,15> | INTJ-Ti-dom ∨ ISTJ-Ti-dom ∨ INTP-Ni-dom ∨ ISTP-Si-dom ∨ IuTJ[2+6] ∨ ... | ? |
+| ENxP<1,(1+13)> | ENTP ∨ ENuP ∨ ... (but not ENFP) | ENTP[1<-13] |
+| xNTx<2,(1+2)> | INTJ-Ti-dom ∨ uNTu[1+2] ∨ ... (but not ENTP) | INTJ[2<-1] |
