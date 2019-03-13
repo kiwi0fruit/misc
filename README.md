@@ -1,6 +1,6 @@
 # Pinned repositories
 
-| Stars  | Software (17) | Forks |
+| Stars  | Software (16) | Forks |
 |:------:|:--------------|:-----:|
 | **64** | [**sugartex**](https://github.com/kiwi0fruit/sugartex). SugarTeX is a more readable LaTeX language extension and transcompiler to LaTeX. Fast Unicode autocomplete in Atom editor via [SugarTeX Completions for Atom](https://github.com/kiwi0fruit/sugartex-completions). | 1 |
 | **14** | [**pandoctools**](https://github.com/kiwi0fruit/pandoctools). Profile manager of text processing pipelines: Pandoc filters, any text CLI filters. Atom+Markdown+Pandoc+Jupyter workflow, export to ipynb. Uses [Knitty](https://github.com/kiwi0fruit/knitty) - a Stitch fork. | |
@@ -16,10 +16,10 @@
 | **0**  | [**pystitch**](https://github.com/kiwi0fruit/pystitch/tree/src) (*fork*). Part of the Knitty documentstion. | |
 | **0**  | [**litereval**](https://github.com/kiwi0fruit/litereval). Wrapper around `ast.literal_eval` with new `{foo='bar', key=None}` dict syntax. + Deep merge two dictionaries. | |
 | **0**  | [**atom-sugartex-completions**](https://github.com/kiwi0fruit/sugartex-completions) (*fork*). Easy Unicode input for Atom optimized for [SugarTeX](https://github.com/kiwi0fruit/sugartex). | |
-| **0**  | [**atom-highlight-bad-chars-bl**](https://github.com/kiwi0fruit/atom-highlight-bad-chars-bl) (*fork*). Atom plugin: Highlight bad Unicode characters that can cause hard to spot syntax errors. | |
 | **0**  | [**miranda-im-111**](https://github.com/kiwi0fruit/miranda-im-111). Miranda IM 111 Pack source code and latest installer. | |
 | **0**  | [**shutilwhich-cwdpatch**](https://github.com/kiwi0fruit/shutilwhich-cwdpatch). Patch for shutil.which and shutilwhich that disables search in CWD on Windows. | |
-|        | **Repackaged (6)** | |
+|        | **Repackaged (7)** | |
+| **0**  | [**atom-highlight-bad-chars-bl**](https://github.com/kiwi0fruit/atom-highlight-bad-chars-bl) (*fork*). Atom plugin: Highlight bad Unicode characters that can cause hard to spot syntax errors. | |
 | **0**  | [**git-bash**](https://github.com/kiwi0fruit/git-bash). Repackage of the Git Bash for Windows for Conda package manager. | |
 | **0**  | [**py-mathjax**](https://github.com/kiwi0fruit/py-mathjax). MathJax in pip and conda. | |
 | **0**  | [**py-pandoc-crossref**](https://github.com/kiwi0fruit/py-pandoc-crossref). pandoc-crossref in pip and conda. | |
