@@ -14,16 +14,16 @@ But there are some differences between definitions of **cognitive functions** in
     - [**Introverted** functions (**I**)] Introverted, passed through oneself, passive, restoring, energy saving functions vs.
     - [**Extraverted** functions (**E**)] Extraverted, directed outwards, active, energy-consuming functions.
 - [**Perceiving** functions (**P**)] Perceiving, instinctive, impulsive functions:
-    - [**Associative** thinking (**N**)] Abstract, imaginative, assumptive, intuitive thinking (breadth of associations) vs.
-    - [**Material** thinking (**S**)] Tangible-oriented, detailed, concrete, materially-oriented thinking (orientation to physical reality and physical qualities).
+    - [**Intuitive** thinking (**N**)] Abstract, imaginative, assumptive, associative thinking (breadth of associations) vs.
+    - [**Sensory** thinking (**S**)] Tangible-oriented, detailed, concrete, materially-oriented thinking (orientation to physical reality and physical qualities).
 - [**Judging** functions (**J**)] Judging, stable, impulse controlling functions (decision-making):
-    - [**Task-oriented** thinking (**T**)] Logical, analytical, algorithmic, task-oriented thinking (orientation to formal side and facs) vs.
-    - [**Feelings-oriented** thinking (**F**)] Moral, empathic, social-oriented, interpersonal emotional thinking (feelings, emotional regulation of society).
+    - [**Task-oriented** thinking (**T**)] Logical, analytical, algorithmic, task-oriented thinking, reasoning (orientation to formal side and facs) vs.
+    - [**Feelings-oriented** thinking (**F**)] Moral, empathic, sentimental, social-oriented, interpersonal emotional thinking (feelings, emotional regulation of society).
 
-- **Ne** - _Extraverted associative thinking_. Conjectures, guesses and speculations (e.g. about the essence), ideas, curiosity, novelty seeking.
-- **Ni** - _Introverted associative thinking_. Fantasy, fictional reality, imagining processes in time, prognostication, prediction, forecasting
-- **Se** - _Extraverted material thinking_. Active actions, confrontation, the accumulation of material resources, aggression, strength.
-- **Si** - _Introverted material thinking_. Health, comfort, convenience, safety. Perception of sensations.
+- **Ne** - _Extraverted intuitive thinking_. Conjectures, guesses and speculations (e.g. about the essence), ideas, curiosity, novelty seeking.
+- **Ni** - _Introverted intuitive thinking_. Fantasy, fictional reality, imagining processes in time, prognostication, prediction, forecasting
+- **Se** - _Extraverted sensory thinking_. Active actions, confrontation, the accumulation of material resources, aggression, strength.
+- **Si** - _Introverted sensory thinking_. Health, comfort, convenience, safety. Perception of sensations.
 - **Te** - _Extraverted task-oriented thinking_. Actions and their algorithms, tools, pattern action-result (formal part of activities organizing).
 - **Ti** - _Introverted task-oriented thinking_. Order, laws, structures, classification, analysis and comparison.
 - **Fe** - _Extraverted feelings-oriented thinking_. Modifying the mood and the emotional state of people hence manipulating their activities (e.g. by means of inspiration and enthusiasm). Modifying group activity is specifically important.
@@ -67,7 +67,7 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 ## 5. Intermediate types names
 
 1. Names for truly **intermediate types** are proposed. Names for unknown types like ExTJ are common (this can be ENTJ, ESTJ or intermediate type, we do not know which one exactly). Similarly EμTJ/EuTJ (like μTorrent/uTorrent) is the name for truly intermediate type. **μ** is the standard symbol that denotes mean value. We also automatically get **explicit notation** like IxTJ-Ti-dom. The existence of intermediate types is still an open question. It's easy to imagine intermediate type between types with the same dominant function but not with different ones.
-2. Below are some examples of short names for types, unknown types and intermediate/mixed types. The 4 letter code at the beginning shows the position on 4 axes that can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part shows cognitive functions stack. I guess it may even be possible to have **ENTJ-Ne-dom** if the person is a mixture equally of ENTP, ENTJ and INTJ-Ti-dom: ENTJ[1\~2~12]. But at the moment it's a speculation only.
+2. Below are some examples of short names for types, unknown types and intermediate/mixed types. The 4 letter code at the beginning shows the position on 4 axes that can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part shows cognitive functions stack. I guess it may even be possible to have **ENTJ-Ne-dom** if the person is a mixture equally of ENTP, ENTJ and INTJ-Ti-dom: ENTJ(1\~2~12). But at the moment it's a speculation only.
 3. Additional postfixes are needed when there should be noted that socioics types are meant (but not the MBTI types). This is relevant for unknown types with **x** on J/P axis because quadra letters only do not help in this case. For example **INTx<2,11>** = INTJ-Ti-dom or INTP-Ni-dom or INTu. But if we take MBTI types then **INTx** = INTP-Ti-dom or INTJ-Ni-dom or INTu. This is not relevant for intermediate types with **u** on J/P axis.
 
 | **Unknown types** | **Meaning of unknown types** | **Mixed type** |
@@ -89,3 +89,31 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 | ENxP<1;1~13> | ENTP v ENuP v ... (but not ENFP) | ENTP(1<-13) |
 | xNTx<2;1~2> | INTJ-Ti-dom v uNTu(1~2) v ... (but not ENTP) | INTJ(2<-1) |
 | INxJ<2;2\~6>, INxJ-Ti-dom<2;2~6> | INTJ-Ti-dom v IuTJ(2~6) v ... (but not ISTJ-Ti-dom) | INTJ(2<-6) |
+
+
+# 6. Translation of some useful socionics terms
+
+Terms that can describe a person or a type.
+
+1. extraverted vs. introverted, extravert vs. introvert, Exxx vs. Ixxx,
+2. judging vs. perceiving, judger vs. perceiver, xxxJ vs. xxxP,
+3. intuitive vs. sensory, intuiter vs. sensor, xNxx vs. xSxx  
+  (Though I don't fond of using neither sensors nor detectors),
+4. thinker vs. feeler, xxTx vs. xxFx  
+  (Though I don't fond of using neither feelers nor tentacles. My favourite is "sensing feelers" 🐙),
+5. dominant or first function, auxiliary or second function,
+6. serene aka alpha-delta: having Ne and Si as valuable functions  
+  (More fond of cooperative, sensible, peaceful and leisurely unhurried ways),
+7. resolute aka beta-gamma: having Se and Ni as valuable functions  
+  (More fond of competitive, argessive, time-bound and fast resolutive ways),
+8. alpha-beta: having Fe and Ti as valuable functions,
+9. gamma-delta: having Te and Fi as valuable functions,
+
+Examples:
+
+* feelings-oriented sensor, feeler sensor, sensory feeler,
+* task-oriented intuiter, thinker intuiter, intuitive thinker,
+* serene intuiter, resolute sensor,
+* gamma-delta thinker,
+* resolute introvert,
+* extraverted perceiving intuitive thinker.
