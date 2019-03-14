@@ -95,25 +95,26 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 
 Terms that can describe a person or a type.
 
-1. extraverted vs. introverted, extravert vs. introvert, Exxx vs. Ixxx,
-2. judging vs. perceiving, judger vs. perceiver, xxxJ vs. xxxP,
-3. intuitive vs. sensory, intuiter vs. sensor, xNxx vs. xSxx  
+1. extraverted vs. introverted, extravert vs. introvert (E vs. I),
+2. judging vs. perceiving, judger vs. perceiver (J vs. P),
+3. intuitive vs. sensory, intuiter vs. sensor (N vs. S)  
   (Though I don't fond of using neither sensors nor detectors),
-4. thinker vs. feeler, xxTx vs. xxFx  
+4. task-oriented vs. feelings-oriented, thinker vs. feeler (T vs. F)  
   (Though I don't fond of using neither feelers nor tentacles. My favourite is "sensing feelers" 🐙),
 5. dominant or first function, auxiliary or second function,
-6. serene aka alpha-delta: having Ne and Si as valuable functions  
+6. serene aka alpha-delta: having Ne and Si as valuable functions (AD vs. BG)  
   (More fond of cooperative, sensible, peaceful and leisurely unhurried ways),
-7. resolute aka beta-gamma: having Se and Ni as valuable functions  
+7. resolute aka beta-gamma: having Se and Ni as valuable functions (AD vs. BG)  
   (More fond of competitive, argessive, time-bound and fast resolutive ways),
-8. alpha-beta: having Fe and Ti as valuable functions,
-9. gamma-delta: having Te and Fi as valuable functions,
+8. alpha-beta: having Fe and Ti as valuable functions (AB vs. GD),
+9. gamma-delta: having Te and Fi as valuable functions (AB vs. GD),
 
 Examples:
 
 * feelings-oriented sensor, feeler sensor, sensory feeler,
 * task-oriented intuiter, thinker intuiter, intuitive thinker,
-* serene intuiter, resolute sensor,
+* alpha-delta intuiter, serene intuiter, serene sensor, 
+* beta-gamma intuiter, resolute intuiter, resolute sensor,
 * gamma-delta thinker,
 * resolute introvert,
 * extraverted perceiving intuitive thinker.
