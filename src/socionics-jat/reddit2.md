@@ -99,7 +99,7 @@ Terms that can describe a person or a type.
 2. judging vs. perceiving, judger vs. perceiver (J vs. P),
 3. intuitive vs. sensory, intuiter vs. sensor (N vs. S)  
   (Though I don't fond of using neither sensors nor detectors),
-4. task-oriented vs. feelings-oriented, thinker vs. feeler (T vs. F)  
+4. task-oriented vs. feelings-oriented, tasker vs. feeler (T vs. F)  
   (Though I don't fond of using neither feelers nor tentacles. My favourite is "sensing feelers" 🐙),
 5. dominant or first function, auxiliary or second function,
 6. serene aka alpha-delta: having Ne and Si as valuable functions (AD vs. BG)  
@@ -111,10 +111,13 @@ Terms that can describe a person or a type.
 
 Examples:
 
-* feelings-oriented sensor, feeler sensor, sensory feeler,
-* task-oriented intuiter, thinker intuiter, intuitive thinker,
+* feelings-oriented sensor, sensory feeler,
+* task-oriented intuiter, intuitive tasker,
 * alpha-delta intuiter, serene intuiter, serene sensor, 
 * beta-gamma intuiter, resolute intuiter, resolute sensor,
-* gamma-delta thinker,
+* gamma-delta tasker,
 * resolute introvert,
-* extraverted perceiving intuitive thinker.
+* extraverted perceiving intuitive tasker, first type,
+* task-oriented intuitive perceiving extravert,
+* introverted judging sensory feeler, tenth type,
+* feelings-oriented sensory judging introvert.
