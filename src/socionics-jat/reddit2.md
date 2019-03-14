@@ -1,5 +1,6 @@
 # Socionics-MBTI incompatibility, Jung-Augustinavichiute-Talanov cognitive functions, Socionics/MBTI types names
 
+*(Backup of the [Reddit post](https://www.reddit.com/r/JungianTypology/comments/9jwhk8/socionicsmbti_incompatibility))*
 
 ## 1. MBTI incompatibility
 
