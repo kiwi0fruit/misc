@@ -15,7 +15,7 @@ But there are some differences between definitions of **cognitive functions** in
     - [**Extraverted** functions (**E**)] Extraverted, directed outwards, active, energy-consuming functions.
 - [**Perceiving** functions (**P**)] Perceiving, instinctive, impulsive functions:
     - [**Associative** thinking (**N**)] Abstract, imaginative, assumptive, intuitive thinking (breadth of associations) vs.
-    - [**Material** thinking (**S**)] Tangible-oriented, detailed, concrete, materially-oriented thinking (orientation to physical reality).
+    - [**Material** thinking (**S**)] Tangible-oriented, detailed, concrete, materially-oriented thinking (orientation to physical reality and physical qualities).
 - [**Judging** functions (**J**)] Judging, stable, impulse controlling functions (decision-making):
     - [**Task-oriented** thinking (**T**)] Logical, analytical, algorithmic, task-oriented thinking (orientation to formal side and facs) vs.
     - [**Feelings-oriented** thinking (**F**)] Moral, empathic, social-oriented, interpersonal emotional thinking (feelings, emotional regulation of society).
@@ -23,11 +23,13 @@ But there are some differences between definitions of **cognitive functions** in
 - **Ne** - _Extraverted associative thinking_. Conjectures, guesses and speculations (e.g. about the essence), ideas, curiosity, novelty seeking.
 - **Ni** - _Introverted associative thinking_. Fantasy, fictional reality, imagining processes in time, prognostication, prediction, forecasting
 - **Se** - _Extraverted material thinking_. Active actions, confrontation, the accumulation of material resources, aggression, strength.
-- **Si** - _Introverted material thinking_. Health, comfort, convenience, safety. Perception of sensations and physical qualities.
+- **Si** - _Introverted material thinking_. Health, comfort, convenience, safety. Perception of sensations.
 - **Te** - _Extraverted task-oriented thinking_. Actions and their algorithms, tools, pattern action-result (formal part of activities organizing).
 - **Ti** - _Introverted task-oriented thinking_. Order, laws, structures, classification, analysis and comparison.
 - **Fe** - _Extraverted feelings-oriented thinking_. Modifying the mood and the emotional state of people hence manipulating their activities (e.g. by means of inspiration and enthusiasm). Modifying group activity is specifically important.
 - **Fi** - _Introverted feelings-oriented thinking_. Moral judgment and evaluation, building relationships, synchronization of attitude towards something in a group of people, morality.
+
+Mind that extraverted and introverted functions are specializations on top of their "general" basic functions. For example both strong Se and Si are good at dealing with physical qualities. Both strong Ne and Ni are good at dealing with associations.
 
 
 ## 3. Socionics / MBTI types names
@@ -72,18 +74,18 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 |:--:|:--:|:--:|
 | ExTJ | ENTJ v ESTJ v EuTJ v ... | EuTJ |
 | ENxJ | ENTJ v ENFJ v ENuJ v ... | ENuJ |
-| INTx<2,11>, INTx<2;11> | INTJ-Ti-dom v INTP-Ni-dom v INTu v ... | INTu[2~11], INTu |
-| IxTJ<2,6>, IxTJ-Ti-dom | INTJ-Ti-dom v ISTJ-Ti-dom v IuTJ[2~6] v ... | IuTJ[2~6] |
-| xNTx<1,2> | ENTP v INTJ-Ti-dom v uNTu[1~2] v ... | uNTu[1~2] |
-| xNTJ<2,12> | ENTJ v INTJ-Ti-dom v uNTJ[2~12] v ... | uNTJ[2~12] |
-| INxJ<2,14> | INTJ-Ti-dom v INFJ-Fi-dom v INuJ[2~14] v ... | INuJ[2~14] |
-| IxTx<2,15> | INTJ-Ti-dom v ISTP-Si-dom v IuTu[2~15] v ... | IuTu[2~15] |
-| INxx<2,7> | INTJ-Ti-dom v INFP-Ni-dom v INuu[2~7] v ... | INuu[2~7] |
-| xNxx<1,2,13,14>, xNxx[A,D] | INTJ-Ti-dom v ENTP v INFJ-Fi-dom v ENFP v ENuP v ... | ? (A,D = alpha or delta) |
-| Ixxx<6,7,10,11>, Ixxx[B,G] | ISTJ-Ti-dom v INFP-Ni-dom v ISFJ-Fi-dom v INTP-Ni-dom v ... | ? (B,G = beta or gamma) |
-| IxxJ<2,10> | INTJ-Ti-dom v ISFJ-Fi-dom v IuuJ[2~10] v ... | IuuJ[2~10] |
+| INTx<2,11>, INTx<2;11> | INTJ-Ti-dom v INTP-Ni-dom v INTu v ... | INTu(2~11), INTu |
+| IxTJ<2,6>, IxTJ-Ti-dom | INTJ-Ti-dom v ISTJ-Ti-dom v IuTJ(2~6) v ... | IuTJ(2~6) |
+| xNTx<1,2> | ENTP v INTJ-Ti-dom v uNTu(1~2) v ... | uNTu(1~2) |
+| xNTJ<2,12> | ENTJ v INTJ-Ti-dom v uNTJ(2~12) v ... | uNTJ(2~12) |
+| INxJ<2,14> | INTJ-Ti-dom v INFJ-Fi-dom v INuJ(2~14) v ... | INuJ(2~14) |
+| IxTx<2,15> | INTJ-Ti-dom v ISTP-Si-dom v IuTu(2~15) v ... | IuTu(2~15) |
+| INxx<2,7> | INTJ-Ti-dom v INFP-Ni-dom v INuu(2~7) v ... | INuu(2~7) |
+| xNxx<1,2,13,14>, xNxx<A,D> | INTJ-Ti-dom v ENTP v INFJ-Fi-dom v ENFP v ENuP v ... | ? (A,D = alpha or delta) |
+| Ixxx<6,7,10,11>, Ixxx<B,G> | ISTJ-Ti-dom v INFP-Ni-dom v ISFJ-Fi-dom v INTP-Ni-dom v ... | ? (B,G = beta or gamma) |
+| IxxJ<2,10> | INTJ-Ti-dom v ISFJ-Fi-dom v IuuJ(2~10) v ... | IuuJ(2~10) |
 | xNxP<1,7,11,13> | ENTP v INFP-Ni-dom v INTP-Ni-dom v ENFP v ENuP v INuP-Ni-dom ... | ? |
-| IxTx<2,6,11,15> | INTJ-Ti-dom v ISTJ-Ti-dom v INTP-Ni-dom v ISTP-Si-dom v IuTJ[2~6] v ... | ? |
-| ENxP<1;1~13> | ENTP v ENuP v ... (but not ENFP) | ENTP[1<-13] |
-| xNTx<2;1~2> | INTJ-Ti-dom v uNTu[1~2] v ... (but not ENTP) | INTJ[2<-1] |
-| INxJ<2;2\~6>, INxJ-Ti-dom<2;2~6> | INTJ-Ti-dom v IuTJ[2~6] v ... (but not ISTJ-Ti-dom) | INTJ[2<-6] |
+| IxTx<2,6,11,15> | INTJ-Ti-dom v ISTJ-Ti-dom v INTP-Ni-dom v ISTP-Si-dom v IuTJ(2~6) v ... | ? |
+| ENxP<1;1~13> | ENTP v ENuP v ... (but not ENFP) | ENTP(1<-13) |
+| xNTx<2;1~2> | INTJ-Ti-dom v uNTu(1~2) v ... (but not ENTP) | INTJ(2<-1) |
+| INxJ<2;2\~6>, INxJ-Ti-dom<2;2~6> | INTJ-Ti-dom v IuTJ(2~6) v ... (but not ISTJ-Ti-dom) | INTJ(2<-6) |
