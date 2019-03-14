@@ -88,7 +88,7 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 | IxTx<2,6,11,15> | INTJ-Ti-dom v ISTJ-Ti-dom v INTP-Ni-dom v ISTP-Si-dom v IuTJ(2~6) v ... | ? |
 | ENxP<1;1~13> | ENTP v ENuP v ... (but not ENFP) | ENTP(1<-13) |
 | xNTx<2;1~2> | INTJ-Ti-dom v uNTu(1~2) v ... (but not ENTP) | INTJ(2<-1) |
-| INxJ<2;2\~6>, INxJ-Ti-dom<2;2~6> | INTJ-Ti-dom v IuTJ(2~6) v ... (but not ISTJ-Ti-dom) | INTJ(2<-6) |
+| IxTJ<2;2\~6>, IxTJ-Ti-dom<2;2~6> | INTJ-Ti-dom v IuTJ(2~6) v ... (but not ISTJ-Ti-dom) | INTJ(2<-6) |
 
 
 # 6. Translation of some useful socionics terms
