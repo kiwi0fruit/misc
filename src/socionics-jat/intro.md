@@ -1,6 +1,6 @@
 # Alternative translation of socionics to english + On incompatibility of Socionics and MBTI
 
-***UPD***: some parts of this article are outdated. See [this correcting post](https://github.com/kiwi0fruit/misc/blob/master/src/socionics-jat/reddit2.md).
+***UPD**: some parts of this article are outdated. See [this correcting post](https://github.com/kiwi0fruit/misc/blob/master/src/socionics-jat/reddit2.md).*
 
 This is an alternative translation of one of the braches of socionics to english. My vision of the ***Jung-Augustinavichiute-Talanov personality model*** (_JAT personality model_). But sometimes my vision goes beyond JAT personality model.
 
