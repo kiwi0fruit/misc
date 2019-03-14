@@ -1,5 +1,7 @@
 # Socionics: intermediate types, MBTI incompatibility, JAT cognitive functions
 
+***UPD**: some parts of this article are outdated. See this correcting post: [github.com/kiwi0fruit/misc/blob/master/src/socionics-jat/reddit2.md](https://github.com/kiwi0fruit/misc/blob/master/src/socionics-jat/reddit2.md)*
+
 Added minor changes to [**Alternative translation of socionics to english + On incompatibility of Socionics and MBTI**](http://socionics-news.tumblr.com/post/141190741188) article. Some ideas from the article:
 
 ## 1. MBTI incompatibility
