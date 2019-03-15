@@ -6,7 +6,7 @@
 
 ## 1. MBTI incompatibility
 
-***Explicit notation*** for socionics types are **INTJ-Ti-dom** and **INTP-Ni-dom**. **J**/**P** in socionics mean the same as in MBTI and Big Five (high/low conscientiousness). Same is for E/I, N/S, T/F. And **dom** is a dominant function as Jung meant it. The rule is simple: judging type has a judging dominant function (perceiving type -> perceiving dominant function). Introverted type has an introverted dominant function (extraverted type -> extraverted dominant function). And this notation explicitly reminds about it.
+***Explicit notation*** for socionics types are **INTJ-Ti\*-dom** and **INTP-Ni\*-dom**. **J**/**P** in socionics mean the same as in MBTI and Big Five (high/low conscientiousness). Same is for E/I, N/S, T/F. And **dom** is a dominant function as Jung meant it. The rule is simple: judging type has a judging dominant function (perceiving type -> perceiving dominant function). Introverted type has an introverted dominant function (extraverted type -> extraverted dominant function). And this notation explicitly reminds about it.
 
 
 ## 2. Jung-Augustinavichiute-Talanov cognitive functions
