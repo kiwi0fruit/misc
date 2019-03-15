@@ -143,3 +143,5 @@ Examples:
 * task-oriented intuitive perceiving extravert,
 * introverted judging sensory feeler, tenth type,
 * feelings-oriented sensory judging introvert.
+
+*([GitHub source code](https://github.com/kiwi0fruit/misc/blob/master/src/socionics-jat/reddit2.md))*
