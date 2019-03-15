@@ -45,9 +45,9 @@ Crossposts to: [myanimelist.net/forum/?topicid=1459621](https://myanimelist.ne
 [Kiwi0Fruit's translit](translit/translit.md).
 
 
-## Movie reviews
+## Movies and books reviews
 
-[Movie reviews](review).
+[Movies and books reviews](review).
 
 
 --------
