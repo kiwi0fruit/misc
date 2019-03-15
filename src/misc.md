@@ -10,7 +10,7 @@ Markdown texts, html/css themes, etc.
 
 ## Jupyter notebooks as PDF, MS Word and others killer
 
-See the [dream description](pdf_and_word_killer.md).
+More strictly speaking: **Idea to enhance nbviewer with js/css plugins to make nbviewer+ipynb secure, dynamic and mobile friendly**. See the [dream description](pdf_and_word_killer.md).
 
 
 ## Jung-Augustinavichiute-Talanov personality model (Socionics)
