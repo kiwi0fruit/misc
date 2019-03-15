@@ -3,29 +3,14 @@
 Markdown texts, html/css themes, etc.
 
 
-## Jupyter notebooks as PDF, MS Word and others killer
-
-See the [dream description](pdf_and_word_killer.md).
-
-
-## Markdown Preview Plus patch
-
-[Patch for Atom editor package](mpp).
-
-
 ## Pinned repositories
 
 [Pinned repositories](../README.md).
 
 
-## Ashley Math Tumblr theme
+## Jupyter notebooks as PDF, MS Word and others killer
 
-Modified [Ashley Tumblr theme](https://www.tumblr.com/theme/37012) by [Jxnblk](http://jxnblk.com/):
-
-- [Ashley Math](ashley-tumblr-theme/ashley-math.html) that I use in [my blog](http://kiwi0fruit.tumblr.com/).
-- [Ashley (original)](ashley-tumblr-theme/ashley-original.html)
-
-Please note that Tumblr markdown engine isn't LaTeX aware so you cannot use `\\` in equations so you may need to use `\newline` instead.
+See the [dream description](pdf_and_word_killer.md).
 
 
 ## IxTx, introverted and logical female love stories
@@ -50,27 +35,9 @@ Crossposts to: [myanimelist.net/forum/?topicid=1459621](https://myanimelist.ne
 - (*Соционика:аспекты по функциям*) [Markdown code in russian](socionics-rus/functions_from_wikipedia.md) for [blog post](http://kiwi0fruit.tumblr.com/post/57594360708) ([edit post](https://www.tumblr.com/edit/57594360708)).
 
 
-## Markdown
-
-* **Markdown Mobile**: [markdown code](markdown/markdown-mobile.md) for [my review](http://kiwi0fruit.tumblr.com/post/160341086820) of markdown editors for Android that support LaTeX ([Edit post](https://www.tumblr.com/edit/160341086820)).
-* **Markdown Desktop**: [markdown code](markdown/markdown-desktop.md) for [my review](http://kiwi0fruit.tumblr.com/post/160364082720) of markdown editors for Windows that support LaTeX ([Edit post](https://www.tumblr.com/edit/160364082720)).
-* [Markdown Unicode and LaTeX test for HTML/PDF](markdown/unicode-and-latex-test).
-
-
 ## Morrowind gameplay fixes pack by Kiwi0Fruit
 
 - [Markdown code](morrowind/morrowind.md) for a [blog post](http://kiwi0fruit.tumblr.com/post/75569701908) ([Edit post](https://www.tumblr.com/edit/75569701908)).
-
-
-## Open Letter
-
-Archive markdown code for posts from [Open letter blog](http://zagubisalo.tumblr.com):  
-[Open Letter](open_letter.md), [Open Letter (Russian)](open_letter_rus.md), [Short Description](short_description.md).
-
-[Open Letter (Russian) post](http://zagubisalo.tumblr.com/post/143526471644) ([Edit post](https://www.tumblr.com/edit/143526471644)).
-
-**This is outdated version!**  
-For latest version see [github.com/kiwi0fruit/ultimate-question](https://github.com/kiwi0fruit/ultimate-question).
 
 
 ## Yet another one Russian to Latin translit
@@ -83,6 +50,45 @@ For latest version see [github.com/kiwi0fruit/ultimate-question](https://github.
 [Movie reviews](review).
 
 
+--------
+
+# Outdated trash
+
+--------
+
+## Open Letter
+
+Archive markdown code for posts from [Open letter blog](http://zagubisalo.tumblr.com):  
+[Open Letter](open_letter.md), [Open Letter (Russian)](open_letter_rus.md), [Short Description](short_description.md).
+
+[Open Letter (Russian) post](http://zagubisalo.tumblr.com/post/143526471644) ([Edit post](https://www.tumblr.com/edit/143526471644)).
+
+**This is outdated version!**  
+For latest version see [github.com/kiwi0fruit/ultimate-question](https://github.com/kiwi0fruit/ultimate-question).
+
+
 ## pip resolve
 
 [**Tool**](pip-resolve) that can be used to see what pip packages would be installed instead of conda packages.
+
+
+## Ashley Math Tumblr theme
+
+Modified [Ashley Tumblr theme](https://www.tumblr.com/theme/37012) by [Jxnblk](http://jxnblk.com/):
+
+- [Ashley Math](ashley-tumblr-theme/ashley-math.html) that I use in [my blog](http://kiwi0fruit.tumblr.com/).
+- [Ashley (original)](ashley-tumblr-theme/ashley-original.html)
+
+Please note that Tumblr markdown engine isn't LaTeX aware so you cannot use `\\` in equations so you may need to use `\newline` instead.
+
+
+## Markdown Preview Plus patch
+
+[Patch for Atom editor package](mpp).
+
+
+## Outdated Markdown apps reviews
+
+* **Markdown Mobile**: [markdown code](markdown/markdown-mobile.md) for [my review](http://kiwi0fruit.tumblr.com/post/160341086820) of markdown editors for Android that support LaTeX ([Edit post](https://www.tumblr.com/edit/160341086820)).
+* **Markdown Desktop**: [markdown code](markdown/markdown-desktop.md) for [my review](http://kiwi0fruit.tumblr.com/post/160364082720) of markdown editors for Windows that support LaTeX ([Edit post](https://www.tumblr.com/edit/160364082720)).
+* [Markdown Unicode and LaTeX test for HTML/PDF](markdown/unicode-and-latex-test).
