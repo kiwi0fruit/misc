@@ -13,14 +13,6 @@ Markdown texts, html/css themes, etc.
 See the [dream description](pdf_and_word_killer.md).
 
 
-## IxTx, introverted and logical female love stories
-
-- [Anime BBCode version](ixtx-female-love-stories/bbcode.txt) ([Markdown -> BBCode](http://feralhosting.github.io))
-- [Markdown version](ixtx-female-love-stories/reddit_1.md) **Kuudere, dandere, introverted and logical female love stories**, **Emotionless girls, introverted and logical female love stories**
-
-Crossposts to: [myanimelist.net/forum/?topicid=1459621](https://myanimelist.net/forum/?topicid=1459621#msg50058937), [reddit.com/r/anime/60ffp8](https://www.reddit.com/r/anime/comments/60ffp8/kuudere_dandere_introverted_and_logical_female/), [reddit.com/r/Animesuggest/60lwpx](https://www.reddit.com/r/Animesuggest/comments/60lwpx/kuudere_dandere_introverted_and_logical_female/), [reddit.com/r/mbti/64dosf](https://www.reddit.com/r/mbti/comments/64dosf/ixtx_introverted_and_logical_female_love_stories/), [reddit.com/r/INTP/64dqne](https://www.reddit.com/r/INTP/comments/64dqne/ixtx_introverted_and_logical_female_love_stories/), [reddit.com/r/MovieSuggestions/64i155](https://www.reddit.com/r/MovieSuggestions/comments/64i155/emotionless_girls_introverted_and_logical_female/), [reddit.com/r/manga/66nqpc](https://www.reddit.com/r/manga/comments/66nqpc/kuudere_dandere_introverted_and_logical_female/).
-
-
 ## Jung-Augustinavichiute-Talanov personality model (Socionics)
 
 * [Socionics-MBTI incompatibility, Jung-Augustinavichiute-Talanov cognitive functions, Socionics/MBTI types names](socionics-jat/reddit2.md) ([reddit.com/r/JungianTypology/comments/9jwhk8](https://www.reddit.com/r/JungianTypology/comments/9jwhk8/socionicsmbti_incompatibility/))
@@ -33,6 +25,14 @@ Crossposts to: [myanimelist.net/forum/?topicid=1459621](https://myanimelist.ne
 - (*Психические функции как эволюционные адаптации и как источник мотиваций*) [Markdown code in russian](socionics-rus/functions.md) for [blog post](http://kiwi0fruit.tumblr.com/post/53774683435) ([edit post](https://www.tumblr.com/edit/53774683435)).
 - (*Ценностные и вытесненные функции*) [Markdown code in russian](socionics-rus/valuable_functions.md) for [blog post](http://kiwi0fruit.tumblr.com/post/101332420320) ([edit post](https://www.tumblr.com/edit/101332420320)).
 - (*Соционика:аспекты по функциям*) [Markdown code in russian](socionics-rus/functions_from_wikipedia.md) for [blog post](http://kiwi0fruit.tumblr.com/post/57594360708) ([edit post](https://www.tumblr.com/edit/57594360708)).
+
+
+## IxTx, introverted and logical female love stories
+
+- [Anime BBCode version](ixtx-female-love-stories/bbcode.txt) ([Markdown -> BBCode](http://feralhosting.github.io))
+- [Markdown version](ixtx-female-love-stories/reddit_1.md) **Kuudere, dandere, introverted and logical female love stories**, **Emotionless girls, introverted and logical female love stories**
+
+Crossposts to: [myanimelist.net/forum/?topicid=1459621](https://myanimelist.net/forum/?topicid=1459621#msg50058937), [reddit.com/r/anime/60ffp8](https://www.reddit.com/r/anime/comments/60ffp8/kuudere_dandere_introverted_and_logical_female/), [reddit.com/r/Animesuggest/60lwpx](https://www.reddit.com/r/Animesuggest/comments/60lwpx/kuudere_dandere_introverted_and_logical_female/), [reddit.com/r/mbti/64dosf](https://www.reddit.com/r/mbti/comments/64dosf/ixtx_introverted_and_logical_female_love_stories/), [reddit.com/r/INTP/64dqne](https://www.reddit.com/r/INTP/comments/64dqne/ixtx_introverted_and_logical_female_love_stories/), [reddit.com/r/MovieSuggestions/64i155](https://www.reddit.com/r/MovieSuggestions/comments/64i155/emotionless_girls_introverted_and_logical_female/), [reddit.com/r/manga/66nqpc](https://www.reddit.com/r/manga/comments/66nqpc/kuudere_dandere_introverted_and_logical_female/).
 
 
 ## Morrowind gameplay fixes pack by Kiwi0Fruit
@@ -52,9 +52,7 @@ Crossposts to: [myanimelist.net/forum/?topicid=1459621](https://myanimelist.ne
 
 --------
 
-# Outdated trash
-
---------
+# Outdated
 
 ## Open Letter
 
