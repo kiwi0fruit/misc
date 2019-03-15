@@ -99,9 +99,9 @@ Terms that can describe a person or a type.
 1. extraverted vs. introverted, extravert vs. introvert (E vs. I),
 2. judging vs. perceiving, judger vs. perceiver (J vs. P),
 3. intuitive vs. sensory, intuiter vs. sensor (N vs. S)  
-  (Though I don't fond of using neither sensors nor detectors),
+  (Though I'm not fond of using neither sensors nor detectors),
 4. task-oriented vs. feelings-oriented, tasker vs. feeler (T vs. F)  
-  (Though I don't fond of using neither feelers nor tentacles. My favourite is "sensing feelers" 🐙),
+  (Though I'm not fond of using neither feelers nor tentacles. My favourite is "sensing feelers" 🐙),
 5. dominant or first function, auxiliary or second function,
 6. serene aka alpha-delta: having Ne and Si as valuable functions (AD vs. BG)  
   (More fond of cooperative, sensible, peaceful and leisurely unhurried ways),
