@@ -30,7 +30,9 @@ But there are some differences between definitions of **cognitive functions** in
 - **Fe\*** - _Extraverted feelings-oriented thinking_. Modifying the mood and the emotional state of people hence manipulating their activities (e.g. by means of inspiration and enthusiasm). Modifying group activity is specifically important.
 - **Fi\*** - _Introverted feelings-oriented thinking_. Moral judgment and evaluation, building relationships, synchronization of attitude towards something in a group of people, morality.
 
-Mind that extraverted and introverted functions are specializations on top of their "general" basic functions. For example both strong Se and Si are good at dealing with physical qualities. Both strong Ne and Ni are good at dealing with associations.
+Mind that extraverted and introverted functions are specializations on top of their "general" basic functions. For example both strong Se\* and Si\* are good at dealing with physical qualities. Both strong Ne\* and Ni\* are good at dealing with associations.
+
+Don't mix Si that is MBTI function with Si\* that is Jung-Augustinavichiute-Talanov cognitive function. Asterisks are added for this purpose. 
 
 
 ## 3. Socionics / MBTI types names
