@@ -2,7 +2,7 @@
 
 *(Backup of the [Reddit post](https://www.reddit.com/r/JungianTypology/comments/9jwhk8/socionicsmbti_incompatibility))*
 
-*(This article is a continuation of the [previous one](https://github.com/kiwi0fruit/misc/blob/master/src/socionics-jat/intro.md))*
+*(This article corrects and continues the [previous one](https://github.com/kiwi0fruit/misc/blob/master/src/socionics-jat/intro.md))*
 
 ## 1. MBTI incompatibility
 
