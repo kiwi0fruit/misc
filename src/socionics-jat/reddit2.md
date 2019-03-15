@@ -50,24 +50,24 @@ In my translation of socionics types names to english the 4 letter code shows th
 
 Mnemonics to remember the numbers:
 
-|     |             |                                                    |
-| ---:|:-----------:|:-------------------------------------------------- |
-|   1 | ENTP-Ne-dom | The very first curious                             |
-|   2 | INTJ-Ti-dom | The second one curious                             |
-|   3 | ISFP-Si-dom | Three Musketeers Dumas                             |
-|   4 | ESFJ-Fe-dom | Four elements                                      |
-|   5 | ESTP-Se-dom | The five senses                                    |
-|   6 | ISTJ-Ti-dom | Has no sixth sense                                 |
-|   7 | INFP-Ni-dom | Seven Sins                                         |
-|   8 | ENFJ-Fe-dom | Eight-bit                                          |
-|   9 | ESFP-Se-dom | Nine lives of a cat                                |
-|  10 | ISFJ-Fi-dom | Proper as a dozen                                  |
-|  11 | INTP-Ni-dom | Football: 11 meters penalty kick, 11 team members  |
-|  12 | ENTJ-Te-dom | 12 hours, dozen, The Twelve Chairs of Ostap Bender |
-|  13 | ENFP-Ne-dom | Devil's dozen, Baker's dozen                       |
-|  14 | INFJ-Fi-dom | Twice sinful as 7 type                             |
-|  15 | ISTP-Si-dom | Brings *almost* everything to the end              |
-|  16 | ESTJ-Te-dom | Brings everything to the end                       |
+|     |               |                                                    |
+| ---:|:-------------:|:-------------------------------------------------- |
+|   1 | ENTP-Ne\*-dom | The very first curious                             |
+|   2 | INTJ-Ti\*-dom | The second one curious                             |
+|   3 | ISFP-Si\*-dom | Three Musketeers Dumas                             |
+|   4 | ESFJ-Fe\*-dom | Four elements                                      |
+|   5 | ESTP-Se\*-dom | The five senses                                    |
+|   6 | ISTJ-Ti\*-dom | Has no sixth sense                                 |
+|   7 | INFP-Ni\*-dom | Seven Sins                                         |
+|   8 | ENFJ-Fe\*-dom | Eight-bit                                          |
+|   9 | ESFP-Se\*-dom | Nine lives of a cat                                |
+|  10 | ISFJ-Fi\*-dom | Proper as a dozen                                  |
+|  11 | INTP-Ni\*-dom | Football: 11 meters penalty kick, 11 team members  |
+|  12 | ENTJ-Te\*-dom | 12 hours, dozen, The Twelve Chairs of Ostap Bender |
+|  13 | ENFP-Ne\*-dom | Devil's dozen, Baker's dozen                       |
+|  14 | INFJ-Fi\*-dom | Twice sinful as 7 type                             |
+|  15 | ISTP-Si\*-dom | Brings *almost* everything to the end              |
+|  16 | ESTJ-Te\*-dom | Brings everything to the end                       |
 
 
 ## 4. Why quadras grouped this way?
