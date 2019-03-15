@@ -1,5 +1,4 @@
-set "script_dir=%~dp0"
-cd /d "%script_dir%"
+cd /d "%~dp0"
 
 pandoc __socionics_framework.docx --to json | ^
 python __filter.py markdown | ^
