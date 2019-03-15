@@ -23,8 +23,8 @@ More strictly speaking:
 
 - (*Что такое соционика? или Уходя из соционики...*) [Markdown code in russian](socionics-rus/socionics_short.md) for [blog post](http://kiwi0fruit.tumblr.com/post/53623222016) ([edit post](https://www.tumblr.com/edit/53623222016)).
 - (*Каркас типологии Юнга-Аугустинавичюте (Каркас соционики)*) [Markdown code in russian](socionics-rus/socionics_framework.md) for [blog post](http://kiwi0fruit.tumblr.com/post/36128399399) ([edit post](https://www.tumblr.com/edit/36128399399)).
-- (*Психические функции как эволюционные адаптации и как источник мотиваций*) [Markdown code in russian](socionics-rus/functions.md) for [blog post](http://kiwi0fruit.tumblr.com/post/53774683435) ([edit post](https://www.tumblr.com/edit/53774683435)).
-- (*Ценностные и вытесненные функции*) [Markdown code in russian](socionics-rus/valuable_functions.md) for [blog post](http://kiwi0fruit.tumblr.com/post/101332420320) ([edit post](https://www.tumblr.com/edit/101332420320)).
+- (*Психические функции как эволюционные адаптации и как источник мотиваций*) [Markdown code in russian](socionics-rus/functions/README.md) for [blog post](http://kiwi0fruit.tumblr.com/post/53774683435) ([edit post](https://www.tumblr.com/edit/53774683435)).
+- (*Ценностные и вытесненные функции*) [Markdown code in russian](socionics-rus/valuable_functions/README.md) for [blog post](http://kiwi0fruit.tumblr.com/post/101332420320) ([edit post](https://www.tumblr.com/edit/101332420320)).
 - (*Соционика:аспекты по функциям*) [Markdown code in russian](socionics-rus/functions_from_wikipedia.md) for [blog post](http://kiwi0fruit.tumblr.com/post/57594360708) ([edit post](https://www.tumblr.com/edit/57594360708)).
 
 
