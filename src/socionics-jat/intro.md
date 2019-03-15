@@ -116,6 +116,9 @@ It’s worth mentioning that the socionics hypothesis of correlations between di
 
 So if we are talking about type of particular person not about reference types then using I/E and J/P dichotomies can be misleading or inaccurate. So the noting person’s dominant function is a better option. For example: Ne-dom, Ti-dom. Auxilary function also worth noting but socionics research shown that for example in case of Ne-dom and task-oriented thinking (T) both Te (8) and Ti (2) may play importaint role in assisting dominant Ne. So they both can be viewed as auxilary function as Jung meant it (actually Jung didn’t say whether auxilary function for Ne-dom is Ti or Te). There need to be more invesigations on this topic but for now it’s more accurate to think that the auxilary function is just T, F, S or N withount specifying whether it is Te ot Ti, etc.
 
+***Explicit notation*** for socionics types are **INTJ-Ti-dom** and **INTP-Ni-dom**. **J**/**P** in socionics mean the same as in MBTI and Big Five (high/low conscientiousness). Same is for E/I, N/S, T/F. And **dom** is a dominant function as Jung meant it. The rule is simple: judging type has a judging dominant function (perceiving type -> perceiving dominant function). Introverted type has an introverted dominant function (extraverted type -> extraverted dominant function). And this notation explicitly reminds about it.
+
+
 ## <a name="7.0"></a>7. Socionics/JAT/MBTI names [≡](#toc)
 
 Names are in the following order:
