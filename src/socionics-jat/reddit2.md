@@ -128,7 +128,7 @@ Terms that can describe a person or a type.
 4. task-oriented vs. feelings-oriented, tasker vs. feeler (T vs. F)  
   (Though I'm not fond of using neither feelers nor tentacles. My favourite is "sensing feelers" 🐙),
 5. dominant or first function, auxiliary or second function,
-6. serene aka alpha-delta: having Ne\* and Si\* as valuable functions (AD vs. BG)  
+6. pacific aka alpha-delta: having Ne\* and Si\* as valuable functions (AD vs. BG)  
   (More fond of cooperative, sensible, peaceful and leisurely unhurried ways),
 7. resolute aka beta-gamma: having Se\* and Ni\* as valuable functions (AD vs. BG)  
   (More fond of competitive, argessive, time-bound and fast resolutive ways),
@@ -139,7 +139,7 @@ Examples:
 
 * feelings-oriented sensor, sensory feeler,
 * task-oriented intuiter, intuitive tasker,
-* alpha-delta intuiter, serene intuiter, serene sensor,
+* alpha-delta intuiter, pacific intuiter, pacific sensor,
 * beta-gamma intuiter, resolute intuiter, resolute sensor,
 * gamma-delta tasker,
 * resolute introvert,
