@@ -83,7 +83,7 @@ Names are in the following order:
 In my translation of socionics types names to english the 4 letter code shows the position on 4 axes that can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part after hyphen (if needed) shows cognitive functions stack. MBTI does not have counterpart types for introverts. For example the closest counterpart for INTJ-Ti\*-dom is INTx that is one of two types INTJ/INTP (or their mixture).
 
 | quadra | EP | IJ | IP | EJ |
-|:------:|:--:|:--:|:--:|:--:|
+|:-------|:--:|:--:|:--:|:--:|
 | α alpha **A** | **ENTP-⁠Ne⁠\*⁠-⁠dom**  ILE  ENTP  **1**  | **INTJ-⁠Ti⁠\*⁠-⁠dom**  LII  INTx  **2**  | **ISFP-⁠Si⁠\*⁠-⁠dom**  SEI  ISFx  **3**  | **ESFJ-⁠Fe⁠\*⁠-⁠dom**  ESE  ESFJ  **4**  |
 | β beta **B**  | **ESTP-⁠Se⁠\*⁠-⁠dom**  SLE  ESTP  **5**  | **ISTJ-⁠Ti⁠\*⁠-⁠dom**  LSI  ISTx  **6**  | **INFP-⁠Ni⁠\*⁠-⁠dom**  IEI  INFx  **7**  | **ENFJ-⁠Fe⁠\*⁠-⁠dom**  EIE  ENFJ  **8**  |
 | γ gamma **G** | **ESFP-⁠Se⁠\*⁠-⁠dom**  SEE  ESFP  **9**  | **ISFJ-⁠Fi⁠\*⁠-⁠dom**  ESI  ISFx  **10** | **INTP-⁠Ni⁠\*⁠-⁠dom**  ILI  INTx  **11** | **ENTJ-⁠Te⁠\*⁠-⁠dom**  LIE  ENTJ  **12** |
@@ -107,7 +107,7 @@ And the last part of the name is given by:
 #### Mnemonics to remember the numbers
 
 |     |               |                                                    |
-| ---:|:-------------:|:-------------------------------------------------- |
+| ---:|:--------------|:-------------------------------------------------- |
 |   1 | ENTP-Ne\*-dom | The very first curious                             |
 |   2 | INTJ-Ti\*-dom | The second one curious                             |
 |   3 | ISFP-Si\*-dom | Three Musketeers Dumas                             |
@@ -152,8 +152,15 @@ Socionics **quadras** split 16 types to 4 groups. Each group has **EP** type wit
 
 Dominant function in socionics is called **1st** function. And socionics splits Jung's auxilary function to **2nd** function and **8th** function. If the 1st function is extraverted then the 2nd is introverted and the 8th is extraverted. And vice versa. In case of INTJ-Ti\*-dom it would be ¹Ti\*²Ne\*⁸Ni\* (1Ti\*-2Ne\*-8Ni\*). 1st, 2nd and 8th functions are the most important from the point of view of the type’s social activities. And may be also they are the most important from the point of view of the type’s self-identification.
 
+| **Quadra**    | **EP**          | **IJ**          | **IP**          | **EJ**          |
+|:--------------|:----------------|:----------------|:----------------|:----------------|
+| α alpha **A** | ENTP(¹Ne²Ti⁸Te) | INTJ(¹Ti²Ne⁸Ni) | ISFP(¹Si²Fe⁸Fi) | ESFJ(¹Fe²Si⁸Se) |
+| β beta **B**  | ESTP(¹Se²Ti⁸Te) | ISTJ(¹Ti²Se⁸Si) | INFP(¹Ni²Fe⁸Fi) | ENFJ(¹Fe²Ni⁸Ne) |
+| γ gamma **G** | ESFP(¹Se²Fi⁸Fe) | ISFJ(¹Fi²Se⁸Si) | INTP(¹Ni²Te⁸Ti) | ENTJ(¹Te²Ni⁸Ne) |
+| δ delta **D** | ENFP(¹Ne²Fi⁸Fe) | INFJ(¹Fi²Ne⁸Ni) | ISTP(¹Si²Te⁸Ti) | ESTJ(¹Te²Si⁸Se) |
+
 | **Quadras** | 1st **or** 2nd function is |
-|:-----------:|:--------------------------:|
+|------------:|:---------------------------|
 | AD          | Ne\* or Si\*               |
 | BG          | Se\* or Ni\*               |
 | AB          | Fe\* or Ti\*               |
