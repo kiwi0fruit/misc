@@ -29,6 +29,7 @@ This is an alternative translation of one of the braches of Socionics to English
 8. Some differences between information aspects in classical socionics and Jung-Augustinavichiute-Talanov cognitive functions are outlined.
 9. The short descriptions of JAT cognitive functions that are consistent (I hope) with JATS are given. These descriptions are sometimes different from understanding of cognitive functions in other branches of Socionics.
 10. 1-16 numbers as names for types were proposed for mixed types notation and speech (+ mnemonics).
+11. Very basic introduction to quadras is given and discussed why quadras grouped this way.
 
 
 ## 1. Jung-Augustinavichiute-Talanov cognitive functions
