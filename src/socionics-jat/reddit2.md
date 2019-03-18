@@ -13,8 +13,8 @@ This is an alternative translation of one of the braches of Socionics to English
 * [2. Aspects as basis in classical Socionics vs. JAT cognitive functions as a basis in JAT personality model](#2-aspects-as-basis-in-classical-socionics-vs-jat-cognitive-functions-as-a-basis-in-jat-personality-model)
 * [3. Types in classical Socionics vs. reference types in JAT personality model](#3-types-in-classical-socionics-vs-reference-types-in-jat-personality-model)
 * [4. Reference types abbreviations](#4-reference-types-abbreviations)
+* [5. On dichotomies, MBTI incompatibility, Big Five](#5-on-dichotomies-mbti-incompatibility-big-five)
 
-* [1. MBTI incompatibility](#1-mbti-incompatibility)
 * [3. Socionics vs. MBTI types names](#3-socionics-vs-mbti-types-names)
 * [4. Why quadras grouped this way?](#4-why-quadras-grouped-this-way)
 * [5. Intermediate types names](#5-intermediate-types-names)
@@ -95,9 +95,24 @@ And the last part of the name is given by:
 - **EJ** is judging extravert
 
 
-## 1. MBTI incompatibility
+## 5. On dichotomies, MBTI incompatibility, Big Five
 
-***Explicit notation*** for socionics types are **INTJ-Ti\*-dom** and **INTP-Ni\*-dom**. **J**/**P** in socionics mean the same as in MBTI and Big Five (high/low conscientiousness). Same is for E/I, N/S, T/F. And **dom** is a dominant function as Jung meant it. The rule is simple: judging type has a judging dominant function (perceiving type -> perceiving dominant function). Introverted type has an introverted dominant function (extraverted type -> extraverted dominant function). And this notation explicitly reminds about it.
+***Important*** thing to note is that
+
+*   If the reference type’s dominant function is extraverted then the behaviour of the reference type is also more extraverted than introverted (and vice versa).
+*   If the reference type’s dominant function is perceiving then the behaviour of the reference type is also more perceiving than judging (and vice versa).
+*   If the reference type’s dominant function is one of the intuitive thinking functions then the behaviour of the reference type is also more intuitive than tangible-oriented and sensory (and vice versa).
+*   If the reference type’s dominant function is one of the task-oriented thinking functions then the behaviour of the reference type is also more task-oriented than feelings-oriented (and vice versa).
+
+This leads to the possibility of defining I/E, P/J, S/N, F/T dichotomies and obtaining correlations with Big Five personality model [en.wikipedia.org/wiki/Myers–Briggs_Type_Indicator#Big_Five](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator#Big_Five). In that study the MBTI ***dichotomies*** used are somewhere ___about the same___ as in Socionics. But at the same time the hypothesis about the internal structure of type’s ***Jung cognitive functions properties*** are ___different___ in MBTI and Socionics / JAT personality model.
+
+Good infographics on Big Five (that have close relations with socioncs and MBTI) is given here: [psychologycharts.com/big-five-personality-traits.html](http://www.psychologycharts.com/big-five-personality-traits.html). There are also some other good names and connections.
+
+It’s worth mentioning that the Socionics hypothesis of correlations between dichotomies and Jung cognitive functions are expected to be statistical or visible only in the most vivid cases of persons. For example: if we see the highly introverted (I) and highly self-disciplined (J) person then what Jung congnitive function he would expect they has as dominant function? Socionics says that it would be Ti\* or Fi\*. MBTI says it would be Ni or Si. But in many particular cases of people there can be combinations of “Ti\*-dominant and more like perceiving behavior” or “Ni\*-dominant and more like judging behaviour”. But in most cases Socionics expects “Ti\*-dominant and more like judging behavior”. This even can be experimentally verified by tests that measure Jung cognitive functions and dichotomies independently.
+
+So if we are talking about type of particular person not about reference types then using I/E and J/P dichotomies can be misleading or inaccurate. So the noting person’s dominant function is a better option. For example: Ne\*-dom, Ti\*-dom. Auxilary function also worth noting but Socionics research shown that for example in case of Ne\*-dom and task-oriented thinking (T) both Te\* (8) and Ti\* (2) may play importaint role in assisting dominant Ne\*. So they both can be viewed as auxilary function as Jung meant it (actually Jung didn’t say whether auxilary function for Ne\*-dom is Ti\* or Te\*). There need to be more invesigations on this topic but for now it’s more accurate to think that the auxilary function is just T, F, S or N withount specifying whether it is Te\* ot Ti\*, etc.
+
+***Explicit notation*** for Socionics types are **INTJ-Ti\*-dom** and **INTP-Ni\*-dom**. **J**/**P** in socionics mean the same as in MBTI and Big Five (high/low conscientiousness). Same is for E/I, N/S, T/F. And **dom** is a dominant function as Jung meant it. The rule is simple: judging type has a judging dominant function (perceiving type -> perceiving dominant function). Introverted type has an introverted dominant function (extraverted type -> extraverted dominant function). And this notation explicitly reminds about it.
 
 
 ## 3. Socionics vs. MBTI types names
