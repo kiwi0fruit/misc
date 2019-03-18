@@ -12,6 +12,7 @@ This is an alternative translation of one of the braches of Socionics to English
 * [1. Jung-Augustinavichiute-Talanov cognitive functions](#1-jung-augustinavichiute-talanov-cognitive-functions)
 * [2. Aspects as basis in classical Socionics vs. JAT cognitive functions as a basis in JAT personality model](#2-aspects-as-basis-in-classical-socionics-vs-jat-cognitive-functions-as-a-basis-in-jat-personality-model)
 * [3. Types in classical Socionics vs. reference types in JAT personality model](#3-types-in-classical-socionics-vs-reference-types-in-jat-personality-model)
+* [4. Reference types abbreviations](#4-reference-types-abbreviations)
 
 * [1. MBTI incompatibility](#1-mbti-incompatibility)
 * [3. Socionics vs. MBTI types names](#3-socionics-vs-mbti-types-names)
@@ -75,6 +76,23 @@ There are 16 reference types in Jung-Augustinavichiute-Talanov personality model
 ***Each particular person does not belong to the one of reference types*** in JAT personality model. But instead the similarity between the person and all 16 reference types is evaluated (using questionnaire). So we move from determining of the person’s type to the measuring Jung cognitive functions using similarity to reference types. This procedure is described in more details in works of Talanov [sociotoday.narod.ru/index1.html](http://sociotoday.narod.ru/index1.html)
 
 This approach is also useful in determining of 1-3 closest reference types without questionnaire (using observations only). In this case the reference types are simply socionics types weighted with degrees of likeness. And even in this case the properties of Jung cognitive functions can be roughly determined using the Model A and weighted averaging of functions properties for all reference types found.
+
+
+## 4. Reference types abbreviations
+
+There are 4 letter names like *INTJ-Ti\*-dom* or *ESFP-Se\*-dom*. For example *INTJ-Ti\*-dom* is *intuitive task-oriented judging introvert* with dominant *Ti\**. So the first part of the name is given by:
+
+- **NT** is *intuitive task-oriented*
+- **NF** is *intuitive feelings-oriented*
+- **ST** is *sensory task-oriented*
+- **SF** is *sensory feelings-oriented*
+
+And the last part of the name is given by:
+
+- **EP** is *perceiving extravert*
+- **IJ** is *judging introvert*
+- **IP** is *perceiving introvert*
+- **EJ** is *judging extravert*
 
 
 ## 1. MBTI incompatibility
