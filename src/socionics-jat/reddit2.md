@@ -13,23 +13,25 @@ This is an alternative translation of one of the braches of Socionics to English
 * [4. Socionics reference types names vs. MBTI types names. 1-16 numbers as names for types](#4-socionics-reference-types-names-vs-mbti-types-names-1-16-numbers-as-names-for-types)
 * [5. On dichotomies, MBTI incompatibility, Big Five](#5-on-dichotomies-mbti-incompatibility-big-five)
 * [6. Quadras and functions. Why quadras grouped this way?](#6-quadras-and-functions-why-quadras-grouped-this-way)
-* [7. Intermediate types names](#7-intermediate-types-names)
+* [7. Intermediate and unknown types names](#7-intermediate-and-unknown-types-names)
 * [8. Single-noun terms like intuiter, sensor, feeler and tasker. Pacific vs. resolute types](#8-single-noun-terms-like-intuiter-sensor-feeler-and-tasker-pacific-vs-resolute-types)
 
 
 ## Summary
 
 1. The short descriptions of JAT cognitive functions that are consistent (I hope) with JATS are given. These descriptions are sometimes different from understanding of cognitive functions in other branches of Socionics.
-2. All cognitive functions are called kinds of thinking. I like HBDI approach [en.wikipedia.org/wiki/Herrmann_Brain_Dominance_Instrument](https://en.wikipedia.org/wiki/Herrmann_Brain_Dominance_Instrument).
-3. The contradictions between MBTI and Socionics are made explicit so the type conversion isn’t possible for introverts.
-4. Rational/Irrational names were replaced with Judging/Perceiving as these are more accrurate names: remember Rationalism and it’s attitude to emotional thinking. This also helps make contradictions from 2 more clear.
-5. “Sensory thinking” is used instead of Sensing/Sensorics, “Intuitive thinking” is used instead of Intuition, “Task-oriented thinking” is used instead of Thinking/Logic, “Feelings-oriented thinking” is used instead of Feeling/Ethics.
-6. Modified standard MBTI acronyms for Jung functions (Se', Si', Ne', Ni', Fe', Fi', Te', Ti') and dichotomies (E/I, N/S, T/F, P/J) are used for MBTI partial compatibility purpose. Unfortunately there seems to be no way to avoid using standard MBTI acronyms for Jung/JAT functions.
-7. Standard socionics functions symbols (● ○ ▲ △ ◆ ◇ ■ □) and Victor Gulenko’s 8 latin letters (F, S, I, T, E, R, P, L) were abandoned as inconvenient, unpopular in English community or weird :-)
-8. Some differences between types in classical Socionics and reference types in Jung-Augustinavichiute-Talanov Socionics are outlined.
-9. Some differences between information aspects in classical socionics and Jung-Augustinavichiute-Talanov cognitive functions are outlined.
-10. 1-16 numbers as names for types were proposed for mixed types notation and speech (+ mnemonics).
-11. Very basic introduction to quadras is given and discussed why quadras grouped this way.
+2. All cognitive functions are called kinds of thinking. I like HBDI approach [en.wikipedia.org/wiki/Herrmann_Brain_Dominance_Instrument]
+3. Concise names for intermediate and unknown types were proposed.
+(https://en.wikipedia.org/wiki/Herrmann_Brain_Dominance_Instrument).
+4. The contradictions between MBTI and Socionics are made explicit so the type conversion isn’t possible for introverts.
+5. Rational/Irrational names were replaced with Judging/Perceiving as these are more accrurate names: remember Rationalism and it’s attitude to emotional thinking. This also helps make contradictions from 2 more clear.
+6. “Sensory thinking” is used instead of Sensing/Sensorics, “Intuitive thinking” is used instead of Intuition, “Task-oriented thinking” is used instead of Thinking/Logic, “Feelings-oriented thinking” is used instead of Feeling/Ethics.
+7. Modified standard MBTI acronyms for Jung functions (Se', Si', Ne', Ni', Fe', Fi', Te', Ti') and dichotomies (E/I, N/S, T/F, P/J) are used for MBTI partial compatibility purpose. Unfortunately there seems to be no way to avoid using standard MBTI acronyms for Jung/JAT functions.
+8. Standard socionics functions symbols (● ○ ▲ △ ◆ ◇ ■ □) and Victor Gulenko’s 8 latin letters (F, S, I, T, E, R, P, L) were abandoned as inconvenient, unpopular in English community or weird :-)
+9. Some differences between types in classical Socionics and reference types in Jung-Augustinavichiute-Talanov Socionics are outlined.
+10. Some differences between information aspects in classical socionics and Jung-Augustinavichiute-Talanov cognitive functions are outlined.
+11. 1-16 numbers as names for types were proposed for mixed types notation and speech (+ mnemonics).
+12. Very basic introduction to quadras is given and discussed why quadras grouped this way.
 
 
 ## 1. Jung-Augustinavichiute-Talanov cognitive functions
@@ -185,7 +187,7 @@ So the functions the type values most are dominant, auxiliary and the most infer
 So this can be seen that these 4 types has the same 4 most valued functions.
 
 
-## 7. Intermediate types names
+## 7. Intermediate and unknown types names
 
 1. Names for truly **intermediate types** are proposed. Names for unknown types like ExTJ are common (this can be ENTJ, ESTJ or intermediate type, we do not know which one exactly). Similarly EμTJ/EuTJ (like μTorrent/uTorrent) is the name for truly intermediate type. **μ** is the standard symbol that denotes mean value. We also automatically get **explicit notation** like IxTJ-Ti'-dom. The existence of intermediate types is still an open question. It's easy to imagine intermediate type between types with the same dominant function but not with different ones.
 2. Below are some examples of short names for types, unknown types and intermediate/mixed types. The 4 letter code at the beginning shows the position on 4 axes that can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part shows cognitive functions stack. I guess it may even be possible to have **ENTJ-Ne'-dom** if the person is a mixture equally of ENTP-Ne'-dom, ENTJ-Te'-dom and INTJ-Ti'-dom: ENTJ(1\~2~12). But at the moment it's a speculation only.
