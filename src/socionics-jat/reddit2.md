@@ -9,7 +9,10 @@
 
 1. [MBTI incompatibility](#1-mbti-incompatibility)
 2. [Jung-Augustinavichiute-Talanov cognitive functions](#2-jung-augustinavichiute-talanov-cognitive-functions)
-3. [Socionics vs. MBTI types names](#3-socionics-vs--mbti-types-names)
+3. [Socionics vs. MBTI types names](#3-socionics-vs-mbti-types-names)
+4. [Why quadras grouped this way?](#4-why-quadras-grouped-this-way)
+5. [Intermediate types names](#5-intermediate-types-names)
+6. [Translation of some useful socionics terms. Pacific vs. resolute types](#6-translation-of-some-useful-socionics-terms-pacific-vs-resolute-types)
 
 
 ## 1. MBTI incompatibility
@@ -125,7 +128,7 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 | IxTx<2,6,11,15>            | INTJ-Ti\*-dom v ISTJ-Ti\*-dom v INTP-Ni\*-dom v ISTP-Si\*-dom v IuTJ-Ti\*-dom v ... | ? |
 
 
-# 6. Translation of some useful socionics terms
+# 6. Translation of some useful socionics terms. Pacific vs. resolute types
 
 Terms that can describe a person or a type.
 
