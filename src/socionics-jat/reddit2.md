@@ -4,6 +4,14 @@
 
 *(This article corrects and continues the [previous one](https://github.com/kiwi0fruit/misc/blob/master/src/socionics-jat/intro.md))*
 
+
+## Contents
+
+1. [MBTI incompatibility](#1-mbti-incompatibility)
+2. [Jung-Augustinavichiute-Talanov cognitive functions](#2-jung-augustinavichiute-talanov-cognitive-functions)
+3. [Socionics vs. MBTI types names](#3-socionics-vs--mbti-types-names)
+
+
 ## 1. MBTI incompatibility
 
 ***Explicit notation*** for socionics types are **INTJ-Ti\*-dom** and **INTP-Ni\*-dom**. **J**/**P** in socionics mean the same as in MBTI and Big Five (high/low conscientiousness). Same is for E/I, N/S, T/F. And **dom** is a dominant function as Jung meant it. The rule is simple: judging type has a judging dominant function (perceiving type -> perceiving dominant function). Introverted type has an introverted dominant function (extraverted type -> extraverted dominant function). And this notation explicitly reminds about it.
@@ -37,7 +45,7 @@ Mind that extraverted and introverted functions are specializations on top of th
 Don't mix Si that is MBTI function with Si\* that is Jung-Augustinavichiute-Talanov cognitive function. Asterisks are added for this purpose. 
 
 
-## 3. Socionics / MBTI types names
+## 3. Socionics vs. MBTI types names
 
 Names are in the following order:
 
