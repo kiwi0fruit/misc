@@ -1,19 +1,33 @@
-# Socionics-MBTI incompatibility, Jung-Augustinavichiute-Talanov cognitive functions, Socionics/MBTI types names
+# Alternative translation of Socionics to English + On incompatibility of Socionics and MBTI
 
 *(Backup of the [Reddit post](https://www.reddit.com/r/JungianTypology/comments/9jwhk8/socionicsmbti_incompatibility))*
 
 *(This article corrects and continues the [previous one](https://github.com/kiwi0fruit/misc/blob/master/src/socionics-jat/intro.md))*
 
+This is an alternative translation of one of the braches of Socionics to English. My vision of the ***Jung-Augustinavichiute-Talanov personality model*** (_JAT personality model_). But sometimes my vision goes beyond JAT personality model. Only the main terms were translated and described so this article is a stub. The notable differences are described in the summary.
 
 ## Contents
 
-1. [MBTI incompatibility](#1-mbti-incompatibility)
-2. [Jung-Augustinavichiute-Talanov cognitive functions](#2-jung-augustinavichiute-talanov-cognitive-functions)
-3. [Socionics vs. MBTI types names](#3-socionics-vs-mbti-types-names)
-4. [Why quadras grouped this way?](#4-why-quadras-grouped-this-way)
-5. [Intermediate types names](#5-intermediate-types-names)
-6. [Translation of some useful socionics terms. Pacific vs. resolute types](#6-translation-of-some-useful-socionics-terms-pacific-vs-resolute-types)
+* [Summary](#summary)
+* [1. MBTI incompatibility](#1-mbti-incompatibility)
+* [2. Jung-Augustinavichiute-Talanov cognitive functions](#2-jung-augustinavichiute-talanov-cognitive-functions)
+* [3. Socionics vs. MBTI types names](#3-socionics-vs-mbti-types-names)
+* [4. Why quadras grouped this way?](#4-why-quadras-grouped-this-way)
+* [5. Intermediate types names](#5-intermediate-types-names)
+* [6. Translation of some useful socionics terms. Pacific vs. resolute types](#6-translation-of-some-useful-socionics-terms-pacific-vs-resolute-types)
 
+
+## Summary
+
+1. All cognitive functions are called kinds of thinking. I like HBDI approach [en.wikipedia.org/wiki/Herrmann_Brain_Dominance_Instrument](https://en.wikipedia.org/wiki/Herrmann_Brain_Dominance_Instrument).
+2. The contradictions between MBTI and Socionics are made explicit so the type conversion isn’t possible for introverts.
+3. Rational/Irrational names were replaced with Judging/Perceiving as these are more accrurate names: remember Rationalism and it’s attitude to emotional thinking. This also helps make contradictions from 2 more clear.
+4. “Sensory thinking” is used instead of Sensing/Sensorics, “Intuitive thinking” is used instead of Intuition, “Task-oriented thinking” is used instead of Thinking/Logic, “Feelings-oriented thinking” is used instead of Feeling/Ethics.
+5. Modified standard MBTI acronyms for Jung functions (Se\*, Si\*, Ne\*, Ni\*, Fe\*, Fi\*, Te\*, Ti\*) and dichotomies (N/S, T/F) are used for MBTI partial compatibility purpose. Unfortunately there seems to be no way to avoid using standard MBTI acronyms for Jung/JAT functions.
+6. Standard socionics functions symbols (● ○ ▲ △ ◆ ◇ ■ □) and Victor Gulenko’s 8 latin letters (F, S, I, T, E, R, P, L) were abandoned as inconvenient, unpopular in English community or weird :-)
+7. Some differences between types in classical Socionics and reference types in Jung-Augustinavichiute-Talanov personality model are outlined.
+8. Some differences between information aspects in classical socionics and Jung-Augustinavichiute-Talanov cognitive functions are outlined.
+9. The short descriptions of JAT cognitive functions that are consistent (I hope) with JAT personality model are given. These descriptions are sometimes different from understanding of cognitive functions in other branches of Socionics.
 
 ## 1. MBTI incompatibility
 
