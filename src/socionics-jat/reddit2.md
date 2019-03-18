@@ -14,7 +14,7 @@ This is an alternative translation of one of the braches of Socionics to English
 * [5. On dichotomies, MBTI incompatibility, Big Five](#5-on-dichotomies-mbti-incompatibility-big-five)
 * [6. Quadras and functions. Why quadras grouped this way?](#6-quadras-and-functions-why-quadras-grouped-this-way)
 * [7. Intermediate types names](#7-intermediate-types-names)
-* [8. Translation of some useful socionics terms. Pacific vs. resolute types](#8-translation-of-some-useful-socionics-terms-pacific-vs-resolute-types)
+* [8. Single-noun terms like intuiter, sensor, feeler and tasker. Pacific vs. resolute types](#8-single-noun-terms-like-intuiter-sensor-feeler-and-tasker-pacific-vs-resolute-types)
 
 
 ## Summary
@@ -210,7 +210,7 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 | IxTx<2,6,11,15>            | INTJ-Ti'-dom v ISTJ-Ti'-dom v INTP-Ni'-dom v ISTP-Si'-dom v IuTJ-Ti'-dom v ... | ? |
 
 
-# 8. Translation of some useful socionics terms. Pacific vs. resolute types
+# 8. Single-noun terms like intuiter, sensor, feeler and tasker. Pacific vs. resolute types
 
 Terms that can describe a person or a type.
 
