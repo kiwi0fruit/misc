@@ -155,10 +155,12 @@ Dominant function in socionics is called **1st** function. And socionics splits 
 
 | **Quadra**    | **EP**             | **IJ**             | **IP**             | **EJ**             |
 |:--------------|:-------------------|:-------------------|:-------------------|:-------------------|
-| α alpha **A** | ENTP(1Ne'2Ti'8Te') | INTJ(1Ti'2Ne'8Ni') | ISFP(1Si'2Fe'8Fi') | ESFJ(1Fe'2Si'8Se') |
-| β beta **B**  | ESTP(1Se'2Ti'8Te') | ISTJ(1Ti'2Se'8Si') | INFP(1Ni'2Fe'8Fi') | ENFJ(1Fe'2Ni'8Ne') |
-| γ gamma **G** | ESFP(1Se'2Fi'8Fe') | ISFJ(1Fi'2Se'8Si') | INTP(1Ni'2Te'8Ti') | ENTJ(1Te'2Ni'8Ne') |
-| δ delta **D** | ENFP(1Ne'2Fi'8Fe') | INFJ(1Fi'2Ne'8Ni') | ISTP(1Si'2Te'8Ti') | ESTJ(1Te'2Si'8Se') |
+| α alpha **A** | ENTP(1Ne'2Ti'8Te') Ne'T | INTJ(1Ti'2Ne'8Ni') Ti'N | ISFP(1Si'2Fe'8Fi') Si'F | ESFJ(1Fe'2Si'8Se') Fe'S |
+| β beta **B**  | ESTP(1Se'2Ti'8Te') Se'T | ISTJ(1Ti'2Se'8Si') Ti'S | INFP(1Ni'2Fe'8Fi') Ni'F | ENFJ(1Fe'2Ni'8Ne') Fe'N |
+| γ gamma **G** | ESFP(1Se'2Fi'8Fe') Se'F | ISFJ(1Fi'2Se'8Si') Fi'S | INTP(1Ni'2Te'8Ti') Ni'T | ENTJ(1Te'2Ni'8Ne') Te'N |
+| δ delta **D** | ENFP(1Ne'2Fi'8Fe') Ne'F | INFJ(1Fi'2Ne'8Ni') Fi'N | ISTP(1Si'2Te'8Ti') Si'T | ESTJ(1Te'2Si'8Se') Te'S |
+
+One of the shortest notations is given as the second name. Though it can easily be mistaken with wrong MBTI type in case of introverts. So it's recommend to used only in explicit contexts.
 
 | **Quadras** | 1st **or** 2nd function is |
 |------------:|:---------------------------|
@@ -186,16 +188,16 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 
 ## 7. Intermediate and unknown types names
 
-1. Names for truly **intermediate types** are proposed. Names for unknown types like ExTJ are common (this can be ENTJ, ESTJ or intermediate type, we do not know which one exactly). Similarly EμTJ/EuTJ (like μTorrent/uTorrent) is the name for truly intermediate type. **μ** is the standard symbol that denotes mean value. We also automatically get **explicit notation** like IxTJ-Ti'-dom. The existence of intermediate types is still an open question. It's easy to imagine intermediate type between types with the same dominant function but not with different ones.
+1. Names for truly **intermediate types** are proposed. Names for unknown types like ExTJ are common (this can be ENTJ, ESTJ or intermediate type, we do not know which one exactly). Similarly EμTJ/EuTJ (like μTorrent/uTorrent) is the name for truly intermediate type. **μ** is the standard symbol that denotes mean value (capital is M - Mu). We also automatically get **explicit notation** like IxTJ-Ti'-dom. The existence of intermediate types is still an open question. It's easy to imagine intermediate type between types with the same dominant function but not with different ones.
 2. Below are some examples of short names for types, unknown types and intermediate/mixed types. The 4 letter code at the beginning shows the position on 4 axes that can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part shows cognitive functions stack. I guess it may even be possible to have **ENTJ-Ne'-dom** if the person is a mixture equally of ENTP-Ne'-dom, ENTJ-Te'-dom and INTJ-Ti'-dom: ENTJ(1\~2~12). But at the moment it's a speculation only.
 3. Additional postfixes are needed when there should be noted that socioics types and functions are meant (but not the MBTI types and functions). This is especially relevant for unknown types with **x** on J/P axis. For example **INTx<2,11>** = INTJ-Ti'-dom or INTP-Ni'-dom or INTu(2~11). But if we take MBTI types then **INTx** = INTP-Ti-dom or INTJ-Ni-dom or INTu.
 
-| **Unknown types**          | **Meaning of unknown types**                      | **Mixed type** |
-|:--------------------------:|:-------------------------------------------------:|:--------------:|
-| ExTJ<12,16>                | ENTJ-Te'-dom v ESTJ-Te'-dom v EuTJ(12~16) v ... | EuTJ(12~16)    |
+| **Unknown types**          | **Meaning of unknown types**                    | **Mixed type** |
+|:--------------------------:|:-----------------------------------------------:|:--------------:|
+| ExTJ<12,16>, Te'X          | ENTJ-Te'-dom v ESTJ-Te'-dom v EuTJ(12~16) v ... | EuTJ(12~16), Te'Mu |
 | ENxJ<8,12>                 | ENTJ-Te'-dom v ENFJ-Fe'-dom v ENuJ(8~12) v ...  | ENuJ(8~12)     |
 | INTx<2,11>, INTx<2;11>     | INTJ-Ti'-dom v INTP-Ni'-dom v INTu(2~11) v ...  | INTu(2~11)     |
-| IxTJ<2,6>, IxTJ-⁠Ti⁠'⁠-⁠dom   | INTJ-Ti'-dom v ISTJ-Ti'-dom v IuTJ(2~6) v ...   | IuTJ(2~6)      |
+| IxTJ<2,6>, IxTJ-⁠Ti⁠'⁠-⁠dom, Ti'X | INTJ-Ti'-dom v ISTJ-Ti'-dom v IuTJ(2~6) v ... | IuTJ(2~6), Ti'Mu |
 | xNTx<1,2>                  | ENTP-Ne'-dom v INTJ-Ti'-dom v uNTu(1~2) v ...   | uNTu(1~2)      |
 | xNTJ<2,12>                 | ENTJ-Te'-dom v INTJ-Ti'-dom v uNTJ(2~12) v ...  | uNTJ(2~12)     |
 | INxJ<2,14>                 | INTJ-Ti'-dom v INFJ-Fi'-dom v INuJ(2~14) v ...  | INuJ(2~14)     |
