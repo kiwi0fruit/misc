@@ -194,7 +194,7 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 
 | **Unknown types**          | **Meaning of unknown types**                    | **Mixed type** |
 |:--------------------------:|:-----------------------------------------------:|:--------------:|
-| ExTJ<12,16>, Te'X          | ENTJ-Te'-dom v ESTJ-Te'-dom v EuTJ(12~16) v ... | EuTJ(12~16), Te'Mu |
+| ExTJ<12,16>, Te'X          | ENTJ-Te'-dom v ESTJ-Te'-dom v EuTJ(12~16) v ... | EuTJ(12~16), Te'(S\~N) |
 | ENxJ<8,12>                 | ENTJ-Te'-dom v ENFJ-Fe'-dom v ENuJ(8~12) v ...  | ENuJ(8~12)     |
 | INTx<2,11>, INTx<2;11>     | INTJ-Ti'-dom v INTP-Ni'-dom v INTu(2~11) v ...  | INTu(2~11)     |
 | IxTJ<2,6>, IxTJ-⁠Ti⁠'⁠-⁠dom, Ti'X | INTJ-Ti'-dom v ISTJ-Ti'-dom v IuTJ(2~6) v ... | IuTJ(2~6), Ti'Mu |
