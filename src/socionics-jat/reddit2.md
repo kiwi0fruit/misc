@@ -14,8 +14,8 @@ This is an alternative translation of one of the braches of Socionics to English
 * [3. Types in classical Socionics vs. reference types in JAT personality model](#3-types-in-classical-socionics-vs-reference-types-in-jat-personality-model)
 * [4. Reference types abbreviations](#4-reference-types-abbreviations)
 * [5. On dichotomies, MBTI incompatibility, Big Five](#5-on-dichotomies-mbti-incompatibility-big-five)
-* [6. Socionics vs. MBTI types names, Quadras and functions](#6-socionics-vs-mbti-types-names-quadras-and-functions)
-* [7. Why quadras grouped this way?](#7-why-quadras-grouped-this-way)
+* [6. Socionics vs. MBTI types names, Quadras and functions](#6-socionics-vs-mbti-types-names)
+* [7. Quadras and functions. Why quadras grouped this way?](#7-quadras-and-functions-why-quadras-grouped-this-way)
 * [8. Intermediate types names](#8-intermediate-types-names)
 * [9. Translation of some useful socionics terms. Pacific vs. resolute types](#9-translation-of-some-useful-socionics-terms-pacific-vs-resolute-types)
 
@@ -114,7 +114,7 @@ So if we are talking about type of particular person not about reference types t
 ***Explicit notation*** for Socionics types are **INTJ-Ti\*-dom** and **INTP-Ni\*-dom**. **J**/**P** in socionics mean the same as in MBTI and Big Five (high/low conscientiousness). Same is for E/I, N/S, T/F. And **dom** is a dominant function as Jung meant it. The rule is simple: judging type has a judging dominant function (perceiving type -> perceiving dominant function). Introverted type has an introverted dominant function (extraverted type -> extraverted dominant function). And this notation explicitly reminds about it.
 
 
-## 6. Socionics vs. MBTI types names, Quadras and functions
+## 6. Socionics vs. MBTI types names
 
 Names are in the following order:
 
@@ -128,20 +128,6 @@ In my translation of socionics types names to english the 4 letter code shows th
 | β beta **B**  | **ESTP-⁠Se⁠\*⁠-⁠dom**  SLE  ESTP  **5**  | **ISTJ-⁠Ti⁠\*⁠-⁠dom**  LSI  ISTx  **6**  | **INFP-⁠Ni⁠\*⁠-⁠dom**  IEI  INFx  **7**  | **ENFJ-⁠Fe⁠\*⁠-⁠dom**  EIE  ENFJ  **8**  |
 | γ gamma **G** | **ESFP-⁠Se⁠\*⁠-⁠dom**  SEE  ESFP  **9**  | **ISFJ-⁠Fi⁠\*⁠-⁠dom**  ESI  ISFx  **10** | **INTP-⁠Ni⁠\*⁠-⁠dom**  ILI  INTx  **11** | **ENTJ-⁠Te⁠\*⁠-⁠dom**  LIE  ENTJ  **12** |
 | δ delta **D** | **ENFP-⁠Ne⁠\*⁠-⁠dom**  IEE  ENFP  **13** | **INFJ-⁠Fi⁠\*⁠-⁠dom**  EII  INFx  **14** | **ISTP-⁠Si⁠\*⁠-⁠dom**  SLI  ISTx  **15** | **ESTJ-⁠Te⁠\*⁠-⁠dom**  LSE  ESTJ  **16** |
-
-
-#### Quadras and functions
-
-Socionics **quadras** split 16 types to 4 groups. Each group has **EP** type with a dominant extraverted perceiving function, **IJ** type with a dominant introverted judging function, **EJ** type with a dominant extraverted judging function and **IP** type with a dominant introverted perceiving function.
-
-Dominant function in socionics is called **1st** function. And socionics splits Jung's auxilary function to **2nd** function and **8th** function. If the 1st function is extraverted then the 2nd is introverted and the 8th is extraverted. And vice versa. In case of INTJ-Ti\*-dom it would be ¹Ti\*²Ne\*⁸Ni\* (1Ti\*-2Ne\*-8Ni\*). 1st, 2nd and 8th functions are the most important from the point of view of the type’s social activities. And may be also they are the most important from the point of view of the type’s self-identification.
-
-| **Quadras** | 1st **or** 2nd function is |
-|:-----------:|:--------------------------:|
-| AD          | Ne\* or Si\*               |
-| BG          | Se\* or Ni\*               |
-| AB          | Fe\* or Ti\*               |
-| GD          | Te\* or Fi\*               |
 
 
 #### Mnemonics to remember the numbers
@@ -166,7 +152,21 @@ Dominant function in socionics is called **1st** function. And socionics splits 
 |  16 | ESTJ-Te\*-dom | Brings everything to the end                       |
 
 
-## 7. Why quadras grouped this way?
+## 7. Quadras and functions. Why quadras grouped this way?
+
+Socionics **quadras** split 16 types to 4 groups. Each group has **EP** type with a dominant extraverted perceiving function, **IJ** type with a dominant introverted judging function, **EJ** type with a dominant extraverted judging function and **IP** type with a dominant introverted perceiving function.
+
+Dominant function in socionics is called **1st** function. And socionics splits Jung's auxilary function to **2nd** function and **8th** function. If the 1st function is extraverted then the 2nd is introverted and the 8th is extraverted. And vice versa. In case of INTJ-Ti\*-dom it would be ¹Ti\*²Ne\*⁸Ni\* (1Ti\*-2Ne\*-8Ni\*). 1st, 2nd and 8th functions are the most important from the point of view of the type’s social activities. And may be also they are the most important from the point of view of the type’s self-identification.
+
+| **Quadras** | 1st **or** 2nd function is |
+|:-----------:|:--------------------------:|
+| AD          | Ne\* or Si\*               |
+| BG          | Se\* or Ni\*               |
+| AB          | Fe\* or Ti\*               |
+| GD          | Te\* or Fi\*               |
+
+
+#### Why quadras grouped this way?
 
 Let's explain this in the example of the delta quadra.
 
