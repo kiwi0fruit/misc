@@ -14,11 +14,10 @@ This is an alternative translation of one of the braches of Socionics to English
 * [3. Types in classical Socionics vs. reference types in JAT personality model](#3-types-in-classical-socionics-vs-reference-types-in-jat-personality-model)
 * [4. Reference types abbreviations](#4-reference-types-abbreviations)
 * [5. On dichotomies, MBTI incompatibility, Big Five](#5-on-dichotomies-mbti-incompatibility-big-five)
-
-* [3. Socionics vs. MBTI types names](#3-socionics-vs-mbti-types-names)
-* [4. Why quadras grouped this way?](#4-why-quadras-grouped-this-way)
-* [5. Intermediate types names](#5-intermediate-types-names)
-* [6. Translation of some useful socionics terms. Pacific vs. resolute types](#6-translation-of-some-useful-socionics-terms-pacific-vs-resolute-types)
+* [6. Socionics vs. MBTI types names, Quadras and functions](#6-socionics-vs-mbti-types-names-quadras-and-functions)
+* [7. Why quadras grouped this way?](#7-why-quadras-grouped-this-way)
+* [8. Intermediate types names](#8-intermediate-types-names)
+* [9. Translation of some useful socionics terms. Pacific vs. resolute types](#9-translation-of-some-useful-socionics-terms-pacific-vs-resolute-types)
 
 
 ## Summary
@@ -115,7 +114,7 @@ So if we are talking about type of particular person not about reference types t
 ***Explicit notation*** for Socionics types are **INTJ-Ti\*-dom** and **INTP-Ni\*-dom**. **J**/**P** in socionics mean the same as in MBTI and Big Five (high/low conscientiousness). Same is for E/I, N/S, T/F. And **dom** is a dominant function as Jung meant it. The rule is simple: judging type has a judging dominant function (perceiving type -> perceiving dominant function). Introverted type has an introverted dominant function (extraverted type -> extraverted dominant function). And this notation explicitly reminds about it.
 
 
-## 3. Socionics vs. MBTI types names
+## 6. Socionics vs. MBTI types names, Quadras and functions
 
 Names are in the following order:
 
@@ -130,7 +129,22 @@ In my translation of socionics types names to english the 4 letter code shows th
 | γ gamma **G** | **ESFP-⁠Se⁠\*⁠-⁠dom**  SEE  ESFP  **9**  | **ISFJ-⁠Fi⁠\*⁠-⁠dom**  ESI  ISFx  **10** | **INTP-⁠Ni⁠\*⁠-⁠dom**  ILI  INTx  **11** | **ENTJ-⁠Te⁠\*⁠-⁠dom**  LIE  ENTJ  **12** |
 | δ delta **D** | **ENFP-⁠Ne⁠\*⁠-⁠dom**  IEE  ENFP  **13** | **INFJ-⁠Fi⁠\*⁠-⁠dom**  EII  INFx  **14** | **ISTP-⁠Si⁠\*⁠-⁠dom**  SLI  ISTx  **15** | **ESTJ-⁠Te⁠\*⁠-⁠dom**  LSE  ESTJ  **16** |
 
-Mnemonics to remember the numbers:
+
+#### Quadras and functions
+
+Socionics **quadras** split 16 types to 4 groups. Each group has **EP** type with a dominant extraverted perceiving function, **IJ** type with a dominant introverted judging function, **EJ** type with a dominant extraverted judging function and **IP** type with a dominant introverted perceiving function.
+
+Dominant function in socionics is called **1st** function. And socionics splits Jung's auxilary function to **2nd** function and **8th** function. If the 1st function is extraverted then the 2nd is introverted and the 8th is extraverted. And vice versa. In case of INTJ-Ti\*-dom it would be ¹Ti\*²Ne\*⁸Ni\* (1Ti\*-2Ne\*-8Ni\*). 1st, 2nd and 8th functions are the most important from the point of view of the type’s social activities. And may be also they are the most important from the point of view of the type’s self-identification.
+
+| **Quadras** | 1st **or** 2nd function is |
+|:-----------:|:--------------------------:|
+| AD          | Ne\* or Si\*               |
+| BG          | Se\* or Ni\*               |
+| AB          | Fe\* or Ti\*               |
+| GD          | Te\* or Fi\*               |
+
+
+#### Mnemonics to remember the numbers
 
 |     |               |                                                    |
 | ---:|:-------------:|:-------------------------------------------------- |
@@ -152,7 +166,7 @@ Mnemonics to remember the numbers:
 |  16 | ESTJ-Te\*-dom | Brings everything to the end                       |
 
 
-## 4. Why quadras grouped this way?
+## 7. Why quadras grouped this way?
 
 Let's explain this in the example of the delta quadra.
 
@@ -168,7 +182,7 @@ So the functions the type values most are dominant, auxiliary and the most infer
 So this can be seen that these 4 types has the same 4 most valued functions.
 
 
-## 5. Intermediate types names
+## 8. Intermediate types names
 
 1. Names for truly **intermediate types** are proposed. Names for unknown types like ExTJ are common (this can be ENTJ, ESTJ or intermediate type, we do not know which one exactly). Similarly EμTJ/EuTJ (like μTorrent/uTorrent) is the name for truly intermediate type. **μ** is the standard symbol that denotes mean value. We also automatically get **explicit notation** like IxTJ-Ti\*-dom. The existence of intermediate types is still an open question. It's easy to imagine intermediate type between types with the same dominant function but not with different ones.
 2. Below are some examples of short names for types, unknown types and intermediate/mixed types. The 4 letter code at the beginning shows the position on 4 axes that can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part shows cognitive functions stack. I guess it may even be possible to have **ENTJ-Ne\*-dom** if the person is a mixture equally of ENTP-Ne\*-dom, ENTJ-Te\*-dom and INTJ-Ti\*-dom: ENTJ(1\~2~12). But at the moment it's a speculation only.
@@ -195,7 +209,7 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 | IxTx<2,6,11,15>            | INTJ-Ti\*-dom v ISTJ-Ti\*-dom v INTP-Ni\*-dom v ISTP-Si\*-dom v IuTJ-Ti\*-dom v ... | ? |
 
 
-# 6. Translation of some useful socionics terms. Pacific vs. resolute types
+# 9. Translation of some useful socionics terms. Pacific vs. resolute types
 
 Terms that can describe a person or a type.
 
