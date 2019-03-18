@@ -12,12 +12,11 @@ This is an alternative translation of one of the braches of Socionics to English
 * [1. Jung-Augustinavichiute-Talanov cognitive functions](#1-jung-augustinavichiute-talanov-cognitive-functions)
 * [2. Aspects as basis in classical Socionics vs. JAT cognitive functions as a basis in JAT personality model](#2-aspects-as-basis-in-classical-socionics-vs-jat-cognitive-functions-as-a-basis-in-jat-personality-model)
 * [3. Types in classical Socionics vs. reference types in JAT personality model](#3-types-in-classical-socionics-vs-reference-types-in-jat-personality-model)
-* [4. Reference types abbreviations](#4-reference-types-abbreviations)
+* [4. Socionics reference types vs. MBTI types names](#4-socionics-reference-types-vs-mbti-types-names)
 * [5. On dichotomies, MBTI incompatibility, Big Five](#5-on-dichotomies-mbti-incompatibility-big-five)
-* [6. Socionics vs. MBTI types names, Quadras and functions](#6-socionics-vs-mbti-types-names)
-* [7. Quadras and functions. Why quadras grouped this way?](#7-quadras-and-functions-why-quadras-grouped-this-way)
-* [8. Intermediate types names](#8-intermediate-types-names)
-* [9. Translation of some useful socionics terms. Pacific vs. resolute types](#9-translation-of-some-useful-socionics-terms-pacific-vs-resolute-types)
+* [6. Quadras and functions. Why quadras grouped this way?](#6-quadras-and-functions-why-quadras-grouped-this-way)
+* [7. Intermediate types names](#7-intermediate-types-names)
+* [8. Translation of some useful socionics terms. Pacific vs. resolute types](#8-translation-of-some-useful-socionics-terms-pacific-vs-resolute-types)
 
 
 ## Summary
@@ -77,9 +76,22 @@ There are 16 reference types in Jung-Augustinavichiute-Talanov personality model
 This approach is also useful in determining of 1-3 closest reference types without questionnaire (using observations only). In this case the reference types are simply socionics types weighted with degrees of likeness. And even in this case the properties of Jung cognitive functions can be roughly determined using the Model A and weighted averaging of functions properties for all reference types found.
 
 
-## 4. Reference types abbreviations
+## 4. Socionics reference types vs. MBTI types names
 
-There are 4 letter names like INTJ-Ti\*-dom or ESFP-Se\*-dom. For example INTJ-Ti\*-dom is *intuitive task-oriented judging introvert* with dominant Ti\*. So the first part of the name is given by:
+Names are in the following order:
+
+- **Socionics reference type name**, Socionics name literal translation, MBTI name, **Number name**.
+
+In my translation of socionics types names to english the 4 letter code shows the position on 4 axes that can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part after hyphen (if needed) shows cognitive functions stack. MBTI does not have counterpart types for introverts. For example the closest counterpart for INTJ-Ti\*-dom is INTx that is one of two types INTJ/INTP (or their mixture).
+
+| quadra | EP | IJ | IP | EJ |
+|:------:|:--:|:--:|:--:|:--:|
+| α alpha **A** | **ENTP-⁠Ne⁠\*⁠-⁠dom**  ILE  ENTP  **1**  | **INTJ-⁠Ti⁠\*⁠-⁠dom**  LII  INTx  **2**  | **ISFP-⁠Si⁠\*⁠-⁠dom**  SEI  ISFx  **3**  | **ESFJ-⁠Fe⁠\*⁠-⁠dom**  ESE  ESFJ  **4**  |
+| β beta **B**  | **ESTP-⁠Se⁠\*⁠-⁠dom**  SLE  ESTP  **5**  | **ISTJ-⁠Ti⁠\*⁠-⁠dom**  LSI  ISTx  **6**  | **INFP-⁠Ni⁠\*⁠-⁠dom**  IEI  INFx  **7**  | **ENFJ-⁠Fe⁠\*⁠-⁠dom**  EIE  ENFJ  **8**  |
+| γ gamma **G** | **ESFP-⁠Se⁠\*⁠-⁠dom**  SEE  ESFP  **9**  | **ISFJ-⁠Fi⁠\*⁠-⁠dom**  ESI  ISFx  **10** | **INTP-⁠Ni⁠\*⁠-⁠dom**  ILI  INTx  **11** | **ENTJ-⁠Te⁠\*⁠-⁠dom**  LIE  ENTJ  **12** |
+| δ delta **D** | **ENFP-⁠Ne⁠\*⁠-⁠dom**  IEE  ENFP  **13** | **INFJ-⁠Fi⁠\*⁠-⁠dom**  EII  INFx  **14** | **ISTP-⁠Si⁠\*⁠-⁠dom**  SLI  ISTx  **15** | **ESTJ-⁠Te⁠\*⁠-⁠dom**  LSE  ESTJ  **16** |
+
+For example INTJ-Ti\*-dom is *intuitive task-oriented judging introvert* with dominant Ti\*. So the first part of the name is given by:
 
 - **NT** is intuitive task-oriented
 - **NF** is intuitive feelings-oriented
@@ -92,42 +104,6 @@ And the last part of the name is given by:
 - **IJ** is judging introvert
 - **IP** is perceiving introvert
 - **EJ** is judging extravert
-
-
-## 5. On dichotomies, MBTI incompatibility, Big Five
-
-***Important*** thing to note is that
-
-*   If the reference type’s dominant function is extraverted then the behaviour of the reference type is also more extraverted than introverted (and vice versa).
-*   If the reference type’s dominant function is perceiving then the behaviour of the reference type is also more perceiving than judging (and vice versa).
-*   If the reference type’s dominant function is one of the intuitive thinking functions then the behaviour of the reference type is also more intuitive than tangible-oriented and sensory (and vice versa).
-*   If the reference type’s dominant function is one of the task-oriented thinking functions then the behaviour of the reference type is also more task-oriented than feelings-oriented (and vice versa).
-
-This leads to the possibility of defining I/E, P/J, S/N, F/T dichotomies and obtaining correlations with Big Five personality model [en.wikipedia.org/wiki/Myers–Briggs_Type_Indicator#Big_Five](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator#Big_Five). In that study the MBTI ***dichotomies*** used are somewhere ___about the same___ as in Socionics. But at the same time the hypothesis about the internal structure of type’s ***Jung cognitive functions properties*** are ___different___ in MBTI and Socionics / JAT personality model.
-
-Good infographics on Big Five (that have close relations with socioncs and MBTI) is given here: [psychologycharts.com/big-five-personality-traits.html](http://www.psychologycharts.com/big-five-personality-traits.html). There are also some other good names and connections.
-
-It’s worth mentioning that the Socionics hypothesis of correlations between dichotomies and Jung cognitive functions are expected to be statistical or visible only in the most vivid cases of persons. For example: if we see the highly introverted (I) and highly self-disciplined (J) person then what Jung congnitive function he would expect they has as dominant function? Socionics says that it would be Ti\* or Fi\*. MBTI says it would be Ni or Si. But in many particular cases of people there can be combinations of “Ti\*-dominant and more like perceiving behavior” or “Ni\*-dominant and more like judging behaviour”. But in most cases Socionics expects “Ti\*-dominant and more like judging behavior”. This even can be experimentally verified by tests that measure Jung cognitive functions and dichotomies independently.
-
-So if we are talking about type of particular person not about reference types then using I/E and J/P dichotomies can be misleading or inaccurate. So the noting person’s dominant function is a better option. For example: Ne\*-dom, Ti\*-dom. Auxilary function also worth noting but Socionics research shown that for example in case of Ne\*-dom and task-oriented thinking (T) both Te\* (8) and Ti\* (2) may play importaint role in assisting dominant Ne\*. So they both can be viewed as auxilary function as Jung meant it (actually Jung didn’t say whether auxilary function for Ne\*-dom is Ti\* or Te\*). There need to be more invesigations on this topic but for now it’s more accurate to think that the auxilary function is just T, F, S or N withount specifying whether it is Te\* ot Ti\*, etc.
-
-***Explicit notation*** for Socionics types are **INTJ-Ti\*-dom** and **INTP-Ni\*-dom**. **J**/**P** in socionics mean the same as in MBTI and Big Five (high/low conscientiousness). Same is for E/I, N/S, T/F. And **dom** is a dominant function as Jung meant it. The rule is simple: judging type has a judging dominant function (perceiving type -> perceiving dominant function). Introverted type has an introverted dominant function (extraverted type -> extraverted dominant function). And this notation explicitly reminds about it.
-
-
-## 6. Socionics vs. MBTI types names
-
-Names are in the following order:
-
-- **Socionics name**, Socionics name literal translation, MBTI name, **Number name**.
-
-In my translation of socionics types names to english the 4 letter code shows the position on 4 axes that can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part after hyphen (if needed) shows cognitive functions stack. MBTI does not have counterpart types for introverts. For example the closest counterpart for *INTJ-Ti\*-dom* is *INTx* that is one of two types *INTJ/INTP* (or their mixture).
-
-| quadra | EP | IJ | IP | EJ |
-|:------:|:--:|:--:|:--:|:--:|
-| α alpha **A** | **ENTP-⁠Ne⁠\*⁠-⁠dom**  ILE  ENTP  **1**  | **INTJ-⁠Ti⁠\*⁠-⁠dom**  LII  INTx  **2**  | **ISFP-⁠Si⁠\*⁠-⁠dom**  SEI  ISFx  **3**  | **ESFJ-⁠Fe⁠\*⁠-⁠dom**  ESE  ESFJ  **4**  |
-| β beta **B**  | **ESTP-⁠Se⁠\*⁠-⁠dom**  SLE  ESTP  **5**  | **ISTJ-⁠Ti⁠\*⁠-⁠dom**  LSI  ISTx  **6**  | **INFP-⁠Ni⁠\*⁠-⁠dom**  IEI  INFx  **7**  | **ENFJ-⁠Fe⁠\*⁠-⁠dom**  EIE  ENFJ  **8**  |
-| γ gamma **G** | **ESFP-⁠Se⁠\*⁠-⁠dom**  SEE  ESFP  **9**  | **ISFJ-⁠Fi⁠\*⁠-⁠dom**  ESI  ISFx  **10** | **INTP-⁠Ni⁠\*⁠-⁠dom**  ILI  INTx  **11** | **ENTJ-⁠Te⁠\*⁠-⁠dom**  LIE  ENTJ  **12** |
-| δ delta **D** | **ENFP-⁠Ne⁠\*⁠-⁠dom**  IEE  ENFP  **13** | **INFJ-⁠Fi⁠\*⁠-⁠dom**  EII  INFx  **14** | **ISTP-⁠Si⁠\*⁠-⁠dom**  SLI  ISTx  **15** | **ESTJ-⁠Te⁠\*⁠-⁠dom**  LSE  ESTJ  **16** |
 
 
 #### Mnemonics to remember the numbers
@@ -152,7 +128,27 @@ In my translation of socionics types names to english the 4 letter code shows th
 |  16 | ESTJ-Te\*-dom | Brings everything to the end                       |
 
 
-## 7. Quadras and functions. Why quadras grouped this way?
+## 5. On dichotomies, MBTI incompatibility, Big Five
+
+***Important*** thing to note is that
+
+*   If the reference type’s dominant function is extraverted then the behaviour of the reference type is also more extraverted than introverted (and vice versa).
+*   If the reference type’s dominant function is perceiving then the behaviour of the reference type is also more perceiving than judging (and vice versa).
+*   If the reference type’s dominant function is one of the intuitive thinking functions then the behaviour of the reference type is also more intuitive than tangible-oriented and sensory (and vice versa).
+*   If the reference type’s dominant function is one of the task-oriented thinking functions then the behaviour of the reference type is also more task-oriented than feelings-oriented (and vice versa).
+
+This leads to the possibility of defining I/E, P/J, S/N, F/T dichotomies and obtaining correlations with Big Five personality model [en.wikipedia.org/wiki/Myers–Briggs_Type_Indicator#Big_Five](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator#Big_Five). In that study the MBTI ***dichotomies*** used are somewhere ___about the same___ as in Socionics. But at the same time the hypothesis about the internal structure of type’s ***Jung cognitive functions properties*** are ___different___ in MBTI and Socionics / JAT personality model.
+
+Good infographics on Big Five (that have close relations with socioncs and MBTI) is given here: [psychologycharts.com/big-five-personality-traits.html](http://www.psychologycharts.com/big-five-personality-traits.html). There are also some other good names and connections.
+
+It’s worth mentioning that the Socionics hypothesis of correlations between dichotomies and Jung cognitive functions are expected to be statistical or visible only in the most vivid cases of persons. For example: if we see the highly introverted (I) and highly self-disciplined (J) person then what Jung congnitive function he would expect they has as dominant function? Socionics says that it would be Ti\* or Fi\*. MBTI says it would be Ni or Si. But in many particular cases of people there can be combinations of “Ti\*-dominant and more like perceiving behavior” or “Ni\*-dominant and more like judging behaviour”. But in most cases Socionics expects “Ti\*-dominant and more like judging behavior”. This even can be experimentally verified by tests that measure Jung cognitive functions and dichotomies independently.
+
+So if we are talking about type of particular person not about reference types then using I/E and J/P dichotomies can be misleading or inaccurate. So the noting person’s dominant function is a better option. For example: Ne\*-dom, Ti\*-dom. Auxilary function also worth noting but Socionics research shown that for example in case of Ne\*-dom and task-oriented thinking (T) both Te\* (8) and Ti\* (2) may play importaint role in assisting dominant Ne\*. So they both can be viewed as auxilary function as Jung meant it (actually Jung didn’t say whether auxilary function for Ne\*-dom is Ti\* or Te\*). There need to be more invesigations on this topic but for now it’s more accurate to think that the auxilary function is just T, F, S or N withount specifying whether it is Te\* ot Ti\*, etc.
+
+***Explicit notation*** for Socionics types are **INTJ-Ti\*-dom** and **INTP-Ni\*-dom**. **J**/**P** in socionics mean the same as in MBTI and Big Five (high/low conscientiousness). Same is for E/I, N/S, T/F. And **dom** is a dominant function as Jung meant it. The rule is simple: judging type has a judging dominant function (perceiving type -> perceiving dominant function). Introverted type has an introverted dominant function (extraverted type -> extraverted dominant function). And this notation explicitly reminds about it.
+
+
+## 6. Quadras and functions. Why quadras grouped this way?
 
 Socionics **quadras** split 16 types to 4 groups. Each group has **EP** type with a dominant extraverted perceiving function, **IJ** type with a dominant introverted judging function, **EJ** type with a dominant extraverted judging function and **IP** type with a dominant introverted perceiving function.
 
@@ -182,7 +178,7 @@ So the functions the type values most are dominant, auxiliary and the most infer
 So this can be seen that these 4 types has the same 4 most valued functions.
 
 
-## 8. Intermediate types names
+## 7. Intermediate types names
 
 1. Names for truly **intermediate types** are proposed. Names for unknown types like ExTJ are common (this can be ENTJ, ESTJ or intermediate type, we do not know which one exactly). Similarly EμTJ/EuTJ (like μTorrent/uTorrent) is the name for truly intermediate type. **μ** is the standard symbol that denotes mean value. We also automatically get **explicit notation** like IxTJ-Ti\*-dom. The existence of intermediate types is still an open question. It's easy to imagine intermediate type between types with the same dominant function but not with different ones.
 2. Below are some examples of short names for types, unknown types and intermediate/mixed types. The 4 letter code at the beginning shows the position on 4 axes that can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part shows cognitive functions stack. I guess it may even be possible to have **ENTJ-Ne\*-dom** if the person is a mixture equally of ENTP-Ne\*-dom, ENTJ-Te\*-dom and INTJ-Ti\*-dom: ENTJ(1\~2~12). But at the moment it's a speculation only.
@@ -209,7 +205,7 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 | IxTx<2,6,11,15>            | INTJ-Ti\*-dom v ISTJ-Ti\*-dom v INTP-Ni\*-dom v ISTP-Si\*-dom v IuTJ-Ti\*-dom v ... | ? |
 
 
-# 9. Translation of some useful socionics terms. Pacific vs. resolute types
+# 8. Translation of some useful socionics terms. Pacific vs. resolute types
 
 Terms that can describe a person or a type.
 
