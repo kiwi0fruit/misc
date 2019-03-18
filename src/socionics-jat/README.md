@@ -1,7 +1,5 @@
 # Alternative translation of Jung-Augustinavichiute-Talanov Socionics to English + On incompatibility of Socionics and MBTI
 
-*(Backup of the Reddit posts: [r/JungianTypology/9jwhk8](https://www.reddit.com/r/JungianTypology/comments/9jwhk8/socionicsmbti_incompatibility), [r/JungianTypology/b2h89z](https://www.reddit.com/r/JungianTypology/comments/b2h89z/alternative_translation_of/))*
-
 This is an alternative translation of one of the braches of Socionics to English. My vision of some parts of the ***Jung-Augustinavichiute-Talanov Socionics*** (*JATS*). But sometimes my vision goes beyond JATS. Only the main terms were translated and described so this article is a stub. The notable differences are described in the summary.
 
 ## Contents
