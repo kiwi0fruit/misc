@@ -2,8 +2,6 @@
 
 *(Backup of the [Reddit post](https://www.reddit.com/r/JungianTypology/comments/9jwhk8/socionicsmbti_incompatibility))*
 
-*(This article corrects and continues the [previous one](https://github.com/kiwi0fruit/misc/blob/master/src/socionics-jat/intro.md))*
-
 This is an alternative translation of one of the braches of Socionics to English. My vision of the ***Jung-Augustinavichiute-Talanov personality model*** (_JAT personality model_). But sometimes my vision goes beyond JAT personality model. Only the main terms were translated and described so this article is a stub. The notable differences are described in the summary.
 
 ## Contents
