@@ -23,7 +23,7 @@ This is an alternative translation of one of the braches of Socionics to English
 2. The contradictions between MBTI and Socionics are made explicit so the type conversion isn’t possible for introverts.
 3. Rational/Irrational names were replaced with Judging/Perceiving as these are more accrurate names: remember Rationalism and it’s attitude to emotional thinking. This also helps make contradictions from 2 more clear.
 4. “Sensory thinking” is used instead of Sensing/Sensorics, “Intuitive thinking” is used instead of Intuition, “Task-oriented thinking” is used instead of Thinking/Logic, “Feelings-oriented thinking” is used instead of Feeling/Ethics.
-5. Modified standard MBTI acronyms for Jung functions (Se\*, Si\*, Ne\*, Ni\*, Fe\*, Fi\*, Te\*, Ti\*) and dichotomies (N/S, T/F) are used for MBTI partial compatibility purpose. Unfortunately there seems to be no way to avoid using standard MBTI acronyms for Jung/JAT functions.
+5. Modified standard MBTI acronyms for Jung functions (Se\*, Si\*, Ne\*, Ni\*, Fe\*, Fi\*, Te\*, Ti\*) and dichotomies (E/I, N/S, T/F, P/J) are used for MBTI partial compatibility purpose. Unfortunately there seems to be no way to avoid using standard MBTI acronyms for Jung/JAT functions.
 6. Standard socionics functions symbols (● ○ ▲ △ ◆ ◇ ■ □) and Victor Gulenko’s 8 latin letters (F, S, I, T, E, R, P, L) were abandoned as inconvenient, unpopular in English community or weird :-)
 7. Some differences between types in classical Socionics and reference types in Jung-Augustinavichiute-Talanov personality model are outlined.
 8. Some differences between information aspects in classical socionics and Jung-Augustinavichiute-Talanov cognitive functions are outlined.
