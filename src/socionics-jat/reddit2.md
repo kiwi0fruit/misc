@@ -154,10 +154,10 @@ Dominant function in socionics is called **1st** function. And socionics splits 
 
 | **Quadra**    | **EP**          | **IJ**          | **IP**          | **EJ**          |
 |:--------------|:----------------|:----------------|:----------------|:----------------|
-| α alpha **A** | ENTP(1Ne\*2Ti\*8Te\*) | INTJ(¹Ti\*²Ne\*⁸Ni\*) | ISFP(¹Si\*²Fe\*⁸Fi\*) | ESFJ(¹Fe\*²Si\*⁸Se\*) |
-| β beta **B**  | ESTP(¹Se\*²Ti\*⁸Te\*) | ISTJ(¹Ti\*²Se\*⁸Si\*) | INFP(¹Ni\*²Fe\*⁸Fi\*) | ENFJ(¹Fe\*²Ni\*⁸Ne\*) |
-| γ gamma **G** | ESFP(¹Se\*²Fi\*⁸Fe\*) | ISFJ(¹Fi\*²Se\*⁸Si\*) | INTP(¹Ni\*²Te\*⁸Ti\*) | ENTJ(¹Te\*²Ni\*⁸Ne\*) |
-| δ delta **D** | ENFP(¹Ne\*²Fi\*⁸Fe\*) | INFJ(¹Fi\*²Ne\*⁸Ni\*) | ISTP(¹Si\*²Te\*⁸Ti\*) | ESTJ(¹Te\*²Si\*⁸Se\*) |
+| α alpha **A** | ENTP(1Ne\*2Ti\*8Te\*) | INTJ(1Ti\*2Ne\*8Ni\*) | ISFP(1Si\*2Fe\*8Fi\*) | ESFJ(1Fe\*2Si\*8Se\*) |
+| β beta **B**  | ESTP(1Se\*2Ti\*8Te\*) | ISTJ(1Ti\*2Se\*8Si\*) | INFP(1Ni\*2Fe\*8Fi\*) | ENFJ(1Fe\*2Ni\*8Ne\*) |
+| γ gamma **G** | ESFP(1Se\*2Fi\*8Fe\*) | ISFJ(1Fi\*2Se\*8Si\*) | INTP(1Ni\*2Te\*8Ti\*) | ENTJ(1Te\*2Ni\*8Ne\*) |
+| δ delta **D** | ENFP(1Ne\*2Fi\*8Fe\*) | INFJ(1Fi\*2Ne\*8Ni\*) | ISTP(1Si\*2Te\*8Ti\*) | ESTJ(1Te\*2Si\*8Se\*) |
 
 | **Quadras** | 1st **or** 2nd function is |
 |------------:|:---------------------------|
