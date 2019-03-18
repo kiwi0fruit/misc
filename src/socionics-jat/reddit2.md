@@ -1,15 +1,15 @@
-# Alternative translation of Socionics to English + On incompatibility of Socionics and MBTI
+# Alternative translation of Jung-Augustinavichiute-Talanov Socionics to English + On incompatibility of Socionics and MBTI
 
 *(Backup of the Reddit posts: [r/JungianTypology/9jwhk8](https://www.reddit.com/r/JungianTypology/comments/9jwhk8/socionicsmbti_incompatibility))*
 
-This is an alternative translation of one of the braches of Socionics to English. My vision of the ***Jung-Augustinavichiute-Talanov personality model*** (_JAT personality model_). But sometimes my vision goes beyond JAT personality model. Only the main terms were translated and described so this article is a stub. The notable differences are described in the summary.
+This is an alternative translation of one of the braches of Socionics to English. My vision of some parts of the ***Jung-Augustinavichiute-Talanov Socionics*** (*JATS*). But sometimes my vision goes beyond JATS. Only the main terms were translated and described so this article is a stub. The notable differences are described in the summary.
 
 ## Contents
 
 * [Summary](#summary)
 * [1. Jung-Augustinavichiute-Talanov cognitive functions](#1-jung-augustinavichiute-talanov-cognitive-functions)
-* [2. Aspects as basis in classical Socionics vs. JAT cognitive functions as a basis in JAT personality model](#2-aspects-as-basis-in-classical-socionics-vs-jat-cognitive-functions-as-a-basis-in-jat-personality-model)
-* [3. Types in classical Socionics vs. reference types in JAT personality model](#3-types-in-classical-socionics-vs-reference-types-in-jat-personality-model)
+* [2. Aspects as basis in classical Socionics vs. JAT cognitive functions as a basis in JATS](#2-aspects-as-basis-in-classical-socionics-vs-jat-cognitive-functions-as-a-basis-in-jats)
+* [3. Types in classical Socionics vs. reference types in JATS](#3-types-in-classical-socionics-vs-reference-types-in-jats)
 * [4. Socionics reference types vs. MBTI types names](#4-socionics-reference-types-vs-mbti-types-names)
 * [5. On dichotomies, MBTI incompatibility, Big Five](#5-on-dichotomies-mbti-incompatibility-big-five)
 * [6. Quadras and functions. Why quadras grouped this way?](#6-quadras-and-functions-why-quadras-grouped-this-way)
@@ -25,14 +25,14 @@ This is an alternative translation of one of the braches of Socionics to English
 4. “Sensory thinking” is used instead of Sensing/Sensorics, “Intuitive thinking” is used instead of Intuition, “Task-oriented thinking” is used instead of Thinking/Logic, “Feelings-oriented thinking” is used instead of Feeling/Ethics.
 5. Modified standard MBTI acronyms for Jung functions (Se', Si', Ne', Ni', Fe', Fi', Te', Ti') and dichotomies (E/I, N/S, T/F, P/J) are used for MBTI partial compatibility purpose. Unfortunately there seems to be no way to avoid using standard MBTI acronyms for Jung/JAT functions.
 6. Standard socionics functions symbols (● ○ ▲ △ ◆ ◇ ■ □) and Victor Gulenko’s 8 latin letters (F, S, I, T, E, R, P, L) were abandoned as inconvenient, unpopular in English community or weird :-)
-7. Some differences between types in classical Socionics and reference types in Jung-Augustinavichiute-Talanov personality model are outlined.
+7. Some differences between types in classical Socionics and reference types in Jung-Augustinavichiute-Talanov Socionics are outlined.
 8. Some differences between information aspects in classical socionics and Jung-Augustinavichiute-Talanov cognitive functions are outlined.
-9. The short descriptions of JAT cognitive functions that are consistent (I hope) with JAT personality model are given. These descriptions are sometimes different from understanding of cognitive functions in other branches of Socionics.
+9. The short descriptions of JAT cognitive functions that are consistent (I hope) with JATS are given. These descriptions are sometimes different from understanding of cognitive functions in other branches of Socionics.
 
 
 ## 1. Jung-Augustinavichiute-Talanov cognitive functions
 
-But there are some differences between definitions of **cognitive functions** in MBTI and in *Jung-Augustinavichiute-Talanov personality model* (JAT). Actually my understanding of Talanov's ideas is a outdated. **JAT cognitive functions** roughly speaking are the ways of thinking:
+But there are some differences between definitions of **cognitive functions** in MBTI and in *Jung-Augustinavichiute-Talanov Socionics* (JATS). Actually my understanding of Talanov's ideas is a outdated. **JAT cognitive functions** roughly speaking are the ways of thinking:
 
 - Additional **function attitude**:
     - [**Introverted** functions (**I**)] Introverted, passed through oneself, passive, restoring, energy saving functions vs.
@@ -58,18 +58,18 @@ Mind that extraverted and introverted functions are specializations on top of th
 Don't mix Si that is MBTI function with Si' that is Jung-Augustinavichiute-Talanov cognitive function. Asterisks are added for this purpose. 
 
 
-## 2. Aspects as basis in classical Socionics vs. JAT cognitive functions as a basis in JAT personality model
+## 2. Aspects as basis in classical Socionics vs. JAT cognitive functions as a basis in JATS
 
-Unlike classical Socionics, in which the basic concept is the aspect of information, the basic concept in JAT personality model is the reference type. In my vision the reference types are characterized by the properties of their Jung cognitive functions. So the basic concepts are actually the Jung cognitive functions which in turn are characterized by the yet unknown neurophysiological mechanisms in the brain and a person’s life experience.
+Unlike classical Socionics, in which the basic concept is the aspect of information, the basic concept in JATS is the reference type. In my vision the reference types are characterized by the properties of their Jung cognitive functions. So the basic concepts are actually the Jung cognitive functions which in turn are characterized by the yet unknown neurophysiological mechanisms in the brain and a person’s life experience.
 
 Thus, the ***information aspect*** is something that JAT ***cognitive function uses*** and ***pays attention to***. And the information metabolism is merely interactions between different cognitive functions of the individual or interactions of any cognitive functions of different persons (but it’s easier to track down interactions of the same cognitive functions when we investigate interactions between people).
 
 
-## 3. Types in classical Socionics vs. reference types in JAT personality model
+## 3. Types in classical Socionics vs. reference types in JATS
 
-There are 16 reference types in Jung-Augustinavichiute-Talanov personality model (JAT personality model) that is one of the branches of Socionics. This model is actually more like a trait model (like Big Five) not a type theory. *Victor Talanov himself isn’t affiliated with this article as his publications are in Russian language only*. But this article summarises some of his ideas.
+There are 16 reference types in Jung-Augustinavichiute-Talanov Socionics (JATS) that is one of the branches of Socionics. JATS is actually more like a trait model (like Big Five) not a type theory. *Victor Talanov himself isn’t affiliated with this article as his publications are in Russian language only*. But this article summarises some of his ideas.
 
-***Each particular person does not belong to the one of reference types*** in JAT personality model. But instead the similarity between the person and all 16 reference types is evaluated (using questionnaire). So we move from determining of the person’s type to the measuring Jung cognitive functions using similarity to reference types. This procedure is described in more details in works of Talanov [sociotoday.narod.ru/index1.html](http://sociotoday.narod.ru/index1.html)
+***Each particular person does not belong to the one of reference types*** in JATS. But instead the similarity between the person and all 16 reference types is evaluated (using questionnaire). So we move from determining of the person’s type to the measuring Jung cognitive functions using similarity to reference types. This procedure is described in more details in works of Talanov [sociotoday.narod.ru/index1.html](http://sociotoday.narod.ru/index1.html)
 
 This approach is also useful in determining of 1-3 closest reference types without questionnaire (using observations only). In this case the reference types are simply socionics types weighted with degrees of likeness. And even in this case the properties of Jung cognitive functions can be roughly determined using the Model A and weighted averaging of functions properties for all reference types found.
 
@@ -135,7 +135,7 @@ And the last part of the name is given by:
 *   If the reference type’s dominant function is one of the intuitive thinking functions then the behaviour of the reference type is also more intuitive than tangible-oriented and sensory (and vice versa).
 *   If the reference type’s dominant function is one of the task-oriented thinking functions then the behaviour of the reference type is also more task-oriented than feelings-oriented (and vice versa).
 
-This leads to the possibility of defining I/E, P/J, S/N, F/T dichotomies and obtaining correlations with Big Five personality model [en.wikipedia.org/wiki/Myers–Briggs_Type_Indicator#Big_Five](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator#Big_Five). In that study the MBTI ***dichotomies*** used are somewhere ___about the same___ as in Socionics. But at the same time the hypothesis about the internal structure of type’s ***Jung cognitive functions properties*** are ___different___ in MBTI and Socionics / JAT personality model.
+This leads to the possibility of defining I/E, P/J, S/N, F/T dichotomies and obtaining correlations with Big Five personality model [en.wikipedia.org/wiki/Myers–Briggs_Type_Indicator#Big_Five](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator#Big_Five). In that study the MBTI ***dichotomies*** used are somewhere ___about the same___ as in Socionics. But at the same time the hypothesis about the internal structure of type’s ***Jung cognitive functions properties*** are ___different___ in MBTI and Socionics / JATS.
 
 Good infographics on Big Five (that have close relations with socioncs and MBTI) is given here: [psychologycharts.com/big-five-personality-traits.html](http://www.psychologycharts.com/big-five-personality-traits.html). There are also some other good names and connections.
 
