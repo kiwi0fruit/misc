@@ -1,6 +1,6 @@
 # Alternative translation of Socionics to English + On incompatibility of Socionics and MBTI
 
-*(Backup of the [Reddit post](https://www.reddit.com/r/JungianTypology/comments/9jwhk8/socionicsmbti_incompatibility))*
+*(Backup of the Reddit posts: [r/JungianTypology/9jwhk8](https://www.reddit.com/r/JungianTypology/comments/9jwhk8/socionicsmbti_incompatibility))*
 
 This is an alternative translation of one of the braches of Socionics to English. My vision of the ***Jung-Augustinavichiute-Talanov personality model*** (_JAT personality model_). But sometimes my vision goes beyond JAT personality model. Only the main terms were translated and described so this article is a stub. The notable differences are described in the summary.
 
@@ -150,14 +150,14 @@ So if we are talking about type of particular person not about reference types t
 
 Socionics **quadras** split 16 types to 4 groups. Each group has **EP** type with a dominant extraverted perceiving function, **IJ** type with a dominant introverted judging function, **EJ** type with a dominant extraverted judging function and **IP** type with a dominant introverted perceiving function.
 
-Dominant function in socionics is called **1st** function. And socionics splits Jung's auxilary function to **2nd** function and **8th** function. If the 1st function is extraverted then the 2nd is introverted and the 8th is extraverted. And vice versa. In case of INTJ-Ti\*-dom it would be ¹Ti\*²Ne\*⁸Ni\* (1Ti\*-2Ne\*-8Ni\*). 1st, 2nd and 8th functions are the most important from the point of view of the type’s social activities. And may be also they are the most important from the point of view of the type’s self-identification.
+Dominant function in socionics is called **1st** function. And socionics splits Jung's auxilary function to **2nd** function and **8th** function. If the 1st function is extraverted then the 2nd is introverted and the 8th is extraverted. And vice versa. In case of INTJ-Ti\*-dom it would be  1Ti\*2Ne\*8Ni\*. 1st, 2nd and 8th functions are the most important from the point of view of the type’s social activities. And may be also they are the most important from the point of view of the type’s self-identification.
 
 | **Quadra**    | **EP**          | **IJ**          | **IP**          | **EJ**          |
 |:--------------|:----------------|:----------------|:----------------|:----------------|
-| α alpha **A** | ENTP(¹Ne²Ti⁸Te) | INTJ(¹Ti²Ne⁸Ni) | ISFP(¹Si²Fe⁸Fi) | ESFJ(¹Fe²Si⁸Se) |
-| β beta **B**  | ESTP(¹Se²Ti⁸Te) | ISTJ(¹Ti²Se⁸Si) | INFP(¹Ni²Fe⁸Fi) | ENFJ(¹Fe²Ni⁸Ne) |
-| γ gamma **G** | ESFP(¹Se²Fi⁸Fe) | ISFJ(¹Fi²Se⁸Si) | INTP(¹Ni²Te⁸Ti) | ENTJ(¹Te²Ni⁸Ne) |
-| δ delta **D** | ENFP(¹Ne²Fi⁸Fe) | INFJ(¹Fi²Ne⁸Ni) | ISTP(¹Si²Te⁸Ti) | ESTJ(¹Te²Si⁸Se) |
+| α alpha **A** | ENTP(1Ne\*2Ti\*8Te\*) | INTJ(¹Ti\*²Ne\*⁸Ni\*) | ISFP(¹Si\*²Fe\*⁸Fi\*) | ESFJ(¹Fe\*²Si\*⁸Se\*) |
+| β beta **B**  | ESTP(¹Se\*²Ti\*⁸Te\*) | ISTJ(¹Ti\*²Se\*⁸Si\*) | INFP(¹Ni\*²Fe\*⁸Fi\*) | ENFJ(¹Fe\*²Ni\*⁸Ne\*) |
+| γ gamma **G** | ESFP(¹Se\*²Fi\*⁸Fe\*) | ISFJ(¹Fi\*²Se\*⁸Si\*) | INTP(¹Ni\*²Te\*⁸Ti\*) | ENTJ(¹Te\*²Ni\*⁸Ne\*) |
+| δ delta **D** | ENFP(¹Ne\*²Fi\*⁸Fe\*) | INFJ(¹Fi\*²Ne\*⁸Ni\*) | ISTP(¹Si\*²Te\*⁸Ti\*) | ESTJ(¹Te\*²Si\*⁸Se\*) |
 
 | **Quadras** | 1st **or** 2nd function is |
 |------------:|:---------------------------|
