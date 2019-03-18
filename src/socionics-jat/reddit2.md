@@ -80,19 +80,19 @@ This approach is also useful in determining of 1-3 closest reference types witho
 
 ## 4. Reference types abbreviations
 
-There are 4 letter names like *INTJ-Ti\*-dom* or *ESFP-Se\*-dom*. For example *INTJ-Ti\*-dom* is *intuitive task-oriented judging introvert* with dominant *Ti\**. So the first part of the name is given by:
+There are 4 letter names like INTJ-Ti\*-dom or ESFP-Se\*-dom. For example INTJ-Ti\*-dom is *intuitive task-oriented judging introvert* with dominant Ti\*. So the first part of the name is given by:
 
-- **NT** is *intuitive task-oriented*
-- **NF** is *intuitive feelings-oriented*
-- **ST** is *sensory task-oriented*
-- **SF** is *sensory feelings-oriented*
+- **NT** is intuitive task-oriented
+- **NF** is intuitive feelings-oriented
+- **ST** is sensory task-oriented
+- **SF** is sensory feelings-oriented
 
 And the last part of the name is given by:
 
-- **EP** is *perceiving extravert*
-- **IJ** is *judging introvert*
-- **IP** is *perceiving introvert*
-- **EJ** is *judging extravert*
+- **EP** is perceiving extravert
+- **IJ** is judging introvert
+- **IP** is perceiving introvert
+- **EJ** is judging extravert
 
 
 ## 1. MBTI incompatibility
