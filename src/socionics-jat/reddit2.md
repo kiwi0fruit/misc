@@ -41,7 +41,7 @@ But there are some differences between definitions of **cognitive functions** in
     - [**Introverted** functions (**I**)] Introverted, passed through oneself, passive, restoring, energy saving functions vs.
     - [**Extraverted** functions (**E**)] Extraverted, directed outwards, active, energy-consuming functions.
 - [**Perceiving** functions (**P**)] Perceiving, instinctive, impulsive functions:
-    - [**Intuitive** thinking (**N**)] Abstract, imaginative, assumptive, associative thinking / perception (breadth of associations) vs.
+    - [**Intuitive** thinking (**N**, i**N**tuitive)] Abstract, imaginative, assumptive, associative thinking / perception (breadth of associations) vs.
     - [**Sensory** thinking (**S**)] Tangible-oriented, detailed, concrete, materially-oriented thinking / perception (orientation to physical reality and physical qualities).
 - [**Judging** functions (**J**)] Judging, stable, impulse controlling functions (decision-making):
     - [**Task-oriented** thinking (**T**)] Logical, analytical, algorithmic, task-oriented thinking, reasoning (orientation to formal side and facs) vs.
