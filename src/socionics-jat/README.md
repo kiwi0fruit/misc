@@ -107,7 +107,7 @@ And the last part of the name is given by:
 
 #### Mnemonics to remember the numbers
 
-|  ID | JATS name    | Mnemonic                                           | Kiwi's        | Gulenko's, Keirsey's |
+|  ID | JATS name    | Mnemonic                                           |         | Gulenko's, Keirsey's |
 | ---:|:------------ |:-------------------------------------------------- |:------------- |:--------------------:|
 |   1 | ENTP-Ne'-dom | The very first curious                             | Inventor      | Seeker, Inventor     |
 |   2 | INTJ-Ti'-dom | The second one curious                             | Analyst       | Analyst, Mastermind  |
