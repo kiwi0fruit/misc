@@ -155,7 +155,7 @@ Dominant function in socionics is called **1st** function. And socionics splits 
 
 | **Quadra**    | **EP** | **IJ** | **IP** | **EJ** |
 |:--------------|:-------|:-------|:-------|:-------|
-| α alpha **A** | ENTP1Ne' 1Ne'2Ti'8Te' **Ne'T** | INTJ1Ti' 1Ti'2Ne'8Ni' **Ti'N** | ISFP(1Si'2Fe'8Fi') **Si'F** | ESFJ(1Fe'2Si'8Se') **Fe'S** |
+| α alpha **A** | ENTP1Ne' (1Ne'2Ti'8Te') **Ne'T** | INTJ1Ti' (1Ti'2Ne'8Ni') **Ti'N** | ISFP1Si' (1Si'2Fe'8Fi') **Si'F** | ESFJ1Fe' (1Fe'2Si'8Se') **Fe'S** |
 | β beta **B**  | ESTP(1Se'2Ti'8Te') **Se'T** | ISTJ(1Ti'2Se'8Si') **Ti'S** | INFP(1Ni'2Fe'8Fi') **Ni'F** | ENFJ(1Fe'2Ni'8Ne') **Fe'N** |
 | γ gamma **G** | ESFP(1Se'2Fi'8Fe') **Se'F** | ISFJ(1Fi'2Se'8Si') **Fi'S** | INTP(1Ni'2Te'8Ti') **Ni'T** | ENTJ(1Te'2Ni'8Ne') **Te'N** |
 | δ delta **D** | ENFP(1Ne'2Fi'8Fe') **Ne'F** | INFJ(1Fi'2Ne'8Ni') **Fi'N** | ISTP(1Si'2Te'8Ti') **Si'T** | ESTJ(1Te'2Si'8Se') **Te'S** |
