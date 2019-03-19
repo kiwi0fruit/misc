@@ -107,9 +107,9 @@ And the last part of the name is given by:
 
 #### Mnemonics to remember the numbers
 
-|  ID | JATS name    | Mnemonic                                           | Gulenko's     | Keirsey's    |
+|  ID | JATS name    | Mnemonic                                           | Patched Gulenko's     | Keirsey's    |
 | ---:|:------------ |:-------------------------------------------------- | ------------- | ------------ |
-|   1 | ENTP-Ne'-dom | The very first curious                             | Seeker        | Inventor     |
+|   1 | ENTP-Ne'-dom | The very first curious                             | Inventor      | Inventor     |
 |   2 | INTJ-Ti'-dom | The second one curious                             | Analyst       | Mastermind   |
 |   3 | ISFP-Si'-dom | Three Musketeers Dumas                             | Mediator      | Composer     |
 |   4 | ESFJ-Fe'-dom | Four elements                                      | Bonvivant     | Provider     |
@@ -120,7 +120,7 @@ And the last part of the name is given by:
 |   9 | ESFP-Se'-dom | Nine lives of a cat                                | Politician    | Performer    |
 |  10 | ISFJ-Fi'-dom | Proper as a dozen                                  | Guardian      | Protector    |
 |  11 | INTP-Ni'-dom | Football: 11 meters penalty kick, 11 team members  | Critic        | Architect    |
-|  12 | ENTJ-Te'-dom | 12 hours, dozen, The Twelve Chairs of Ostap Bender | Enterpriser   | Fieldmarshal |
+|  12 | ENTJ-Te'-dom | 12 hours, dozen, The Twelve Chairs of Ostap Bender | Entrepreneur  | Fieldmarshal |
 |  13 | ENFP-Ne'-dom | Devil's dozen, Baker's dozen                       | Psychologist  | Champion     |
 |  14 | INFJ-Fi'-dom | Twice sinful as 7 type                             | Humanist      | Counselor    |
 |  15 | ISTP-Si'-dom | Brings almost everything to the end                | Craftsman     | Crafter      |
