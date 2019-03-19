@@ -155,12 +155,12 @@ Dominant function in socionics is called **1st** function. And socionics splits 
 
 | **Quadra**    | **EP** | **IJ** | **IP** | **EJ** |
 |:--------------|:-------|:-------|:-------|:-------|
-| α alpha **A** | ENTP1Ne' (1Ne'2Ti'8Te') **Ne'T** | INTJ1Ti' (1Ti'2Ne'8Ni') **Ti'N** | ISFP1Si' (1Si'2Fe'8Fi') **Si'F** | ESFJ1Fe' (1Fe'2Si'8Se') **Fe'S** |
-| β beta **B**  | ESTP(1Se'2Ti'8Te') **Se'T** | ISTJ(1Ti'2Se'8Si') **Ti'S** | INFP(1Ni'2Fe'8Fi') **Ni'F** | ENFJ(1Fe'2Ni'8Ne') **Fe'N** |
-| γ gamma **G** | ESFP(1Se'2Fi'8Fe') **Se'F** | ISFJ(1Fi'2Se'8Si') **Fi'S** | INTP(1Ni'2Te'8Ti') **Ni'T** | ENTJ(1Te'2Ni'8Ne') **Te'N** |
-| δ delta **D** | ENFP(1Ne'2Fi'8Fe') **Ne'F** | INFJ(1Fi'2Ne'8Ni') **Fi'N** | ISTP(1Si'2Te'8Ti') **Si'T** | ESTJ(1Te'2Si'8Se') **Te'S** |
+| α alpha **A** | ENTP(Ne'T) = ENTP(1Ne'2Ti'8Te') = **Ne'T** | INTJ(Ti'N) = INTJ(1Ti'2Ne'8Ni') = **Ti'N** | ISFP(Si'F) = ISFP(1Si'2Fe'8Fi') = **Si'F** | ESFJ(Fe'S) = ESFJ(1Fe'2Si'8Se') = **Fe'S** |
+| β beta **B**  | ESTP(Se'T) = ESTP(1Se'2Ti'8Te') = **Se'T** | ISTJ(Ti'S) = ISTJ(1Ti'2Se'8Si') = **Ti'S** | INFP(Ni'F) = INFP(1Ni'2Fe'8Fi') = **Ni'F** | ENFJ(Fe'N) = ENFJ(1Fe'2Ni'8Ne') = **Fe'N** |
+| γ gamma **G** | ESFP(Se'F) = ESFP(1Se'2Fi'8Fe') = **Se'F** | ISFJ(Fi'S) = ISFJ(1Fi'2Se'8Si') = **Fi'S** | INTP(Ni'T) = INTP(1Ni'2Te'8Ti') = **Ni'T** | ENTJ(Te'N) = ENTJ(1Te'2Ni'8Ne') = **Te'N** |
+| δ delta **D** | ENFP(Ne'F) = ENFP(1Ne'2Fi'8Fe') = **Ne'F** | INFJ(Fi'N) = INFJ(1Fi'2Ne'8Ni') = **Fi'N** | ISTP(Si'T) = ISTP(1Si'2Te'8Ti') = **Si'T** | ESTJ(Te'S) = ESTJ(1Te'2Si'8Se') = **Te'S** |
 
-One of the shortest notations is given as the second name. Though it can easily be mistaken with wrong MBTI type in case of introverts. So it's recommend to be used only in explicit contexts.
+One of the shortest notations is given as the last name. Though it can easily be mistaken with wrong MBTI type in case of introverts. So it's recommend to be used only in explicit contexts.
 
 | **Quadras** | 1st **or** 2nd function is |
 |------------:|:---------------------------|
