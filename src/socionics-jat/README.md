@@ -123,8 +123,8 @@ And the last part of the name is given by:
 |  12 | ENTJ-Te'-dom | 12 hours, dozen, The Twelve Chairs of Ostap Bender | Entrepreneur  | Entrepreneur, Fieldmarshal |
 |  13 | ENFP-Ne'-dom | Devil's dozen, Baker's dozen                       | ?             | Psychologist, Champion     |
 |  14 | INFJ-Fi'-dom | Twice sinful as 7 type                             | ?             | Humanist,     Counselor    |
-|  15 | ISTP-Si'-dom | Brings almost everything to the end                | ?             | Craftsman,    Crafter      |
-|  16 | ESTJ-Te'-dom | Brings everything to the end                       | Administrator | Administrator, Supervisor  |
+|  15 | ISTP-Si'-dom | Brings almost everything to the end                | Crafter             | Craftsman,    Crafter      |
+|  16 | ESTJ-Te'-dom | Brings everything to the end                       | Manager | Administrator, Supervisor  |
 
 
 ## 5. On dichotomies, MBTI incompatibility, Big Five
