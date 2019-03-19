@@ -123,7 +123,7 @@ And the last part of the name is given by:
 |  12 | ENTJ-Te'-dom | 12 hours, dozen, The Twelve Chairs of Ostap Bender |
 |  13 | ENFP-Ne'-dom | Devil's dozen, Baker's dozen                       |
 |  14 | INFJ-Fi'-dom | Twice sinful as 7 type                             |
-|  15 | ISTP-Si'-dom | Brings *almost* everything to the end              |
+|  15 | ISTP-Si'-dom | Brings almost everything to the end                |
 |  16 | ESTJ-Te'-dom | Brings everything to the end                       |
 
 
@@ -153,14 +153,14 @@ Socionics **quadras** split 16 types to 4 groups. Each group has **EP** type wit
 
 Dominant function in socionics is called **1st** function. And socionics splits Jung's auxilary function to **2nd** function and **8th** function. If the 1st function is extraverted then the 2nd is introverted and the 8th is extraverted. And vice versa. In case of INTJ-Ti'-dom it would be  1Ti'2Ne'8Ni'. 1st, 2nd and 8th functions are the most important from the point of view of the type’s social activities. And may be also they are the most important from the point of view of the type’s self-identification.
 
-| **Quadra**    | **EP**             | **IJ**             | **IP**             | **EJ**             |
-|:--------------|:-------------------|:-------------------|:-------------------|:-------------------|
-| α alpha **A** | ENTP(1Ne'2Ti'8Te') Ne'T | INTJ(1Ti'2Ne'8Ni') Ti'N | ISFP(1Si'2Fe'8Fi') Si'F | ESFJ(1Fe'2Si'8Se') Fe'S |
-| β beta **B**  | ESTP(1Se'2Ti'8Te') Se'T | ISTJ(1Ti'2Se'8Si') Ti'S | INFP(1Ni'2Fe'8Fi') Ni'F | ENFJ(1Fe'2Ni'8Ne') Fe'N |
-| γ gamma **G** | ESFP(1Se'2Fi'8Fe') Se'F | ISFJ(1Fi'2Se'8Si') Fi'S | INTP(1Ni'2Te'8Ti') Ni'T | ENTJ(1Te'2Ni'8Ne') Te'N |
-| δ delta **D** | ENFP(1Ne'2Fi'8Fe') Ne'F | INFJ(1Fi'2Ne'8Ni') Fi'N | ISTP(1Si'2Te'8Ti') Si'T | ESTJ(1Te'2Si'8Se') Te'S |
+| **Quadra**    | **EP** | **IJ** | **IP** | **EJ** |
+|:--------------|:-------|:-------|:-------|:-------|
+| α alpha **A** | ENTP(1Ne'2Ti'8Te') **Ne'T** | INTJ(1Ti'2Ne'8Ni') **Ti'N** | ISFP(1Si'2Fe'8Fi') **Si'F** | ESFJ(1Fe'2Si'8Se') **Fe'S** |
+| β beta **B**  | ESTP(1Se'2Ti'8Te') **Se'T** | ISTJ(1Ti'2Se'8Si') **Ti'S** | INFP(1Ni'2Fe'8Fi') **Ni'F** | ENFJ(1Fe'2Ni'8Ne') **Fe'N** |
+| γ gamma **G** | ESFP(1Se'2Fi'8Fe') **Se'F** | ISFJ(1Fi'2Se'8Si') **Fi'S** | INTP(1Ni'2Te'8Ti') **Ni'T** | ENTJ(1Te'2Ni'8Ne') **Te'N** |
+| δ delta **D** | ENFP(1Ne'2Fi'8Fe') **Ne'F** | INFJ(1Fi'2Ne'8Ni') **Fi'N** | ISTP(1Si'2Te'8Ti') **Si'T** | ESTJ(1Te'2Si'8Se') **Te'S** |
 
-One of the shortest notations is given as the second name. Though it can easily be mistaken with wrong MBTI type in case of introverts. So it's recommend to used only in explicit contexts.
+One of the shortest notations is given as the second name. Though it can easily be mistaken with wrong MBTI type in case of introverts. So it's recommend to be used only in explicit contexts.
 
 | **Quadras** | 1st **or** 2nd function is |
 |------------:|:---------------------------|
