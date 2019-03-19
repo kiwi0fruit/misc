@@ -111,7 +111,7 @@ And the last part of the name is given by:
 | ---:|:------------ |:-------------------------------------------------- |:------------- |:--------------------:|
 |   1 | ENTP-Ne'-dom | The very first curious                             | Inventor      | Seeker, Inventor     |
 |   2 | INTJ-Ti'-dom | The second one curious                             | Analyst       | Analyst, Mastermind  |
-|   3 | ISFP-Si'-dom | Three Musketeers Dumas                             | ?             | Mediator, Composer   |
+|   3 | ISFP-Si'-dom | Three Musketeers Dumas                             | Mediator             | Mediator, Composer   |
 |   4 | ESFJ-Fe'-dom | Four elements                                      | Enthusiast             | Enthusiast, Provider  |
 |   5 | ESTP-Se'-dom | The five senses                                    | ?             | Commander, Promoter  |
 |   6 | ISTJ-Ti'-dom | Has no sixth sense                                 | Inspector     | Inspector            |
