@@ -194,10 +194,10 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 
 | **Unknown types**          | **Meaning of unknown types**                    | **Mixed type** |
 |:--------------------------:|:-----------------------------------------------:|:--------------:|
-| ExTJ<12,16>, Te'X          | ENTJ-Te'-dom v ESTJ-Te'-dom v EuTJ(12~16) v ... | EuTJ(12~16), Te'(S\~N) |
+| ExTJ<12,16>                | ENTJ-Te'-dom v ESTJ-Te'-dom v EuTJ(12~16) v ... | EuTJ(12~16) |
 | ENxJ<8,12>                 | ENTJ-Te'-dom v ENFJ-Fe'-dom v ENuJ(8~12) v ...  | ENuJ(8~12)     |
 | INTx<2,11>, INTx<2;11>     | INTJ-Ti'-dom v INTP-Ni'-dom v INTu(2~11) v ...  | INTu(2~11)     |
-| IxTJ<2,6>, IxTJ-⁠Ti⁠'⁠-⁠dom, Ti'X | INTJ-Ti'-dom v ISTJ-Ti'-dom v IuTJ(2~6) v ... | IuTJ(2~6), Ti'(S\~N) |
+| IxTJ<2,6>, IxTJ-⁠Ti⁠'⁠-⁠dom    | INTJ-Ti'-dom v ISTJ-Ti'-dom v IuTJ(2~6) v ... | IuTJ(2~6) |
 | xNTx<1,2>                  | ENTP-Ne'-dom v INTJ-Ti'-dom v uNTu(1~2) v ...   | uNTu(1~2)      |
 | xNTJ<2,12>                 | ENTJ-Te'-dom v INTJ-Ti'-dom v uNTJ(2~12) v ...  | uNTJ(2~12)     |
 | INxJ<2,14>                 | INTJ-Ti'-dom v INFJ-Fi'-dom v INuJ(2~14) v ...  | INuJ(2~14)     |
