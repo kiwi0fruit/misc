@@ -119,7 +119,7 @@ And the last part of the name is given by:
 |   8 | ENFJ-Fe'-dom | Eight-bit                                          | ?             | Mentor, Teacher      |
 |   9 | ESFP-Se'-dom | Nine lives of a cat                                | Politician    | Politician,   Performer    |
 |  10 | ISFJ-Fi'-dom | Proper as a dozen                                  | Guardian      | Guardian,     Protector    |
-|  11 | INTP-Ni'-dom | Football: 11 meters penalty kick, 11 team members  | ?             | Critic,       Architect    |
+|  11 | INTP-Ni'-dom | Football: 11 meters penalty kick, 11 team members  | Prognoser             | Critic,       Architect    |
 |  12 | ENTJ-Te'-dom | 12 hours, dozen, The Twelve Chairs of Ostap Bender | Entrepreneur  | Entrepreneur, Fieldmarshal |
 |  13 | ENFP-Ne'-dom | Devil's dozen, Baker's dozen                       | ?             | Psychologist, Champion     |
 |  14 | INFJ-Fi'-dom | Twice sinful as 7 type                             | ?             | Humanist,     Counselor    |
