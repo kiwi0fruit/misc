@@ -8,11 +8,11 @@ This is an alternative translation of one of the braches of Socionics to English
 * [1. Jung-Augustinavichiute-Talanov cognitive functions](#1-jung-augustinavichiute-talanov-cognitive-functions)
 * [2. Aspects as basis in classical Socionics vs. JAT cognitive functions as a basis in JATS](#2-aspects-as-basis-in-classical-socionics-vs-jat-cognitive-functions-as-a-basis-in-jats)
 * [3. Types in classical Socionics vs. reference types in JATS](#3-types-in-classical-socionics-vs-reference-types-in-jats)
-* [4. Socionics reference types names vs. MBTI types names. 1-16 numbers as names for types](#4-socionics-reference-types-names-vs-mbti-types-names-1-16-numbers-as-names-for-types)
+* [4. Socionics reference types names vs. MBTI types names](#4-socionics-reference-types-names-vs-mbti-types-names)
+  * [4.1 Revised Gulenko's names for types. 1-16 numbers as names for types with mnemonics](#41-revised-gulenkos-names-for-types-1-16-numbers-as-names-for-types-with-mnemonics)
 * [5. On dichotomies, MBTI incompatibility, Big Five](#5-on-dichotomies-mbti-incompatibility-big-five)
-* [6. Quadras and functions. Why quadras grouped this way?](#6-quadras-and-functions-why-quadras-grouped-this-way)
+* [6. Quadras and functions. Why quadras grouped this way? Pacific vs. resolute types](#6-quadras-and-functions-why-quadras-grouped-this-way-pacific-vs-resolute-types)
 * [7. Intermediate and unknown types names](#7-intermediate-and-unknown-types-names)
-* [8. Single-noun terms like intuiter, sensor, feeler and tasker. Pacific vs. resolute types](#8-single-noun-terms-like-intuiter-sensor-feeler-and-tasker-pacific-vs-resolute-types)
 
 
 ## Summary
@@ -29,6 +29,7 @@ This is an alternative translation of one of the braches of Socionics to English
 10. Some differences between **information aspects** in classical socionics and Jung-Augustinavichiute-Talanov **cognitive functions** are outlined.
 11. Very basic introduction to quadras is given and discussed **why quadras grouped this way**.
 12. Single-noun terms like intuiter, sensor, feeler and tasker are used. Alpha-delta vs. beta-gamma types is translated as **pacific** vs. **resolute** types.
+13. Revised Gulenko's names for types were proposed.
 
 
 ## 1. Jung-Augustinavichiute-Talanov cognitive functions
@@ -75,7 +76,7 @@ There are 16 reference types in Jung-Augustinavichiute-Talanov Socionics (JATS) 
 This approach is also useful in determining of 1-3 closest reference types without questionnaire (using observations only). In this case the reference types are simply socionics types weighted with degrees of likeness. And even in this case the properties of Jung cognitive functions can be roughly determined using the Model A and weighted averaging of functions properties for all reference types found.
 
 
-## 4. Socionics reference types names vs. MBTI types names. 1-16 numbers as names for types
+## 4. Socionics reference types names vs. MBTI types names
 
 Names are in the following order:
 
@@ -90,22 +91,24 @@ In my translation of socionics types names to english the 4 letter code shows th
 | γ gamma **G** | **ESFP⁠-⁠Se⁠'⁠-⁠dom**  SEE  ESFP  **9**  | **ISFJ⁠-⁠Fi⁠'⁠-⁠dom**  ESI  ISFx  **10** | **INTP⁠-⁠Ni⁠'⁠-⁠dom**  ILI  INTx  **11** | **ENTJ⁠-⁠Te⁠'⁠-⁠dom**  LIE  ENTJ  **12** |
 | δ delta **D** | **ENFP⁠-⁠Ne⁠'⁠-⁠dom**  IEE  ENFP  **13** | **INFJ⁠-⁠Fi⁠'⁠-⁠dom**  EII  INFx  **14** | **ISTP⁠-⁠Si⁠'⁠-⁠dom**  SLI  ISTx  **15** | **ESTJ⁠-⁠Te⁠'⁠-⁠dom**  LSE  ESTJ  **16** |
 
-For example INTJ-Ti'-dom is *intuitive task-oriented judging introvert* with dominant Ti'. So the first part of the name is given by:
+For example INTJ-Ti'-dom is *intuitive task-oriented judging introvert* with dominant Ti' (or *introverted judging intuitive tasker*). So the first part of the name is given by:
 
-- **NT** is intuitive task-oriented
-- **NF** is intuitive feelings-oriented
-- **ST** is sensory task-oriented
-- **SF** is sensory feelings-oriented
+- **NT** is intuitive task-oriented (or intuiter and tasker),
+- **NF** is intuitive feelings-oriented (or intuiter and feeler),
+- **ST** is sensory task-oriented (or sensor and tasker),
+- **SF** is sensory feelings-oriented (or sensor and feeler).
 
 And the last part of the name is given by:
 
-- **EP** is perceiving extravert
-- **IJ** is judging introvert
-- **IP** is perceiving introvert
-- **EJ** is judging extravert
+- **EP** is perceiving extravert (or extraverted perceiver),
+- **IJ** is judging introvert (or introverted judger),
+- **IP** is perceiving introvert (or introverted perceiver),
+- **EJ** is judging extravert (or extraverted judger).
+
+Though I'm not fond of using neither feelers nor tentacles. Neither sensors nor detectors. My favourite is "sensing feelers" 🐙.
 
 
-#### Mnemonics to remember the numbers
+### 4.1 Revised Gulenko's names for types. 1-16 numbers as names for types with mnemonics
 
 |  ID | JATS\* name  | Mnemonic                | Revised Gulenko's name |      Gulenko's,     Keirsey's       |
 | ---:| ------------ | ----------------------- | ---------------------- |:-----------------------------------:|
@@ -149,7 +152,7 @@ So if we are talking about type of particular person not about reference types t
 ***Explicit notation*** for Socionics types are **INTJ-Ti'-dom** and **INTP-Ni'-dom**. **J**/**P** in socionics mean the same as in MBTI and Big Five (high/low conscientiousness). Same is for E/I, N/S, T/F. And **dom** is a dominant function as Jung meant it. The rule is simple: judging type has a judging dominant function (perceiving type -> perceiving dominant function). Introverted type has an introverted dominant function (extraverted type -> extraverted dominant function). And this notation explicitly reminds about it.
 
 
-## 6. Quadras and functions. Why quadras grouped this way?
+## 6. Quadras and functions. Why quadras grouped this way? Pacific vs. resolute types
 
 Socionics **quadras** split 16 types to 4 groups. Each group has **EP** type with a dominant extraverted perceiving function, **IJ** type with a dominant introverted judging function, **EJ** type with a dominant extraverted judging function and **IP** type with a dominant introverted perceiving function.
 
@@ -157,19 +160,28 @@ Dominant function in socionics is called **1st** function. And socionics splits 
 
 | **Quadra**    | **EP** | **IJ** | **IP** | **EJ** |
 |:--------------|:-------|:-------|:-------|:-------|
-| α alpha **A** | ENTP(Ne'T) = ENTP(1Ne'2Ti'8Te') = **Ne'T** | INTJ(Ti'N) = INTJ(1Ti'2Ne'8Ni') = **Ti'N** | ISFP(Si'F) = ISFP(1Si'2Fe'8Fi') = **Si'F** | ESFJ(Fe'S) = ESFJ(1Fe'2Si'8Se') = **Fe'S** |
-| β beta **B**  | ESTP(Se'T) = ESTP(1Se'2Ti'8Te') = **Se'T** | ISTJ(Ti'S) = ISTJ(1Ti'2Se'8Si') = **Ti'S** | INFP(Ni'F) = INFP(1Ni'2Fe'8Fi') = **Ni'F** | ENFJ(Fe'N) = ENFJ(1Fe'2Ni'8Ne') = **Fe'N** |
-| γ gamma **G** | ESFP(Se'F) = ESFP(1Se'2Fi'8Fe') = **Se'F** | ISFJ(Fi'S) = ISFJ(1Fi'2Se'8Si') = **Fi'S** | INTP(Ni'T) = INTP(1Ni'2Te'8Ti') = **Ni'T** | ENTJ(Te'N) = ENTJ(1Te'2Ni'8Ne') = **Te'N** |
-| δ delta **D** | ENFP(Ne'F) = ENFP(1Ne'2Fi'8Fe') = **Ne'F** | INFJ(Fi'N) = INFJ(1Fi'2Ne'8Ni') = **Fi'N** | ISTP(Si'T) = ISTP(1Si'2Te'8Ti') = **Si'T** | ESTJ(Te'S) = ESTJ(1Te'2Si'8Se') = **Te'S** |
+| α alpha **A** | ENTP(Ne'T) ENTP(1Ne'2Ti'8Te') **Ne'T** | INTJ(Ti'N) INTJ(1Ti'2Ne'8Ni') **Ti'N** | ISFP(Si'F) ISFP(1Si'2Fe'8Fi') **Si'F** | ESFJ(Fe'S) ESFJ(1Fe'2Si'8Se') **Fe'S** |
+| β beta **B**  | ESTP(Se'T) ESTP(1Se'2Ti'8Te') **Se'T** | ISTJ(Ti'S) ISTJ(1Ti'2Se'8Si') **Ti'S** | INFP(Ni'F) INFP(1Ni'2Fe'8Fi') **Ni'F** | ENFJ(Fe'N) ENFJ(1Fe'2Ni'8Ne') **Fe'N** |
+| γ gamma **G** | ESFP(Se'F) ESFP(1Se'2Fi'8Fe') **Se'F** | ISFJ(Fi'S) ISFJ(1Fi'2Se'8Si') **Fi'S** | INTP(Ni'T) INTP(1Ni'2Te'8Ti') **Ni'T** | ENTJ(Te'N) ENTJ(1Te'2Ni'8Ne') **Te'N** |
+| δ delta **D** | ENFP(Ne'F) ENFP(1Ne'2Fi'8Fe') **Ne'F** | INFJ(Fi'N) INFJ(1Fi'2Ne'8Ni') **Fi'N** | ISTP(Si'T) ISTP(1Si'2Te'8Ti') **Si'T** | ESTJ(Te'S) ESTJ(1Te'2Si'8Se') **Te'S** |
 
 One of the shortest notations is given as the last name. Though it can easily be mistaken with wrong MBTI type in case of introverts. So it's recommend to be used only in explicit contexts.
 
-| **Quadras** | 1st **or** 2nd function is |
-|------------:|:---------------------------|
-| AD          | Ne' or Si'                 |
-| BG          | Se' or Ni'                 |
-| AB          | Fe' or Ti'                 |
-| GD          | Te' or Fi'                 |
+|            Quadras | 1st **or** 2nd function | Valuable functions | Adj.     | More fond of: |
+| ------------------:| ----------------------- | ------------------ | -------- | ------------- |
+| alpha-delta **AD** | Ne' **or** Si'          | Ne' **and** Si'    | pacific  | cooperative,  <!--
+                                           --> sensible, peaceful and leisurely unhurried ways |
+|  beta-gamma **BG** | Se' **or** Ni'          | Se' **and** Ni'    | resolute | competitive,  <!--
+                                           -->  argessive, time-bound and fast resolutive ways |
+|  alpha-beta **AB** | Fe' **or** Ti'          | Fe' **and** Ti'    |          |               |
+| gamma-delta **GD** | Te' **or** Fi'          | Te' **and** Fi'    |          |               |
+
+Examples:
+
+* alpha-delta intuiter, pacific intuiter, pacific sensor,
+* beta-gamma intuiter, resolute intuiter, resolute sensor,
+* gamma-delta tasker,
+* resolute introvert.
 
 
 #### Why quadras grouped this way?
@@ -214,36 +226,5 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 | xNxP<1,7,11,13>            | ENTP-Ne'-dom v INFP-Ni'-dom v INTP-Ni'-dom v ENFP-Ne'-dom v ENuP(1~13) v INuP-Ni'-dom v ... | ? |
 | IxTx<2,6,11,15>            | INTJ-Ti'-dom v ISTJ-Ti'-dom v INTP-Ni'-dom v ISTP-Si'-dom v IuTJ-Ti'-dom v ... | ? |
 
-
-# 8. Single-noun terms like intuiter, sensor, feeler and tasker. Pacific vs. resolute types
-
-Terms that can describe a person or a type.
-
-1. extraverted vs. introverted, extravert vs. introvert (E vs. I),
-2. judging vs. perceiving, judger vs. perceiver (J vs. P),
-3. intuitive vs. sensory, intuiter vs. sensor (N vs. S)  
-  (Though I'm not fond of using neither sensors nor detectors),
-4. task-oriented vs. feelings-oriented, tasker vs. feeler (T vs. F)  
-  (Though I'm not fond of using neither feelers nor tentacles. My favourite is "sensing feelers" 🐙),
-5. dominant or first function, auxiliary or second function,
-6. pacific aka alpha-delta: having Ne' and Si' as valuable functions (AD vs. BG)  
-  (More fond of cooperative, sensible, peaceful and leisurely unhurried ways),
-7. resolute aka beta-gamma: having Se' and Ni' as valuable functions (AD vs. BG)  
-  (More fond of competitive, argessive, time-bound and fast resolutive ways),
-8. alpha-beta: having Fe' and Ti' as valuable functions (AB vs. GD),
-9. gamma-delta: having Te' and Fi' as valuable functions (AB vs. GD),
-
-Examples:
-
-* feelings-oriented sensor, sensory feeler,
-* task-oriented intuiter, intuitive tasker,
-* alpha-delta intuiter, pacific intuiter, pacific sensor,
-* beta-gamma intuiter, resolute intuiter, resolute sensor,
-* gamma-delta tasker,
-* resolute introvert,
-* extraverted perceiving intuitive tasker, first type,
-* task-oriented intuitive perceiving extravert,
-* introverted judging sensory feeler, tenth type,
-* feelings-oriented sensory judging introvert.
 
 *([Source code](https://github.com/kiwi0fruit/misc/blob/master/src/socionics-jat/reddit2.md) at GitHub)*
