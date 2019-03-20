@@ -119,7 +119,7 @@ Though I'm not fond of using neither feelers nor tentacles. Neither sensors nor 
 |   5 | ESTP⁠-⁠Se'⁠-⁠dom | The five senses         | General                |       General,       Promoter       |
 |   6 | ISTJ⁠-⁠Ti'⁠-⁠dom | Has no sixth sense      | Inspector              |      Inspector,     Inspector       |
 |   7 | INFP⁠-⁠Ni'⁠-⁠dom | Seven Sins / Wonders    | Poet                   |        Lyricist,      Healer        |
-|   8 | ENFJ⁠-⁠Fe'⁠-⁠dom | Eight-bit               | ?                      |       Mentor,        Teacher        |
+|   8 | ENFJ⁠-⁠Fe'⁠-⁠dom | Eight-bit               | Inspirer               |       Mentor,        Teacher        |
 |   9 | ESFP⁠-⁠Se'⁠-⁠dom | Nine lives of a cat     | Politician             |      Politician,    Performer       |
 |  10 | ISFJ⁠-⁠Fi'⁠-⁠dom | Proper as a dozen       | Guardian               |      Guardian,      Protector       |
 |  11 | INTP⁠-⁠Ni'⁠-⁠dom | 11 football players     | Forecaster             |      Critic,        Architect       |
