@@ -56,7 +56,7 @@ But there are some differences between definitions of **cognitive functions** in
 
 Mind that extraverted and introverted functions are specializations on top of their "general" basic functions. For example both strong Se' and Si' are good at dealing with physical qualities. Both strong Ne' and Ni' are good at dealing with associations.
 
-Don't mix Si that is MBTI function with Si' that is Jung-Augustinavichiute-Talanov cognitive function. Apostrophes are added for this purpose. 
+Don't mix Si that is MBTI function with Si' that is Jung-Augustinavichiute-Talanov cognitive function. Apostrophes are added for this purpose.
 
 
 ## 2. Aspects as basis in classical Socionics vs. JAT cognitive functions as a basis in JATS
@@ -85,10 +85,10 @@ In my translation of socionics types names to english the 4 letter code shows th
 
 | quadra | EP | IJ | IP | EJ |
 |:-------|:--:|:--:|:--:|:--:|
-| α alpha **A** | **ENTP-⁠Ne⁠'⁠-⁠dom**  ILE  ENTP  **1**  | **INTJ-⁠Ti⁠'⁠-⁠dom**  LII  INTx  **2**  | **ISFP-⁠Si⁠'⁠-⁠dom**  SEI  ISFx  **3**  | **ESFJ-⁠Fe⁠'⁠-⁠dom**  ESE  ESFJ  **4**  |
-| β beta **B**  | **ESTP-⁠Se⁠'⁠-⁠dom**  SLE  ESTP  **5**  | **ISTJ-⁠Ti⁠'⁠-⁠dom**  LSI  ISTx  **6**  | **INFP-⁠Ni⁠'⁠-⁠dom**  IEI  INFx  **7**  | **ENFJ-⁠Fe⁠'⁠-⁠dom**  EIE  ENFJ  **8**  |
-| γ gamma **G** | **ESFP-⁠Se⁠'⁠-⁠dom**  SEE  ESFP  **9**  | **ISFJ-⁠Fi⁠'⁠-⁠dom**  ESI  ISFx  **10** | **INTP-⁠Ni⁠'⁠-⁠dom**  ILI  INTx  **11** | **ENTJ-⁠Te⁠'⁠-⁠dom**  LIE  ENTJ  **12** |
-| δ delta **D** | **ENFP-⁠Ne⁠'⁠-⁠dom**  IEE  ENFP  **13** | **INFJ-⁠Fi⁠'⁠-⁠dom**  EII  INFx  **14** | **ISTP-⁠Si⁠'⁠-⁠dom**  SLI  ISTx  **15** | **ESTJ-⁠Te⁠'⁠-⁠dom**  LSE  ESTJ  **16** |
+| α alpha **A** | **ENTP⁠-⁠Ne⁠'⁠-⁠dom**  ILE  ENTP  **1**  | **INTJ⁠-⁠Ti⁠'⁠-⁠dom**  LII  INTx  **2**  | **ISFP⁠-⁠Si⁠'⁠-⁠dom**  SEI  ISFx  **3**  | **ESFJ⁠-⁠Fe⁠'⁠-⁠dom**  ESE  ESFJ  **4**  |
+| β beta **B**  | **ESTP⁠-⁠Se⁠'⁠-⁠dom**  SLE  ESTP  **5**  | **ISTJ⁠-⁠Ti⁠'⁠-⁠dom**  LSI  ISTx  **6**  | **INFP⁠-⁠Ni⁠'⁠-⁠dom**  IEI  INFx  **7**  | **ENFJ⁠-⁠Fe⁠'⁠-⁠dom**  EIE  ENFJ  **8**  |
+| γ gamma **G** | **ESFP⁠-⁠Se⁠'⁠-⁠dom**  SEE  ESFP  **9**  | **ISFJ⁠-⁠Fi⁠'⁠-⁠dom**  ESI  ISFx  **10** | **INTP⁠-⁠Ni⁠'⁠-⁠dom**  ILI  INTx  **11** | **ENTJ⁠-⁠Te⁠'⁠-⁠dom**  LIE  ENTJ  **12** |
+| δ delta **D** | **ENFP⁠-⁠Ne⁠'⁠-⁠dom**  IEE  ENFP  **13** | **INFJ⁠-⁠Fi⁠'⁠-⁠dom**  EII  INFx  **14** | **ISTP⁠-⁠Si⁠'⁠-⁠dom**  SLI  ISTx  **15** | **ESTJ⁠-⁠Te⁠'⁠-⁠dom**  LSE  ESTJ  **16** |
 
 For example INTJ-Ti'-dom is *intuitive task-oriented judging introvert* with dominant Ti'. So the first part of the name is given by:
 
@@ -109,22 +109,22 @@ And the last part of the name is given by:
 
 |  ID | JATS name    | Mnemonic                                | Revised Gulenko's name  | Gulenko's, Keirsey's        |
 | ---:|:------------ |:-------------------------------------------------- |:------------ |:---------------------------:|
-|   1 | ENTP-⁠Ne'⁠-⁠dom | The very first curious                             | Inventor     | Seeker,        Inventor     |
-|   2 | INTJ-⁠Ti'⁠-⁠dom | The second one curious                             | Analyst      | Analyst,       Mastermind   |
-|   3 | ISFP-⁠Si'⁠-⁠dom | Three Musketeers Dumas                             | Mediator     | Mediator,      Composer     |
-|   4 | ESFJ-⁠Fe'⁠-⁠dom | Four elements                                      | Enthusiast   | Enthusiast,    Provider     |
-|   5 | ESTP-⁠Se'⁠-⁠dom | The five senses                                    | General      | General,       Promoter     |
-|   6 | ISTJ-⁠Ti'⁠-⁠dom | Has no sixth sense                                 | Inspector    | Inspector,     Inspector    |
-|   7 | INFP-⁠Ni'⁠-⁠dom | Seven Sins                                         | ?            | Lyricist,      Healer       |
-|   8 | ENFJ-⁠Fe'⁠-⁠dom | Eight-bit                                          | ?            | Mentor,        Teacher      |
-|   9 | ESFP-⁠Se'⁠-⁠dom | Nine lives of a cat                                | Politician   | Politician,    Performer    |
-|  10 | ISFJ-⁠Fi'⁠-⁠dom | Proper as a dozen                                  | Guardian     | Guardian,      Protector    |
-|  11 | INTP-⁠Ni'⁠-⁠dom | Football: 11 meters penalty kick, 11 team members  | Forecaster   | Critic,        Architect    |
-|  12 | ENTJ-⁠Te'⁠-⁠dom | 12 hours, dozen, The Twelve Chairs of Ostap Bender | Entrepreneur | Entrepreneur,  Fieldmarshal |
-|  13 | ENFP-⁠Ne'⁠-⁠dom | Devil's dozen, Baker's dozen                       | Champion     | Advise-giver,       Champion     |
-|  14 | INFJ-⁠Fi'⁠-⁠dom | Twice sinful as 7 type                             | Humanist     | Humanist,      Counselor    |
-|  15 | ISTP-⁠Si'⁠-⁠dom | Brings almost everything to the end                | Crafter      | Craftsman,     Crafter      |
-|  16 | ESTJ-⁠Te'⁠-⁠dom | Brings everything to the end                       | Manager      | Administrator, Supervisor   |
+|   1 | ENTP⁠-⁠Ne'⁠-⁠dom | The very first curious                             | Inventor     | Seeker,        Inventor     |
+|   2 | INTJ⁠-⁠Ti'⁠-⁠dom | The second one curious                             | Analyst      | Analyst,       Mastermind   |
+|   3 | ISFP⁠-⁠Si'⁠-⁠dom | Three Musketeers Dumas                             | Mediator     | Mediator,      Composer     |
+|   4 | ESFJ⁠-⁠Fe'⁠-⁠dom | Four elements                                      | Enthusiast   | Enthusiast,    Provider     |
+|   5 | ESTP⁠-⁠Se'⁠-⁠dom | The five senses                                    | General      | General,       Promoter     |
+|   6 | ISTJ⁠-⁠Ti'⁠-⁠dom | Has no sixth sense                                 | Inspector    | Inspector,     Inspector    |
+|   7 | INFP⁠-⁠Ni'⁠-⁠dom | Seven Sins                                         | Poet         | Lyricist,      Healer       |
+|   8 | ENFJ⁠-⁠Fe'⁠-⁠dom | Eight-bit                                          | ?            | Mentor,        Teacher      |
+|   9 | ESFP⁠-⁠Se'⁠-⁠dom | Nine lives of a cat                                | Politician   | Politician,    Performer    |
+|  10 | ISFJ⁠-⁠Fi'⁠-⁠dom | Proper as a dozen                                  | Guardian     | Guardian,      Protector    |
+|  11 | INTP⁠-⁠Ni'⁠-⁠dom | Football: 11 meters penalty kick, 11 team members  | Forecaster   | Critic,        Architect    |
+|  12 | ENTJ⁠-⁠Te'⁠-⁠dom | 12 hours, dozen, The Twelve Chairs of Ostap Bender | Entrepreneur | Entrepreneur,  Fieldmarshal |
+|  13 | ENFP⁠-⁠Ne'⁠-⁠dom | Devil's dozen, Baker's dozen                       | Champion     | Advise-giver,       Champion     |
+|  14 | INFJ⁠-⁠Fi'⁠-⁠dom | Twice sinful as 7 type                             | Humanist     | Humanist,      Counselor    |
+|  15 | ISTP⁠-⁠Si'⁠-⁠dom | Brings almost everything to the end                | Crafter      | Craftsman,     Crafter      |
+|  16 | ESTJ⁠-⁠Te'⁠-⁠dom | Brings everything to the end                       | Manager      | Administrator, Supervisor   |
 
 
 ## 5. On dichotomies, MBTI incompatibility, Big Five
