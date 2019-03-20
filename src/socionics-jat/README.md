@@ -170,9 +170,9 @@ One of the shortest notations is given as the last name. Though it can easily be
 |            Quadras | 1st **or** 2nd function | Valuable functions | Adj.     | More fond of: |
 | ------------------:| ----------------------- | ------------------ | -------- | ------------- |
 | alpha-delta **AD** | Ne' **or** Si'          | Ne' **and** Si'    | pacific  | cooperative,  <!--
-                                           --> sensible, peaceful and leisurely unhurried ways |
+  -->                                          sensible, peaceful and leisurely unhurried ways |
 |  beta-gamma **BG** | Se' **or** Ni'          | Se' **and** Ni'    | resolute | competitive,  <!--
-                                           -->  argessive, time-bound and fast resolutive ways |
+  -->                                           argessive, time-bound and fast resolutive ways |
 |  alpha-beta **AB** | Fe' **or** Ti'          | Fe' **and** Ti'    |          |               |
 | gamma-delta **GD** | Te' **or** Fi'          | Te' **and** Fi'    |          |               |
 
