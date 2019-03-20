@@ -107,7 +107,7 @@ And the last part of the name is given by:
 
 #### Mnemonics to remember the numbers
 
-|  ID | JATS name    | Mnemonic                | Revised Gulenko's name |      Gulenko's,     Keirsey's       |
+|  ID | JATS\* name  | Mnemonic                | Revised Gulenko's name |      Gulenko's,     Keirsey's       |
 | ---:| ------------ | ----------------------- | ---------------------- |:-----------------------------------:|
 |   1 | ENTP⁠-⁠Ne'⁠-⁠dom | The very first curious  | Inventor               |       Seeker,        Inventor       |
 |   2 | INTJ⁠-⁠Ti'⁠-⁠dom | The second one curious  | Analyst                |      Analyst,       Mastermind      |
@@ -125,6 +125,8 @@ And the last part of the name is given by:
 |  14 | INFJ⁠-⁠Fi'⁠-⁠dom | Twice sinful as 7 type  | Humanist               |      Humanist,      Counselor       |
 |  15 | ISTP⁠-⁠Si'⁠-⁠dom | Finishes the job too    | Crafter                |       Craftsman,     Crafter        |
 |  16 | ESTJ⁠-⁠Te'⁠-⁠dom | Finishes the job        | Manager                |      Administrator, Supervisor      |
+
+\*JATS - Jung-Augustinavichiute-Talanov Socionics.
 
 
 ## 5. On dichotomies, MBTI incompatibility, Big Five
