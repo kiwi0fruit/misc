@@ -9,10 +9,10 @@ This is an alternative translation of one of the braches of Socionics to English
 * [2. Aspects as basis in classical Socionics vs. JAT cognitive functions as a basis in JATS](#2-aspects-as-basis-in-classical-socionics-vs-jat-cognitive-functions-as-a-basis-in-jats)
 * [3. Types in classical Socionics vs. reference types in JATS](#3-types-in-classical-socionics-vs-reference-types-in-jats)
 * [4. Socionics reference types names vs. MBTI types names](#4-socionics-reference-types-names-vs-mbti-types-names)
-  * [4.1 Revised Gulenko's names for types. 1-16 numbers as names for types with mnemonics](#41-revised-gulenkos-names-for-types-1-16-numbers-as-names-for-types-with-mnemonics)
-* [5. On dichotomies, MBTI incompatibility, Big Five](#5-on-dichotomies-mbti-incompatibility-big-five)
-* [6. Quadras and functions. Why quadras grouped this way? Pacific vs. resolute types](#6-quadras-and-functions-why-quadras-grouped-this-way-pacific-vs-resolute-types)
-* [7. Intermediate and unknown types names](#7-intermediate-and-unknown-types-names)
+* [5. Revised Gulenko's names for types. 1-16 numbers as names for types with mnemonics](#5-revised-gulenkos-names-for-types-1-16-numbers-as-names-for-types-with-mnemonics)
+* [6. On dichotomies, MBTI incompatibility, Big Five](#6-on-dichotomies-mbti-incompatibility-big-five)
+* [7. Quadras and functions. Why quadras grouped this way? Pacific vs. resolute types](#7-quadras-and-functions-why-quadras-grouped-this-way-pacific-vs-resolute-types)
+* [8. Intermediate and unknown types names](#8-intermediate-and-unknown-types-names)
 
 
 ## Summary
@@ -108,7 +108,7 @@ And the last part of the name is given by:
 Though I'm not fond of using neither feelers nor tentacles. Neither sensors nor detectors. My favourite is "sensing feelers" 🐙.
 
 
-### 4.1 Revised Gulenko's names for types. 1-16 numbers as names for types with mnemonics
+### 5. Revised Gulenko's names for types. 1-16 numbers as names for types with mnemonics
 
 |  ID | JATS\* name  | Mnemonic                | Revised Gulenko's name |      Gulenko's,     Keirsey's       |
 | ---:| ------------ | ----------------------- | ---------------------- |:-----------------------------------:|
@@ -132,7 +132,7 @@ Though I'm not fond of using neither feelers nor tentacles. Neither sensors nor 
 \*JATS - Jung-Augustinavichiute-Talanov Socionics.
 
 
-## 5. On dichotomies, MBTI incompatibility, Big Five
+## 6. On dichotomies, MBTI incompatibility, Big Five
 
 ***Important*** thing to note is that
 
@@ -152,7 +152,7 @@ So if we are talking about type of particular person not about reference types t
 ***Explicit notation*** for Socionics types are **INTJ-Ti'-dom** and **INTP-Ni'-dom**. **J**/**P** in socionics mean the same as in MBTI and Big Five (high/low conscientiousness). Same is for E/I, N/S, T/F. And **dom** is a dominant function as Jung meant it. The rule is simple: judging type has a judging dominant function (perceiving type -> perceiving dominant function). Introverted type has an introverted dominant function (extraverted type -> extraverted dominant function). And this notation explicitly reminds about it.
 
 
-## 6. Quadras and functions. Why quadras grouped this way? Pacific vs. resolute types
+## 7. Quadras and functions. Why quadras grouped this way? Pacific vs. resolute types
 
 Socionics **quadras** split 16 types to 4 groups. Each group has **EP** type with a dominant extraverted perceiving function, **IJ** type with a dominant introverted judging function, **EJ** type with a dominant extraverted judging function and **IP** type with a dominant introverted perceiving function.
 
@@ -202,7 +202,7 @@ So the functions the type values most are dominant, auxiliary and the most infer
 So this can be seen that these 4 types has the same 4 most valued functions.
 
 
-## 7. Intermediate and unknown types names
+## 8. Intermediate and unknown types names
 
 1. Names for truly **intermediate types** are proposed. Names for unknown types like ExTJ are common (this can be ENTJ, ESTJ or intermediate type, we do not know which one exactly). Similarly EμTJ/EuTJ (like μTorrent/uTorrent) is the name for truly intermediate type. **μ** is the standard symbol that denotes mean value (capital is M - Mu). We also automatically get **explicit notation** like IxTJ-Ti'-dom. The existence of intermediate types is still an open question. It's easy to imagine intermediate type between types with the same dominant function but not with different ones.
 2. Below are some examples of short names for types, unknown types and intermediate/mixed types. The 4 letter code at the beginning shows the position on 4 axes that can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part shows cognitive functions stack. I guess it may even be possible to have **ENTJ-Ne'-dom** if the person is a mixture equally of ENTP-Ne'-dom, ENTJ-Te'-dom and INTJ-Ti'-dom: ENTJ(1\~2~12). But at the moment it's a speculation only.
