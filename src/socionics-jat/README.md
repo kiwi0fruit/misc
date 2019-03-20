@@ -167,14 +167,12 @@ Dominant function in socionics is called **1st** function. And socionics splits 
 
 One of the shortest notations is given as the last name. Though it can easily be mistaken with wrong MBTI type in case of introverts. So it's recommend to be used only in explicit contexts.
 
-|            Quadras | 1st **or** 2nd function | Valuable functions | Adj.     | More fond of: |
-| ------------------:| ----------------------- | ------------------ | -------- | ------------- |
-| alpha-delta **AD** | Ne' **or** Si'          | Ne' **and** Si'    | pacific  | cooperative,  <!--
-  -->                                          sensible, peaceful and leisurely unhurried ways |
-|  beta-gamma **BG** | Se' **or** Ni'          | Se' **and** Ni'    | resolute | competitive,  <!--
-  -->                                           argessive, time-bound and fast resolutive ways |
-|  alpha-beta **AB** | Fe' **or** Ti'          | Fe' **and** Ti'    |          |               |
-| gamma-delta **GD** | Te' **or** Fi'          | Te' **and** Fi'    |          |               |
+|            Quadras | 1st or 2nd function | Valuable functions | Adj.     | More fond of: |
+| ------------------:| ------------------- | ------------------ | -------- | ------------- |
+| alpha-delta **AD** | Ne' or Si'          | Ne' and Si'        | pacific  | cooperative, sensible, peaceful and leisurely unhurried ways |
+|  beta-gamma **BG** | Se' or Ni'          | Se' and Ni'        | resolute | competitive, argessive, time-bound and fast resolutive ways |
+|  alpha-beta **AB** | Fe' or Ti'          | Fe' and Ti'        |          |               |
+| gamma-delta **GD** | Te' or Fi'          | Te' and Fi'        |          |               |
 
 Examples:
 
