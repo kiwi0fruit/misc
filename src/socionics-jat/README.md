@@ -107,24 +107,24 @@ And the last part of the name is given by:
 
 #### Mnemonics to remember the numbers
 
-|  ID | JATS name    | Mnemonic                                           |         | Gulenko's, Keirsey's |
-| ---:|:------------ |:-------------------------------------------------- |:------------- |:--------------------:|
-|   1 | ENTP-Ne'-dom | The very first curious                             | Inventor      | Seeker, Inventor     |
-|   2 | INTJ-Ti'-dom | The second one curious                             | Analyst       | Analyst, Mastermind  |
-|   3 | ISFP-Si'-dom | Three Musketeers Dumas                             | Mediator             | Mediator, Composer   |
-|   4 | ESFJ-Fe'-dom | Four elements                                      | Enthusiast             | Enthusiast, Provider  |
-|   5 | ESTP-Se'-dom | The five senses                                    | ?             | General, Promoter  |
-|   6 | ISTJ-Ti'-dom | Has no sixth sense                                 | Inspector     | Inspector            |
-|   7 | INFP-Ni'-dom | Seven Sins                                         | ?             | Lyricist, Healer     |
-|   8 | ENFJ-Fe'-dom | Eight-bit                                          | ?             | Mentor, Teacher      |
-|   9 | ESFP-Se'-dom | Nine lives of a cat                                | Politician    | Politician,   Performer    |
-|  10 | ISFJ-Fi'-dom | Proper as a dozen                                  | Guardian      | Guardian,     Protector    |
-|  11 | INTP-Ni'-dom | Football: 11 meters penalty kick, 11 team members  | Prognoser             | Critic,       Architect    |
-|  12 | ENTJ-Te'-dom | 12 hours, dozen, The Twelve Chairs of Ostap Bender | Entrepreneur  | Entrepreneur, Fieldmarshal |
-|  13 | ENFP-Ne'-dom | Devil's dozen, Baker's dozen                       | Adviser             | Adviser, Champion     |
-|  14 | INFJ-Fi'-dom | Twice sinful as 7 type                             | ?             | Humanist,     Counselor    |
-|  15 | ISTP-Si'-dom | Brings almost everything to the end                | Crafter             | Craftsman,    Crafter      |
-|  16 | ESTJ-Te'-dom | Brings everything to the end                       | Manager | Administrator, Supervisor  |
+|  ID | JATS name    | Mnemonic                                | Revised Gulenko's name  | Gulenko's, Keirsey's        |
+| ---:|:------------ |:-------------------------------------------------- |:------------ |:---------------------------:|
+|   1 | ENTP-⁠Ne'⁠-⁠dom | The very first curious                             | Inventor     | Seeker,        Inventor     |
+|   2 | INTJ-⁠Ti'⁠-⁠dom | The second one curious                             | Analyst      | Analyst,       Mastermind   |
+|   3 | ISFP-⁠Si'⁠-⁠dom | Three Musketeers Dumas                             | Mediator     | Mediator,      Composer     |
+|   4 | ESFJ-⁠Fe'⁠-⁠dom | Four elements                                      | Enthusiast   | Enthusiast,    Provider     |
+|   5 | ESTP-⁠Se'⁠-⁠dom | The five senses                                    | ?            | General,       Promoter     |
+|   6 | ISTJ-⁠Ti'⁠-⁠dom | Has no sixth sense                                 | Inspector    | Inspector,     Inspector    |
+|   7 | INFP-⁠Ni'⁠-⁠dom | Seven Sins                                         | ?            | Lyricist,      Healer       |
+|   8 | ENFJ-⁠Fe'⁠-⁠dom | Eight-bit                                          | ?            | Mentor,        Teacher      |
+|   9 | ESFP-⁠Se'⁠-⁠dom | Nine lives of a cat                                | Politician   | Politician,    Performer    |
+|  10 | ISFJ-⁠Fi'⁠-⁠dom | Proper as a dozen                                  | Guardian     | Guardian,      Protector    |
+|  11 | INTP-⁠Ni'⁠-⁠dom | Football: 11 meters penalty kick, 11 team members  | Prognoser    | Critic,        Architect    |
+|  12 | ENTJ-⁠Te'⁠-⁠dom | 12 hours, dozen, The Twelve Chairs of Ostap Bender | Entrepreneur | Entrepreneur,  Fieldmarshal |
+|  13 | ENFP-⁠Ne'⁠-⁠dom | Devil's dozen, Baker's dozen                       | Adviser      | Adviser,       Champion     |
+|  14 | INFJ-⁠Fi'⁠-⁠dom | Twice sinful as 7 type                             | ?            | Humanist,      Counselor    |
+|  15 | ISTP-⁠Si'⁠-⁠dom | Brings almost everything to the end                | Crafter      | Craftsman,     Crafter      |
+|  16 | ESTJ-⁠Te'⁠-⁠dom | Brings everything to the end                       | Manager      | Administrator, Supervisor   |
 
 
 ## 5. On dichotomies, MBTI incompatibility, Big Five
