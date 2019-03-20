@@ -122,7 +122,7 @@ And the last part of the name is given by:
 |  11 | INTP-⁠Ni'⁠-⁠dom | Football: 11 meters penalty kick, 11 team members  | Forecaster   | Critic,        Architect    |
 |  12 | ENTJ-⁠Te'⁠-⁠dom | 12 hours, dozen, The Twelve Chairs of Ostap Bender | Entrepreneur | Entrepreneur,  Fieldmarshal |
 |  13 | ENFP-⁠Ne'⁠-⁠dom | Devil's dozen, Baker's dozen                       | Champion     | Adviser,       Champion     |
-|  14 | INFJ-⁠Fi'⁠-⁠dom | Twice sinful as 7 type                             | ?            | Humanist,      Counselor    |
+|  14 | INFJ-⁠Fi'⁠-⁠dom | Twice sinful as 7 type                             | Humanist     | Humanist,      Counselor    |
 |  15 | ISTP-⁠Si'⁠-⁠dom | Brings almost everything to the end                | Crafter      | Craftsman,     Crafter      |
 |  16 | ESTJ-⁠Te'⁠-⁠dom | Brings everything to the end                       | Manager      | Administrator, Supervisor   |
 
