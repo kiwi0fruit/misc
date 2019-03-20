@@ -127,7 +127,7 @@ Though I'm not fond of using neither feelers nor tentacles. Neither sensors nor 
 |  13 | ENFP⁠-⁠Ne'⁠-⁠dom | Devil's / Baker's dozen | Champion               | Advise-giver,  Champion (Proponent) |
 |  14 | INFJ⁠-⁠Fi'⁠-⁠dom | Twice sinful as 7 type  | Humanist               |      Humanist,      Counselor       |
 |  15 | ISTP⁠-⁠Si'⁠-⁠dom | Finishes the job too    | Crafter                |       Craftsman,     Crafter        |
-|  16 | ESTJ⁠-⁠Te'⁠-⁠dom | Finishes the job        | Manager                |      Administrator, Supervisor      |
+|  16 | ESTJ⁠-⁠Te'⁠-⁠dom | Finishes the job        | Administrator                |      Administrator, Supervisor      |
 
 \*JATS - Jung-Augustinavichiute-Talanov Socionics.
 
