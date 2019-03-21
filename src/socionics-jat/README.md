@@ -80,18 +80,22 @@ This approach is also useful in determining of 1-3 closest reference types witho
 
 Names are in the following order:
 
-- **Socionics reference type name #1**, **Reference type name #2**, Socionics name literal translation, MBTI name, **Number name**.
+- **Socionics reference type long name**, Socionics name literal translation, MBTI name, **Number name**, **Reference type short name**.
 
 In my translation of socionics types names to english the 4 letter code shows the position on 4 axes that can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part after hyphen (if needed) shows cognitive functions stack. MBTI does not have counterpart types for introverts. For example the closest counterpart for INTJ-Ti'-dom is INTx that is one of two types INTJ/INTP (or their mixture).
 
-| quadra | EP | IJ | IP | EJ |
+| quadra | PE | JI | PI | JE |
 |:-------|:--:|:--:|:--:|:--:|
-| α alpha **A** | **ENTP⁠-⁠Ne⁠'⁠-⁠dom**  **Ne⁠'T⁠-⁠PE**  ILE  ENTP  **1**  | **INTJ⁠-⁠Ti⁠'⁠-⁠dom**  **Ti⁠'⁠N-⁠JI**  LII  INTx  **2**  | **ISFP⁠-⁠Si⁠'⁠-⁠dom**  **Si⁠'⁠F-⁠PI**  SEI  ISFx  **3**  | **ESFJ⁠-⁠Fe⁠'⁠-⁠dom**  **Fe⁠'S⁠-⁠JE**  ESE  ESFJ  **4**  |
-| β beta **B**  | **ESTP⁠-⁠Se⁠'⁠-⁠dom**  **Se⁠'⁠T-⁠PE**  SLE  ESTP  **5**  | **ISTJ⁠-⁠Ti⁠'⁠-⁠dom**  **Ti⁠'S⁠-⁠JI**  LSI  ISTx  **6**  | **INFP⁠-⁠Ni⁠'⁠-⁠dom**  **Ni⁠'F⁠-⁠PI**  IEI  INFx  **7**  | **ENFJ⁠-⁠Fe⁠'⁠-⁠dom**  **Fe⁠'⁠N-⁠JE**  EIE  ENFJ  **8**  |
-| γ gamma **G** | **ESFP⁠-⁠Se⁠'⁠-⁠dom**  **Se⁠'F⁠-⁠PE**  SEE  ESFP  **9**  | **ISFJ⁠-⁠Fi⁠'⁠-⁠dom**  **Fi⁠'⁠S-⁠JI**  ESI  ISFx  **10** | **INTP⁠-⁠Ni⁠'⁠-⁠dom**  **Ni⁠'⁠T-⁠PI**  ILI  INTx  **11** | **ENTJ⁠-⁠Te⁠'⁠-⁠dom**  **Te⁠'⁠N-⁠JE**  LIE  ENTJ  **12** |
-| δ delta **D** | **ENFP⁠-⁠Ne⁠'⁠-⁠dom**  **Ne⁠'F⁠-⁠PE**  IEE  ENFP  **13** | **INFJ⁠-⁠Fi⁠'⁠-⁠dom**  **Fi⁠'N⁠-⁠JI**  EII  INFx  **14** | **ISTP⁠-⁠Si⁠'⁠-⁠dom**  **Si⁠'T⁠-⁠PI**  SLI  ISTx  **15** | **ESTJ⁠-⁠Te⁠'⁠-⁠dom**  **Te⁠'S⁠-⁠JE**  LSE  ESTJ  **16** |
+| α alpha **A** | **ENTP⁠-⁠Ne⁠'⁠-⁠dom**  ILE  ENTP  **1**  | **INTJ⁠-⁠Ti⁠'⁠-⁠dom**  LII  INTx  **2**  | **ISFP⁠-⁠Si⁠'⁠-⁠dom**  SEI  ISFx  **3**  | **ESFJ⁠-⁠Fe⁠'⁠-⁠dom**  ESE  ESFJ  **4**  |
+|        | **Ne'T** | **Ti'N-JI** | **Si'F-PI** | **Fe'S** |
+| β beta **B**  | **ESTP⁠-⁠Se⁠'⁠-⁠dom**  SLE  ESTP  **5**  | **ISTJ⁠-⁠Ti⁠'⁠-⁠dom**  LSI  ISTx  **6**  | **INFP⁠-⁠Ni⁠'⁠-⁠dom**  IEI  INFx  **7**  | **ENFJ⁠-⁠Fe⁠'⁠-⁠dom**  EIE  ENFJ  **8**  |
+|        | **Se'T** | **Ti'S-JI** | **Ni'F-PI** | **Fe'N** |
+| γ gamma **G** | **ESFP⁠-⁠Se⁠'⁠-⁠dom**  SEE  ESFP  **9**  | **ISFJ⁠-⁠Fi⁠'⁠-⁠dom**  ESI  ISFx  **10** | **INTP⁠-⁠Ni⁠'⁠-⁠dom**  ILI  INTx  **11** | **ENTJ⁠-⁠Te⁠'⁠-⁠dom**  LIE  ENTJ  **12** |
+|        | **Se'F** | **Fi'S-JI** | **Ni'T-PI** | **Te'N** |
+| δ delta **D** | **ENFP⁠-⁠Ne⁠'⁠-⁠dom**  IEE  ENFP  **13** | **INFJ⁠-⁠Fi⁠'⁠-⁠dom**  EII  INFx  **14** | **ISTP⁠-⁠Si⁠'⁠-⁠dom**  SLI  ISTx  **15** | **ESTJ⁠-⁠Te⁠'⁠-⁠dom**  LSE  ESTJ  **16** |
+|        | **Ne'F** | **Fi'N-JI** | **Si'T-PI** | **Te'S** |
 
-For example INTJ-Ti'-dom is *intuitive task-oriented judging introvert* with dominant Ti' (or *introverted judging intuitive tasker*). So the first part of the name is given by:
+For example INTJ-Ti'-dom / Ti'N-JI is *intuitive task-oriented judging introvert* with dominant Ti' (or *introverted judging intuitive tasker*). So the first part of the name is given by:
 
 - **NT** is intuitive task-oriented (or intuiter and tasker),
 - **NF** is intuitive feelings-oriented (or intuiter and feeler),
@@ -100,36 +104,37 @@ For example INTJ-Ti'-dom is *intuitive task-oriented judging introvert* with dom
 
 And the last part of the name is given by:
 
-- **EP** is perceiving extravert (or extraverted perceiver),
-- **IJ** is judging introvert (or introverted judger),
-- **IP** is perceiving introvert (or introverted perceiver),
-- **EJ** is judging extravert (or extraverted judger).
+- **PE** is perceiving extravert (or extraverted perceiver),
+- **JI** is judging introvert (or introverted judger),
+- **PE** is perceiving introvert (or introverted perceiver),
+- **JE** is judging extravert (or extraverted judger).
 
 Though I'm not fond of using neither feelers nor tentacles. Neither sensors nor detectors. My favourite is "sensing feelers" 🐙.
 
 
 ### 5. Revised Gulenko's names for types. 1-16 numbers as names for types with mnemonics
 
-|  ID | JATS\* name  | Mnemonic                | Revised Gulenko's name |      Gulenko's,     Keirsey's       |
-| ---:| ------------ | ----------------------- | ---------------------- |:-----------------------------------:|
-|   1 | ENTP⁠-⁠Ne'⁠-⁠dom | The very first curious  | Inventor               |       Seeker,        Inventor       |
-|   2 | INTJ⁠-⁠Ti'⁠-⁠dom | The second one curious  | Analyst                |      Analyst,       Mastermind      |
-|   3 | ISFP⁠-⁠Si'⁠-⁠dom | Three Musketeers Dumas  | Mediator               |       Mediator,      Composer       |
-|   4 | ESFJ⁠-⁠Fe'⁠-⁠dom | Four elements           | Enthusiast             |       Enthusiast,    Provider       |
-|   5 | ESTP⁠-⁠Se'⁠-⁠dom | The five senses         | General                |       General,       Promoter       |
-|   6 | ISTJ⁠-⁠Ti'⁠-⁠dom | Has no sixth sense      | Inspector              |      Inspector,     Inspector       |
-|   7 | INFP⁠-⁠Ni'⁠-⁠dom | Seven Sins / Wonders    | Poet                   |        Lyricist,      Healer        |
-|   8 | ENFJ⁠-⁠Fe'⁠-⁠dom | Eight-bit               | Inspirer               |       Mentor,        Teacher        |
-|   9 | ESFP⁠-⁠Se'⁠-⁠dom | Nine lives of a cat     | Politician             |      Politician,    Performer       |
-|  10 | ISFJ⁠-⁠Fi'⁠-⁠dom | Proper as a dozen       | Guardian               |      Guardian,      Protector       |
-|  11 | INTP⁠-⁠Ni'⁠-⁠dom | 11 football players     | Forecaster             |      Critic,        Architect       |
-|  12 | ENTJ⁠-⁠Te'⁠-⁠dom | 12 hours, dozen         | Entrepreneur           |     Entrepreneur,  Fieldmarshal     |
-|  13 | ENFP⁠-⁠Ne'⁠-⁠dom | Devil's / Baker's dozen | Champion               | Advise-giver,  Champion (Proponent) |
-|  14 | INFJ⁠-⁠Fi'⁠-⁠dom | Twice sinful as 7 type  | Humanist               |      Humanist,      Counselor       |
-|  15 | ISTP⁠-⁠Si'⁠-⁠dom | Finishes the job too    | Crafter                |       Craftsman,     Crafter        |
-|  16 | ESTJ⁠-⁠Te'⁠-⁠dom | Finishes the job        | Administrator                |      Administrator, Supervisor      |
+| ID | JATS¹   | Mnemonic           | Revised Gulenko's |          Gulenko's, MBTI's, Keirsey's, Lytov's          |
+| --:| ------- | ---------------------- | ------------- |:-------------------------------------------------------:|
+|  1 | Ne'T    | The very first curious | Inventor      |                Seeker, Inventor, Inventor               |
+|  2 | Ti'N⁠-⁠JI | The second one curious | Analyst       |              Analyst, Scientist, Mastermind             |
+|  3 | Si'F⁠-⁠PI | Three Musketeers Dumas | Mediator      |                Mediator, Artist, Composer               |
+|  4 | Fe'S    | Four elements          | Enthusiast    |          Enthusiast, Seller, Provider, Bonvivant        |
+|  5 | Se'T    | The five senses        | General       |          General, Promoter, Promoter, Commander         |
+|  6 | Ti'S⁠-⁠JI | Has no sixth sense     | Inspector     |              Inspector, Trustee, Inspector              |
+|  7 | Ni'F⁠-⁠PI | Seven Sins / Wonders   | Poet          |               Lyricist, Questor, Healer                 |
+|  8 | Fe'N    | Eight-bit              | Inspirer      |               Mentor, Pedagogue, Teacher                |
+|  9 | Se'F    | Nine lives of a cat    | Politician    |           Politician, Entertainer, Performer            |
+| 10 | Fi'S⁠-⁠JI | Proper as a dozen      | Guardian      |            Guardian, Conservator, Protector             |
+| 11 | Ni'T⁠-⁠PI | 11 football players    | Forecaster    |              Critic, Architect, Architect               |
+| 12 | Te'N    | 12 hours, dozen        | Entrepreneur  | Entrepreneur, Field Marshall, Fieldmarshal, Enterpriser |
+| 13 | Ne'F    | Devil's/Baker's dozen  | Champion\*    |    Advise-giver, Journalist, Champion\*, Psychologist   |
+| 14 | Fi'N⁠-⁠JI | Twice sinful as 7 type | Humanist      |                Humanist, Author, Counselor              |
+| 15 | Si'T⁠-⁠PI | Finishes the job too   | Craftsman     |                Craftsman, Artisan, Crafter              |
+| 16 | Te'S    | Finishes the job       | Administrator |         Administrator, Administrator, Supervisor        |
 
-\*JATS - Jung-Augustinavichiute-Talanov Socionics.
+¹JATS - Jung-Augustinavichiute-Talanov Socionics,  
+\* - as in Proponent.
 
 
 ## 6. On dichotomies, MBTI incompatibility, Big Five
