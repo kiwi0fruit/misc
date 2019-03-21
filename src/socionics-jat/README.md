@@ -120,7 +120,7 @@ Though I'm not fond of using neither feelers nor tentacles. Neither sensors nor 
 |  2 | Ti'N⁠-⁠JI | The second one curious | Analyst          |              Analyst, Scientist, Mastermind             |
 |  3 | Si'F⁠-⁠PI | Three Musketeers Dumas | Mediator         |                Mediator, Artist, Composer               |
 |  4 | Fe'S    | Four elements          | **Enthusiast**   |          Enthusiast, Seller, Provider, Bonvivant        |
-|  5 | Se'T    | The five senses        | **General**      |        Fieldmarshal, Promoter, Promoter, Commander      |
+|  5 | Se'T    | The five senses        | **General**      |             Marshal, Promoter, Promoter, Commander      |
 |  6 | Ti'S⁠-⁠JI | Has no sixth sense     | Inspector        |              Inspector, Trustee, Inspector              |
 |  7 | Ni'F⁠-⁠PI | Seven Sins / Wonders   | **Poet**         |               Lyricist, Questor, Healer                 |
 |  8 | Fe'N    | Eight-bit              | **Inspirer**     |               Mentor, Pedagogue, Teacher                |
