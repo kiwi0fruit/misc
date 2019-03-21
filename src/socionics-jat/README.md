@@ -111,6 +111,19 @@ And the last part of the name is given by:
 
 Though I'm not fond of using neither feelers nor tentacles. Neither sensors nor detectors. My favourite is "sensing feelers" 🐙.
 
+Or if you want to use names that more explicitly differ from MBTI see this table:
+
+| quadra |    PE    |     JI      |     PI      |    JE    |
+|:------ |:--------:|:-----------:|:-----------:|:--------:|
+| alpha  | **Ne'T** | **Ti'N-JI** | **Si'F-PI** | **Fe'S** |
+|        | dominant extraverted intuiter & preceiving tasker | dominant introverted tasker & judging intuiter | dominant introverted sensor & preceiving feeler   | dominant extraverted feeler & judging sensor   |
+| beta   | **Se'T** | **Ti'S-JI** | **Ni'F-PI** | **Fe'N** |
+|        | dominant extraverted sensor & preceiving tasker   | dominant introverted tasker & judging sensor   | dominant introverted intuiter & preceiving feeler | dominant extraverted feeler & judging intuiter |
+| gamma  | **Se'F** | **Fi'S-JI** | **Ni'T-PI** | **Te'N** |
+|        | dominant extraverted sensor & preceiving feeler   | dominant introverted feeler & judging sensor   | dominant introverted intuiter & preceiving tasker | dominant extraverted tasker & judging intuiter |
+| delta  | **Ne'F** | **Fi'N-JI** | **Si'T-PI** | **Te'S** |
+|        | dominant extraverted intuiter & preceiving feeler | dominant introverted feeler & judging intuiter | dominant introverted sensor & preceiving tasker   | dominant extraverted tasker & judging sensor   |
+
 
 ### 5. Revised Gulenko's names for types. 1-16 numbers as names for types with mnemonics
 
