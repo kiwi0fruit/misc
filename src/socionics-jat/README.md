@@ -161,15 +161,15 @@ Dominant function in socionics is called **1st** function. And socionics splits 
 | **Quadra**    | **EP** | **IJ** | **IP** | **EJ** |
 |:--------------|:-------|:-------|:-------|:-------|
 | α alpha **A** | ENTP(Ne'T) ENTP(1Ne'2Ti'8Te') | INTJ(Ti'N) INTJ(1Ti'2Ne'8Ni') | ISFP(Si'F) ISFP(1Si'2Fe'8Fi') | ESFJ(Fe'S) ESFJ(1Fe'2Si'8Se') |
-| | **Ne'T** | **Ti'N** | **Si'F** | **Fe'S** |
+| | **Ne'T** | **Ti'N-JI** | **Si'F-PI** | **Fe'S** |
 | β beta **B**  | ESTP(Se'T) ESTP(1Se'2Ti'8Te') | ISTJ(Ti'S) ISTJ(1Ti'2Se'8Si') | INFP(Ni'F) INFP(1Ni'2Fe'8Fi') | ENFJ(Fe'N) ENFJ(1Fe'2Ni'8Ne') |
-| | **Se'T** | **Ti'S** | **Ni'F** | **Fe'N** |
+| | **Se'T** | **Ti'S-JI** | **Ni'F-PI** | **Fe'N** |
 | γ gamma **G** | ESFP(Se'F) ESFP(1Se'2Fi'8Fe') | ISFJ(Fi'S) ISFJ(1Fi'2Se'8Si') | INTP(Ni'T) INTP(1Ni'2Te'8Ti') | ENTJ(Te'N) ENTJ(1Te'2Ni'8Ne') |
-| | **Se'F** | **Fi'S** | **Ni'T** | **Te'N** |
+| | **Se'F** | **Fi'S-JI** | **Ni'T-PI** | **Te'N** |
 | δ delta **D** | ENFP(Ne'F) ENFP(1Ne'2Fi'8Fe') | INFJ(Fi'N) INFJ(1Fi'2Ne'8Ni') | ISTP(Si'T) ISTP(1Si'2Te'8Ti') | ESTJ(Te'S) ESTJ(1Te'2Si'8Se') |
-| | **Ne'F** | **Fi'N** | **Si'T** | **Te'S** |
+| | **Ne'F** | **Fi'N-JI** | **Si'T-PI** | **Te'S** |
 
-One of the shortest notations is given as the last name. Though it can easily be mistaken with wrong MBTI type in case of introverts. So it's recommend to be used only in explicit contexts.
+One of the shortest notations is given as the last name. It's possible to drop postfix for introverts too but then it can easily be mistaken with wrong MBTI type. So it's recommend to be used only in explicit contexts.
 
 |            Quadras | 1st or 2nd function | Valuable functions | Adj.     | More fond of: |
 | ------------------:| ------------------- | ------------------ | -------- | ------------- |
