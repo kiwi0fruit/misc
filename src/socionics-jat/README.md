@@ -128,7 +128,7 @@ Though I'm not fond of using neither feelers nor tentacles. Neither sensors nor 
 | 10 | Fi'S⁠-⁠JI | Proper as a dozen      | Guardian      |            Guardian, Conservator, Protector             |
 | 11 | Ni'T⁠-⁠PI | 11 football players    | Forecaster    |              Critic, Architect, Architect               |
 | 12 | Te'N    | 12 hours, dozen        | Entrepreneur  | Entrepreneur, Field Marshall, Fieldmarshal, Enterpriser |
-| 13 | Ne'F    | Devil's/Baker's dozen  | Champion\*    |    Advise-giver, Journalist, Champion\*, Psychologist   |
+| 13 | Ne'F    | Devil's/Baker's dozen  | Propagator    |    Advise-giver, Journalist, Champion\*, Psychologist   |
 | 14 | Fi'N⁠-⁠JI | Twice sinful as 7 type | Humanist      |                Humanist, Author, Counselor              |
 | 15 | Si'T⁠-⁠PI | Finishes the job too   | Craftsman     |                Craftsman, Artisan, Crafter              |
 | 16 | Te'S    | Finishes the job       | Administrator |         Administrator, Administrator, Supervisor        |
