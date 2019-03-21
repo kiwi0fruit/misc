@@ -80,16 +80,16 @@ This approach is also useful in determining of 1-3 closest reference types witho
 
 Names are in the following order:
 
-- **Socionics reference type name**, Socionics name literal translation, MBTI name, **Number name**.
+- **Socionics reference type name #1**, **Reference type name #2**, Socionics name literal translation, MBTI name, **Number name**.
 
 In my translation of socionics types names to english the 4 letter code shows the position on 4 axes that can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part after hyphen (if needed) shows cognitive functions stack. MBTI does not have counterpart types for introverts. For example the closest counterpart for INTJ-Ti'-dom is INTx that is one of two types INTJ/INTP (or their mixture).
 
 | quadra | EP | IJ | IP | EJ |
 |:-------|:--:|:--:|:--:|:--:|
-| α alpha **A** | **ENTP⁠-⁠Ne⁠'⁠-⁠dom**  ILE  ENTP  **1**  | **INTJ⁠-⁠Ti⁠'⁠-⁠dom**  LII  INTx  **2**  | **ISFP⁠-⁠Si⁠'⁠-⁠dom**  SEI  ISFx  **3**  | **ESFJ⁠-⁠Fe⁠'⁠-⁠dom**  ESE  ESFJ  **4**  |
-| β beta **B**  | **ESTP⁠-⁠Se⁠'⁠-⁠dom**  SLE  ESTP  **5**  | **ISTJ⁠-⁠Ti⁠'⁠-⁠dom**  LSI  ISTx  **6**  | **INFP⁠-⁠Ni⁠'⁠-⁠dom**  IEI  INFx  **7**  | **ENFJ⁠-⁠Fe⁠'⁠-⁠dom**  EIE  ENFJ  **8**  |
-| γ gamma **G** | **ESFP⁠-⁠Se⁠'⁠-⁠dom**  SEE  ESFP  **9**  | **ISFJ⁠-⁠Fi⁠'⁠-⁠dom**  ESI  ISFx  **10** | **INTP⁠-⁠Ni⁠'⁠-⁠dom**  ILI  INTx  **11** | **ENTJ⁠-⁠Te⁠'⁠-⁠dom**  LIE  ENTJ  **12** |
-| δ delta **D** | **ENFP⁠-⁠Ne⁠'⁠-⁠dom**  IEE  ENFP  **13** | **INFJ⁠-⁠Fi⁠'⁠-⁠dom**  EII  INFx  **14** | **ISTP⁠-⁠Si⁠'⁠-⁠dom**  SLI  ISTx  **15** | **ESTJ⁠-⁠Te⁠'⁠-⁠dom**  LSE  ESTJ  **16** |
+| α alpha **A** | **ENTP⁠-⁠Ne⁠'⁠-⁠dom**  **Ne⁠'T⁠-⁠PE**  ILE  ENTP  **1**  | **INTJ⁠-⁠Ti⁠'⁠-⁠dom**  **Ti⁠'⁠N-⁠JI**  LII  INTx  **2**  | **ISFP⁠-⁠Si⁠'⁠-⁠dom**  **Si⁠'⁠F-⁠PI**  SEI  ISFx  **3**  | **ESFJ⁠-⁠Fe⁠'⁠-⁠dom**  **Fe⁠'S⁠-⁠JE**  ESE  ESFJ  **4**  |
+| β beta **B**  | **ESTP⁠-⁠Se⁠'⁠-⁠dom**  **Se⁠'⁠T-⁠PE**  SLE  ESTP  **5**  | **ISTJ⁠-⁠Ti⁠'⁠-⁠dom**  **Ti⁠'S⁠-⁠JI**  LSI  ISTx  **6**  | **INFP⁠-⁠Ni⁠'⁠-⁠dom**  **Ni⁠'F⁠-⁠PI**  IEI  INFx  **7**  | **ENFJ⁠-⁠Fe⁠'⁠-⁠dom**  **Fe⁠'⁠N-⁠JE**  EIE  ENFJ  **8**  |
+| γ gamma **G** | **ESFP⁠-⁠Se⁠'⁠-⁠dom**  **Se⁠'F⁠-⁠PE**  SEE  ESFP  **9**  | **ISFJ⁠-⁠Fi⁠'⁠-⁠dom**  **Fi⁠'⁠S-⁠JI**  ESI  ISFx  **10** | **INTP⁠-⁠Ni⁠'⁠-⁠dom**  **Ni⁠'⁠T-⁠PI**  ILI  INTx  **11** | **ENTJ⁠-⁠Te⁠'⁠-⁠dom**  **Te⁠'⁠N-⁠JE**  LIE  ENTJ  **12** |
+| δ delta **D** | **ENFP⁠-⁠Ne⁠'⁠-⁠dom**  **Ne⁠'F⁠-⁠PE**  IEE  ENFP  **13** | **INFJ⁠-⁠Fi⁠'⁠-⁠dom**  **Fi⁠'N⁠-⁠JI**  EII  INFx  **14** | **ISTP⁠-⁠Si⁠'⁠-⁠dom**  **Si⁠'T⁠-⁠PI**  SLI  ISTx  **15** | **ESTJ⁠-⁠Te⁠'⁠-⁠dom**  **Te⁠'S⁠-⁠JE**  LSE  ESTJ  **16** |
 
 For example INTJ-Ti'-dom is *intuitive task-oriented judging introvert* with dominant Ti' (or *introverted judging intuitive tasker*). So the first part of the name is given by:
 
