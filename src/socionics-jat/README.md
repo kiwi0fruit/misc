@@ -134,7 +134,7 @@ Though I'm not fond of using neither feelers nor tentacles. Neither sensors nor 
 | 16 | Te'S    | Finishes the job       | Administrator |         Administrator, Administrator, Supervisor        |
 
 ¹JATS - Jung-Augustinavichiute-Talanov Socionics,  
-\* - as in Proponent.
+\* - champion is in a sense of a proponent.
 
 
 ## 6. On dichotomies, MBTI incompatibility, Big Five
