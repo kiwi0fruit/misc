@@ -114,24 +114,24 @@ Though I'm not fond of using neither feelers nor tentacles. Neither sensors nor 
 
 ### 5. Revised Gulenko's names for types. 1-16 numbers as names for types with mnemonics
 
-| ID | JATS¹   | Mnemonic           | Revised Gulenko's |          Gulenko's, MBTI's, Keirsey's, Lytov's          |
-| --:| ------- | ---------------------- | ------------- |:-------------------------------------------------------:|
-|  1 | Ne'T    | The very first curious | Inventor      |                Seeker, Inventor, Inventor               |
-|  2 | Ti'N⁠-⁠JI | The second one curious | Analyst       |              Analyst, Scientist, Mastermind             |
-|  3 | Si'F⁠-⁠PI | Three Musketeers Dumas | Mediator      |                Mediator, Artist, Composer               |
-|  4 | Fe'S    | Four elements          | Enthusiast    |          Enthusiast, Seller, Provider, Bonvivant        |
-|  5 | Se'T    | The five senses        | General       |        Fieldmarshal, Promoter, Promoter, Commander      |
-|  6 | Ti'S⁠-⁠JI | Has no sixth sense     | Inspector     |              Inspector, Trustee, Inspector              |
-|  7 | Ni'F⁠-⁠PI | Seven Sins / Wonders   | Poet          |               Lyricist, Questor, Healer                 |
-|  8 | Fe'N    | Eight-bit              | Inspirer      |               Mentor, Pedagogue, Teacher                |
-|  9 | Se'F    | Nine lives of a cat    | Politician    |           Politician, Entertainer, Performer            |
-| 10 | Fi'S⁠-⁠JI | Proper as a dozen      | Guardian      |            Guardian, Conservator, Protector             |
-| 11 | Ni'T⁠-⁠PI | 11 football players    | Forecaster    |              Critic, Architect, Architect               |
-| 12 | Te'N    | 12 hours, dozen        | Entrepreneur  | Entrepreneur, Field Marshall, Fieldmarshal, Enterpriser |
-| 13 | Ne'F    | Devil's/Baker's dozen  | Propagator    |    Advise-giver, Journalist, Champion\*, Psychologist   |
-| 14 | Fi'N⁠-⁠JI | Twice sinful as 7 type | Humanist      |                Humanist, Author, Counselor              |
-| 15 | Si'T⁠-⁠PI | Finishes the job too   | Craftsman     |                Craftsman, Artisan, Crafter              |
-| 16 | Te'S    | Finishes the job       | Administrator |         Administrator, Administrator, Supervisor        |
+| ID | JATS¹   | Mnemonic              | Revised Gulenko's |          Gulenko's, MBTI's, Keirsey's, Lytov's          |
+| --:| ------- | ---------------------- | ---------------- |:-------------------------------------------------------:|
+|  1 | Ne'T    | The very first curious | **Inventor**     |                Seeker, Inventor, Inventor               |
+|  2 | Ti'N⁠-⁠JI | The second one curious | Analyst          |              Analyst, Scientist, Mastermind             |
+|  3 | Si'F⁠-⁠PI | Three Musketeers Dumas | Mediator         |                Mediator, Artist, Composer               |
+|  4 | Fe'S    | Four elements          | **Enthusiast**   |          Enthusiast, Seller, Provider, Bonvivant        |
+|  5 | Se'T    | The five senses        | **General**      |        Fieldmarshal, Promoter, Promoter, Commander      |
+|  6 | Ti'S⁠-⁠JI | Has no sixth sense     | Inspector        |              Inspector, Trustee, Inspector              |
+|  7 | Ni'F⁠-⁠PI | Seven Sins / Wonders   | **Poet**         |               Lyricist, Questor, Healer                 |
+|  8 | Fe'N    | Eight-bit              | **Inspirer**     |               Mentor, Pedagogue, Teacher                |
+|  9 | Se'F    | Nine lives of a cat    | Politician       |           Politician, Entertainer, Performer            |
+| 10 | Fi'S⁠-⁠JI | Proper as a dozen      | Guardian         |            Guardian, Conservator, Protector             |
+| 11 | Ni'T⁠-⁠PI | 11 football players    | **Forecaster**   |              Critic, Architect, Architect               |
+| 12 | Te'N    | 12 hours, dozen        | **Entrepreneur** | Entrepreneur, Field Marshall, Fieldmarshal, Enterpriser |
+| 13 | Ne'F    | Devil's/Baker's dozen  | **Propagator**   |    Advise-giver, Journalist, Champion\*, Psychologist   |
+| 14 | Fi'N⁠-⁠JI | Twice sinful as 7 type | Humanist         |                Humanist, Author, Counselor              |
+| 15 | Si'T⁠-⁠PI | Finishes the job too   | Craftsman        |                Craftsman, Artisan, Crafter              |
+| 16 | Te'S    | Finishes the job       | Administrator    |         Administrator, Administrator, Supervisor        |
 
 ¹JATS - Jung-Augustinavichiute-Talanov Socionics,  
 \* - champion is in a sense of a proponent.
