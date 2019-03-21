@@ -114,7 +114,7 @@ Though I'm not fond of using neither feelers nor tentacles. Neither sensors nor 
 
 ### 5. Revised Gulenko's names for types. 1-16 numbers as names for types with mnemonics
 
-| ID | JATS¹   | Mnemonic              | Revised Gulenko's |          Gulenko's, MBTI's, Keirsey's, Lytov's          |
+| ID | JATS¹   | Mnemonic              | Revised Gulenko's |          Gulenko, MBTI, Keirsey, Gulenko-Lytov          |
 | --:| ------- | ---------------------- | ---------------- |:-------------------------------------------------------:|
 |  1 | Ne'T    | The very first curious | **Inventor**     |                Seeker, Inventor, Inventor               |
 |  2 | Ti'N⁠-⁠JI | The second one curious | Analyst          |              Analyst, Scientist, Mastermind             |
