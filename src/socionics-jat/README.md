@@ -251,7 +251,7 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 
 ## 9. Further reading: The framework of the typology of Jung-Augustinavichyute (Socionics Framework)
 
-[The framework of the typology of Jung-Augustinavichyute (Socionics Framework)](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fgithub.com%2Fkiwi0fruit%2Fmisc%2Ftree%2Fmaster%2Fsrc%2Fsocionics-rus) ([original text in russian](../socionics-rus))
+[The framework of the typology of Jung-Augustinavichyute (Socionics Framework)](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fgithub.com%2Fkiwi0fruit%2Fmisc%2Ftree%2Fmaster%2Fsrc%2Fsocionics-rus) ([original text in Russian](../socionics-rus))
 
 
 --------
