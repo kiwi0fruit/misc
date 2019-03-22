@@ -27,7 +27,7 @@ This is an alternative translation of one of the braches of Socionics to English
 7. Very basic introduction to quadras is given and discussed **why quadras grouped this way**. Alpha-delta vs. beta-gamma types are translated as **pacific** vs. **resolute** types.
 8. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types names. **1-16 numbers as names** for reference types were proposed for unknown and mixed types notation and speech (+ mnemonics). Examples: **xNTx<1,2>, uNTu(1~2)** that are unknown and mixed types from NeT and TiN-IJ (u stands for μ that stands for mean).
 9. Some differences between **types** in classical Socionics and **reference types** in Jung-Augustinavichiute-Talanov Socionics are outlined. Some differences between **information aspects** in classical socionics and Jung-Augustinavichiute-Talanov **cognitive functions** are outlined.
-10. Revised **Gulenko's names** for types were proposed (both translations and **names** were revised). **Inventor** for NeT, Enthusiast for FeS, General for SeT, Poet for NiF-IP, **Inspirer** for FeN, **Forecaster** for NiT-IP, Entrepreneur for TeN, **Propagator** for NeF
+10. Revised **Gulenko's names** for types were proposed (both translations and **names** were revised). **Inventor** for NeT, Enthusiast for FeS, General for SeT, Poet for NiF-IP, **Inspirer** for FeN, **Forecaster** for NiT-IP, Entrepreneur for TeN, **Journalist** for NeF
 11. Further reading: [The framework of the typology of Jung-Augustinavichyute (Socionics Framework)](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fgithub.com%2Fkiwi0fruit%2Fmisc%2Ftree%2Fmaster%2Fsrc%2Fsocionics-rus).
 
 
@@ -144,7 +144,7 @@ Both translations and names were revised.
 | 10 | FiS⁠-⁠IJ | Proper as a dozen      | Guardian         |            Guardian, Conservator, Protector             |
 | 11 | NiT⁠-⁠IP | 11 football players    | **Forecaster**   |              Critic, Architect, Architect               |
 | 12 | TeN    | 12 hours, dozen        | **Entrepreneur** | Entrepreneur, Field Marshall, Fieldmarshal, Enterpriser |
-| 13 | NeF    | Devil's/Baker's dozen  | **Propagator**   |    Advise-giver, Journalist, Champion\*, Psychologist   |
+| 13 | NeF    | Devil's/Baker's dozen  | **Journalist**   |    Advise-giver, Journalist, Champion\*, Psychologist   |
 | 14 | FiN⁠-⁠IJ | Twice sinful as 7 type | Humanist         |                Humanist, Author, Counselor              |
 | 15 | SiT⁠-⁠IP | Finishes the job too   | Craftsman        |                Craftsman, Artisan, Crafter              |
 | 16 | TeS    | Finishes the job       | Administrator    |         Administrator, Administrator, Supervisor        |
