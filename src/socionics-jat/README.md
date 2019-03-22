@@ -18,42 +18,39 @@ This is an alternative translation of one of the braches of Socionics to English
 ## Summary
 
 1. The short **descriptions of JAT cognitive functions** that are consistent (I hope) with JATS are given. These descriptions are sometimes different from understanding of cognitive functions in other branches of Socionics.
-2. All cognitive functions are called **kinds of thinking**. I like HBDI approach [en.wikipedia.org/wiki/Herrmann_Brain_Dominance_Instrument](https://en.wikipedia.org/wiki/Herrmann_Brain_Dominance_Instrument).
-3. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types names. **1-16 numbers as names** for reference types were proposed for mixed types notation and speech (+ mnemonics).
-4. The **contradictions between MBTI and Socionics** are made explicit so the type conversion isn’t possible for introverts.
-5. Rational/Irrational names were replaced with Judging/Perceiving as these are more accrurate names: remember Rationalism and it’s attitude to emotional thinking. This also helps make contradictions from 4 more clear.
-6. “Sensory thinking” is used instead of Sensing/Sensorics, “Intuitive thinking” is used instead of Intuition, “Task-oriented thinking” is used instead of Thinking/Logic, “Feelings-oriented thinking” is used instead of Feeling/Ethics.
-7. Modified standard MBTI acronyms for Jung functions (Se', Si', Ne', Ni', Fe', Fi', Te', Ti') and dichotomies (E/I, N/S, T/F, P/J) are used for MBTI partial compatibility purpose. Unfortunately there seems to be no way to avoid using standard MBTI acronyms for Jung/JAT functions.
-8. Standard socionics functions symbols (● ○ ▲ △ ◆ ◇ ■ □) and Victor Gulenko’s 8 latin letters (F, S, I, T, E, R, P, L) were abandoned as inconvenient, unpopular in English community or weird :-)
-9. Some differences between **types** in classical Socionics and **reference types** in Jung-Augustinavichiute-Talanov Socionics are outlined.
-10. Some differences between **information aspects** in classical socionics and Jung-Augustinavichiute-Talanov **cognitive functions** are outlined.
-11. Very basic introduction to quadras is given and discussed **why quadras grouped this way**.
-12. Single-noun terms like intuiter, sensor, feeler and tasker are used. Alpha-delta vs. beta-gamma types is translated as **pacific** vs. **resolute** types.
-13. Revised Gulenko's names for types were proposed.
+2. All cognitive functions are called **kinds of perceprion** and **kinds of judging**. “Sensory perceprion” is used instead of Sensing/Sensorics, “Intuitive perceprion” is used instead of Intuition, “Task-oriented judging” is used instead of Thinking/Logic, “Feelings-oriented judging” is used instead of Feeling/Ethics. I also like HBDI approach [en.wikipedia.org/wiki/Herrmann_Brain_Dominance_Instrument](https://en.wikipedia.org/wiki/Herrmann_Brain_Dominance_Instrument) that calls all them the kinds of thinking.
+3. Rational/Irrational names were replaced with Judging/Perceiving as these are more accurate names: please remember Rationalism and it’s attitude to emotional thinking. This also helps make contradictions from 5 more clear.
+4. Single-noun terms like intuiter, sensor, feeler and tasker are used. Alpha-delta vs. beta-gamma types are translated as **pacific** vs. **resolute** types.
+5. The **contradictions between MBTI and Socionics** are made explicit so the type conversion isn’t possible for introverts. Explicit Socionics types names help to achieve this too: INTJ⁠-⁠Ti⁠'⁠-⁠dom vs. INTP⁠-⁠Ni⁠'⁠-⁠dom (Ti'N-IJ vs. Ni'T-IP) that is dominant introverted tasker & judging intuiter vs. dominant introverted intuiter & perceiving tasker.
+6. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types names. **1-16 numbers as names** for reference types were proposed for unknown and mixed types notation and speech (+ mnemonics). Examples: xNTx<1,2>, uNTu(1~2) that are unknown and mixed types from Ne'T and Ti'N-IJ (u stands for μ that stands for mean).
+7. Modified standard MBTI acronyms for Jung functions (Se', Si', Ne', Ni', Fe', Fi', Te', Ti') and original dichotomies (E/I, N/S, T/F, P/J) are used for MBTI partial compatibility purpose (dichotomies that are measured by tests are compatible enough in Socionics and MBTI). There seems to be no way to avoid using standard MBTI acronyms for Jung/JATS functions. Standard socionics functions symbols (● ○ ▲ △ ◆ ◇ ■ □) and Victor Gulenko’s 8 latin letters (F, S, I, T, E, R, P, L) were abandoned as inconvenient, unpopular in English community or weird.
+8. Some differences between **types** in classical Socionics and **reference types** in Jung-Augustinavichiute-Talanov Socionics are outlined. Some differences between **information aspects** in classical socionics and Jung-Augustinavichiute-Talanov **cognitive functions** are outlined.
+9. Very basic introduction to quadras is given and discussed **why quadras grouped this way**.
+10. Revised Gulenko's names for types were proposed.
 
 
 ## 1. Jung-Augustinavichiute-Talanov cognitive functions
 
-But there are some differences between definitions of **cognitive functions** in MBTI and in *Jung-Augustinavichiute-Talanov Socionics* (JATS). Actually my understanding of Talanov's ideas is a outdated. **JAT cognitive functions** roughly speaking are the ways of thinking:
+But there are some differences between definitions of **cognitive functions** in MBTI and in *Jung-Augustinavichiute-Talanov Socionics* (JATS). Actually my understanding of Talanov's ideas is a outdated. **JAT cognitive functions** roughly speaking are the ways of perception and judging (thinking):
 
 - Additional **function attitude**:
     - [**Introverted** functions (**I**)] Introverted, passed through oneself, passive, restoring, energy saving functions vs.
     - [**Extraverted** functions (**E**)] Extraverted, directed outwards, active, energy-consuming functions.
 - [**Perceiving** functions (**P**)] Perceiving, instinctive, impulsive functions:
-    - [**Intuitive** thinking (**N**, i**N**tuitive)] Abstract, imaginative, assumptive, associative thinking / perception (breadth of associations) vs.
-    - [**Sensory** thinking (**S**)] Tangible-oriented, detailed, concrete, materially-oriented thinking / perception (orientation to physical reality and physical qualities).
+    - [**Intuitive** perception (**N**, i**N**tuitive)] Abstract, imaginative, assumptive, associative thinking / perception (breadth of associations) vs.
+    - [**Sensory** perception (**S**)] Tangible-oriented, detailed, concrete, materially-oriented thinking / perception (orientation to physical reality and physical qualities).
 - [**Judging** functions (**J**)] Judging, stable, impulse controlling functions (decision-making):
-    - [**Task-oriented** thinking (**T**)] Logical, analytical, algorithmic, task-oriented thinking, reasoning (orientation to formal side and facs) vs.
-    - [**Feelings-oriented** thinking (**F**)] Moral, empathic, sentimental, social-oriented, interpersonal emotional thinking (feelings, emotional regulation of society).
+    - [**Task-oriented** judging (**T**)] Logical, analytical, algorithmic, task-oriented thinking, reasoning (orientation to formal side and facs) vs.
+    - [**Feelings-oriented** judging (**F**)] Moral, empathic, sentimental, social-oriented, interpersonal emotional thinking (feelings, emotional regulation of society).
 
-- **Ne'** - _Extraverted intuitive thinking_. Conjectures, guesses and speculations (e.g. about the essence), ideas, curiosity, novelty seeking.
-- **Ni'** - _Introverted intuitive thinking_. Fantasy, fictional reality, imagining processes in time, prognostication, prediction, forecasting
-- **Se'** - _Extraverted sensory thinking_. Active actions, confrontation, the accumulation of material resources, aggression, strength.
-- **Si'** - _Introverted sensory thinking_. Health, comfort, convenience, safety. Perception of sensations.
-- **Te'** - _Extraverted task-oriented thinking_. Actions and their algorithms, tools, pattern action-result (formal part of activities organizing).
-- **Ti'** - _Introverted task-oriented thinking_. Order, laws, structures, classification, analysis and comparison.
-- **Fe'** - _Extraverted feelings-oriented thinking_. Modifying the mood and the emotional state of people hence manipulating their activities (e.g. by means of inspiration and enthusiasm). Modifying group activity is specifically important.
-- **Fi'** - _Introverted feelings-oriented thinking_. Moral judgment and evaluation, building relationships, synchronization of attitude towards something in a group of people, morality.
+- **Ne'** - _Extraverted intuitive perception_. Conjectures, guesses and speculations (e.g. about the essence), ideas, curiosity, novelty seeking.
+- **Ni'** - _Introverted intuitive perception_. Fantasy, fictional reality, imagining processes in time, prognostication, prediction, forecasting
+- **Se'** - _Extraverted sensory perception_. Active actions, confrontation, the accumulation of material resources, aggression, strength.
+- **Si'** - _Introverted sensory perception_. Health, comfort, convenience, safety. Perception of sensations.
+- **Te'** - _Extraverted task-oriented judging_. Actions and their algorithms, tools, pattern action-result (formal part of activities organizing).
+- **Ti'** - _Introverted task-oriented judging_. Order, laws, structures, classification, analysis and comparison.
+- **Fe'** - _Extraverted feelings-oriented judging_. Modifying the mood and the emotional state of people hence manipulating their activities (e.g. by means of inspiration and enthusiasm). Modifying group activity is specifically important.
+- **Fi'** - _Introverted feelings-oriented judging_. Moral judgment and evaluation, building relationships, synchronization of attitude towards something in a group of people, morality.
 
 Mind that extraverted and introverted functions are specializations on top of their "general" basic functions. For example both strong Se' and Si' are good at dealing with physical qualities. Both strong Ne' and Ni' are good at dealing with associations.
 
@@ -82,7 +79,7 @@ Names are in the following order:
 
 - **Socionics reference type long name**, Socionics name literal translation, MBTI name, **Number name**, **Reference type short name**.
 
-In my translation of socionics types names to english the 4 letter code shows the position on 4 axes that can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part after hyphen (if needed) shows cognitive functions stack. MBTI does not have counterpart types for introverts. For example the closest counterpart for INTJ-Ti'-dom is INTx that is one of two types INTJ/INTP (or their mixture).
+In my translation of socionics types names to English the 4 letter code shows the position on 4 axes that can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part after hyphen (if needed) shows cognitive functions stack. MBTI does not have counterpart types for introverts. For example the closest counterpart for INTJ-Ti'-dom is INTx that is one of two types INTJ/INTP (or their mixture).
 
 | quadra | EP       | IJ          | IP          | EJ       |
 |:-------|:--------:|:-----------:|:-----------:|:--------:|
@@ -95,7 +92,7 @@ In my translation of socionics types names to english the 4 letter code shows th
 | delta  | **ENFP⁠-⁠Ne⁠'⁠-⁠dom**  IEE  ENFP  **13** | **INFJ⁠-⁠Fi⁠'⁠-⁠dom**  EII  INFx  **14** | **ISTP⁠-⁠Si⁠'⁠-⁠dom**  SLI  ISTx  **15** | **ESTJ⁠-⁠Te⁠'⁠-⁠dom**  LSE  ESTJ  **16** |
 |        | **Ne'F** | **Fi'N-IJ** | **Si'T-IP** | **Te'S** |
 
-For example INTJ-Ti'-dom / Ti'N-IJ is *intuitive task-oriented judging introvert* with dominant Ti' (or *introverted judging intuitive tasker*). So the first part of the name is given by:
+For example INTJ-Ti'-dom / Ti'N-IJ is *intuitive task-oriented judging introvert* with dominant Ti' (or *dominant introverted tasker & judging intuiter*). So the first part of the name is given by:
 
 - **NT** is intuitive task-oriented (or intuiter and tasker),
 - **NF** is intuitive feelings-oriented (or intuiter and feeler),
@@ -174,7 +171,7 @@ So if we are talking about type of particular person not about reference types t
 
 Socionics **quadras** split 16 types to 4 groups. Each group has **EP** type with a dominant extraverted perceiving function, **IJ** type with a dominant introverted judging function, **EJ** type with a dominant extraverted judging function and **IP** type with a dominant introverted perceiving function.
 
-Dominant function in socionics is called **1st** function. And socionics splits Jung's auxilary function to **2nd** function and **8th** function. If the 1st function is extraverted then the 2nd is introverted and the 8th is extraverted. And vice versa. In case of INTJ-Ti'-dom it would be  1Ti'2Ne'8Ni'. 1st, 2nd and 8th functions are the most important from the point of view of the type’s social activities. And may be also they are the most important from the point of view of the type’s self-identification.
+Dominant function in Socionics is called **1st** function. And Socionics splits Jung's auxilary function to **2nd** function and **8th** function. If the 1st function is extraverted then the 2nd is introverted and the 8th is extraverted. And vice versa. In case of INTJ-Ti'-dom it would be  1Ti'2Ne'8Ni'. 1st, 2nd and 8th functions are the most important from the point of view of the type’s social activities. And may be also they are the most important from the point of view of the type’s self-identification.
 
 | **Quadra**    | **EP** | **IJ** | **IP** | **EJ** |
 |:--------------|:-------|:-------|:-------|:-------|
@@ -208,14 +205,14 @@ Examples:
 
 Let's explain this in the example of the delta quadra.
 
-Deltas are: ENFP-Ne'-dom, INFJ-Fi'-dom, ESTJ-Te'-dom, ISTP-Si'-dom. So as commonly believed in MBTI xNFP and xSTJ are not delta. As believed in socionics:
+Deltas are: ENFP-Ne'-dom, INFJ-Fi'-dom, ESTJ-Te'-dom, ISTP-Si'-dom. So as commonly believed in MBTI xNFP and xSTJ are not delta. As believed in Socionics:
 
 * ENFP-Ne'-dom has auxiliary Fi', and Si' as most inferior function (to the point of not controlling it so it has its own motivation and becomes valuable function),
 * INFJ-Fi'-dom has auxiliary Ne', and Te' as most inferior,
 * ESTJ-Te'-dom has auxiliary Si', and Fi' as most inferior,
 * ISTP-Si'-dom has auxiliary Te', and Ne' as most inferior.
 
-So the functions the type values most are dominant, auxiliary and the most inferior. For some reason commonly ENFP-Ne-dom also values Te, INFJ-Fi'-dom also values Si', ESTJ-Te'-dom also values Ne', ISTP-Si'-dom also values Fi' (as believed in socionics).
+So the functions the type values most are dominant, auxiliary and the most inferior. For some reason commonly ENFP-Ne-dom also values Te, INFJ-Fi'-dom also values Si', ESTJ-Te'-dom also values Ne', ISTP-Si'-dom also values Fi' (as believed in Socionics).
 
 So this can be seen that these 4 types has the same 4 most valued functions.
 
@@ -224,7 +221,7 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 
 1. Names for truly **intermediate types** are proposed. Names for unknown types like ExTJ are common (this can be ENTJ, ESTJ or intermediate type, we do not know which one exactly). Similarly EμTJ/EuTJ (like μTorrent/uTorrent) is the name for truly intermediate type. **μ** is the standard symbol that denotes mean value (capital is M - Mu). We also automatically get **explicit notation** like IxTJ-Ti'-dom. The existence of intermediate types is still an open question. It's easy to imagine intermediate type between types with the same dominant function but not with different ones.
 2. Below are some examples of short names for types, unknown types and intermediate/mixed types. The 4 letter code at the beginning shows the position on 4 axes that can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part shows cognitive functions stack. I guess it may even be possible to have **ENTJ-Ne'-dom** if the person is a mixture equally of ENTP-Ne'-dom, ENTJ-Te'-dom and INTJ-Ti'-dom: ENTJ(1\~2~12). But at the moment it's a speculation only.
-3. Additional postfixes are needed when there should be noted that socioics types and functions are meant (but not the MBTI types and functions). This is especially relevant for unknown types with **x** on J/P axis. For example **INTx<2,11>** = INTJ-Ti'-dom or INTP-Ni'-dom or INTu(2~11). But if we take MBTI types then **INTx** = INTP-Ti-dom or INTJ-Ni-dom or INTu.
+3. Additional postfixes are needed when there should be noted that Socioics types and functions are meant (but not the MBTI types and functions). This is especially relevant for unknown types with **x** on J/P axis. For example **INTx<2,11>** = INTJ-Ti'-dom or INTP-Ni'-dom or INTu(2~11). But if we take MBTI types then **INTx** = INTP-Ti-dom or INTJ-Ni-dom or INTu.
 
 | **Unknown types**          | **Meaning of unknown types**                    | **Mixed type** |
 |:--------------------------:|:-----------------------------------------------:|:--------------:|
@@ -247,4 +244,4 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 | IxTx<2,6,11,15>            | INTJ-Ti'-dom v ISTJ-Ti'-dom v INTP-Ni'-dom v ISTP-Si'-dom v IuTJ-Ti'-dom v ... | ? |
 
 
-*([Source code](https://github.com/kiwi0fruit/misc/blob/master/src/socionics-jat/reddit2.md) at GitHub)*
+*([Source code](https://github.com/kiwi0fruit/misc/blob/master/src/socionics-jat/README.md) at GitHub)*
