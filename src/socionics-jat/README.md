@@ -13,6 +13,7 @@ This is an alternative translation of one of the braches of Socionics to English
 * [6. On dichotomies, MBTI incompatibility, Big Five](#6-on-dichotomies-mbti-incompatibility-big-five)
 * [7. Quadras and functions. Why quadras grouped this way? Pacific vs. resolute types](#7-quadras-and-functions-why-quadras-grouped-this-way-pacific-vs-resolute-types)
 * [8. Intermediate and unknown types names](#8-intermediate-and-unknown-types-names)
+* [9. Further reading: The framework of the typology of Jung-Augustinavichyute (Socionics Framework)](#9-further-reading-the-framework-of-the-typology-of-jung-augustinavichyute-socionics-framework)
 
 
 ## Summary
@@ -245,6 +246,11 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 | Ixxx(BG)⁠<6,7,10,11>        | ISTJ-Ti'-dom v INFP-Ni'-dom v ISFJ-Fi'-dom v INTP-Ni'-dom v INuP(7~11) v ... | ? |
 | xNxP<1,7,11,13>            | ENTP-Ne'-dom v INFP-Ni'-dom v INTP-Ni'-dom v ENFP-Ne'-dom v ENuP(1~13) v INuP-Ni'-dom v ... | ? |
 | IxTx<2,6,11,15>            | INTJ-Ti'-dom v ISTJ-Ti'-dom v INTP-Ni'-dom v ISTP-Si'-dom v IuTJ-Ti'-dom v ... | ? |
+
+
+## 9. Further reading: The framework of the typology of Jung-Augustinavichyute (Socionics Framework)
+
+[The framework of the typology of Jung-Augustinavichyute (Socionics Framework)](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fgithub.com%2Fkiwi0fruit%2Fmisc%2Ftree%2Fmaster%2Fsrc%2Fsocionics-rus) ([original text in russian](../socionics-rus))
 
 
 *([Source code](https://github.com/kiwi0fruit/misc/blob/master/src/socionics-jat/README.md) at GitHub)*
