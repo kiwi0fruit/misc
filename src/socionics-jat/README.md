@@ -28,6 +28,7 @@ This is an alternative translation of one of the braches of Socionics to English
 8. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types names. **1-16 numbers as names** for reference types were proposed for unknown and mixed types notation and speech (+ mnemonics). Examples: **xNTx<1,2>, uNTu(1~2)** that are unknown and mixed types from Ne'T and Ti'N-IJ (u stands for μ that stands for mean).
 9. Some differences between **types** in classical Socionics and **reference types** in Jung-Augustinavichiute-Talanov Socionics are outlined. Some differences between **information aspects** in classical socionics and Jung-Augustinavichiute-Talanov **cognitive functions** are outlined.
 10. Revised **Gulenko's names** for types were proposed (both translations and **names** were revised). **Inventor** for Ne'T, Enthusiast for Fe'S, General for Se'T, Poet for Ni'F-IP, **Inspirer** for Fe'N, **Forecaster** for Ni'T-IP, Entrepreneur for Te'N, **Propagator** for Ne'F.
+11. Further reading: [The framework of the typology of Jung-Augustinavichyute (Socionics Framework)](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fgithub.com%2Fkiwi0fruit%2Fmisc%2Ftree%2Fmaster%2Fsrc%2Fsocionics-rus).
 
 
 ## 1. Jung-Augustinavichiute-Talanov cognitive functions
@@ -252,5 +253,7 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 
 [The framework of the typology of Jung-Augustinavichyute (Socionics Framework)](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fgithub.com%2Fkiwi0fruit%2Fmisc%2Ftree%2Fmaster%2Fsrc%2Fsocionics-rus) ([original text in russian](../socionics-rus))
 
+
+--------
 
 *([Source code](https://github.com/kiwi0fruit/misc/blob/master/src/socionics-jat/README.md) at GitHub)*
