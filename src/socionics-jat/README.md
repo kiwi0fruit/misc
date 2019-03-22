@@ -9,7 +9,7 @@ This is an alternative translation of one of the braches of Socionics to English
 * [2. Aspects as basis in classical Socionics vs. JAT cognitive functions as a basis in JATS](#2-aspects-as-basis-in-classical-socionics-vs-jat-cognitive-functions-as-a-basis-in-jats)
 * [3. Types in classical Socionics vs. reference types in JATS](#3-types-in-classical-socionics-vs-reference-types-in-jats)
 * [4. Socionics reference types names vs. MBTI types names](#4-socionics-reference-types-names-vs-mbti-types-names)
-* [5. Revised Gulenko's names for typeS 1-16 numbers as names for types with mnemonics](#5-revised-gulenkos-names-for-types-1-16-numbers-as-names-for-types-with-mnemonics)
+* [5. Revised Gulenko's names for types. 1-16 numbers as names for types with mnemonics](#5-revised-gulenkos-names-for-types-1-16-numbers-as-names-for-types-with-mnemonics)
 * [6. On dichotomies, MBTI incompatibility, Big Five](#6-on-dichotomies-mbti-incompatibility-big-five)
 * [7. Quadras and functions. Why quadras grouped this way? Pacific vs. resolute types](#7-quadras-and-functions-why-quadras-grouped-this-way-pacific-vs-resolute-types)
 * [8. Intermediate and unknown types names](#8-intermediate-and-unknown-types-names)
@@ -19,16 +19,16 @@ This is an alternative translation of one of the braches of Socionics to English
 ## Summary
 
 1. The short **descriptions of JAT cognitive functions** that are consistent (I hope) with JATS are given. These descriptions are sometimes different from understanding of cognitive functions in other branches of Socionics.
-2. Standard MBTI acronyms for Jung cognitive functions (**Se, Si, Ne, Ni, Fe, Fi, Te, Ti**) and original dichotomies (**E/I, N/S, T/F, P/J**) are used for MBTI partial compatibility purpoSe Dichotomies that are measured by tests are compatible enough in Socionics, MBTI and Big Five to be called the same term (good **infographics on Big Five** is given here: [psychologycharts.com/big-five-personality-traits.html](http://www.psychologycharts.com/big-five-personality-traits.html)). At the same time functions deviate enough to deserve a separate name. Standard Socionics functions symbols (● ○ ▲ △ ◆ ◇ ■ □) and Victor Gulenko’s 8 latin letters (F, S, I, T, E, R, P, L) were abandoned as inconvenient, unpopular in English community or weird.
+2. Standard MBTI acronyms for Jung cognitive functions (**Se, Si, Ne, Ni, Fe, Fi, Te, Ti**) and original dichotomies (**E/I, N/S, T/F, P/J**) are used for MBTI partial compatibility purpose. Dichotomies that are measured by tests are compatible enough in Socionics, MBTI and Big Five to be called the same term (good **infographics on Big Five** is given here: [psychologycharts.com/big-five-personality-traits.html](http://www.psychologycharts.com/big-five-personality-traits.html)). At the same time functions deviate enough to deserve a separate name. Standard Socionics functions symbols (● ○ ▲ △ ◆ ◇ ■ □) and Victor Gulenko’s 8 latin letters (F, S, I, T, E, R, P, L) were abandoned as inconvenient, unpopular in English community or weird.
 3. All cognitive functions are called **kinds of perceprion** and **kinds of judging**. “**Sensory perceprion**” is used instead of Sensing/Sensorics, “**Intuitive perceprion**” is used instead of Intuition, “**Task-oriented judging**” is used instead of Thinking/Logic, “**Feelings-oriented judging**” is used instead of Feeling/Ethics. I also like HBDI approach [eNwikipedia.org/wiki/Herrmann_Brain_Dominance_Instrument](https://eNwikipedia.org/wiki/Herrmann_Brain_Dominance_Instrument) that calls all them the kinds of thinking.
 4. Single-noun terms like **intuiter, sensor, feeler and tasker** are used.
 5. **Rational/Irrational** names were replaced with **Judging/Perceiving** as these are more accurate names: please remember Rationalism and it’s attitude to emotional thinking. This also helps to make Socionics vs. MBTI contradictions more clear.
 6. The **contradictions between MBTI and Socionics** are made explicit so the type conversion isn’t possible for introverts. Proposed new explicit Socionics types names help to achieve this too: **INTJ⁠-⁠Ti-dom.** vs. **INTP⁠-⁠Ni-dom.** (or **Ti⁠N⁠-⁠IJ** vs. **Ni⁠T⁠-⁠IP**) that is dominant introverted tasker & judging intuiter vs. dominant introverted intuiter & perceiving tasker. Extraverted types don't need explicit notation so very short names like **NeT** and **FeN** are used.
-7. Very basic introduction to quadras is given and discussed **why quadras grouped this way**. Alpha-delta vs. beta-gamma types are translated as **pacific** vs. **resolute** typeS
-8. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types nameS **1-16 numbers as names** for reference types were proposed for unknown and mixed types notation and speech (+ mnemonics). Examples: **xNTx<1,2>, uNTu(1~2)** that are unknown and mixed types from NeT and TiN-IJ (u stands for μ that stands for mean).
+7. Very basic introduction to quadras is given and discussed **why quadras grouped this way**. Alpha-delta vs. beta-gamma types are translated as **pacific** vs. **resolute** types.
+8. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types names. **1-16 numbers as names** for reference types were proposed for unknown and mixed types notation and speech (+ mnemonics). Examples: **xNTx<1,2>, uNTu(1~2)** that are unknown and mixed types from NeT and TiN-IJ (u stands for μ that stands for mean).
 9. Some differences between **types** in classical Socionics and **reference types** in Jung-Augustinavichiute-Talanov Socionics are outlined. Some differences between **information aspects** in classical socionics and Jung-Augustinavichiute-Talanov **cognitive functions** are outlined.
 10. Revised **Gulenko's names** for types were proposed (both translations and **names** were revised). **Inventor** for NeT, Enthusiast for FeS, General for SeT, Poet for NiF-IP, **Inspirer** for FeN, **Forecaster** for NiT-IP, Entrepreneur for TeN, **Propagator** for NeF
-11. Further reading: [The framework of the typology of Jung-Augustinavichyute (Socionics Framework)](https://translaTegoogle.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fgithub.com%2Fkiwi0fruit%2Fmisc%2Ftree%2Fmaster%2Fsrc%2Fsocionics-rus).
+11. Further reading: [The framework of the typology of Jung-Augustinavichyute (Socionics Framework)](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fgithub.com%2Fkiwi0fruit%2Fmisc%2Ftree%2Fmaster%2Fsrc%2Fsocionics-rus).
 
 
 ## 1. Jung-Augustinavichiute-Talanov cognitive functions
@@ -54,7 +54,7 @@ But there are some differences between definitions of **cognitive functions** in
 - **Fe** - _Extraverted feelings-oriented judging_. Modifying the mood and the emotional state of people hence manipulating their activities (e.g. by means of inspiration and enthusiasm). Modifying group activity is specifically important.
 - **Fi** - _Introverted feelings-oriented judging_. Moral judgment and evaluation, building relationships, synchronization of attitude towards something in a group of people, morality.
 
-Mind that extraverted and introverted functions are specializations on top of their "general" basic functions. For example both strong Se and Si are good at dealing with physical qualitieS Both strong Ne and Ni are good at dealing with associations.
+Mind that extraverted and introverted functions are specializations on top of their "general" basic functions. For example both strong Se and Si are good at dealing with physical qualities. Both strong Ne and Ni are good at dealing with associations.
 
 
 ## 2. Aspects as basis in classical Socionics vs. JAT cognitive functions as a basis in JATS
@@ -68,7 +68,7 @@ Thus, the ***information aspect*** is something that JAT ***cognitive function u
 
 There are 16 reference types in Jung-Augustinavichiute-Talanov Socionics (JATS) that is one of the branches of Socionics. JATS is actually more like a trait model (like Big Five) not a type theory. *Victor Talanov himself isn’t affiliated with this article as his publications are in Russian language only*. But this article summarises some of his ideas.
 
-***Each particular person does not belong to the one of reference types*** in JATS. But instead the similarity between the person and all 16 reference types is evaluated (using questionnaire). So we move from determining of the person’s type to the measuring Jung cognitive functions using similarity to reference typeS This procedure is described in more details in works of Talanov [sociotoday.narod.ru/index1.html](http://sociotoday.narod.ru/index1.html)
+***Each particular person does not belong to the one of reference types*** in JATS. But instead the similarity between the person and all 16 reference types is evaluated (using questionnaire). So we move from determining of the person’s type to the measuring Jung cognitive functions using similarity to reference types. This procedure is described in more details in works of Talanov [sociotoday.narod.ru/index1.html](http://sociotoday.narod.ru/index1.html)
 
 This approach is also useful in determining of 1-3 closest reference types without questionnaire (using observations only). In this case the reference types are simply socionics types weighted with degrees of likeness. And even in this case the properties of Jung cognitive functions can be roughly determined using the Model A and weighted averaging of functions properties for all reference types found.
 
@@ -106,7 +106,7 @@ And the last part of the name is given by:
 - **EP** is perceiving introvert (or introverted perceiver),
 - **EJ** is judging extravert (or extraverted judger).
 
-Though I'm not fond of using neither feelers nor tentacleS Neither sensors nor detectors. My favourite is "sensing feelers" 🐙.
+Though I'm not fond of using neither feelers nor tentacles. Neither sensors nor detectors. My favourite is "sensing feelers" 🐙.
 
 Or if you want to use names that more explicitly differ from MBTI see this table:
 
@@ -126,7 +126,7 @@ Or if you want to use names that more explicitly differ from MBTI see this table
 | pronounce | N.E.F. | F.I.N.I.J. | S.I.T.I.P. | T.E.S. |
 
 
-### 5. Revised Gulenko's names for typeS 1-16 numbers as names for types with mnemonics
+### 5. Revised Gulenko's names for types. 1-16 numbers as names for types with mnemonics
 
 Both translations and names were revised.
 
