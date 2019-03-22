@@ -112,19 +112,19 @@ Though I'm not fond of using neither feelers nor tentacles. Neither sensors nor 
 
 Or if you want to use names that more explicitly differ from MBTI see this table:
 
-| quadra |    EP    |     IJ      |     IP      |    EJ    |
-|:------ |:--------:|:-----------:|:-----------:|:--------:|
-| alpha  | **Ne.T.** | **Ti.N.-IJ** | **Si.F.-IP** | **Fe.S.** |
-|        | dominant extraverted intuiter & perceiving tasker | dominant introverted tasker & judging intuiter | dominant introverted sensor & perceiving feeler   | dominant extraverted feeler & judging sensor   |
+| quadra    |    EP    |     IJ      |     IP      |    EJ    |
+|:--------- |:--------:|:-----------:|:-----------:|:--------:|
+| **alpha** | **Ne.T.** | **Ti.N.-IJ** | **Si.F.-IP** | **Fe.S.** |
+| meaning   | dominant extraverted intuiter & perceiving tasker | dominant introverted tasker & judging intuiter | dominant introverted sensor & perceiving feeler   | dominant extraverted feeler & judging sensor   |
 | pronounce | N.E.T. | T.I.N.I.J. | S.I.F.I.P. | F.E.S. |
-| beta   | **Se.T.** | **Ti.S.-IJ** | **Ni.F.-IP** | **Fe.N.** |
-|        | dominant extraverted sensor & perceiving tasker   | dominant introverted tasker & judging sensor   | dominant introverted intuiter & perceiving feeler | dominant extraverted feeler & judging intuiter |
+| **beta**  | **Se.T.** | **Ti.S.-IJ** | **Ni.F.-IP** | **Fe.N.** |
+| meaning   | dominant extraverted sensor & perceiving tasker   | dominant introverted tasker & judging sensor   | dominant introverted intuiter & perceiving feeler | dominant extraverted feeler & judging intuiter |
 | pronounce | S.E.T. | T.I.S.I.J. | N.I.F.I.P. | F.E.N. |
-| gamma  | **Se.F.** | **Fi.S.-IJ** | **Ni.T.-IP** | **Te.N.** |
-|        | dominant extraverted sensor & perceiving feeler   | dominant introverted feeler & judging sensor   | dominant introverted intuiter & perceiving tasker | dominant extraverted tasker & judging intuiter |
+| **gamma** | **Se.F.** | **Fi.S.-IJ** | **Ni.T.-IP** | **Te.N.** |
+| meaning   | dominant extraverted sensor & perceiving feeler   | dominant introverted feeler & judging sensor   | dominant introverted intuiter & perceiving tasker | dominant extraverted tasker & judging intuiter |
 | pronounce | S.E.F. | F.I.S.I.J. | N.I.T.I.P. | T.E.N. |
-| delta  | **Ne.F.** | **Fi.N.-IJ** | **Si.T.-IP** | **Te.S.** |
-|        | dominant extraverted intuiter & perceiving feeler | dominant introverted feeler & judging intuiter | dominant introverted sensor & perceiving tasker   | dominant extraverted tasker & judging sensor   |
+| **delta** | **Ne.F.** | **Fi.N.-IJ** | **Si.T.-IP** | **Te.S.** |
+| meaning   | dominant extraverted intuiter & perceiving feeler | dominant introverted feeler & judging intuiter | dominant introverted sensor & perceiving tasker   | dominant extraverted tasker & judging sensor   |
 | pronounce | N.E.F. | F.I.N.I.J. | S.I.T.I.P. | T.E.S. |
 
 
