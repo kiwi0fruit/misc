@@ -25,9 +25,9 @@ This is an alternative translation of one of the braches of Socionics to English
 5. **Rational/Irrational** names were replaced with **Judging/Perceiving** as these are more accurate names: please remember Rationalism and it’s attitude to emotional thinking. This also helps to make Socionics vs. MBTI contradictions more clear.
 6. The **contradictions between MBTI and Socionics** are made explicit so the type conversion isn’t possible for introverts. Proposed new explicit Socionics types names help to achieve this too: **INTJ⁠-⁠Ti-dom.** vs. **INTP⁠-⁠Ni-dom.** (or **Ti⁠N⁠-⁠INTJ** vs. **Ni⁠T⁠-⁠INTP**) that is dominant introverted tasker & judging intuiter vs. dominant introverted intuiter & perceiving tasker. Extraverted types don't need explicit notation so very short names like **NeT** and **FeN** are used.
 7. Very basic introduction to quadras is given and discussed **why quadras grouped this way**. Alpha-delta vs. beta-gamma types are translated as **pacific** vs. **resolute** types.
-8. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types names. **1-16 numbers as names** for reference types were proposed for unknown and mixed types notation and speech (+ mnemonics). Examples: **xNTx<1,2>, uNTu(1~2)** that are unknown and mixed types from NeT and TiN-IJ (u stands for μ that stands for mean).
+8. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types names. **1-16 numbers as names** for reference types were proposed for unknown and mixed types notation and speech (+ mnemonics). Examples: **xNTx<1,2>, uNTu(1~2)** that are unknown and mixed types from NeT and TiN-INTJ (u stands for μ that stands for mean).
 9. Some differences between **types** in classical Socionics and **reference types** in Jung-Augustinavichiute-Talanov Socionics are outlined. Some differences between **information aspects** in classical socionics and Jung-Augustinavichiute-Talanov **cognitive functions** are outlined.
-10. Revised **Gulenko's names** for types were proposed (both translations and **names** were revised). **Inventor** for NeT, Enthusiast for FeS, General for SeT, Poet for NiF-INFP, **Inspirer** for FeN, **Forecaster** for NiT-INTP, Entrepreneur for TeN, **Journalist** for NeF
+10. Revised **Gulenko's names** for types were proposed (both translations and **names** were revised). **Inventor** for NeT, Enthusiast for FeS, General for SeT, Poet for NiF-INFP, **Inspirer** for FeN, **Forecaster** for NiT-INTP, Entrepreneur for TeN, **Journalist** for NeF.
 11. Further reading: [The framework of the typology of Jung-Augustinavichyute (Socionics Framework)](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fgithub.com%2Fkiwi0fruit%2Fmisc%2Ftree%2Fmaster%2Fsrc%2Fsocionics-rus).
 
 
@@ -84,15 +84,15 @@ In my translation of socionics types names to English the 4 letter code shows th
 | quadra | EP       | IJ          | IP          | EJ       |
 |:-------|:--------:|:-----------:|:-----------:|:--------:|
 | alpha  | **ENTP⁠-⁠Ne-dom.**  ILE  ENTP  **1**  | **INTJ⁠-⁠Ti-dom.**  LII  INTx  **2**  | **ISFP⁠-⁠Si-dom.**  SEI  ISFx  **3**  | **ESFJ⁠-⁠Fe-dom.**  ESE  ESFJ  **4**  |
-|        | **NeT** | **TiN-IJ** | **SiF-IP** | **FeS** |
+|        | **NeT** | **TiN-INTJ** | **SiF-ISFP** | **FeS** |
 | beta   | **ESTP⁠-⁠Se-dom.**  SLE  ESTP  **5**  | **ISTJ⁠-⁠Ti-dom.**  LSI  ISTx  **6**  | **INFP⁠-⁠Ni-dom.**  IEI  INFx  **7**  | **ENFJ⁠-⁠Fe-dom.**  EIE  ENFJ  **8**  |
-|        | **SeT** | **TiS-IJ** | **NiF-IP** | **FeN** |
+|        | **SeT** | **TiS-ISTJ** | **NiF-INFP** | **FeN** |
 | gamma  | **ESFP⁠-⁠Se-dom.**  SEE  ESFP  **9**  | **ISFJ⁠-⁠Fi-dom.**  ESI  ISFx  **10** | **INTP⁠-⁠Ni-dom.**  ILI  INTx  **11** | **ENTJ⁠-⁠Te-dom.**  LIE  ENTJ  **12** |
-|        | **SeF** | **FiS-IJ** | **NiT-IP** | **TeN** |
+|        | **SeF** | **FiS-ISFJ** | **NiT-INTP** | **TeN** |
 | delta  | **ENFP⁠-⁠Ne-dom.**  IEE  ENFP  **13** | **INFJ⁠-⁠Fi-dom.**  EII  INFx  **14** | **ISTP⁠-⁠Si-dom.**  SLI  ISTx  **15** | **ESTJ⁠-⁠Te-dom.**  LSE  ESTJ  **16** |
-|        | **NeF** | **FiN-IJ** | **SiT-IP** | **TeS** |
+|        | **NeF** | **FiN-INFJ** | **SiT-ISTP** | **TeS** |
 
-For example INTJ-Ti-dom. / TiN-IJ is *intuitive task-oriented judging introvert* with dominant Ti (or *dominant introverted tasker & judging intuiter*). So the first part of the name is given by:
+For example INTJ-Ti-dom. / TiN-INTJ is *intuitive task-oriented judging introvert* with dominant Ti (or *dominant introverted tasker & judging intuiter*). So the first part of the name is given by:
 
 - **NT** is intuitive task-oriented (or intuiter and tasker),
 - **NF** is intuitive feelings-oriented (or intuiter and feeler),
@@ -112,18 +112,18 @@ Or if you want to use names that more explicitly differ from MBTI see this table
 
 | quadra    |    EP    |     IJ      |     IP      |    EJ    |
 |:--------- |:--------:|:-----------:|:-----------:|:--------:|
-| **alpha** | **NeT** | **TiN-IJ** | **SiF-IP** | **FeS** |
+| **alpha** | **NeT** | **TiN-INTJ** | **SiF-ISFP** | **FeS** |
 | meaning   | dominant extraverted intuiter & perceiving tasker | dominant introverted tasker & judging intuiter | dominant introverted sensor & perceiving feeler   | dominant extraverted feeler & judging sensor   |
-| pronounce | N.E.T. | T.I.N.I.J. | S.I.F.I.P. | F.E.S. |
-| **beta**  | **SeT** | **TiS-IJ** | **NiF-IP** | **FeN** |
+| pronounce | N.E.T. | T.I.N.I.N.T.J. | S.I.F.I.S.F.P. | F.E.S. |
+| **beta**  | **SeT** | **TiS-ISTJ** | **NiF-INFP** | **FeN** |
 | meaning   | dominant extraverted sensor & perceiving tasker   | dominant introverted tasker & judging sensor   | dominant introverted intuiter & perceiving feeler | dominant extraverted feeler & judging intuiter |
-| pronounce | S.E.T. | T.I.S.I.J. | N.I.F.I.P. | F.E.N. |
-| **gamma** | **SeF** | **FiS-IJ** | **NiT-IP** | **TeN** |
+| pronounce | S.E.T. | T.I.S.I.S.T.J. | N.I.F.I.N.F.P. | F.E.N. |
+| **gamma** | **SeF** | **FiS-ISFJ** | **NiT-INTP** | **TeN** |
 | meaning   | dominant extraverted sensor & perceiving feeler   | dominant introverted feeler & judging sensor   | dominant introverted intuiter & perceiving tasker | dominant extraverted tasker & judging intuiter |
-| pronounce | S.E.F. | F.I.S.I.J. | N.I.T.I.P. | T.E.N. |
-| **delta** | **NeF** | **FiN-IJ** | **SiT-IP** | **TeS** |
+| pronounce | S.E.F. | F.I.S.I.S.F.J. | N.I.T.I.N.T.P. | T.E.N. |
+| **delta** | **NeF** | **FiN-INFJ** | **SiT-ISTP** | **TeS** |
 | meaning   | dominant extraverted intuiter & perceiving feeler | dominant introverted feeler & judging intuiter | dominant introverted sensor & perceiving tasker   | dominant extraverted tasker & judging sensor   |
-| pronounce | N.E.F. | F.I.N.I.J. | S.I.T.I.P. | T.E.S. |
+| pronounce | N.E.F. | F.I.N.I.N.F.J. | S.I.T.I.S.T.P. | T.E.S. |
 
 
 ### 5. Revised Gulenko's names for types. 1-16 numbers as names for types with mnemonics
@@ -133,20 +133,20 @@ Both translations and names were revised.
 | ID | JATS¹   | Mnemonic              | Revised Gulenko's |  literal Gulenko, MBTI², Keirsey², Gulenko-Lytov          |
 | --:| ------- | ---------------------- | ---------------- |:-------------------------------------------------------:|
 |  1 | NeT    | The very first curious | **Inventor**     |                Seeker, Inventor, Inventor               |
-|  2 | TiN⁠-⁠IJ | The second one curious | Analyst          |              Analyst, Scientist, Mastermind             |
-|  3 | SiF⁠-⁠IP | Three Musketeers Dumas | Mediator         |                Mediator, Artist, Composer               |
+|  2 | TiN⁠-⁠INTJ | The second one curious | Analyst          |              Analyst, Scientist, Mastermind             |
+|  3 | SiF⁠-⁠ISFP | Three Musketeers Dumas | Mediator         |                Mediator, Artist, Composer               |
 |  4 | FeS    | Four elements          | **Enthusiast**   |          Enthusiast, Seller, Provider, Bonvivant        |
 |  5 | SeT    | The five senses        | **General**      |             Marshal, Promoter, Promoter, Commander      |
-|  6 | TiS⁠-⁠IJ | Has no sixth sense     | Inspector        |              Inspector, Trustee, Inspector              |
-|  7 | NiF⁠-⁠IP | Seven Sins / Wonders   | **Poet**         |               Lyricist, Questor, Healer                 |
+|  6 | TiS⁠-⁠ISTJ | Has no sixth sense     | Inspector        |              Inspector, Trustee, Inspector              |
+|  7 | NiF⁠-⁠INFP | Seven Sins / Wonders   | **Poet**         |               Lyricist, Questor, Healer                 |
 |  8 | FeN    | Eight-bit              | **Inspirer**     |               Mentor, Pedagogue, Teacher                |
 |  9 | SeF    | Nine lives of a cat    | Politician       |           Politician, Entertainer, Performer            |
-| 10 | FiS⁠-⁠IJ | Proper as a dozen      | Guardian         |            Guardian, Conservator, Protector             |
-| 11 | NiT⁠-⁠IP | 11 football players    | **Forecaster**   |              Critic, Architect, Architect               |
+| 10 | FiS⁠-⁠ISFJ | Proper as a dozen      | Guardian         |            Guardian, Conservator, Protector             |
+| 11 | NiT⁠-⁠INTP | 11 football players    | **Forecaster**   |              Critic, Architect, Architect               |
 | 12 | TeN    | 12 hours, dozen        | **Entrepreneur** | Entrepreneur, Field Marshall, Fieldmarshal, Enterpriser |
 | 13 | NeF    | Devil's/Baker's dozen  | **Journalist**   |    Advise-giver, Journalist, Champion\*, Psychologist   |
-| 14 | FiN⁠-⁠IJ | Twice sinful as 7 type | Humanist         |                Humanist, Author, Counselor              |
-| 15 | SiT⁠-⁠IP | Finishes the job too   | Craftsman        |                Craftsman, Artisan, Crafter              |
+| 14 | FiN⁠-⁠INFJ | Twice sinful as 7 type | Humanist         |                Humanist, Author, Counselor              |
+| 15 | SiT⁠-⁠ISTP | Finishes the job too   | Craftsman        |                Craftsman, Artisan, Crafter              |
 | 16 | TeS    | Finishes the job       | Administrator    |         Administrator, Administrator, Supervisor        |
 
 ¹JATS - Jung-Augustinavichiute-Talanov Socionics,  
@@ -183,13 +183,13 @@ Dominant function in Socionics is called **1st** function. And Socionics splits 
 | **Quadra**    | **EP** | **IJ** | **IP** | **EJ** |
 |:--------------|:-------|:-------|:-------|:-------|
 | α alpha **A** | ENTP(NeT) ENTP(1Ne2Ti8Te) | INTJ(TiN) INTJ(1Ti2Ne8Ni) | ISFP(SiF) ISFP(1Si2Fe8Fi) | ESFJ(FeS) ESFJ(1Fe2Si8Se) |
-| | **NeT** | **TiN-IJ** | **SiF-IP** | **FeS** |
+| | **NeT** | **TiN-INTJ** | **SiF-ISFP** | **FeS** |
 | β beta **B**  | ESTP(SeT) ESTP(1Se2Ti8Te) | ISTJ(TiS) ISTJ(1Ti2Se8Si) | INFP(NiF) INFP(1Ni2Fe8Fi) | ENFJ(FeN) ENFJ(1Fe2Ni8Ne) |
-| | **SeT** | **TiS-IJ** | **NiF-IP** | **FeN** |
+| | **SeT** | **TiS-ISTJ** | **NiF-INFP** | **FeN** |
 | γ gamma **G** | ESFP(SeF) ESFP(1Se2Fi8Fe) | ISFJ(FiS) ISFJ(1Fi2Se8Si) | INTP(NiT) INTP(1Ni2Te8Ti) | ENTJ(TeN) ENTJ(1Te2Ni8Ne) |
-| | **SeF** | **FiS-IJ** | **NiT-IP** | **TeN** |
+| | **SeF** | **FiS-ISFJ** | **NiT-INTP** | **TeN** |
 | δ delta **D** | ENFP(NeF) ENFP(1Ne2Fi8Fe) | INFJ(FiN) INFJ(1Fi2Ne8Ni) | ISTP(SiT) ISTP(1Si2Te8Ti) | ESTJ(TeS) ESTJ(1Te2Si8Se) |
-| | **NeF** | **FiN-IJ** | **SiT-IP** | **TeS** |
+| | **NeF** | **FiN-INFJ** | **SiT-ISTP** | **TeS** |
 
 One of the shortest notations is given as the last name. It's possible to drop postfix for introverts too but then it can easily be mistaken with wrong MBTI type. So it's recommend to be used only in explicit contexts.
 
