@@ -84,18 +84,18 @@ Names are in the following order:
 
 In my translation of socionics types names to english the 4 letter code shows the position on 4 axes that can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part after hyphen (if needed) shows cognitive functions stack. MBTI does not have counterpart types for introverts. For example the closest counterpart for INTJ-Ti'-dom is INTx that is one of two types INTJ/INTP (or their mixture).
 
-| quadra | PE       | JI          | PI          | JE       |
+| quadra | EP       | IJ          | IP          | EJ       |
 |:-------|:--------:|:-----------:|:-----------:|:--------:|
 | alpha  | **ENTP⁠-⁠Ne⁠'⁠-⁠dom**  ILE  ENTP  **1**  | **INTJ⁠-⁠Ti⁠'⁠-⁠dom**  LII  INTx  **2**  | **ISFP⁠-⁠Si⁠'⁠-⁠dom**  SEI  ISFx  **3**  | **ESFJ⁠-⁠Fe⁠'⁠-⁠dom**  ESE  ESFJ  **4**  |
-|        | **Ne'T** | **Ti'N-JI** | **Si'F-PI** | **Fe'S** |
+|        | **Ne'T** | **Ti'N-IJ** | **Si'F-IP** | **Fe'S** |
 | beta   | **ESTP⁠-⁠Se⁠'⁠-⁠dom**  SLE  ESTP  **5**  | **ISTJ⁠-⁠Ti⁠'⁠-⁠dom**  LSI  ISTx  **6**  | **INFP⁠-⁠Ni⁠'⁠-⁠dom**  IEI  INFx  **7**  | **ENFJ⁠-⁠Fe⁠'⁠-⁠dom**  EIE  ENFJ  **8**  |
-|        | **Se'T** | **Ti'S-JI** | **Ni'F-PI** | **Fe'N** |
+|        | **Se'T** | **Ti'S-IJ** | **Ni'F-IP** | **Fe'N** |
 | gamma  | **ESFP⁠-⁠Se⁠'⁠-⁠dom**  SEE  ESFP  **9**  | **ISFJ⁠-⁠Fi⁠'⁠-⁠dom**  ESI  ISFx  **10** | **INTP⁠-⁠Ni⁠'⁠-⁠dom**  ILI  INTx  **11** | **ENTJ⁠-⁠Te⁠'⁠-⁠dom**  LIE  ENTJ  **12** |
-|        | **Se'F** | **Fi'S-JI** | **Ni'T-PI** | **Te'N** |
+|        | **Se'F** | **Fi'S-IJ** | **Ni'T-IP** | **Te'N** |
 | delta  | **ENFP⁠-⁠Ne⁠'⁠-⁠dom**  IEE  ENFP  **13** | **INFJ⁠-⁠Fi⁠'⁠-⁠dom**  EII  INFx  **14** | **ISTP⁠-⁠Si⁠'⁠-⁠dom**  SLI  ISTx  **15** | **ESTJ⁠-⁠Te⁠'⁠-⁠dom**  LSE  ESTJ  **16** |
-|        | **Ne'F** | **Fi'N-JI** | **Si'T-PI** | **Te'S** |
+|        | **Ne'F** | **Fi'N-IJ** | **Si'T-IP** | **Te'S** |
 
-For example INTJ-Ti'-dom / Ti'N-JI is *intuitive task-oriented judging introvert* with dominant Ti' (or *introverted judging intuitive tasker*). So the first part of the name is given by:
+For example INTJ-Ti'-dom / Ti'N-IJ is *intuitive task-oriented judging introvert* with dominant Ti' (or *introverted judging intuitive tasker*). So the first part of the name is given by:
 
 - **NT** is intuitive task-oriented (or intuiter and tasker),
 - **NF** is intuitive feelings-oriented (or intuiter and feeler),
@@ -104,24 +104,24 @@ For example INTJ-Ti'-dom / Ti'N-JI is *intuitive task-oriented judging introvert
 
 And the last part of the name is given by:
 
-- **PE** is perceiving extravert (or extraverted perceiver),
-- **JI** is judging introvert (or introverted judger),
-- **PE** is perceiving introvert (or introverted perceiver),
-- **JE** is judging extravert (or extraverted judger).
+- **EP** is perceiving extravert (or extraverted perceiver),
+- **IJ** is judging introvert (or introverted judger),
+- **EP** is perceiving introvert (or introverted perceiver),
+- **EJ** is judging extravert (or extraverted judger).
 
 Though I'm not fond of using neither feelers nor tentacles. Neither sensors nor detectors. My favourite is "sensing feelers" 🐙.
 
 Or if you want to use names that more explicitly differ from MBTI see this table:
 
-| quadra |    PE    |     JI      |     PI      |    JE    |
+| quadra |    EP    |     IJ      |     IP      |    EJ    |
 |:------ |:--------:|:-----------:|:-----------:|:--------:|
-| alpha  | **Ne'T** | **Ti'N-JI** | **Si'F-PI** | **Fe'S** |
+| alpha  | **Ne'T** | **Ti'N-IJ** | **Si'F-IP** | **Fe'S** |
 |        | dominant extraverted intuiter & perceiving tasker | dominant introverted tasker & judging intuiter | dominant introverted sensor & perceiving feeler   | dominant extraverted feeler & judging sensor   |
-| beta   | **Se'T** | **Ti'S-JI** | **Ni'F-PI** | **Fe'N** |
+| beta   | **Se'T** | **Ti'S-IJ** | **Ni'F-IP** | **Fe'N** |
 |        | dominant extraverted sensor & perceiving tasker   | dominant introverted tasker & judging sensor   | dominant introverted intuiter & perceiving feeler | dominant extraverted feeler & judging intuiter |
-| gamma  | **Se'F** | **Fi'S-JI** | **Ni'T-PI** | **Te'N** |
+| gamma  | **Se'F** | **Fi'S-IJ** | **Ni'T-IP** | **Te'N** |
 |        | dominant extraverted sensor & perceiving feeler   | dominant introverted feeler & judging sensor   | dominant introverted intuiter & perceiving tasker | dominant extraverted tasker & judging intuiter |
-| delta  | **Ne'F** | **Fi'N-JI** | **Si'T-PI** | **Te'S** |
+| delta  | **Ne'F** | **Fi'N-IJ** | **Si'T-IP** | **Te'S** |
 |        | dominant extraverted intuiter & perceiving feeler | dominant introverted feeler & judging intuiter | dominant introverted sensor & perceiving tasker   | dominant extraverted tasker & judging sensor   |
 
 
@@ -130,20 +130,20 @@ Or if you want to use names that more explicitly differ from MBTI see this table
 | ID | JATS¹   | Mnemonic              | Revised Gulenko's |  literal Gulenko, MBTI, Keirsey, Gulenko-Lytov          |
 | --:| ------- | ---------------------- | ---------------- |:-------------------------------------------------------:|
 |  1 | Ne'T    | The very first curious | **Inventor**     |                Seeker, Inventor, Inventor               |
-|  2 | Ti'N⁠-⁠JI | The second one curious | Analyst          |              Analyst, Scientist, Mastermind             |
-|  3 | Si'F⁠-⁠PI | Three Musketeers Dumas | Mediator         |                Mediator, Artist, Composer               |
+|  2 | Ti'N⁠-⁠IJ | The second one curious | Analyst          |              Analyst, Scientist, Mastermind             |
+|  3 | Si'F⁠-⁠IP | Three Musketeers Dumas | Mediator         |                Mediator, Artist, Composer               |
 |  4 | Fe'S    | Four elements          | **Enthusiast**   |          Enthusiast, Seller, Provider, Bonvivant        |
 |  5 | Se'T    | The five senses        | **General**      |             Marshal, Promoter, Promoter, Commander      |
-|  6 | Ti'S⁠-⁠JI | Has no sixth sense     | Inspector        |              Inspector, Trustee, Inspector              |
-|  7 | Ni'F⁠-⁠PI | Seven Sins / Wonders   | **Poet**         |               Lyricist, Questor, Healer                 |
+|  6 | Ti'S⁠-⁠IJ | Has no sixth sense     | Inspector        |              Inspector, Trustee, Inspector              |
+|  7 | Ni'F⁠-⁠IP | Seven Sins / Wonders   | **Poet**         |               Lyricist, Questor, Healer                 |
 |  8 | Fe'N    | Eight-bit              | **Inspirer**     |               Mentor, Pedagogue, Teacher                |
 |  9 | Se'F    | Nine lives of a cat    | Politician       |           Politician, Entertainer, Performer            |
-| 10 | Fi'S⁠-⁠JI | Proper as a dozen      | Guardian         |            Guardian, Conservator, Protector             |
-| 11 | Ni'T⁠-⁠PI | 11 football players    | **Forecaster**   |              Critic, Architect, Architect               |
+| 10 | Fi'S⁠-⁠IJ | Proper as a dozen      | Guardian         |            Guardian, Conservator, Protector             |
+| 11 | Ni'T⁠-⁠IP | 11 football players    | **Forecaster**   |              Critic, Architect, Architect               |
 | 12 | Te'N    | 12 hours, dozen        | **Entrepreneur** | Entrepreneur, Field Marshall, Fieldmarshal, Enterpriser |
 | 13 | Ne'F    | Devil's/Baker's dozen  | **Propagator**   |    Advise-giver, Journalist, Champion\*, Psychologist   |
-| 14 | Fi'N⁠-⁠JI | Twice sinful as 7 type | Humanist         |                Humanist, Author, Counselor              |
-| 15 | Si'T⁠-⁠PI | Finishes the job too   | Craftsman        |                Craftsman, Artisan, Crafter              |
+| 14 | Fi'N⁠-⁠IJ | Twice sinful as 7 type | Humanist         |                Humanist, Author, Counselor              |
+| 15 | Si'T⁠-⁠IP | Finishes the job too   | Craftsman        |                Craftsman, Artisan, Crafter              |
 | 16 | Te'S    | Finishes the job       | Administrator    |         Administrator, Administrator, Supervisor        |
 
 ¹JATS - Jung-Augustinavichiute-Talanov Socionics,  
@@ -172,20 +172,20 @@ So if we are talking about type of particular person not about reference types t
 
 ## 7. Quadras and functions. Why quadras grouped this way? Pacific vs. resolute types
 
-Socionics **quadras** split 16 types to 4 groups. Each group has **PE** type with a dominant extraverted perceiving function, **JI** type with a dominant introverted judging function, **JE** type with a dominant extraverted judging function and **PI** type with a dominant introverted perceiving function.
+Socionics **quadras** split 16 types to 4 groups. Each group has **EP** type with a dominant extraverted perceiving function, **IJ** type with a dominant introverted judging function, **EJ** type with a dominant extraverted judging function and **IP** type with a dominant introverted perceiving function.
 
 Dominant function in socionics is called **1st** function. And socionics splits Jung's auxilary function to **2nd** function and **8th** function. If the 1st function is extraverted then the 2nd is introverted and the 8th is extraverted. And vice versa. In case of INTJ-Ti'-dom it would be  1Ti'2Ne'8Ni'. 1st, 2nd and 8th functions are the most important from the point of view of the type’s social activities. And may be also they are the most important from the point of view of the type’s self-identification.
 
-| **Quadra**    | **PE** | **JI** | **PI** | **JE** |
+| **Quadra**    | **EP** | **IJ** | **IP** | **EJ** |
 |:--------------|:-------|:-------|:-------|:-------|
 | α alpha **A** | ENTP(Ne'T) ENTP(1Ne'2Ti'8Te') | INTJ(Ti'N) INTJ(1Ti'2Ne'8Ni') | ISFP(Si'F) ISFP(1Si'2Fe'8Fi') | ESFJ(Fe'S) ESFJ(1Fe'2Si'8Se') |
-| | **Ne'T** | **Ti'N-JI** | **Si'F-PI** | **Fe'S** |
+| | **Ne'T** | **Ti'N-IJ** | **Si'F-IP** | **Fe'S** |
 | β beta **B**  | ESTP(Se'T) ESTP(1Se'2Ti'8Te') | ISTJ(Ti'S) ISTJ(1Ti'2Se'8Si') | INFP(Ni'F) INFP(1Ni'2Fe'8Fi') | ENFJ(Fe'N) ENFJ(1Fe'2Ni'8Ne') |
-| | **Se'T** | **Ti'S-JI** | **Ni'F-PI** | **Fe'N** |
+| | **Se'T** | **Ti'S-IJ** | **Ni'F-IP** | **Fe'N** |
 | γ gamma **G** | ESFP(Se'F) ESFP(1Se'2Fi'8Fe') | ISFJ(Fi'S) ISFJ(1Fi'2Se'8Si') | INTP(Ni'T) INTP(1Ni'2Te'8Ti') | ENTJ(Te'N) ENTJ(1Te'2Ni'8Ne') |
-| | **Se'F** | **Fi'S-JI** | **Ni'T-PI** | **Te'N** |
+| | **Se'F** | **Fi'S-IJ** | **Ni'T-IP** | **Te'N** |
 | δ delta **D** | ENFP(Ne'F) ENFP(1Ne'2Fi'8Fe') | INFJ(Fi'N) INFJ(1Fi'2Ne'8Ni') | ISTP(Si'T) ISTP(1Si'2Te'8Ti') | ESTJ(Te'S) ESTJ(1Te'2Si'8Se') |
-| | **Ne'F** | **Fi'N-JI** | **Si'T-PI** | **Te'S** |
+| | **Ne'F** | **Fi'N-IJ** | **Si'T-IP** | **Te'S** |
 
 One of the shortest notations is given as the last name. It's possible to drop postfix for introverts too but then it can easily be mistaken with wrong MBTI type. So it's recommend to be used only in explicit contexts.
 
@@ -228,10 +228,10 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 
 | **Unknown types**          | **Meaning of unknown types**                    | **Mixed type** |
 |:--------------------------:|:-----------------------------------------------:|:--------------:|
-| ExTJ<12,16>                | ENTJ-Te'-dom v ESTJ-Te'-dom v EuTJ(12~16) v ... | EuTJ(12~16) |
+| ExTJ<12,16>                | ENTJ-Te'-dom v ESTJ-Te'-dom v EuTJ(12~16) v ... | EuTJ(12~16)    |
 | ENxJ<8,12>                 | ENTJ-Te'-dom v ENFJ-Fe'-dom v ENuJ(8~12) v ...  | ENuJ(8~12)     |
 | INTx<2,11>, INTx<2;11>     | INTJ-Ti'-dom v INTP-Ni'-dom v INTu(2~11) v ...  | INTu(2~11)     |
-| IxTJ<2,6>, IxTJ-⁠Ti⁠'⁠-⁠dom    | INTJ-Ti'-dom v ISTJ-Ti'-dom v IuTJ(2~6) v ... | IuTJ(2~6) |
+| IxTJ<2,6>, IxTJ-⁠Ti⁠'⁠-⁠dom    | INTJ-Ti'-dom v ISTJ-Ti'-dom v IuTJ(2~6) v ...   | IuTJ(2~6)      |
 | xNTx<1,2>                  | ENTP-Ne'-dom v INTJ-Ti'-dom v uNTu(1~2) v ...   | uNTu(1~2)      |
 | xNTJ<2,12>                 | ENTJ-Te'-dom v INTJ-Ti'-dom v uNTJ(2~12) v ...  | uNTJ(2~12)     |
 | INxJ<2,14>                 | INTJ-Ti'-dom v INFJ-Fi'-dom v INuJ(2~14) v ...  | INuJ(2~14)     |
