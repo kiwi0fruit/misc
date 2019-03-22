@@ -56,7 +56,7 @@ But there are some differences between definitions of **cognitive functions** in
 
 Mind that extraverted and introverted functions are specializations on top of their "general" basic functions. For example both strong Se. and Si. are good at dealing with physical qualities. Both strong Ne. and Ni. are good at dealing with associations.
 
-Don't mix Si that is MBTI function with Si. that is Jung-Augustinavichiute-Talanov cognitive function. Apostrophes are added for this purpose.
+Don't mix Si that is MBTI function with Si. that is Jung-Augustinavichiute-Talanov cognitive function. Dots are added for this purpose.
 
 
 ## 2. Aspects as basis in classical Socionics vs. JAT cognitive functions as a basis in JATS
