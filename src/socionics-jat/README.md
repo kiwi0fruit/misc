@@ -18,15 +18,15 @@ This is an alternative translation of one of the braches of Socionics to English
 ## Summary
 
 1. The short **descriptions of JAT cognitive functions** that are consistent (I hope) with JATS are given. These descriptions are sometimes different from understanding of cognitive functions in other branches of Socionics.
-2. All cognitive functions are called **kinds of perceprion** and **kinds of judging**. “Sensory perceprion” is used instead of Sensing/Sensorics, “Intuitive perceprion” is used instead of Intuition, “Task-oriented judging” is used instead of Thinking/Logic, “Feelings-oriented judging” is used instead of Feeling/Ethics. I also like HBDI approach [en.wikipedia.org/wiki/Herrmann_Brain_Dominance_Instrument](https://en.wikipedia.org/wiki/Herrmann_Brain_Dominance_Instrument) that calls all them the kinds of thinking.
-3. Rational/Irrational names were replaced with Judging/Perceiving as these are more accurate names: please remember Rationalism and it’s attitude to emotional thinking. This also helps make contradictions from 5 more clear.
-4. Single-noun terms like intuiter, sensor, feeler and tasker are used. Alpha-delta vs. beta-gamma types are translated as **pacific** vs. **resolute** types.
-5. The **contradictions between MBTI and Socionics** are made explicit so the type conversion isn’t possible for introverts. Explicit Socionics types names help to achieve this too: INTJ⁠-⁠Ti⁠'⁠-⁠dom vs. INTP⁠-⁠Ni⁠'⁠-⁠dom (Ti'N-IJ vs. Ni'T-IP) that is dominant introverted tasker & judging intuiter vs. dominant introverted intuiter & perceiving tasker.
-6. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types names. **1-16 numbers as names** for reference types were proposed for unknown and mixed types notation and speech (+ mnemonics). Examples: xNTx<1,2>, uNTu(1~2) that are unknown and mixed types from Ne'T and Ti'N-IJ (u stands for μ that stands for mean).
-7. Modified standard MBTI acronyms for Jung functions (Se', Si', Ne', Ni', Fe', Fi', Te', Ti') and original dichotomies (E/I, N/S, T/F, P/J) are used for MBTI partial compatibility purpose (dichotomies that are measured by tests are compatible enough in Socionics and MBTI). There seems to be no way to avoid using standard MBTI acronyms for Jung/JATS functions. Standard socionics functions symbols (● ○ ▲ △ ◆ ◇ ■ □) and Victor Gulenko’s 8 latin letters (F, S, I, T, E, R, P, L) were abandoned as inconvenient, unpopular in English community or weird.
-8. Some differences between **types** in classical Socionics and **reference types** in Jung-Augustinavichiute-Talanov Socionics are outlined. Some differences between **information aspects** in classical socionics and Jung-Augustinavichiute-Talanov **cognitive functions** are outlined.
-9. Very basic introduction to quadras is given and discussed **why quadras grouped this way**.
-10. Revised Gulenko's names for types were proposed.
+2. Modified standard MBTI acronyms for Jung cognitive functions (**Se', Si', Ne', Ni', Fe', Fi', Te', Ti'** - apostrophes were added) and original dichotomies (**E/I, N/S, T/F, P/J**) are used for MBTI partial compatibility purpose. Dichotomies that are measured by tests are compatible enough in Socionics, MBTI and Big Five to be called the same term (good **infographics on Big Five** is given here: [psychologycharts.com/big-five-personality-traits.html](http://www.psychologycharts.com/big-five-personality-traits.html)). At the same time functions deviate enough to deserve a separate name. Standard Socionics functions symbols (● ○ ▲ △ ◆ ◇ ■ □) and Victor Gulenko’s 8 latin letters (F, S, I, T, E, R, P, L) were abandoned as inconvenient, unpopular in English community or weird.
+3. All cognitive functions are called **kinds of perceprion** and **kinds of judging**. “**Sensory perceprion**” is used instead of Sensing/Sensorics, “**Intuitive perceprion**” is used instead of Intuition, “**Task-oriented judging**” is used instead of Thinking/Logic, “**Feelings-oriented judging**” is used instead of Feeling/Ethics. I also like HBDI approach [en.wikipedia.org/wiki/Herrmann_Brain_Dominance_Instrument](https://en.wikipedia.org/wiki/Herrmann_Brain_Dominance_Instrument) that calls all them the kinds of thinking.
+4. Single-noun terms like **intuiter, sensor, feeler and tasker** are used.
+5. **Rational/Irrational** names were replaced with **Judging/Perceiving** as these are more accurate names: please remember Rationalism and it’s attitude to emotional thinking. This also helps to make Socionics vs. MBTI contradictions more clear.
+6. The **contradictions between MBTI and Socionics** are made explicit so the type conversion isn’t possible for introverts. Proposed new explicit Socionics types names help to achieve this too: INTJ⁠-⁠Ti⁠'⁠-⁠dom vs. INTP⁠-⁠Ni⁠'⁠-⁠dom (or **Ti'N-IJ** vs. **Ni'T-IP**) that is dominant introverted tasker & judging intuiter vs. dominant introverted intuiter & perceiving tasker. Extraverted types don't need explicit notation so very short names like **Ne'T** and **Fe'N** are used.
+7. Very basic introduction to quadras is given and discussed **why quadras grouped this way**. Alpha-delta vs. beta-gamma types are translated as **pacific** vs. **resolute** types.
+8. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types names. **1-16 numbers as names** for reference types were proposed for unknown and mixed types notation and speech (+ mnemonics). Examples: **xNTx<1,2>, uNTu(1~2)** that are unknown and mixed types from Ne'T and Ti'N-IJ (u stands for μ that stands for mean).
+9. Some differences between **types** in classical Socionics and **reference types** in Jung-Augustinavichiute-Talanov Socionics are outlined. Some differences between **information aspects** in classical socionics and Jung-Augustinavichiute-Talanov **cognitive functions** are outlined.
+10. Revised **Gulenko's names** for types were proposed (both translations and names were revised). **Inventor** for Ne'T, Enthusiast for Fe'S, General for Se'T, Poet for Ni'F-IP, **Inspirer** for Fe'N, **Forecaster** for Ni'T-IP, Entrepreneur for Te'N, **Propagator** for Ne'F.
 
 
 ## 1. Jung-Augustinavichiute-Talanov cognitive functions
@@ -123,6 +123,8 @@ Or if you want to use names that more explicitly differ from MBTI see this table
 
 
 ### 5. Revised Gulenko's names for types. 1-16 numbers as names for types with mnemonics
+
+Both translations and names were revised.
 
 | ID | JATS¹   | Mnemonic              | Revised Gulenko's |  literal Gulenko, MBTI, Keirsey, Gulenko-Lytov          |
 | --:| ------- | ---------------------- | ---------------- |:-------------------------------------------------------:|
