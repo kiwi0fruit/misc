@@ -26,7 +26,7 @@ This is an alternative translation of one of the braches of Socionics to English
 7. Very basic introduction to quadras is given and discussed **why quadras grouped this way**. Alpha-delta vs. beta-gamma types are translated as **pacific** vs. **resolute** types.
 8. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types names. **1-16 numbers as names** for reference types were proposed for unknown and mixed types notation and speech (+ mnemonics). Examples: **xNTx<1,2>, uNTu(1~2)** that are unknown and mixed types from Ne'T and Ti'N-IJ (u stands for μ that stands for mean).
 9. Some differences between **types** in classical Socionics and **reference types** in Jung-Augustinavichiute-Talanov Socionics are outlined. Some differences between **information aspects** in classical socionics and Jung-Augustinavichiute-Talanov **cognitive functions** are outlined.
-10. Revised **Gulenko's names** for types were proposed (both translations and names were revised). **Inventor** for Ne'T, Enthusiast for Fe'S, General for Se'T, Poet for Ni'F-IP, **Inspirer** for Fe'N, **Forecaster** for Ni'T-IP, Entrepreneur for Te'N, **Propagator** for Ne'F.
+10. Revised **Gulenko's names** for types were proposed (both translations and **names** were revised). **Inventor** for Ne'T, Enthusiast for Fe'S, General for Se'T, Poet for Ni'F-IP, **Inspirer** for Fe'N, **Forecaster** for Ni'T-IP, Entrepreneur for Te'N, **Propagator** for Ne'F.
 
 
 ## 1. Jung-Augustinavichiute-Talanov cognitive functions
