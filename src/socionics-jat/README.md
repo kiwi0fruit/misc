@@ -172,11 +172,11 @@ So if we are talking about type of particular person not about reference types t
 
 ## 7. Quadras and functions. Why quadras grouped this way? Pacific vs. resolute types
 
-Socionics **quadras** split 16 types to 4 groups. Each group has **EP** type with a dominant extraverted perceiving function, **IJ** type with a dominant introverted judging function, **EJ** type with a dominant extraverted judging function and **IP** type with a dominant introverted perceiving function.
+Socionics **quadras** split 16 types to 4 groups. Each group has **PE** type with a dominant extraverted perceiving function, **JI** type with a dominant introverted judging function, **JE** type with a dominant extraverted judging function and **PI** type with a dominant introverted perceiving function.
 
 Dominant function in socionics is called **1st** function. And socionics splits Jung's auxilary function to **2nd** function and **8th** function. If the 1st function is extraverted then the 2nd is introverted and the 8th is extraverted. And vice versa. In case of INTJ-Ti'-dom it would be  1Ti'2Ne'8Ni'. 1st, 2nd and 8th functions are the most important from the point of view of the type’s social activities. And may be also they are the most important from the point of view of the type’s self-identification.
 
-| **Quadra**    | **EP** | **IJ** | **IP** | **EJ** |
+| **Quadra**    | **PE** | **JI** | **PI** | **JE** |
 |:--------------|:-------|:-------|:-------|:-------|
 | α alpha **A** | ENTP(Ne'T) ENTP(1Ne'2Ti'8Te') | INTJ(Ti'N) INTJ(1Ti'2Ne'8Ni') | ISFP(Si'F) ISFP(1Si'2Fe'8Fi') | ESFJ(Fe'S) ESFJ(1Fe'2Si'8Se') |
 | | **Ne'T** | **Ti'N-JI** | **Si'F-PI** | **Fe'S** |
