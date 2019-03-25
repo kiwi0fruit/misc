@@ -154,6 +154,17 @@ Both translations and names were revised. Lytov's translation of Gulenko's names
 ²,³ Mind that Keirsey names are given as a matter of reference as conversion between Socionics and MBTI introverts is not possible (see the next chapter),  
 \* - champion is in a sense of a proponent.
 
+Names mapping between Socionics and Keirsey is done by traits axes instead of cognitive functions stack as it's the only scientifically backed part of Jungian typologies. Rational behaviour is mapped with Judging behaviour, Irrational behaviour is mapped with Perceiving behaviour.
+
+See how good introverts aling:
+
+* **Analyst**, **Scientist**, Mastermind,
+* **Inspector**, Trustee, **Inspector**,
+* **Guardian**, **Conservator**, **Protector**,
+* **Craftsman**, **Artisan**, **Crafter**,
+
+That indirectly supports the assumption that MBTI-Socionics mapping should be done by traits axes instead of cognitive functions stack.
+
 
 ## 6. On dichotomies, MBTI incompatibility, Big Five
 
