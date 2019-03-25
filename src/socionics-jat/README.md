@@ -130,24 +130,24 @@ Or if you want to use names that more explicitly differ from MBTI see this table
 
 Both translations and names were revised. Lytov's translation of Gulenko's names is the main translation used now.
 
-| ID | JATS¹   | Mnemonic              | Revised Gulenko's |  literal Gulenko, Keirsey-1984², Keirsey-2019³, Gulenko-Lytov          |
+| ID | JATS¹   | Mnemonic              | Revised Gulenko's |  literal Gulenko (Gulenko-Lytov), Keirsey³ (Keirsey-1984²) |
 | --:| ------- | ---------------------- | ---------------- |:-------------------------------------------------------:|
-|  1 | NeT    | The very first curious | **Inventor**     |                Seeker, Inventor, Inventor               |
-|  2 | TiN⁠-⁠INTJ | The second one curious | Analyst          |              Analyst, Scientist, Mastermind             |
-|  3 | SiF⁠-⁠ISFP | Three Musketeers Dumas | Mediator         |                Mediator, Artist, Composer               |
-|  4 | FeS    | Four elements          | **Enthusiast**   |          Enthusiast, Seller, Provider, Bonvivant        |
-|  5 | SeT    | The five senses        | **General**      |             Marshal, Promoter, Promoter, Commander      |
-|  6 | TiS⁠-⁠ISTJ | Has no sixth sense     | Inspector        |              Inspector, Trustee, Inspector              |
-|  7 | NiF⁠-⁠INFP | Seven Sins / Wonders   | **Poet**         |               Lyricist, Questor, Healer                 |
-|  8 | FeN    | Eight-bit              | **Inspirer**     |               Mentor, Pedagogue, Teacher                |
-|  9 | SeF    | Nine lives of a cat    | Politician       |           Politician, Entertainer, Performer            |
-| 10 | FiS⁠-⁠ISFJ | Proper as a dozen      | Guardian         |            Guardian, Conservator, Protector             |
-| 11 | NiT⁠-⁠INTP | 11 football players    | **Foreseer**   |              Critic, Architect, Architect               |
-| 12 | TeN    | 12 hours, dozen        | **Entrepreneur** | Entrepreneur, Field Marshall, Fieldmarshal, Enterpriser |
-| 13 | NeF    | Devil's/Baker's dozen  | **Journalist**   |    Advise-giver, Journalist, Champion\*, Psychologist   |
-| 14 | FiN⁠-⁠INFJ | Twice sinful as 7 type | Humanist         |                Humanist, Author, Counselor              |
-| 15 | SiT⁠-⁠ISTP | Finishes the job too   | Craftsman        |                Craftsman, Artisan, Crafter              |
-| 16 | TeS    | Finishes the job       | Administrator    |         Administrator, Administrator, Supervisor        |
+|  1 | NeT    | The very first curious | **Inventor**     |                Seeker, Inventor               |
+|  2 | TiN⁠-⁠INTJ | The second one curious | Analyst          |              Analyst, Mastermind (Scientist)            |
+|  3 | SiF⁠-⁠ISFP | Three Musketeers Dumas | Mediator         |                Mediator, Composer (Artist)               |
+|  4 | FeS    | Four elements          | **Enthusiast**   |          Enthusiast (Bonvivant), Provider (Seller)        |
+|  5 | SeT    | The five senses        | **General**      |             Marshal (Commander), Promoter      |
+|  6 | TiS⁠-⁠ISTJ | Has no sixth sense     | Inspector        |              Inspector, Inspector (Trustee)              |
+|  7 | NiF⁠-⁠INFP | Seven Sins / Wonders   | **Poet**         |               Lyricist, Healer (Questor)                 |
+|  8 | FeN    | Eight-bit              | **Inspirer**     |               Mentor, Teacher (Pedagogue)                |
+|  9 | SeF    | Nine lives of a cat    | Politician       |           Politician, Performer (Entertainer)            |
+| 10 | FiS⁠-⁠ISFJ | Proper as a dozen      | Guardian         |            Guardian, Protector (Conservator)             |
+| 11 | NiT⁠-⁠INTP | 11 football players    | **Foreseer**   |              Critic, Architect               |
+| 12 | TeN    | 12 hours, dozen        | **Entrepreneur** | Entrepreneur (Enterpriser), Fieldmarshal |
+| 13 | NeF    | Devil's/Baker's dozen  | **Journalist**   |    Advise-giver (Psychologist), Champion\* (Journalist)   |
+| 14 | FiN⁠-⁠INFJ | Twice sinful as 7 type | Humanist         |                Humanist, Counselor (Author)              |
+| 15 | SiT⁠-⁠ISTP | Finishes the job too   | Craftsman        |                Craftsman, Crafter (Artisan)              |
+| 16 | TeS    | Finishes the job       | Administrator    |         Administrator, Supervisor (Administrator)        |
 
 ¹JATS - Jung-Augustinavichiute-Talanov Socionics,  
 ² David Keirsey, Marilyn Bates, *Please understand Me, Character and Temperament Types*, 1984,  
@@ -156,10 +156,10 @@ Both translations and names were revised. Lytov's translation of Gulenko's names
 
 Names mapping between Socionics and Keirsey is done by traits axes instead of cognitive functions stack as it's the only scientifically backed part of Jungian typologies. Rational behaviour is mapped with Judging behaviour, Irrational behaviour is mapped with Perceiving behaviour. See how good introverts aling:
 
-* **Analyst**, **Scientist**, Mastermind,
-* **Inspector**, Trustee, **Inspector**,
-* **Guardian**, **Conservator**, **Protector**,
-* **Craftsman**, **Artisan**, **Crafter**,
+* **Analyst**, Mastermind (**Scientist**),
+* Inspector**, Inspector (Trustee),
+* Guardian**, Protector (Conservator),
+* Craftsman**, Crafter (Artisan),
 
 That indirectly supports the assumption that MBTI-Socionics mapping should be done by traits axes instead of cognitive functions stack.
 
