@@ -130,7 +130,7 @@ Or if you want to use names that more explicitly differ from MBTI see this table
 
 Both translations and names were revised. Lytov's translation of Gulenko's names is the main translation used now.
 
-| ID | JATS¹   | Mnemonic              | Revised Gulenko's |  literal Gulenko, Keirsey-1984², Keirsey-2019², Gulenko-Lytov          |
+| ID | JATS¹   | Mnemonic              | Revised Gulenko's |  literal Gulenko, Keirsey-1984², Keirsey-2019³, Gulenko-Lytov          |
 | --:| ------- | ---------------------- | ---------------- |:-------------------------------------------------------:|
 |  1 | NeT    | The very first curious | **Inventor**     |                Seeker, Inventor, Inventor               |
 |  2 | TiN⁠-⁠INTJ | The second one curious | Analyst          |              Analyst, Scientist, Mastermind             |
@@ -150,7 +150,8 @@ Both translations and names were revised. Lytov's translation of Gulenko's names
 | 16 | TeS    | Finishes the job       | Administrator    |         Administrator, Administrator, Supervisor        |
 
 ¹JATS - Jung-Augustinavichiute-Talanov Socionics,  
-² Mind that Keirsey names are given as a matter of reference as conversion between Socionics and MBTI introverts is not possible (see the next chapter).  
+² David Keirsey, Marilyn Bates, *Please understand Me, Character and Temperament Types*, 1984,  
+²,³ Mind that Keirsey names are given as a matter of reference as conversion between Socionics and MBTI introverts is not possible (see the next chapter),  
 \* - champion is in a sense of a proponent.
 
 
