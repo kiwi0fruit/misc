@@ -128,7 +128,7 @@ Or if you want to use names that more explicitly differ from MBTI see this table
 
 ### 5. Revised Gulenko's names for types. 1-16 numbers as names for types with mnemonics
 
-Both translations and names were revised. Lytov's translation of Gulenko's names are the main translation used.
+Both translations and names were revised. Lytov's translation of Gulenko's names is the main translation used now.
 
 | ID | JATS¹   | Mnemonic              | Revised Gulenko's |  literal Gulenko, MBTI², Keirsey², Gulenko-Lytov          |
 | --:| ------- | ---------------------- | ---------------- |:-------------------------------------------------------:|
