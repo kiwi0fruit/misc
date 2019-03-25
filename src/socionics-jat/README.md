@@ -157,9 +157,9 @@ Both translations and names were revised. Lytov's translation of Gulenko's names
 Names mapping between Socionics and Keirsey is done by traits axes instead of cognitive functions stack as it's the only scientifically backed part of Jungian typologies. Rational behaviour is mapped with Judging behaviour, Irrational behaviour is mapped with Perceiving behaviour. See how good introverts aling:
 
 * **Analyst**, Mastermind (**Scientist**),
-* Inspector**, Inspector (Trustee),
-* Guardian**, Protector (Conservator),
-* Craftsman**, Crafter (Artisan),
+* Inspector, Inspector (Trustee),
+* Guardian, Protector (Conservator),
+* Craftsman, Crafter (Artisan),
 
 That indirectly supports the assumption that MBTI-Socionics mapping should be done by traits axes instead of cognitive functions stack.
 
