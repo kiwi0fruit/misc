@@ -11,9 +11,10 @@ This is an alternative translation of one of the braches of Socionics to English
 * [4. Socionics reference types names vs. MBTI types names](#4-socionics-reference-types-names-vs-mbti-types-names)
 * [5. Revised Gulenko's names for types. 1-16 numbers as names for types with mnemonics](#5-revised-gulenkos-names-for-types-1-16-numbers-as-names-for-types-with-mnemonics)
 * [6. On dichotomies, MBTI incompatibility, Big Five](#6-on-dichotomies-mbti-incompatibility-big-five)
-* [7. Quadras and functions. Why quadras grouped this way? Pacific vs. resolute types](#7-quadras-and-functions-why-quadras-grouped-this-way-pacific-vs-resolute-types)
-* [8. Intermediate and unknown types names](#8-intermediate-and-unknown-types-names)
-* [9. Further reading: The framework of the typology of Jung-Augustinavichyute (Socionics Framework)](#9-further-reading-the-framework-of-the-typology-of-jung-augustinavichyute-socionics-framework)
+* [7. Model A](#7-model-a)
+* [8. Quadras and functions. Why quadras grouped this way? Pacific vs. resolute types](#7-quadras-and-functions-why-quadras-grouped-this-way-pacific-vs-resolute-types)
+* [9. Intermediate and unknown types names](#8-intermediate-and-unknown-types-names)
+* [10. Further reading: The framework of the typology of Jung-Augustinavichyute (Socionics Framework)](#9-further-reading-the-framework-of-the-typology-of-jung-augustinavichyute-socionics-framework)
 
 
 ## Summary
@@ -28,7 +29,8 @@ This is an alternative translation of one of the braches of Socionics to English
 8. Concise names for **intermediate and unknown types** were proposed. The names extend MBTI types names. **1-16 numbers as names** for reference types were proposed for unknown and mixed types notation and speech (+ mnemonics). Examples: **xNTx<1,2>, uNTu(1~2)** that are unknown and mixed types from NeT and TiN-INTJ (u stands for μ that stands for mean).
 9. Some differences between **types** in classical Socionics and **reference types** in Jung-Augustinavichiute-Talanov Socionics are outlined. Some differences between **information aspects** in classical socionics and Jung-Augustinavichiute-Talanov **cognitive functions** are outlined.
 10. Revised **Gulenko's names** for types were proposed (both translations and **names** were revised). **Inventor** for NeT, Enthusiast for FeS, General for SeT, Poet for NiF-INFP, **Inspirer** for FeN, **Foreseer** for NiT-INTP, Entrepreneur for TeN, **Journalist** for NeF.
-11. Further reading: [The framework of the typology of Jung-Augustinavichyute (Socionics Framework)](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fgithub.com%2Fkiwi0fruit%2Fmisc%2Ftree%2Fmaster%2Fsrc%2Fsocionics-rus).
+11. The set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functions is given. Together hypotheses give Model A as consequences.
+12. Further reading: [The framework of the typology of Jung-Augustinavichyute (Socionics Framework)](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fgithub.com%2Fkiwi0fruit%2Fmisc%2Ftree%2Fmaster%2Fsrc%2Fsocionics-rus).
 
 
 ## 1. Jung-Augustinavichiute-Talanov cognitive functions
@@ -184,7 +186,54 @@ So if we are talking about type of particular person not about reference types t
 ***Explicit notation*** for Socionics types are **INTJ-Ti-dom.** and **INTP-Ni-dom.** **J**/**P** in Socionics mean the same as in MBTI and Big Five (high/low conscientiousness). Same is for E/I, N/S, T/F. And **dom.** is a dominant function as Jung meant it. The rule is simple: judging type has a judging dominant function (perceiving type -> perceiving dominant function). Introverted type has an introverted dominant function (extraverted type -> extraverted dominant function). And this notation explicitly reminds about it.
 
 
-## 7. Quadras and functions. Why quadras grouped this way? Pacific vs. resolute types
+## 7. Model A
+
+There is a set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functions that together give Model A as consequences. Worth mentioning that decomposition to separate hypotheses were done by me and it gave rise to a pair of new assumptions.
+
+|       |    |      | |       |    |      | |        |        |           |
+|-------|----|------|-|-------|----|------|-|--------|--------|-----------|
+| **1** | Ne | EP¹² | | **2** | Ti | IJ³⁴ | | strong | mental | valuable  |
+| **4** | Fi | IJ³⁴ | | **3** | Se | EP¹² | | weak   | mental | repressed |
+| **5** | Si | IP³² | | **6** | Fe | EJ¹⁴ | | weak   | vital  | valuable  |
+| **8** | Te | EJ¹⁴ | | **7** | Ni | IP³² | | strong | vital  | repressed |
+
+² pro-nality functions: 1, 3, 5, 7. For judging types that's judging functions. For perceiving types that's perceiving functions,   
+⁴ anti-nality functions: 2, 4, 6, 8. For judging types that's perceiving functions. For perceiving types that's judging functions,   
+¹ pro-vert functions: 1, 3, 6, 8. For extraverts that's introvert functions. For introverts that's extravert functions,   
+³ anti-vert functions: 2, 4, 5, 7. For introverts that's extravert functions. For extraverts that's introvert functions.
+
+Functions numbers given are standard numbers from [Wikipedia](https://en.wikipedia.org/wiki/Socionics#Model_A).
+
+#### Set of hypotheses:
+
+* **H1 [8CF]** We can allocate **8** JAT **cognitive functions** in the human psyche. They are defined descriptively by researchers as the basis for observations. See [Section 1](#1-jung-augustinavichiute-talanov-cognitive-functions) for details.
+* **H2 [strong]** There are **strong** and **weak** functions. Either Ne and Ni are strong and Se and Si are weak or Se and Si are strong and Ne and Ni are weak. Independently either Te and Ti are strong and Fe and Fi are weak or Fe and Fi are strong and Te and Ti are weak.
+* **H3 [dominant]** There is a dominant “first” function that stands out and becomes the strongest and the main “conductor of the orchestra”.
+* **H4 [PeJi-PiJe]** Functions form pairs to think well-consciously about something (the most productive way of thinking). That's pairs of opposite functions: extraverted + introverted, judging + perceiving (just like 1st and 2nd functions pair).
+* **H5 [PeJe-PiJi]** Functions also form pairs when one function support another (that is they together perform some task but one of them acts only as support for solving the task of another function). But in this case it's not like that well-conscious thinking in H4. It's pairs of same-verted (extravert + extravert or introvert + introvert) but judging + perceiving functions (just like 1st and 8th functions pair).
+* **H6 [most-inferior]** Weak function of the same-nality but anti-verted as dominant function (perceiving if 1st is perceiving, judging if 1st is judging, extraverted if 1st is introverted, introverted if 1st is extraverted) becomes the most inferior function (to the point of not controlling it so it has its own motivation and becomes valuable function). That's the 5th function.
+* **H7 [EI]** Extraversion is a general property of a person manifested in the fact that extroverted functions are stronger than their introverted counterparts (Ne is stronger than Ni, Se > Si, Te > Ti, Fe > Fi). Similarly for introversion (Ni > Ne, Si > Se, Ti > Te, Fi > Fe). This is not just the dominance of the 1st function and the manifestation of its properties by type most clearly and vividly. This attitude is of a general nature, i.e. it affects all functions of the type. The state of immersion in oneself for an introvert is more natural than the state of immersion in the external world (for an extrovert it's the opposite). And if some state is more natural then it is easier for a person. It happens more often and manifests itself brighter and stronger.
+* **H8 [PJ]** Judging or Perceiving is a general property of a person manifested in the choice between greater control of behavior with focusing on stability and planning or preferring improvisation, impulsive behavior and spontaneity.
+* **H9 [auxilary]** There are two same-named auxilary functions (“2nd” and “8th”) that stand out as the dominant function assistants (they are the second in strength after the dominant). Same named means they are both intuitive or both sensory or both task-oriented or both feelings-oriented.
+
+
+#### Hypothesis consequences:
+
+* **C8 [strong-weak]** H3 [dominant], H9 [auxilary], H2 [strong] → 1, 2, 7, 8 are strong functions and 3, 4, 5, 6 are weak functions.
+  * Strong functions think and solve their tasks competently, efficiently, confidently, quickly, easily. In contrast, weak functions tend to be less competent, work slowly, uncertainly, and require much more effort. [There is an opinion] (http://socionica74.narod.ru/about4.html) that strong functions are more robust, i.e. able to work longer at the same level of quality without overexertion, and that strong functions are “resistant to interference,” that is, they are able to ignore distracting and interfering factors in their work, to work effectively in spite of them. Weak functions are not durable and not resistant to interference. It is best to compare the functions of one person.
+* **C9 [mental-vital]** H3 [dominant], H4 [PeJi-PiJe], H5 [PeJe-PiJi] → 1, 2, 3, 4 are mental functions and 5, 6, 7, 8 are vital functions.
+  * Mental functions are characterized by the fact that the overwhelming majority of the time type reflects and ponders using these functions. Well aware of such thoughts and reflections. The work of vital functions happens most of the time as if by itself. These functions regularly work as if automatically, notice something, process something and provide the result of their work to mental functions, but the process of their work is not in the focus of attention. If you ask to consciously think with the help of vital functions, the consciousness will try to get away from this activity, go to thinking with the help of mental functions.
+* **C1 [12-valuable-34-repressed]** H3 [dominant], H9 [auxilary], H2 [strong], H4 [PeJi-PiJe] → 1, 2 are valuable functions, 3, 4 are not valuable (repressed) functions (1-2 pair shadows 3-4 pair),
+  * The work of valuable functions and its nuances are important for the type, they are interesting, type can listen and talk on these topics with pleasure. Valuable functions provide an active exchange of information between people, what is associated with the work of these functions is easily discussed. The work of repressed functions is what the type considers in life not the most important, something that can be neglected, something that makes sense only as an addition to valuable functions. As a rule, the discussion of the work of these functions is not interesting and does not give pleasure (but there are exceptions), it is preferred to help each other without further ado. The type in most cases limits the activity of the repressed functions to the needs of valuable ones (that mostly 1st and 2nd functions), the demands of society or circumstances.
+* **С2 [valuable_1>2_4>3]** H3 [dominant], H4 [PeJi-PiJe], C1 [12-valuable-34-repressed] → 1 is more valuable than 2, and 3 is more repressed than 4 (because 1-4 pair is still a subject of H4 [PeJi-PiJe]).
+* **C3 [78-repressed]** H3 [dominant], H9 [auxilary], H2 [strong], H4 [PeJi-PiJe], H5 [PeJe-PiJi] → 7 and 8 functions are repressed (7, 8 functions only assist 1, 2 strong functions that work in mental pair).
+* **С4 [7-repressed-more-than-8]** H3 [dominant], H5 [PeJe-PiJi], C3 [78-repressed] → 7 function is more repressed than 8 function.
+* **С5 [56-valuable]** H6 [most-inferior] means that 5 is a valuable function. I guess this somehow leads to 6 also being valuable function.
+* **С6 [pro-vert-anti-vert]** H2 [strong], H7 [EI] → puts additional constraints to functions strengths 1>7, 8>2, 3>5, 6>4 and 1,2,7,8 > 3,4,5,6 where “>” means “stronger”. Let's call them pro-vert vs. anti-vert functions for now.
+* **С7 [pro-nality-anti-nality]** H3 [dominant], H6 [most-inferior], H8 [PJ], С5 [56-valuable] → 1 and 5 functions set long-term life goals of a person, and 2 and 6 do not. This give rise to a hypothesis that 3 and 7 functions can be superior to 4 and 8 functions in context of goals. But that's a speculation only.
+
+
+## 8. Quadras and functions. Why quadras grouped this way? Pacific vs. resolute types
 
 Socionics **quadras** split 16 types to 4 groups. Each group has **EP** type with a dominant extraverted perceiving function, **IJ** type with a dominant introverted judging function, **EJ** type with a dominant extraverted judging function and **IP** type with a dominant introverted perceiving function.
 
@@ -234,7 +283,7 @@ So the functions the type values most are dominant, auxiliary and the most infer
 So this can be seen that these 4 types has the same 4 most valued functions.
 
 
-## 8. Intermediate and unknown types names
+## 9. Intermediate and unknown types names
 
 1. Names for truly **intermediate types** are proposed. Names for unknown types like ExTJ are common (this can be ENTJ, ESTJ or intermediate type, we do not know which one exactly). Similarly EμTJ/EuTJ (like μTorrent/uTorrent) is the name for truly intermediate type. **μ** is the standard symbol that denotes mean value (capital is M - Mu). We also automatically get **explicit notation** like IxTJ-Ti-dom. The existence of intermediate types is still an open question. It's easy to imagine intermediate type between types with the same dominant function but not with different oneS
 2. Below are some examples of short names for types, unknown types and intermediate/mixed types. The 4 letter code at the beginning shows the position on 4 axes that can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part shows cognitive functions stack. I guess it may even be possible to have **ENTJ-Ne-dom.** if the person is a mixture equally of ENTP-Ne-dom., ENTJ-Te-dom. and INTJ-Ti-dom.: ENTJ(1\~2~12). But at the moment it's a speculation only.
@@ -261,7 +310,7 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 | IxTx<2,6,11,15>            | INTJ-Ti-dom. v ISTJ-Ti-dom. v INTP-Ni-dom. v ISTP-Si-dom. v IuTJ-Ti-dom. v ... | ? |
 
 
-## 9. Further reading: The framework of the typology of Jung-Augustinavichyute (Socionics Framework)
+## 10. Further reading: The framework of the typology of Jung-Augustinavichyute (Socionics Framework)
 
 [The framework of the typology of Jung-Augustinavichyute (Socionics Framework)](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fgithub.com%2Fkiwi0fruit%2Fmisc%2Ftree%2Fmaster%2Fsrc%2Fsocionics-rus) ([original text in Russian](../socionics-rus))
 
