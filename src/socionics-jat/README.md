@@ -81,8 +81,8 @@ Names are in the following order:
 
 In my translation of socionics types names to English the 4 letter code shows the position on 4 axes that can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part after hyphen (if needed) shows cognitive functions stack. MBTI does not have counterpart types for introverts. For example the closest counterpart for INTJ-Ti-dom. is INTx that is one of two types INTJ/INTP (or their mixture).
 
-| quadra | EP       | IJ          | IP          | EJ       |
-|:-------|:--------:|:-----------:|:-----------:|:--------:|
+| quadra | EP      | IJ           | IP           | EJ      |
+|:-------|:-------:|:------------:|:------------:|:-------:|
 | alpha  | **ENTP⁠-⁠Ne-dom.**  ILE  ENTP  **1**  | **INTJ⁠-⁠Ti-dom.**  LII  INTx  **2**  | **ISFP⁠-⁠Si-dom.**  SEI  ISFx  **3**  | **ESFJ⁠-⁠Fe-dom.**  ESE  ESFJ  **4**  |
 |        | **NeT** | **TiN-INTJ** | **SiF-ISFP** | **FeS** |
 | beta   | **ESTP⁠-⁠Se-dom.**  SLE  ESTP  **5**  | **ISTJ⁠-⁠Ti-dom.**  LSI  ISTx  **6**  | **INFP⁠-⁠Ni-dom.**  IEI  INFx  **7**  | **ENFJ⁠-⁠Fe-dom.**  EIE  ENFJ  **8**  |
@@ -190,25 +190,25 @@ Socionics **quadras** split 16 types to 4 groups. Each group has **EP** type wit
 
 Dominant function in Socionics is called **1st** function. And Socionics splits Jung's auxilary function to **2nd** function and **8th** function. If the 1st function is extraverted then the 2nd is introverted and the 8th is extraverted. And vice versa. In case of INTJ-Ti-dom. it would be 1Ti2Ne8Ni. 1st, 2nd and 8th functions are the most important from the point of view of the type’s social activities (and are the reference type's strongest functions). And may be also they are the most important from the point of view of the type’s self-identification. 2nd and 8th functions both are like auxilary function as Jung meant it. But only 1st and 2nd are valuable functions.
 
-| **Quadra**    | **EP** | **IJ** | **IP** | **EJ** |
-|:--------------|:-------|:-------|:-------|:-------|
+| **Quadra**    | **EP**  | **IJ**       | **IP**       | **EJ**  |
+|:--------------|:--------|:-------------|:-------------|:--------|
 | α alpha **A** | ENTP(NeT) ENTP(1Ne2Ti8Te) | INTJ(TiN) INTJ(1Ti2Ne8Ni) | ISFP(SiF) ISFP(1Si2Fe8Fi) | ESFJ(FeS) ESFJ(1Fe2Si8Se) |
-| | **NeT** | **TiN-INTJ** | **SiF-ISFP** | **FeS** |
+|               | **NeT** | **TiN-INTJ** | **SiF-ISFP** | **FeS** |
 | β beta **B**  | ESTP(SeT) ESTP(1Se2Ti8Te) | ISTJ(TiS) ISTJ(1Ti2Se8Si) | INFP(NiF) INFP(1Ni2Fe8Fi) | ENFJ(FeN) ENFJ(1Fe2Ni8Ne) |
-| | **SeT** | **TiS-ISTJ** | **NiF-INFP** | **FeN** |
+|               | **SeT** | **TiS-ISTJ** | **NiF-INFP** | **FeN** |
 | γ gamma **G** | ESFP(SeF) ESFP(1Se2Fi8Fe) | ISFJ(FiS) ISFJ(1Fi2Se8Si) | INTP(NiT) INTP(1Ni2Te8Ti) | ENTJ(TeN) ENTJ(1Te2Ni8Ne) |
-| | **SeF** | **FiS-ISFJ** | **NiT-INTP** | **TeN** |
+|               | **SeF** | **FiS-ISFJ** | **NiT-INTP** | **TeN** |
 | δ delta **D** | ENFP(NeF) ENFP(1Ne2Fi8Fe) | INFJ(FiN) INFJ(1Fi2Ne8Ni) | ISTP(SiT) ISTP(1Si2Te8Ti) | ESTJ(TeS) ESTJ(1Te2Si8Se) |
-| | **NeF** | **FiN-INFJ** | **SiT-ISTP** | **TeS** |
+|               | **NeF** | **FiN-INFJ** | **SiT-ISTP** | **TeS** |
 
 One of the shortest notations is given as the last name. It's possible to drop postfix for introverts too but then it can easily be mistaken with wrong MBTI type. So it's recommend to be used only in explicit contexts.
 
 |            Quadras | 1st or 2nd function | Valuable functions | Adj.     | More fond of: |
 | ------------------:| ------------------- | ------------------ | -------- | ------------- |
-| alpha-delta **AD** | Ne or Si          | Ne and Si        | pacific  | cooperative, sensible, peaceful and leisurely unhurried ways |
-|  beta-gamma **BG** | Se or Ni          | Se and Ni        | resolute | competitive, argessive, time-bound and fast resolutive ways |
-|  alpha-beta **AB** | Fe or Ti          | Fe and Ti        |          |               |
-| gamma-delta **GD** | Te or Fi          | Te and Fi        |          |               |
+| alpha-delta **AD** | Ne or Si            | Ne and Si          | pacific  | cooperative, sensible, peaceful and leisurely unhurried ways |
+|  beta-gamma **BG** | Se or Ni            | Se and Ni          | resolute | competitive, argessive, time-bound and fast resolutive ways |
+|  alpha-beta **AB** | Fe or Ti            | Fe and Ti          |          |               |
+| gamma-delta **GD** | Te or Fi            | Te and Fi          |          |               |
 
 Examples:
 
