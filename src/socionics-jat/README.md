@@ -81,8 +81,8 @@ Names are in the following order:
 
 In my translation of socionics types names to English the 4 letter code shows the position on 4 axes that can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part after hyphen (if needed) shows cognitive functions stack. MBTI does not have counterpart types for introverts. For example the closest counterpart for INTiJ-Ti-dom. is INTx that is one of two types INTJ/INTP (or their mixture).
 
-| quadra | EP       | IJ          | IP          | EJ       |
-|:-------|:--------:|:-----------:|:-----------:|:--------:|
+| quadra | EP      | IJ            | IP            | EJ      |
+|:-------|:-------:|:-------------:|:-------------:|:-------:|
 | alpha  | **ENeTP⁠-⁠Ne-dom.**  ILE  ENTP  **1**  | **INTiJ⁠-⁠Ti-dom.**  LII  INTx  **2**  | **ISiFP⁠-⁠Si-dom.**  SEI  ISFx  **3**  | **ESFeJ⁠-⁠Fe-dom.**  ESE  ESFJ  **4**  |
 |        | **NeT** | **TiN-INTiJ** | **SiF-ISiFP** | **FeS** |
 | beta   | **ESeTP⁠-⁠Se-dom.**  SLE  ESTP  **5**  | **ISTiJ⁠-⁠Ti-dom.**  LSI  ISTx  **6**  | **INiFP⁠-⁠Ni-dom.**  IEI  INFx  **7**  | **ENFeJ⁠-⁠Fe-dom.**  EIE  ENFJ  **8**  |
@@ -110,20 +110,20 @@ Though I'm not fond of using neither feelers nor tentacles. Neither sensors nor 
 
 Or if you want to use names that more explicitly differ from MBTI see this table:
 
-| quadra    |    EP    |     IJ      |     IP      |    EJ    |
-|:--------- |:--------:|:-----------:|:-----------:|:--------:|
-| **alpha** | **NeT** | **TiN-INTiJ** | **SiF-ISiFP** | **FeS** |
+| quadra    |    EP   |       IJ         |       IP         |    EJ   |
+|:--------- |:-------:|:----------------:|:----------------:|:-------:|
+| **alpha** | **NeT** | **TiN-INTiJ**    | **SiF-ISiFP**    | **FeS** |
 | meaning   | dominant extraverted intuiter & perceiving tasker | dominant introverted tasker & judging intuiter | dominant introverted sensor & perceiving feeler   | dominant extraverted feeler & judging sensor   |
-| pronounce | N.E.T. | T.I.N.I.N.T.I.J. | S.I.F.I.S.I.F.P. | F.E.S. |
+| pronounce | N.E.T.  | T.I.N.I.N.T.I.J. | S.I.F.I.S.I.F.P. | F.E.S.  |
 | **beta**  | **SeT** | **TiS-ISTiJ** | **NiF-INiFP** | **FeN** |
 | meaning   | dominant extraverted sensor & perceiving tasker   | dominant introverted tasker & judging sensor   | dominant introverted intuiter & perceiving feeler | dominant extraverted feeler & judging intuiter |
-| pronounce | S.E.T. | T.I.S.I.S.T.I.J. | N.I.F.I.N.I.F.P. | F.E.N. |
-| **gamma** | **SeF** | **FiS-ISFiJ** | **NiT-INiTP** | **TeN** |
+| pronounce | S.E.T.  | T.I.S.I.S.T.I.J. | N.I.F.I.N.I.F.P. | F.E.N.  |
+| **gamma** | **SeF** | **FiS-ISFiJ**    | **NiT-INiTP**    | **TeN** |
 | meaning   | dominant extraverted sensor & perceiving feeler   | dominant introverted feeler & judging sensor   | dominant introverted intuiter & perceiving tasker | dominant extraverted tasker & judging intuiter |
-| pronounce | S.E.F. | F.I.S.I.S.F.I.J. | N.I.T.I.N I.T.P. | T.E.N. |
-| **delta** | **NeF** | **FiN-INFiJ** | **SiT-ISiTP** | **TeS** |
+| pronounce | S.E.F.  | F.I.S.I.S.F.I.J. | N.I.T.I.N I.T.P. | T.E.N.  |
+| **delta** | **NeF** | **FiN-INFiJ**    | **SiT-ISiTP**    | **TeS** |
 | meaning   | dominant extraverted intuiter & perceiving feeler | dominant introverted feeler & judging intuiter | dominant introverted sensor & perceiving tasker   | dominant extraverted tasker & judging sensor   |
-| pronounce | N.E.F. | F.I.N.I.N.F.I.J. | S.I.T.I.S.I.T.P. | T.E.S. |
+| pronounce | N.E.F.  | F.I.N.I.N.F.I.J. | S.I.T.I.S.I.T.P. | T.E.S.  |
 
 
 ### 5. Revised Gulenko's names for types. 1-16 numbers as names for types with mnemonics
