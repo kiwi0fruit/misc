@@ -130,24 +130,24 @@ Or if you want to use names that more explicitly differ from MBTI see this table
 
 Both translations and names were revised. Lytov's translation of Gulenko's names is the main translation used now.
 
-| ID | JATS¹   | Mnemonic              | Revised Gulenko's |  literal Gulenko (Gulenko-Lytov), Keirsey³ (Keirsey-1984²) |
-| --:| ------- | ---------------------- | ---------------- |:-------------------------------------------------------:|
-|  1 | NeT    | The very first curious | **Inventor**     |                Seeker, Inventor               |
-|  2 | TiN⁠-⁠INTiJ | The second one curious | Analyst          |              Analyst, Mastermind (Scientist)            |
-|  3 | SiF⁠-⁠ISiFP | Three Musketeers Dumas | Mediator         |                Mediator, Composer (Artist)               |
-|  4 | FeS    | Four elements          | **Enthusiast**   |          Enthusiast (Bonvivant), Provider (Seller)        |
-|  5 | SeT    | The five senses        | **General**      |             Marshal (Commander), Promoter      |
-|  6 | TiS⁠-⁠ISTiJ | Has no sixth sense     | Inspector        |              Inspector, Inspector (Trustee)              |
-|  7 | NiF⁠-⁠INiFP | Seven Sins / Wonders   | **Poet**         |               Lyricist, Healer (Questor)                 |
-|  8 | FeN    | Eight-bit              | **Inspirer**     |               Mentor, Teacher (Pedagogue)                |
-|  9 | SeF    | Nine lives of a cat    | Politician       |           Politician, Performer (Entertainer)            |
-| 10 | FiS⁠-⁠ISFiJ | Proper as a dozen      | Guardian         |            Guardian, Protector (Conservator)             |
-| 11 | NiT⁠-⁠INiTP | 11 football players    | **Foreseer**   |              Critic, Architect               |
-| 12 | TeN    | 12 hours, dozen        | **Entrepreneur** | Entrepreneur (Enterpriser), Fieldmarshal |
-| 13 | NeF    | Devil's/Baker's dozen  | **Journalist**   |    Advise-giver (Psychologist), Champion\* (Journalist)   |
-| 14 | FiN⁠-⁠INFiJ | Twice sinful as 7 type | Humanist         |                Humanist, Counselor (Author)              |
-| 15 | SiT⁠-⁠ISiTP | Finishes the job too   | Craftsman        |                Craftsman, Crafter (Artisan)              |
-| 16 | TeS    | Finishes the job       | Administrator    |         Administrator, Supervisor (Administrator)        |
+| ID | JATS¹     | Mnemonic              | Revised Gulenko's | Literal Gulenko (Gulenko-Lytov), Keirsey³ (Keirsey-1984²) |
+| --:| --------- | ---------------------- | ---------------- |:---------------------------------:|
+|  1 | NeT       | The very first curious | **Inventor**     | Seeker, Inventor                  |
+|  2 | TiN⁠-⁠INTiJ | The second one curious | Analyst          | Analyst, Mastermind (Scientist)   |
+|  3 | SiF⁠-⁠ISiFP | Three Musketeers Dumas | Mediator         | Mediator, Composer (Artist)       |
+|  4 | FeS       | Four elements          | **Enthusiast**   | Enthusiast (Bonvivant), Provider (Seller) |
+|  5 | SeT       | The five senses        | **General**      | Marshal (Commander), Promoter     |
+|  6 | TiS⁠-⁠ISTiJ | Has no sixth sense     | Inspector        | Inspector, Inspector (Trustee)    |
+|  7 | NiF⁠-⁠INiFP | Seven Sins / Wonders   | **Poet**         | Lyricist, Healer (Questor)        |
+|  8 | FeN       | Eight-bit              | **Inspirer**     | Mentor, Teacher (Pedagogue)       |
+|  9 | SeF       | Nine lives of a cat    | Politician       | Politician, Performer (Entertainer) |
+| 10 | FiS⁠-⁠ISFiJ | Proper as a dozen      | Guardian         | Guardian, Protector (Conservator) |
+| 11 | NiT⁠-⁠INiTP | 11 football players    | **Foreseer**     | Critic, Architect                 |
+| 12 | TeN       | 12 hours, dozen        | **Entrepreneur** | Entrepreneur (Enterpriser), Fieldmarshal |
+| 13 | NeF       | Devil's/Baker's dozen  | **Journalist**   | Advise-giver (Psychologist), Champion\* (Journalist) |
+| 14 | FiN⁠-⁠INFiJ | Twice sinful as 7 type | Humanist         | Humanist, Counselor (Author)      |
+| 15 | SiT⁠-⁠ISiTP | Finishes the job too   | Craftsman        | Craftsman, Crafter (Artisan)      |
+| 16 | TeS       | Finishes the job       | Administrator    | Administrator, Supervisor (Administrator) |
 
 ¹JATS - Jung-Augustinavichiute-Talanov Socionics,  
 ² David Keirsey, Marilyn Bates, *Please understand Me, Character and Temperament Types*, 1984,  
@@ -190,25 +190,25 @@ Socionics **quadras** split 16 types to 4 groups. Each group has **EP** type wit
 
 Dominant function in Socionics is called **1st** function. And Socionics splits Jung's auxilary function to **2nd** function and **8th** function. If the 1st function is extraverted then the 2nd is introverted and the 8th is extraverted. And vice versa. In case of INTiJ-Ti-dom. it would be  1Ti2Ne8Ni. 1st, 2nd and 8th functions are the most important from the point of view of the type’s social activities (and are the reference type's strongest functions). And may be also they are the most important from the point of view of the type’s self-identification. 2nd and 8th functions both are like auxilary function as Jung meant it. But only 1st and 2nd are valuable functions.
 
-| **Quadra**    | **EP** | **IJ** | **IP** | **EJ** |
-|:--------------|:-------|:-------|:-------|:-------|
+| **Quadra**    | **EP**           | **IJ**           | **IP**           | **EJ**           |
+|:--------------|:-----------------|:-----------------|:-----------------|:-----------------|
 | α alpha **A** | ENeTP(1Ne2Ti8Te) | INTiJ(1Ti2Ne8Ni) | ISiFP(1Si2Fe8Fi) | ESFeJ(1Fe2Si8Se) |
-| | **NeT** | **TiN-INTiJ** | **SiF-ISiFP** | **FeS** |
+|               | **NeT**          | **TiN-INTiJ**    | **SiF-ISiFP**    | **FeS**          |
 | β beta **B**  | ESeTP(1Se2Ti8Te) | ISTiJ(1Ti2Se8Si) | INiFP(1Ni2Fe8Fi) | ENFeJ(1Fe2Ni8Ne) |
-| | **SeT** | **TiS-ISTiJ** | **NiF-INiFP** | **FeN** |
+|               | **SeT**          | **TiS-ISTiJ**    | **NiF-INiFP**    | **FeN**          |
 | γ gamma **G** | ESeFP(1Se2Fi8Fe) | ISFiJ(1Fi2Se8Si) | INiTP(1Ni2Te8Ti) | ENTeJ(1Te2Ni8Ne) |
-| | **SeF** | **FiS-ISFiJ** | **NiT-INiTP** | **TeN** |
+|               | **SeF**          | **FiS-ISFiJ**    | **NiT-INiTP**    | **TeN**          |
 | δ delta **D** | ENeFP(1Ne2Fi8Fe) | INFiJ(1Fi2Ne8Ni) | ISiTP(1Si2Te8Ti) | ESTeJ(1Te2Si8Se) |
-| | **NeF** | **FiN-INFiJ** | **SiT-ISiTP** | **TeS** |
+|               | **NeF**          | **FiN-INFiJ**    | **SiT-ISiTP**    | **TeS**          |
 
 One of the shortest notations is given as the last name. It's possible to drop postfix for introverts too but then it can easily be mistaken with wrong MBTI type. So it's recommend to be used only in explicit contexts.
 
 |            Quadras | 1st or 2nd function | Valuable functions | Adj.     | More fond of: |
 | ------------------:| ------------------- | ------------------ | -------- | ------------- |
-| alpha-delta **AD** | Ne or Si          | Ne and Si        | pacific  | cooperative, sensible, peaceful and leisurely unhurried ways |
-|  beta-gamma **BG** | Se or Ni          | Se and Ni        | resolute | competitive, argessive, time-bound and fast resolutive ways |
-|  alpha-beta **AB** | Fe or Ti          | Fe and Ti        |          |               |
-| gamma-delta **GD** | Te or Fi          | Te and Fi        |          |               |
+| alpha-delta **AD** | Ne or Si            | Ne and Si          | pacific  | cooperative, sensible, peaceful and leisurely unhurried ways |
+|  beta-gamma **BG** | Se or Ni            | Se and Ni          | resolute | competitive, argessive, time-bound and fast resolutive ways |
+|  alpha-beta **AB** | Fe or Ti            | Fe and Ti          |          |               |
+| gamma-delta **GD** | Te or Fi            | Te and Fi          |          |               |
 
 Examples:
 
@@ -236,7 +236,7 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 
 ## 8. Intermediate and unknown types names
 
-1. Names for truly **intermediate types** are proposed. Names for unknown types like ExTJ are common (this can be ENTJ, ESTJ or intermediate type, we do not know which one exactly). Similarly EμTJ/EuTJ (like μTorrent/uTorrent) is the name for truly intermediate type. **μ** is the standard symbol that denotes mean value (capital is M - Mu). We also automatically get **explicit notation** like IxTiJ-Ti-dom. The existence of intermediate types is still an open question. It's easy to imagine intermediate type between types with the same dominant function but not with different oneS
+1. Names for truly **intermediate types** are proposed. Names for unknown types like ExTJ are common (this can be ENTJ, ESTJ or intermediate type, we do not know which one exactly). Similarly EμTJ/EuTJ (like μTorrent/uTorrent) is the name for truly intermediate type. **μ** is the standard symbol that denotes mean value (capital is M - Mu). We also automatically get **explicit notation** like IxTJ-Ti-dom. The existence of intermediate types is still an open question. It's easy to imagine intermediate type between types with the same dominant function but not with different oneS
 2. Below are some examples of short names for types, unknown types and intermediate/mixed types. The 4 letter code at the beginning shows the position on 4 axes that can be measured by MBTI or Big Five tests (it's OK for J/P and conscientiousness). And the second part shows cognitive functions stack. I guess it may even be possible to have **ENeTJ-Ne-dom.** if the person is a mixture equally of ENeTP-Ne-dom., ENTeJ-Te-dom. and INTiJ-Ti-dom.: ENeTJ(1\~2~12). But at the moment it's a speculation only.
 3. Additional postfixes are needed when there should be noted that Socioics types and functions are meant (but not the MBTI types and functions). This is especially relevant for unknown types with **x** on J/P axis. For example **INTx<2,11>** = INTiJ-Ti-dom. or INiTP-Ni-dom. or INTu(2~11). But if we take MBTI types then **INTx** = INTP-Ti-dom. or INTJ-Ni-dom. or INTu.
 
@@ -245,7 +245,7 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 | ExTJ<12,16>                | ENTeJ-Te-dom. v ESTeJ-Te-dom. v EuTJ(12~16) v ... | EuTJ(12~16)    |
 | ENxJ<8,12>                 | ENTeJ-Te-dom. v ENFeJ-Fe-dom. v ENuJ(8~12) v ...  | ENuJ(8~12)     |
 | INTx<2,11>, INTx<2;11>     | INTiJ-Ti-dom. v INiTP-Ni-dom. v INTu(2~11) v ...  | INTu(2~11)     |
-| IxTJ<2,6>, IxTiJ-⁠Ti-dom.    | INTiJ-Ti-dom. v ISTiJ-Ti-dom. v IuTJ(2~6) v ...   | IuTJ(2~6)      |
+| IxTJ<2,6>, IxTJ-⁠Ti-dom.    | INTiJ-Ti-dom. v ISTiJ-Ti-dom. v IuTJ(2~6) v ...   | IuTJ(2~6)      |
 | xNTx<1,2>                  | ENeTP-Ne-dom. v INTiJ-Ti-dom. v uNTu(1~2) v ...   | uNTu(1~2)      |
 | xNTJ<2,12>                 | ENTeJ-Te-dom. v INTiJ-Ti-dom. v uNTJ(2~12) v ...  | uNTJ(2~12)     |
 | INxJ<2,14>                 | INTiJ-Ti-dom. v INFiJ-Fi-dom. v INuJ(2~14) v ...  | INuJ(2~14)     |
