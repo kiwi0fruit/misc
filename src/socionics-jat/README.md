@@ -188,6 +188,8 @@ So if we are talking about type of particular person not about reference types t
 
 ## 7. Model A
 
+*Note that this description is not affiliated with Talanov's Socionics.*
+
 A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functions that together give Model A as consequences is given below. Worth mentioning that decomposition to separate hypotheses were done by me and it gave rise to a pair of new assumptions. It could have been written better but it's merely a translation of my old texts.
 
 |       |    |      | |       |    |      | |        |        |           |
