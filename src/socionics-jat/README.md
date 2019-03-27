@@ -192,17 +192,17 @@ So if we are talking about type of particular person not about reference types t
 
 A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functions that together give Model A as consequences is given below. Worth mentioning that decomposition to separate hypotheses were done by me and it gave rise to a pair of new assumptions. It could have been written better but it's merely a translation of my old texts.
 
-|       |    |      |       |    |      |        |        |           |
-|-------|----|------|-------|----|------|--------|--------|-----------|
-| **1** | Ne | EP¹² | **2** | Ti | IJ³⁴ | strong | mental | valuable  |
-| **4** | Fi | IJ³⁴ | **3** | Se | EP¹² | weak   | mental | not valuable |
-| **5** | Si | IP³² | **6** | Fe | EJ¹⁴ | weak   | vital  | valuable  |
-| **8** | Te | EJ¹⁴ | **7** | Ni | IP³² | strong | vital  | not valuable |
+|            |            |        |        |              |
+|------------|------------|--------|--------|--------------|
+| 1 **Ne**\* | 2  *Ti*    | strong | mental | valuable     |
+| 4  *Fi*    | 3 **Se**\* | weak   | mental | not valuable |
+| 5  *Si*\*  | 6 **Fe**   | weak   | vital  | valuable     |
+| 8 **Te**   | 7  *Ni*\*  | strong | vital  | not valuable |
 
-² pronal functions: 1, 3, 5, 7. For judging types that's judging functions. For perceiving types that's perceiving functions,   
-⁴ antinal functions: 2, 4, 6, 8. For judging types that's perceiving functions. For perceiving types that's judging functions,   
-¹ proverted functions: 1, 3, 6, 8. For extraverts that's introvert functions. For introverts that's extravert functions,   
-³ antiverted functions: 2, 4, 5, 7. For introverts that's extravert functions. For extraverts that's introvert functions.
+* [\*-marked]  functions are **pronal** functions: 1, 3, 5, 7. For judging types that's judging functions. For perceiving types that's perceiving functions, 
+* [not \*-marked] functions are **antinal** functions: 2, 4, 6, 8. For judging types that's perceiving functions. For perceiving types that's judging functions,
+* [**bold**] functions (or having the same index as dominant function) are **proverted** functions: 1, 3, 6, 8. For extraverts that's extraverted functions. For introverts that's introverted functions,
+* [*italic*] functions (or having different index to dominant function) are **antiverted** functions: 2, 4, 5, 7. For introverts that's extraverted functions. For extraverts that's introverted functions.
 
 Functions numbers given are standard numbers from [Wikipedia](https://en.wikipedia.org/wiki/Socionics#Model_A).
 
