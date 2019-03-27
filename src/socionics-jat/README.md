@@ -192,7 +192,7 @@ So if we are talking about type of particular person not about reference types t
 
 A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functions that together give Model A as consequences is given below. Decomposition to separate hypotheses gave rise to a pair of new assumptions.
 
-|            |            | Strength | Conscious | Value   |
+| ENTP       |            | Strength | Conscious | Value   |
 |------------|------------|--------|--------|--------------|
 | **_1 Ne_** |    2 Ti    | strong | mental | valuable     |
 |    4 Fi    | **_3 Se_** | weak   | mental | not valuable |
