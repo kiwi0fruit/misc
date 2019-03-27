@@ -198,7 +198,7 @@ A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functio
 |    4 Fi    | **_3 Se_** | weak   | mental | not valuable |
 |   _5 Si_   |  **6 Fe**  | weak   | vital  | valuable     |
 |  **8 Te**  |   _7 Ni_   | strong | vital  | not valuable |
-|            |            | 1>8, 1>7, 8>2, 3>5, 6>4 |  | 1>2, 5>6, 4>3, 8>7 |
+|            |            | 1>8, 1>7, 8>2, 3>5, 6>4 |  | 1>2, 5>6, 4>3, 8>7, form long-term life goals: 1, 5 |
 
 * [*italic*]  functions are **pronal** functions: 1, 3, 5, 7.  
   For judging types that's judging functions. For perceiving types that's perceiving functions, 
