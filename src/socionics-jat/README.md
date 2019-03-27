@@ -194,15 +194,20 @@ A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functio
 
 |            |            |        |        |              |
 |------------|------------|--------|--------|--------------|
-| 1 **Ne**\* | 2  *Ti*    | strong | mental | valuable     |
-| 4  *Fi*    | 3 **Se**\* | weak   | mental | not valuable |
-| 5  *Si*\*  | 6 **Fe**   | weak   | vital  | valuable     |
-| 8 **Te**   | 7  *Ni*\*  | strong | vital  | not valuable |
+| 1 **_Ne_** | 2    Ti    | strong | mental | valuable     |
+| 4    Fi    | 3 **_Se_** | weak   | mental | not valuable |
+| 5   _Si_   | 6  **Fe**  | weak   | vital  | valuable     |
+| 8 **Te**   | 7   _Ni_   | strong | vital  | not valuable |
 
-* [\*-marked]  functions are **pronal** functions: 1, 3, 5, 7. For judging types that's judging functions. For perceiving types that's perceiving functions, 
-* [not \*-marked] functions are **antinal** functions: 2, 4, 6, 8. For judging types that's perceiving functions. For perceiving types that's judging functions,
-* [**bold**] functions (or having the same index as dominant function) are **proverted** functions: 1, 3, 6, 8. For extraverts that's extraverted functions. For introverts that's introverted functions,
-* [*italic*] functions (or having different index to dominant function) are **antiverted** functions: 2, 4, 5, 7. For introverts that's extraverted functions. For extraverts that's introverted functions.
+* [*italic*]  functions are **pronal** functions: 1, 3, 5, 7.  
+  For judging types that's judging functions. For perceiving types that's perceiving functions, 
+* [not italic] functions are **antinal** functions: 2, 4, 6, 8.  
+  For judging types that's perceiving functions. For perceiving types that's judging functions,
+* [**bold**] functions (or having the same index as dominant function) are **proverted** functions: 1, 3, 6, 8.  
+  For extraverts that's extraverted functions. For introverts that's introverted functions,
+* [not bold] functions (or having different index to dominant function) are **antiverted** functions: 2, 4, 5, 7.  
+  For introverts that's extraverted functions. For extraverts that's introverted functions.
+* italic and bold can be combined.
 
 Functions numbers given are standard numbers from [Wikipedia](https://en.wikipedia.org/wiki/Socionics#Model_A).
 
