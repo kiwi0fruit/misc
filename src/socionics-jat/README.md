@@ -198,7 +198,7 @@ A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functio
 |    4 Fi    | **_3 Se_** | weak   | mental | not valuable |
 |   _5 Si_   |  **6 Fe**  | weak   | vital  | valuable     |
 |  **8 Te**  |   _7 Ni_   | strong | vital  | not valuable |
-|            |            | 1>8, 1>7, 8>2, 3>5, 6>4 |  | 1>2, 5>6, 4>3, 8>7, form long-term life goals: 1, 5 |
+|            |   | 1>8>2,7>3,6>4,5 |        | 1>2; 5>6; 4>3; 8>7; form long-term life goals: 1, 5 |
 
 * functions numbers given are standard numbers from [Wikipedia](https://en.wikipedia.org/wiki/Socionics#Model_A).
 * **pronal** vs. **antinal** functions:
@@ -228,9 +228,12 @@ A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functio
 * **H4 [PeJi-PiJe]** Functions form pairs to think well-consciously about something (the most productive way of thinking). That's pairs of opposite functions: extraverted + introverted, judging + perceiving (just like 1st and 2nd functions pair).
 * **H5 [PeJe-PiJi]** Functions also form pairs when one function support another (that is they together perform some task but one of them acts only as support for solving the task of another function). But in this case it's not like that well-conscious thinking in H4. It's pairs of same-verted (extravert + extravert or introvert + introvert) but judging + perceiving functions (just like 1st and 8th functions pair).
 * **H6 [most-inferior]** Weak function that is pronal but antiverted to dominant function (perceiving if 1st is perceiving, judging if 1st is judging, extraverted if 1st is introverted, introverted if 1st is extraverted) becomes the most inferior function (to the point of not controlling it so it has its own motivation and becomes valuable function). That's the 5th function.
-* **H7 [EI]** Extraversion is a general property of a person manifested in the fact that extroverted functions are stronger than their introverted counterparts (Ne is stronger than Ni, Se > Si, Te > Ti, Fe > Fi). Similarly for introversion (Ni > Ne, Si > Se, Ti > Te, Fi > Fe). This is not just the dominance of the 1st function and the manifestation of its properties by type most clearly and vividly. This attitude is of a general nature, i.e. it affects all functions of the type. The state of immersion in oneself for an introvert is more natural than the state of immersion in the external world (for an extrovert it's the opposite). And if some state is more natural then it is easier for a person. It happens more often and manifests itself brighter and stronger.
+* **H7 [EI]** Extraversion is a general property of a person manifested in the fact that extroverted functions are stronger than their introverted counterparts (Ne is stronger than Ni; Se > Si; Te > Ti; Fe > Fi). Similarly for introversion (Ni > Ne; Si > Se; Ti > Te; Fi > Fe). This is not just the dominance of the 1st function and the manifestation of its properties by type most clearly and vividly. This attitude is of a general nature, i.e. it affects all functions of the type. The state of immersion in oneself for an introvert is more natural than the state of immersion in the external world (for an extrovert it's the opposite). And if some state is more natural then it is easier for a person. It happens more often and manifests itself brighter and stronger.
 * **H8 [PJ]** Judging or Perceiving is a general property of a person manifested in the choice between greater control of behavior with focusing on stability and planning or preferring improvisation, impulsive behavior and spontaneity.
 * **H9 [auxilary]** There are two same-named auxilary functions (“2nd” and “8th”) that stand out as the dominant function assistants (they are the second in strength after the dominant). Same named means they are both intuitive or both sensory or both task-oriented or both feelings-oriented.
+* **H10 [IE>JP]** H7 [EI] has stronger effects than H8 [PJ]. That means that:
+  * **strong proverted** functions are stronger than **strong antiverted** functions,
+  * **weak proverted** functions are stronger than **weak antiverted** functions.
 
 
 #### Hypothesis consequences:
@@ -249,10 +252,10 @@ A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functio
   8 function is more valued than 7 function because 1-8 pair is a suject of the H5 [PeJe-PiJi] hence 8 is useful for dominant fucntion. But they both are still not valuable.
 * **С5 [56-valuable;5>6]** H6 [most-inferior] →  
   means that 5 is a valuable function. I guess this somehow leads to 6 also being valuable function. This also means that 5 is more valued than 6 (somehow).
-* **С6 [proverted-antiverted]** H2 [strong-weak], H3 [dominant], H7 [EI] →  
-  puts additional constraints to functions strengths 1>8, 1>7, 8>2, 3>5, 6>4 and 1,2,7,8 > 3,4,5,6 where “>” means “stronger”. Let's call them proverted vs. antiverted functions for now.
+* **С6 [proverted-antiverted]** H2 [strong-weak], H3 [dominant], H7 [EI], H10 [IE>JP] →  
+  puts additional constraints to functions strengths. H7 [EI]: 1>7; 8>2; 3>5; 6>4; H2 [strong-weak]: 1,2,7,8 > 3,4,5,6; H3 [dominant]: 1>8; H10 [IE>JP]: 1>2; 8>7; 3>4; 6>5 where “>” means “stronger”.
 * **С7 [pronal-antinal]** H3 [dominant], H6 [most-inferior], H8 [PJ], С5 [56-valuable] →  
-  1 and 5 functions set long-term life goals of a person, and 2 and 6 do not. This give rise to a hypothesis that 3 and 7 functions can be superior to 4 and 8 functions in context of goals. But that's a speculation only. Let's call them pronal vs. antinal functions for now.
+  1 and 5 functions set long-term life goals of a person, and 2 and 6 do not. This give rise to a hypothesis that 3 and 7 functions can be superior to 4 and 8 functions in context of goals. But that's a speculation only.
 
 
 ## 8. Quadras and functions. Why quadras grouped this way? Pacific vs. resolute types
