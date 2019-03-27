@@ -199,10 +199,10 @@ A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functio
 | **5** | Si | IP³² | | **6** | Fe | EJ¹⁴ | | weak   | vital  | valuable  |
 | **8** | Te | EJ¹⁴ | | **7** | Ni | IP³² | | strong | vital  | repressed |
 
-² pro-nality functions: 1, 3, 5, 7. For judging types that's judging functions. For perceiving types that's perceiving functions,   
-⁴ anti-nality functions: 2, 4, 6, 8. For judging types that's perceiving functions. For perceiving types that's judging functions,   
-¹ pro-vert functions: 1, 3, 6, 8. For extraverts that's introvert functions. For introverts that's extravert functions,   
-³ anti-vert functions: 2, 4, 5, 7. For introverts that's extravert functions. For extraverts that's introvert functions.
+² pronal functions: 1, 3, 5, 7. For judging types that's judging functions. For perceiving types that's perceiving functions,   
+⁴ antinal functions: 2, 4, 6, 8. For judging types that's perceiving functions. For perceiving types that's judging functions,   
+¹ provert functions: 1, 3, 6, 8. For extraverts that's introvert functions. For introverts that's extravert functions,   
+³ antivert functions: 2, 4, 5, 7. For introverts that's extravert functions. For extraverts that's introvert functions.
 
 Functions numbers given are standard numbers from [Wikipedia](https://en.wikipedia.org/wiki/Socionics#Model_A).
 
@@ -231,8 +231,8 @@ Functions numbers given are standard numbers from [Wikipedia](https://en.wikiped
 * **C3 [78-repressed]** H3 [dominant], H9 [auxilary], H2 [strong], H4 [PeJi-PiJe], H5 [PeJe-PiJi] → 7 and 8 functions are repressed (7, 8 functions only assist 1, 2 strong functions that work in mental pair).
 * **С4 [7-repressed-more-than-8]** H3 [dominant], H5 [PeJe-PiJi], C3 [78-repressed] → 7 function is more repressed than 8 function (1-8 pair is a suject of the H5 [PeJe-PiJi] hence 8 is useful for dominant fucntion).
 * **С5 [56-valuable]** H6 [most-inferior] means that 5 is a valuable function. I guess this somehow leads to 6 also being valuable function.
-* **С6 [pro-vert-anti-vert]** H2 [strong], H7 [EI] → puts additional constraints to functions strengths 1>7, 8>2, 3>5, 6>4 and 1,2,7,8 > 3,4,5,6 where “>” means “stronger”. Let's call them pro-vert vs. anti-vert functions for now.
-* **С7 [pro-nality-anti-nality]** H3 [dominant], H6 [most-inferior], H8 [PJ], С5 [56-valuable] → 1 and 5 functions set long-term life goals of a person, and 2 and 6 do not. This give rise to a hypothesis that 3 and 7 functions can be superior to 4 and 8 functions in context of goals. But that's a speculation only.
+* **С6 [provert-antivert]** H2 [strong], H7 [EI] → puts additional constraints to functions strengths 1>7, 8>2, 3>5, 6>4 and 1,2,7,8 > 3,4,5,6 where “>” means “stronger”. Let's call them provert vs. antivert functions for now.
+* **С7 [pronal-antinal]** H3 [dominant], H6 [most-inferior], H8 [PJ], С5 [56-valuable] → 1 and 5 functions set long-term life goals of a person, and 2 and 6 do not. This give rise to a hypothesis that 3 and 7 functions can be superior to 4 and 8 functions in context of goals. But that's a speculation only. Let's call them pronal vs. antinal functions for now.
 
 
 ## 8. Quadras and functions. Why quadras grouped this way? Pacific vs. resolute types
