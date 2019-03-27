@@ -190,7 +190,7 @@ So if we are talking about type of particular person not about reference types t
 
 *Note that this description is not affiliated with Talanov's Socionics.*
 
-A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functions that together give Model A as consequences is given below. Worth mentioning that decomposition to separate hypotheses were done by me and it gave rise to a pair of new assumptions. It could have been written better but it's merely a translation of my old texts.
+A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functions that together give Model A as consequences is given below. Decomposition to separate hypotheses gave rise to a pair of new assumptions.
 
 |            |            |        |        |              |
 |------------|------------|--------|--------|--------------|
@@ -208,8 +208,8 @@ A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functio
 * [not bold] functions (or having different index to dominant function) are **antiverted** functions: 2, 4, 5, 7.  
   For introverts that's extraverted functions. For extraverts that's introverted functions.
 * italic and bold can be combined.
+* functions numbers given are standard numbers from [Wikipedia](https://en.wikipedia.org/wiki/Socionics#Model_A).
 
-Functions numbers given are standard numbers from [Wikipedia](https://en.wikipedia.org/wiki/Socionics#Model_A).
 
 #### Set of hypotheses:
 
@@ -226,18 +226,27 @@ Functions numbers given are standard numbers from [Wikipedia](https://en.wikiped
 
 #### Hypothesis consequences:
 
-* **C8 [strong-weak]** H3 [dominant], H9 [auxilary], H2 [strong] → 1, 2, 7, 8 are strong functions and 3, 4, 5, 6 are weak functions.
+* **C8 [strong-weak]** H3 [dominant], H9 [auxilary], H2 [strong] →  
+  1, 2, 7, 8 are strong functions and 3, 4, 5, 6 are weak functions.
   * Strong functions think and solve their tasks competently, efficiently, confidently, quickly, easily. In contrast, weak functions tend to be less competent, work slowly, uncertainly, and require much more effort. [There is an opinion](http://socionica74.narod.ru/about4.html) that strong functions are more robust, i.e. able to work longer at the same level of quality without overexertion, and that strong functions are “resistant to interference,” that is, they are able to ignore distracting and interfering factors in their work, to work effectively in spite of them. Weak functions are not durable and not resistant to interference. It is best to compare the functions of one person.
-* **C9 [mental-vital]** H3 [dominant], H4 [PeJi-PiJe], H5 [PeJe-PiJi] → 1, 2, 3, 4 are mental functions and 5, 6, 7, 8 are vital functions.
+* **C9 [mental-vital]** H3 [dominant], H4 [PeJi-PiJe], H5 [PeJe-PiJi] →  
+  1, 2, 3, 4 are mental functions and 5, 6, 7, 8 are vital functions.
   * Mental functions are characterized by the fact that the overwhelming majority of the time type reflects and ponders using these functions. Well aware of such thoughts and reflections. The work of vital functions happens most of the time as if by itself. These functions regularly work as if automatically, notice something, process something and provide the result of their work to mental functions, but the process of their work is not in the focus of attention. If you ask to consciously think with the help of vital functions, the consciousness will try to get away from this activity, go to thinking with the help of mental functions.
-* **C1 [12-valuable-34-not]** H3 [dominant], H9 [auxilary], H2 [strong], H4 [PeJi-PiJe] → 1, 2 are valuable functions, 3, 4 are not valuable functions (1-2 pair shadows 3-4 pair),
+* **C1 [12-valuable-34-not]** H3 [dominant], H9 [auxilary], H2 [strong], H4 [PeJi-PiJe] →  
+  1, 2 are valuable functions, 3, 4 are not valuable functions (1-2 pair shadows 3-4 pair),
   * The work of valuable functions and its nuances are important for the type, they are interesting, type can listen and talk on these topics with pleasure. Valuable functions provide an active exchange of information between people, what is associated with the work of these functions is easily discussed. The work of not valuable functions is what the type considers in life not the most important, something that can be neglected, something that makes sense only as an addition to valuable functions. As a rule, the discussion of the work of these functions is not interesting and does not give pleasure (but there are exceptions), it is preferred to help each other without further ado. The type in most cases limits the activity of the not valuable functions to the needs of valuable ones (that mostly 1st and 2nd functions), the demands of society or circumstances.
-* **С2 [more-valued:1>2;4>3]** H3 [dominant], H4 [PeJi-PiJe], C1 [12-valuable-34-not] → 1 is more valuable than 2, and 3 is less valued than 4 (because 1-4 pair is still a subject of H4 [PeJi-PiJe]. But they both are still not valuable.).
-* **C3 [78-not-valuable]** H3 [dominant], H9 [auxilary], H2 [strong], H4 [PeJi-PiJe], H5 [PeJe-PiJi] → 7 and 8 functions are not valuable (7, 8 functions only assist 1, 2 strong functions that work in mental pair).
-* **С4 [more-valued:8>7]** H3 [dominant], H5 [PeJe-PiJi], C3 [78-not-valuable] → 7 function is less valued than 8 function (1-8 pair is a suject of the H5 [PeJe-PiJi] hence 8 is useful for dominant fucntion. But they both are still not valuable.).
-* **С5 [56-valuable]** H6 [most-inferior] means that 5 is a valuable function. I guess this somehow leads to 6 also being valuable function.
-* **С6 [proverted-antiverted]** H2 [strong], H7 [EI] → puts additional constraints to functions strengths 1>7, 8>2, 3>5, 6>4 and 1,2,7,8 > 3,4,5,6 where “>” means “stronger”. Let's call them proverted vs. antiverted functions for now.
-* **С7 [pronal-antinal]** H3 [dominant], H6 [most-inferior], H8 [PJ], С5 [56-valuable] → 1 and 5 functions set long-term life goals of a person, and 2 and 6 do not. This give rise to a hypothesis that 3 and 7 functions can be superior to 4 and 8 functions in context of goals. But that's a speculation only. Let's call them pronal vs. antinal functions for now.
+* **С2 [more-valued:1>2;4>3]** H3 [dominant], H4 [PeJi-PiJe], C1 [12-valuable-34-not] →  
+  1 is more valuable than 2, and 3 is less valued than 4 (because 1-4 pair is still a subject of H4 [PeJi-PiJe]. But they both are still not valuable.).
+* **C3 [78-not-valuable]** H3 [dominant], H9 [auxilary], H2 [strong], H4 [PeJi-PiJe], H5 [PeJe-PiJi] →  
+  7 and 8 functions are not valuable (7, 8 functions only assist 1, 2 strong functions that work in mental pair).
+* **С4 [more-valued:8>7]** H3 [dominant], H5 [PeJe-PiJi], C3 [78-not-valuable] →  
+  7 function is less valued than 8 function (1-8 pair is a suject of the H5 [PeJe-PiJi] hence 8 is useful for dominant fucntion. But they both are still not valuable.).
+* **С5 [56-valuable]** H6 [most-inferior] →  
+  means that 5 is a valuable function. I guess this somehow leads to 6 also being valuable function.
+* **С6 [proverted-antiverted]** H2 [strong], H7 [EI] →  
+  puts additional constraints to functions strengths 1>7, 8>2, 3>5, 6>4 and 1,2,7,8 > 3,4,5,6 where “>” means “stronger”. Let's call them proverted vs. antiverted functions for now.
+* **С7 [pronal-antinal]** H3 [dominant], H6 [most-inferior], H8 [PJ], С5 [56-valuable] →  
+  1 and 5 functions set long-term life goals of a person, and 2 and 6 do not. This give rise to a hypothesis that 3 and 7 functions can be superior to 4 and 8 functions in context of goals. But that's a speculation only. Let's call them pronal vs. antinal functions for now.
 
 
 ## 8. Quadras and functions. Why quadras grouped this way? Pacific vs. resolute types
