@@ -200,16 +200,24 @@ A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functio
 |  **8 Te**  |   _7 Ni_   | strong | vital  | not valuable |
 |            |            | 1>8, 1>7, 8>2, 3>5, 6>4 |  | 1>2, 5>6, 4>3, 8>7, form long-term life goals: 1, 5 |
 
-* [*italic*]  functions are **pronal** functions: 1, 3, 5, 7.  
-  For judging types that's judging functions. For perceiving types that's perceiving functions, 
-* [not italic] functions are **antinal** functions: 2, 4, 6, 8.  
-  For judging types that's perceiving functions. For perceiving types that's judging functions,
-* [**bold**] functions (or having the same index as dominant function) are **proverted** functions: 1, 3, 6, 8.  
-  For extraverts that's extraverted functions. For introverts that's introverted functions,
-* [not bold] functions (or having different index to dominant function) are **antiverted** functions: 2, 4, 5, 7.  
-  For introverts that's extraverted functions. For extraverts that's introverted functions.
-* italic and bold can be combined.
 * functions numbers given are standard numbers from [Wikipedia](https://en.wikipedia.org/wiki/Socionics#Model_A).
+* **pronal** vs. **antinal** functions:
+  * [*italic*]  functions are **pronal** functions: 1, 3, 5, 7.  
+    For judging types that's judging functions. For perceiving types that's perceiving functions, 
+  * [not italic] functions are **antinal** functions: 2, 4, 6, 8.  
+    For judging types that's perceiving functions. For perceiving types that's judging functions,
+* **proverted** vs. **antiverted** functions:
+  * [**bold**] functions (or having the same index as dominant function) are **proverted** functions: 1, 3, 6, 8.  
+    For extraverts that's extraverted functions. For introverts that's introverted functions,
+  * [not bold] functions (or having different index to dominant function) are **antiverted** functions: 2, 4, 5, 7.  
+    For introverts that's extraverted functions. For extraverts that's introverted functions.
+* *italic* and **bold** can be **_combined_**.
+* **strong** vs. **weak** functions:
+  * Strong functions think and solve their tasks competently, efficiently, confidently, quickly, easily. In contrast, weak functions tend to be less competent, work slowly, uncertainly, and require much more effort. [There is an opinion](http://socionica74.narod.ru/about4.html) that strong functions are more robust, i.e. able to work longer at the same level of quality without overexertion, and that strong functions are “resistant to interference,” that is, they are able to ignore distracting and interfering factors in their work, to work effectively in spite of them. Weak functions are not durable and not resistant to interference. It is best to compare the functions of one person.
+* **mental** vs. **vital** functions:
+  * Mental functions are characterized by the fact that the overwhelming majority of the time type reflects and ponders using these functions. Well aware of such thoughts and reflections. The work of vital functions happens most of the time as if by itself. These functions regularly work as if automatically, notice something, process something and provide the result of their work to mental functions, but the process of their work is not in the focus of attention. If you ask to consciously think with the help of vital functions, the consciousness will try to get away from this activity, go to thinking with the help of mental functions.
+* **valuable** vs. **not valuable** functions:
+  * The work of valuable functions and its nuances are important for the type, they are interesting, type can listen and talk on these topics with pleasure. Valuable functions provide an active exchange of information between people, what is associated with the work of these functions is easily discussed. The work of not valuable functions is what the type considers in life not the most important, something that can be neglected, something that makes sense only as an addition to valuable functions. As a rule, the discussion of the work of these functions is not interesting and does not give pleasure (but there are exceptions), it is preferred to help each other without further ado. The type in most cases limits the activity of the not valuable functions to the needs of valuable ones (that mostly 1st and 2nd functions), the demands of society or circumstances.
 
 
 #### Set of hypotheses:
@@ -229,13 +237,10 @@ A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functio
 
 * **C8 [strong-weak]** H3 [dominant], H9 [auxilary], H2 [strong-weak] →  
   1, 2, 7, 8 are strong functions and 3, 4, 5, 6 are weak functions.
-  * Strong functions think and solve their tasks competently, efficiently, confidently, quickly, easily. In contrast, weak functions tend to be less competent, work slowly, uncertainly, and require much more effort. [There is an opinion](http://socionica74.narod.ru/about4.html) that strong functions are more robust, i.e. able to work longer at the same level of quality without overexertion, and that strong functions are “resistant to interference,” that is, they are able to ignore distracting and interfering factors in their work, to work effectively in spite of them. Weak functions are not durable and not resistant to interference. It is best to compare the functions of one person.
 * **C9 [mental-vital]** H3 [dominant], H4 [PeJi-PiJe], H5 [PeJe-PiJi] →  
   1, 2, 3, 4 are mental functions and 5, 6, 7, 8 are vital functions.
-  * Mental functions are characterized by the fact that the overwhelming majority of the time type reflects and ponders using these functions. Well aware of such thoughts and reflections. The work of vital functions happens most of the time as if by itself. These functions regularly work as if automatically, notice something, process something and provide the result of their work to mental functions, but the process of their work is not in the focus of attention. If you ask to consciously think with the help of vital functions, the consciousness will try to get away from this activity, go to thinking with the help of mental functions.
 * **C1 [12-valuable-34-not;1>2]** H3 [dominant], H9 [auxilary], H2 [strong-weak], H4 [PeJi-PiJe] →  
   1, 2 are valuable functions, 3, 4 are not valuable functions (1-2 pair shadows 3-4 pair). This also means that 1 is more valued than 2,
-  * The work of valuable functions and its nuances are important for the type, they are interesting, type can listen and talk on these topics with pleasure. Valuable functions provide an active exchange of information between people, what is associated with the work of these functions is easily discussed. The work of not valuable functions is what the type considers in life not the most important, something that can be neglected, something that makes sense only as an addition to valuable functions. As a rule, the discussion of the work of these functions is not interesting and does not give pleasure (but there are exceptions), it is preferred to help each other without further ado. The type in most cases limits the activity of the not valuable functions to the needs of valuable ones (that mostly 1st and 2nd functions), the demands of society or circumstances.
 * **С2 [more-valued:4>3]** H3 [dominant], H4 [PeJi-PiJe], C1 [12-valuable-34-not;1>2] →  
   4 is move valued than 3 because 1-4 pair is a subject of H4 [PeJi-PiJe]. But they both are still not valuable.
 * **C3 [78-not-valuable]** H3 [dominant], H9 [auxilary], H2 [strong-weak], H4 [PeJi-PiJe], H5 [PeJe-PiJi] →  
