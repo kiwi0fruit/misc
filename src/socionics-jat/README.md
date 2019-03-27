@@ -192,12 +192,12 @@ So if we are talking about type of particular person not about reference types t
 
 A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functions that together give Model A as consequences is given below. Worth mentioning that decomposition to separate hypotheses were done by me and it gave rise to a pair of new assumptions. It could have been written better but it's merely a translation of my old texts.
 
-|       |    |      | |       |    |      | |        |        |           |
-|-------|----|------|-|-------|----|------|-|--------|--------|-----------|
-| **1** | Ne | EP¹² | | **2** | Ti | IJ³⁴ | | strong | mental | valuable  |
-| **4** | Fi | IJ³⁴ | | **3** | Se | EP¹² | | weak   | mental | not valuable |
-| **5** | Si | IP³² | | **6** | Fe | EJ¹⁴ | | weak   | vital  | valuable  |
-| **8** | Te | EJ¹⁴ | | **7** | Ni | IP³² | | strong | vital  | not valuable |
+|       |    |      |       |    |      |        |        |           |
+|-------|----|------|-------|----|------|--------|--------|-----------|
+| **1** | Ne | EP¹² | **2** | Ti | IJ³⁴ | strong | mental | valuable  |
+| **4** | Fi | IJ³⁴ | **3** | Se | EP¹² | weak   | mental | not valuable |
+| **5** | Si | IP³² | **6** | Fe | EJ¹⁴ | weak   | vital  | valuable  |
+| **8** | Te | EJ¹⁴ | **7** | Ni | IP³² | strong | vital  | not valuable |
 
 ² pronal functions: 1, 3, 5, 7. For judging types that's judging functions. For perceiving types that's perceiving functions,   
 ⁴ antinal functions: 2, 4, 6, 8. For judging types that's perceiving functions. For perceiving types that's judging functions,   
