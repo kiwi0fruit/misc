@@ -194,10 +194,10 @@ A set of hypotheses about Jung-Augustinavichiute-Talanov (JAT) cognitive functio
 
 |            |            |        |        |              |
 |------------|------------|--------|--------|--------------|
-| 1 **_Ne_** | 2    Ti    | strong | mental | valuable     |
-| 4    Fi    | 3 **_Se_** | weak   | mental | not valuable |
-| 5   _Si_   | 6  **Fe**  | weak   | vital  | valuable     |
-| 8 **Te**   | 7   _Ni_   | strong | vital  | not valuable |
+| **_1 Ne_** |    2 Ti    | strong | mental | valuable     |
+|    4 Fi    | **_3 Se_** | weak   | mental | not valuable |
+|   _5 Si_   |  **6 Fe**  | weak   | vital  | valuable     |
+|  **8 Te**  |   _7 Ni_   | strong | vital  | not valuable |
 
 * [*italic*]  functions are **pronal** functions: 1, 3, 5, 7.  
   For judging types that's judging functions. For perceiving types that's perceiving functions, 
