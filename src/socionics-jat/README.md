@@ -12,9 +12,9 @@ This is an alternative translation of one of the braches of Socionics to English
 * [5. Revised Gulenko's names for types. 1-16 numbers as names for types with mnemonics](#5-revised-gulenkos-names-for-types-1-16-numbers-as-names-for-types-with-mnemonics)
 * [6. On dichotomies, MBTI incompatibility, Big Five](#6-on-dichotomies-mbti-incompatibility-big-five)
 * [7. Model A](#7-model-a)
-* [8. Quadras and functions. Why quadras grouped this way? Pacific vs. resolute types](#7-quadras-and-functions-why-quadras-grouped-this-way-pacific-vs-resolute-types)
-* [9. Intermediate and unknown types names](#8-intermediate-and-unknown-types-names)
-* [10. Further reading and notable discussions](#9-further-reading-and-notable-discussions)
+* [8. Quadras and functions. Why quadras grouped this way? Pacific vs. resolute types](#8-quadras-and-functions-why-quadras-grouped-this-way-pacific-vs-resolute-types)
+* [9. Intermediate and unknown types names](#9-intermediate-and-unknown-types-names)
+* [10. Further reading and notable discussions](#10-further-reading-and-notable-discussions)
 
 
 ## Summary
