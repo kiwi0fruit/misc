@@ -14,7 +14,7 @@ This is an alternative translation of one of the braches of Socionics to English
 * [7. Model A](#7-model-a)
 * [8. Quadras and functions. Why quadras grouped this way? Pacific vs. resolute types](#7-quadras-and-functions-why-quadras-grouped-this-way-pacific-vs-resolute-types)
 * [9. Intermediate and unknown types names](#8-intermediate-and-unknown-types-names)
-* [10. Further reading: The framework of the typology of Jung-Augustinavichyute (Socionics Framework)](#9-further-reading-the-framework-of-the-typology-of-jung-augustinavichyute-socionics-framework)
+* [10. Further reading and notable discussions](#9-further-reading-and-notable-discussions)
 
 
 ## Summary
@@ -336,10 +336,16 @@ So this can be seen that these 4 types has the same 4 most valued functions.
 | IxTx<2,6,11,15>            | INTJ-Ti-dom. v ISTJ-Ti-dom. v INTP-Ni-dom. v ISTP-Si-dom. v IuTJ-Ti-dom. v ... | ? |
 
 
-## 10. Further reading: The framework of the typology of Jung-Augustinavichyute (Socionics Framework)
+## 10. Further reading and notable discussions
+
+#### Further reading
 
 [The framework of the typology of Jung-Augustinavichyute (Socionics Framework)](https://translate.google.ru/translate?hl=ru&sl=ru&tl=en&u=https%3A%2F%2Fgithub.com%2Fkiwi0fruit%2Fmisc%2Ftree%2Fmaster%2Fsrc%2Fsocionics-rus) ([original text in Russian](../socionics-rus))
 
+#### Notable discussions
+
+* [r/JungianTypology/comments/b5pase](https://www.reddit.com/r/JungianTypology/comments/b5pase/model_a_as_consequence_of_a_set_of_hypotheses/),
+* [reddit.com/r/JungianTypology/comments/b12uju](https://www.reddit.com/r/JungianTypology/comments/b12uju/translation_of_some_useful_socionics_terms/).
 
 --------
 
