@@ -53,6 +53,11 @@ Crossposts to: [myanimelist.net/forum/?topicid=1459621](https://myanimelist.ne
 
 # Outdated
 
+## Python to Julia transpiler
+
+[Python to Julia transpiler](https://github.com/kiwi0fruit/misc/blob/master/src/python-to-julia-transpiler/py2jl_transpiler.md)
+
+
 ## Open Letter
 
 Archive markdown code for posts from [Open letter blog](http://zagubisalo.tumblr.com):  
