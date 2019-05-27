@@ -2,7 +2,7 @@
 
 | Stars  | Software (16) | Forks |
 |:------:|:--------------|:-----:|
-| **67** | [**sugartex**](https://github.com/kiwi0fruit/sugartex). SugarTeX is a more readable LaTeX language extension and transcompiler to LaTeX. Fast Unicode autocomplete in Atom editor via [SugarTeX Completions for Atom](https://github.com/kiwi0fruit/sugartex-completions). | |
+| **68** | [**sugartex**](https://github.com/kiwi0fruit/sugartex). SugarTeX is a more readable LaTeX language extension and transcompiler to LaTeX. Fast Unicode autocomplete in Atom editor via [SugarTeX Completions for Atom](https://github.com/kiwi0fruit/sugartex-completions). | |
 | **16** | [**pandoctools**](https://github.com/kiwi0fruit/pandoctools). Profile manager of text processing pipelines: Pandoc filters, any text CLI filters. Atom+Markdown+Pandoc+Jupyter workflow, export to ipynb. Uses [Knitty](https://github.com/kiwi0fruit/knitty) - a Stitch fork. | 1 |
 | **16**  | [**knitty**](https://github.com/kiwi0fruit/knitty) (*fork*). Jupyter power in plain Python/Julia/R/any-kernel-lang. Jupyter kernels output as Pandoc filter. Atom/Hydrogen friendly literature programming. Stitch/Knotr fork: reproducible report generation tool via Jupyter, Pandoc and Markdown. | |
 | **9**  | [**open-fonts**](https://github.com/kiwi0fruit/open-fonts). Collection of beautiful free and open source fonts: instructions for installing, Unicode fallback chains. | |
