@@ -19,7 +19,7 @@
 | **0**  | [**miranda-im-111**](https://github.com/kiwi0fruit/miranda-im-111). Miranda IM 111 Pack source code and latest installer. | |
 | **0**  | [**shutilwhich-cwdpatch**](https://github.com/kiwi0fruit/shutilwhich-cwdpatch). Patch for shutil.which and shutilwhich that disables search in CWD on Windows. | |
 |        | **Repackaged (7)** | |
-| **0**  | [**vscode-theme-laravel-pycharm**](https://github.com/kiwi0fruit/vscode-theme-laravel-pycharm) (*fork*). Laravel PyCharm Theme for VS Code and **for PyCharm**. | |
+| **0**  | [**vscode-theme-laravel-pycharm**](https://github.com/kiwi0fruit/vscode-theme-laravel-pycharm) (*fork*). Laravel code theme for Visual Studio Code and for PyCharm. | |
 | **0**  | [**atom-highlight-bad-chars-bl**](https://github.com/kiwi0fruit/atom-highlight-bad-chars-bl) (*fork*). Atom plugin: Highlight bad Unicode characters that can cause hard to spot syntax errors. | |
 | **0**  | [**git-bash**](https://github.com/kiwi0fruit/git-bash). Repackage of the Git Bash for Windows for Conda package manager. | |
 | **0**  | [**py-mathjax**](https://github.com/kiwi0fruit/py-mathjax). MathJax in pip and conda. | |
