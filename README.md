@@ -24,7 +24,7 @@
 | **0**  | [**git-bash**](https://github.com/kiwi0fruit/git-bash). Repackage of the Git Bash for Windows for Conda package manager. | |
 | **0**  | [**py-mathjax**](https://github.com/kiwi0fruit/py-mathjax). MathJax in pip and conda. | |
 | **0**  | [**py-pandoc-crossref**](https://github.com/kiwi0fruit/py-pandoc-crossref). pandoc-crossref in pip and conda. | |
-| **0**  | [**py-pandoc**](https://github.com/kiwi0fruit/py-pandoc). Pandoc in pip and conda. | 1 |
+| **1**  | [**py-pandoc**](https://github.com/kiwi0fruit/py-pandoc). Pandoc in pip and conda. | 1 |
 | **0**  | [**pandoc-attrs**](https://github.com/kiwi0fruit/pandoc-attrs) (*fork*). [aaren/pandoc-attributes](https://github.com/aaren/pandoc-attributes) repackaged. | |
 | **1**  | [**ipynb-py-convert**](https://github.com/kiwi0fruit/ipynb-py-convert) (*fork*). Convert .py files runnable in VSCode or Atom/Hydrogen to Jupyter .ipynb notebooks and vice versa. | |
 |        | **Non-software (4)** | |
