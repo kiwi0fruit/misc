@@ -2,6 +2,8 @@
 
 Markdown texts, html/css themes, etc.
 
+TODO: Rewrite this as blog posts.
+
 
 ## Pinned repositories
 
