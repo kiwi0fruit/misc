@@ -23,7 +23,6 @@
 |        | **Repackaged (8)** | |
 | **0**  | [**vscode-theme-laravel-pycharm**](https://github.com/kiwi0fruit/vscode-theme-laravel-pycharm) (*fork*). Laravel code theme for Visual Studio Code and for PyCharm. | |
 | **0**  | [**atom-highlight-bad-chars-bl**](https://github.com/kiwi0fruit/atom-highlight-bad-chars-bl) (*fork*). Atom plugin: Highlight bad Unicode characters that can cause hard to spot syntax errors. | |
-| **0**  | [**git-bash**](https://github.com/kiwi0fruit/git-bash). Repackage of the Git Bash for Windows for Conda package manager. | |
 | **0**  | [**py-mathjax**](https://github.com/kiwi0fruit/py-mathjax). MathJax in pip and conda. | |
 | **0**  | [**py-pandoc-crossref**](https://github.com/kiwi0fruit/py-pandoc-crossref). pandoc-crossref in pip and conda. | |
 | **1**  | [**py-pandoc**](https://github.com/kiwi0fruit/py-pandoc). Pandoc in pip and conda. | 1 |
