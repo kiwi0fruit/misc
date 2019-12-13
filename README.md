@@ -1,6 +1,6 @@
 # Pinned repositories
 
-| Stars  | Software (18) | Forks |
+| Stars  | Software (19) | Forks |
 |:------:|:--------------|:-----:|
 | **0** | [**jats-semi-supervised-pytorch**](https://github.com/kiwi0fruit/jats-semi-supervised-pytorch). Applying VAE and DGM families to JATS database in PyTorch. | |
 | **73** | [**sugartex**](https://github.com/kiwi0fruit/sugartex). SugarTeX is a more readable LaTeX language extension and transcompiler to LaTeX. Fast Unicode autocomplete in Atom editor via [SugarTeX Completions for Atom](https://github.com/kiwi0fruit/sugartex-completions). | |
@@ -20,6 +20,7 @@
 | **0**  | [**miranda-im-111**](https://github.com/kiwi0fruit/miranda-im-111). Miranda IM 111 Pack source code and latest installer. | |
 | **0**  | [**shutilwhich-cwdpatch**](https://github.com/kiwi0fruit/shutilwhich-cwdpatch). Patch for shutil.which and shutilwhich that disables search in CWD on Windows. | |
 | **0**  | [**py-open-fonts**](https://github.com/kiwi0fruit/py-open-fonts). Open Fonts in pip and conda. | |
+| **0**  | [**vscode-theme-laravel-pycharm**](https://github.com/kiwi0fruit/vscode-theme-laravel-pycharm). Laravel code theme for Visual Studio Code and for PyCharm. | |
 |        | **Repackaged (7)** | |
 | **0**  | [**vscode-theme-laravel-pycharm**](https://github.com/kiwi0fruit/vscode-theme-laravel-pycharm) (*fork*). Laravel code theme for Visual Studio Code and for PyCharm. | |
 | **0**  | [**atom-highlight-bad-chars-bl**](https://github.com/kiwi0fruit/atom-highlight-bad-chars-bl) (*fork*). Atom plugin: Highlight bad Unicode characters that can cause hard to spot syntax errors. | |
