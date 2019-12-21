@@ -15,7 +15,7 @@
 | **1**  | [**featherhelper**](https://github.com/kiwi0fruit/featherhelper). Concise interface to cache numpy arrays and pandas dataframes. I use it with  [Pandoctools/Knitty](https://github.com/kiwi0fruit/pandoctools). | |
 | **2**  | [**tabulatehelper**](https://github.com/kiwi0fruit/tabulatehelper). Converts tabular data like Pandas dataframe to GitHub Flavored Markdown pipe table (wrapper around [tabulate](https://pypi.org/project/tabulate/) module). I use it with  [Pandoctools/Knitty](https://github.com/kiwi0fruit/pandoctools). | |
 | **0**  | [**litereval**](https://github.com/kiwi0fruit/litereval). Wrapper around `ast.literal_eval` with new `{foo='bar', key=None}` dict syntax. + Deep merge two dictionaries. | |
-| **0**  | [**atom-sugartex-completions**](https://github.com/kiwi0fruit/sugartex-completions) (*fork*). Easy Unicode input for Atom optimized for [SugarTeX](https://github.com/kiwi0fruit/sugartex). | |
+| **1**  | [**atom-sugartex-completions**](https://github.com/kiwi0fruit/sugartex-completions) (*fork*). Easy Unicode input for Atom optimized for [SugarTeX](https://github.com/kiwi0fruit/sugartex). | |
 | **0**  | [**miranda-im-111**](https://github.com/kiwi0fruit/miranda-im-111). Miranda IM 111 Pack source code and latest installer. | |
 | **0**  | [**shutilwhich-cwdpatch**](https://github.com/kiwi0fruit/shutilwhich-cwdpatch). Patch for shutil.which and shutilwhich that disables search in CWD on Windows. | |
 | **0**  | [**py-open-fonts**](https://github.com/kiwi0fruit/py-open-fonts). Open Fonts in pip and conda. | |
