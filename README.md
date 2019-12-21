@@ -9,7 +9,7 @@
 | **9**  | [**open-fonts**](https://github.com/kiwi0fruit/open-fonts). Collection of beautiful free and open source fonts: instructions for installing, Unicode fallback chains. | 1 |
 | **7**  | [**pyappshare**](https://github.com/kiwi0fruit/pyappshare). PyAppShare is a cookbook for creating cross-platform desktop python applications in a moment. With shortcuts supporting virtual and Anaconda environments via [Shortcutter](https://github.com/kiwi0fruit/shortcutter). | |
 | **6**  | [**shortcutter**](https://github.com/kiwi0fruit/shortcutter) (*fork*). Easy cross-platform creation of shortcuts supporting virtual and Anaconda environments. | 1 |
-| **4**  | [**enaml-video-app**](https://github.com/kiwi0fruit/enaml-video-app). Easy to install cross-platform python desktop app that gets video via OpenCV and displays it via LGPL Qt 5 for Python (PySide2) GUI composed with Enaml & distributed with PyAppShare (uses Miniconda & Shortcutter). | 1 |
+| **5**  | [**enaml-video-app**](https://github.com/kiwi0fruit/enaml-video-app). Easy to install cross-platform python desktop app that gets video via OpenCV and displays it via LGPL Qt 5 for Python (PySide2) GUI composed with Enaml & distributed with PyAppShare (uses Miniconda & Shortcutter). | 1 |
 | **6**  | [**pyppdf**](https://github.com/kiwi0fruit/pyppdf): Pyppeteer PDF. Print html sites and files to pdf via pyppeteer (uses patched pyppeteer that by default downloads updated Chromium revision via https with certifi). | 3 |
 | **1**  | [**matplotlibhelper**](https://github.com/kiwi0fruit/matplotlibhelper). Matplotlib Helper is my custom helper to tune Matplotlib experience for [Pandoctools/Knitty](https://github.com/kiwi0fruit/pandoctools). I tuned fonts, made some tweaks to use it with SugarTeX, some tweaks to use mpl interactive plots in Atom/Hydrogen. | |
 | **1**  | [**featherhelper**](https://github.com/kiwi0fruit/featherhelper). Concise interface to cache numpy arrays and pandas dataframes. I use it with  [Pandoctools/Knitty](https://github.com/kiwi0fruit/pandoctools). | |
@@ -31,7 +31,7 @@
 | **3**  | [**ultimate-question**](https://github.com/kiwi0fruit/ultimate-question). The Ultimate Question of Life, the Universe, and Everything (On natural selection of the laws of nature, Artificial life and Open-ended evolution, Universal Darwinism, Occam's razor). [kiwi0fruit.github.io/ultimate-question](https://kiwi0fruit.github.io/ultimate-question), [reddit.com/r/compsci/comments/97s8dl](https://www.reddit.com/r/compsci/comments/97s8dl/on_natural_selection_of_the_laws_of_nature/) | |
 | **2**  | [**breton**](https://github.com/kiwi0fruit/breton). Breton dances, French Balfolk and some celtic dances (music, video, dances descriptions in Russian). | |
 | **1**  | [**jats**](https://github.com/kiwi0fruit/jats). Alternative translation of Jung-Augustinavichiute-Talanov Socionics to English + On incompatibility of Socionics and MBTI. | |
-| **1**  | [**misc**](https://github.com/kiwi0fruit/misc). [Jupyter notebooks as PDF, MS Word and others killer](src/pdf_and_word_killer.md) and other [miscellaneous stuff](src/misc.md) (Markdown texts, html/css themes, etc.). | |
+| **1**  | [**misc**](https://github.com/kiwi0fruit/misc). [Jupyter notebooks as PDF, MS Word and others killer](src/pdf_and_word_killer.md) and other [miscellaneous stuff](src/misc.md) (Markdown texts, html/css themes, etc.). | 1 |
 
 
 ## Jupyter notebooks as PDF, MS Word and others killer
