@@ -26,7 +26,7 @@
 | **0**  | [**py-pandoc-crossref**](https://github.com/kiwi0fruit/py-pandoc-crossref). pandoc-crossref in pip and conda. | |
 | **1**  | [**py-pandoc**](https://github.com/kiwi0fruit/py-pandoc). Pandoc in pip and conda. | 1 |
 | **0**  | [**pandoc-attrs**](https://github.com/kiwi0fruit/pandoc-attrs) (*fork*). [aaren/pandoc-attributes](https://github.com/aaren/pandoc-attributes) repackaged. | |
-| **5**  | [**ipynb-py-convert**](https://github.com/kiwi0fruit/ipynb-py-convert) (*fork*). Convert .py files runnable in VSCode or Atom/Hydrogen to Jupyter .ipynb notebooks and vice versa. | 2 |
+| **7**  | [**ipynb-py-convert**](https://github.com/kiwi0fruit/ipynb-py-convert) (*fork*). Convert .py files runnable in VSCode or Atom/Hydrogen to Jupyter .ipynb notebooks and vice versa. | 4 |
 |        | **Non-software (4)** | |
 | **3**  | [**ultimate-question**](https://github.com/kiwi0fruit/ultimate-question). The Ultimate Question of Life, the Universe, and Everything (On natural selection of the laws of nature, Artificial life and Open-ended evolution, Universal Darwinism, Occam's razor). [kiwi0fruit.github.io/ultimate-question](https://kiwi0fruit.github.io/ultimate-question), [reddit.com/r/compsci/comments/97s8dl](https://www.reddit.com/r/compsci/comments/97s8dl/on_natural_selection_of_the_laws_of_nature/) | |
 | **2**  | [**breton**](https://github.com/kiwi0fruit/breton). Breton dances, French Balfolk and some celtic dances (music, video, dances descriptions in Russian). | |
