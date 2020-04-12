@@ -24,7 +24,7 @@
 | **0**  | [**atom-highlight-bad-chars-bl**](https://github.com/kiwi0fruit/atom-highlight-bad-chars-bl) (*fork*). Atom plugin: Highlight bad Unicode characters that can cause hard to spot syntax errors. | |
 | **0**  | [**py-mathjax**](https://github.com/kiwi0fruit/py-mathjax). MathJax in pip and conda. | |
 | **0**  | [**py-pandoc-crossref**](https://github.com/kiwi0fruit/py-pandoc-crossref). pandoc-crossref in pip and conda. | |
-| **1**  | [**py-pandoc**](https://github.com/kiwi0fruit/py-pandoc). Pandoc in pip and conda. | 1 |
+| **2**  | [**py-pandoc**](https://github.com/kiwi0fruit/py-pandoc). Pandoc in pip and conda. | 1 |
 | **0**  | [**pandoc-attrs**](https://github.com/kiwi0fruit/pandoc-attrs) (*fork*). [aaren/pandoc-attributes](https://github.com/aaren/pandoc-attributes) repackaged. | |
 | **11**  | [**ipynb-py-convert**](https://github.com/kiwi0fruit/ipynb-py-convert) (*fork*). Convert .py files runnable in VSCode or Atom/Hydrogen to Jupyter .ipynb notebooks and vice versa. | 6 |
 |        | **Non-software (4)** | |
