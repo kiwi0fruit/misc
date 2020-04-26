@@ -4,7 +4,7 @@
 |:------:|:--------------|:-----:|
 | **0** | [**jats-semi-supervised-pytorch**](https://github.com/kiwi0fruit/jats-semi-supervised-pytorch). Applying VAE and DGM families to JATS personality survey database in PyTorch. | |
 | **73** | [**sugartex**](https://github.com/kiwi0fruit/sugartex). SugarTeX is a more readable LaTeX language extension and transcompiler to LaTeX. Fast Unicode autocomplete in Atom editor via [SugarTeX Completions for Atom](https://github.com/kiwi0fruit/sugartex-completions). | |
-| **32** | [**pandoctools**](https://github.com/kiwi0fruit/pandoctools). Profile manager of text processing pipelines: Pandoc filters, any text CLI filters. Atom+Markdown+Pandoc+Jupyter workflow, export to ipynb. Uses [Knitty](https://github.com/kiwi0fruit/knitty) - a Stitch fork. | 6 |
+| **33** | [**pandoctools**](https://github.com/kiwi0fruit/pandoctools). Profile manager of text processing pipelines: Pandoc filters, any text CLI filters. Atom+Markdown+Pandoc+Jupyter workflow, export to ipynb. Uses [Knitty](https://github.com/kiwi0fruit/knitty) - a Stitch fork. | 6 |
 | **29**  | [**knitty**](https://github.com/kiwi0fruit/knitty) (*fork*). Jupyter power in plain Python/Julia/R/any-kernel-lang. Jupyter kernels output as Pandoc filter. Atom/Hydrogen friendly literature programming. Stitch/Knotr fork: reproducible report generation tool via Jupyter, Pandoc and Markdown. [**pystitch**](https://github.com/kiwi0fruit/pystitch/tree/src) (*fork*). Part of the Knitty documentstion. | |
 | **13**  | [**open-fonts**](https://github.com/kiwi0fruit/open-fonts). Collection of beautiful free and open source fonts: instructions for installing, Unicode fallback chains. | 2 |
 | **8**  | [**pyappshare**](https://github.com/kiwi0fruit/pyappshare). PyAppShare is a cookbook for creating cross-platform desktop python applications in a moment. With shortcuts supporting virtual and Anaconda environments via [Shortcutter](https://github.com/kiwi0fruit/shortcutter). | |
@@ -26,7 +26,7 @@
 | **0**  | [**py-pandoc-crossref**](https://github.com/kiwi0fruit/py-pandoc-crossref). pandoc-crossref in pip and conda. | |
 | **3**  | [**py-pandoc**](https://github.com/kiwi0fruit/py-pandoc). Pandoc in pip and conda. | 1 |
 | **0**  | [**pandoc-attrs**](https://github.com/kiwi0fruit/pandoc-attrs) (*fork*). [aaren/pandoc-attributes](https://github.com/aaren/pandoc-attributes) repackaged. | |
-| **11**  | [**ipynb-py-convert**](https://github.com/kiwi0fruit/ipynb-py-convert) (*fork*). Convert .py files runnable in VSCode or Atom/Hydrogen to Jupyter .ipynb notebooks and vice versa. | 6 |
+| **12**  | [**ipynb-py-convert**](https://github.com/kiwi0fruit/ipynb-py-convert) (*fork*). Convert .py files runnable in VSCode or Atom/Hydrogen to Jupyter .ipynb notebooks and vice versa. | 7 |
 |        | **Non-software (4)** | |
 | **4**  | [**ultimate-question**](https://github.com/kiwi0fruit/ultimate-question). Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness. [kiwi0fruit.github.io/ultimate-question](https://kiwi0fruit.github.io/ultimate-question), [reddit.com/r/compsci/comments/97s8dl](https://www.reddit.com/r/compsci/comments/97s8dl/on_natural_selection_of_the_laws_of_nature/) | |
 | **2**  | [**breton**](https://github.com/kiwi0fruit/breton). Breton dances, French Balfolk and some celtic dances (music, video, dances descriptions in Russian). | |
