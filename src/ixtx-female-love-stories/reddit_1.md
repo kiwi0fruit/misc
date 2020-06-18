@@ -7,10 +7,10 @@ And these female characters should be:
 - Introverted "emotionless girls"
 - **or** kuuderes *(the paragraph after this list has some explanations so do not worry if you don't know the word)*
 - **or** danderes that are logical thinking or not very emotional "inside". That do not loose their head. May be even not good at relationship establishment — do not see other peoples relationships or do not pay attention to it (but this is not always the case).
-- **or** introverted thinking types from Jungian Typology (xTxIx form JATS, IxTx from MBTI, LXI/XLI from Socionics) *(see the paragraph after this list)*
+- **or** introverted thinking types from Jungian Typology *(see the paragraph after this list)*
 - **that** are non violent and non aggressive. At least she does not force other people to do what she wants (or stop doing something) violently or aggressively when it's not her duty.
 
-But there are more than that. Three first types of characters actually are some subset of xTxIx personality types (in JATS: NTJIO, STJIO, NTPIY, STPIY, in MBTI: INTx and ISTx, in Socionics: LII, LSI, ILI, SLI. See tables [**one**](https://github.com/kiwi0fruit/jats/blob/master/README.md#115-dominant-agnostic-type-names) and [**two**](https://github.com/kiwi0fruit/jats/blob/master/README.md#4-socionics-reference-types-names-vs-mbti-types-names) from this article for details).
+But there are more than that. Three first types of characters actually are some subset of xTxIx personality types (xTxIx in JATS: NTJIO, STJIO, NTPIY, STPIY, IxTx in MBTI: INTx and ISTx, LXI/XLI in Socionics: LII, LSI, ILI, SLI. See tables [**one**](https://github.com/kiwi0fruit/jats/blob/master/README.md#115-dominant-agnostic-type-names) and [**two**](https://github.com/kiwi0fruit/jats/blob/master/README.md#4-socionics-reference-types-names-vs-mbti-types-names) from this article for details).
 
 Also with an additional condition of being non violent and non aggressive personality (see above for details) - this is in most cases valid for NTxIx (INTx) and STPIY, but sometimes is not valid for STJIO (ISTx). Surely there are xTxIx that are neither emotionless girls nor kuuderes.
 
