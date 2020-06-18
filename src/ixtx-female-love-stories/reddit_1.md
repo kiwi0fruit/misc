@@ -5,19 +5,19 @@ And these female characters should be:
 - Introverted "emotionless girls"
 - **or** kuuderes *(the paragraph after this list has some explanations so do not worry if you don't know the word)*
 - **or** danderes that are logical thinking or not very emotional "inside". That do not loose their head. May be even not good at relationship establishment — do not see other peoples relationships or do not pay attention to it (but this is not always the case).
-- **or** introverted thinking types (IxTx) from MBTI *(see the paragraph after this list)*
-- **that** are non violent and non aggressive. At least she does not force other people to do what she wants (or stop doing something​) violently or aggressively when it's not her duty.
+- **or** introverted thinking types from Jungian Typology (xTxIx form JATS, IxTx from MBTI, LXI/XLI from Socionics) *(see the paragraph after this list)*
+- **that** are non violent and non aggressive. At least she does not force other people to do what she wants (or stop doing something) violently or aggressively when it's not her duty.
 
-But there are more than that. Three first types of characters actually are some subset of IxTx personality types from MBTI (INTJ, INTP, ISTJ, ISTP). Also with an additional condition of being non violent and non aggressive personality (see above for details) - this is in most cases valid for INTx, but sometimes is not valid for ISTx. Surely there are IxTx that are neither emotionless girls nor kuuderes.
+But there are more than that. Three first types of characters actually are some subset of xTxIx personality types (in JATS: NTJIO, STJIO, NTPIY, STPIY, in MBTI: INTx and ISTx, in Socionics: LII, LSI, ILI, SLI). Also with an additional condition of being non violent and non aggressive personality (see above for details) - this is in most cases valid for NTxIx (INTx) and STPIY, but sometimes is not valid for STJIO (ISTx). Surely there are xTxIx that are neither emotionless girls nor kuuderes.
 
 - ***I*** means introverted: more quiet than noisy, more passive than active, more observer than participant, more loner than social. Actually it's a complex trait that's not yet well defined.
-- ***T*** means prefering logical reasoning over feelings.
+- ***T*** means prefering logical reasoning / tasks over feelings.
 
-And togeter (IxTx) it's a smart and reserved personality, sometimes it's a shy personality, sometimes not. Smartness is about analisys and intelligense but not in knowing other people feelings and relationships (or they simply see relationships as something logical). Sometimes such characters simply lack interest or skills in feelings and relationships (it may look like social bluntness) but there is also no information about them being smart or logical (it's out of the narration).
+To summ up xTxIx is a smart and reserved personality, sometimes it's a shy personality, sometimes not. Smartness is about analisys and intelligense but not in knowing other people feelings and relationships (or they simply see relationships as something logical). Sometimes such characters simply lack interest or skills in feelings and relationships (it may look like social bluntness) but there is also no information about them being smart or logical (it's out of the narration).
 
-***So the criteria is actually IxTx.***
+***So the criteria is actually xTxIx.***
 
-List of anime, manga, movies, books, TV series & comics with IxTx romance is in this **[special MAL profile](https://myanimelist.net/profile/ixtx)**.
+List of anime, manga, movies, books, TV series & comics with xTxIx romance is in this **[special MAL profile](https://myanimelist.net/profile/ixtx)**.
 
 ### UPD
 
