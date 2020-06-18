@@ -10,7 +10,7 @@ And these female characters should be:
 - **or** introverted thinking types from Jungian Typology *(see the paragraph after this list)*
 - **that** are non violent and non aggressive. At least she does not force other people to do what she wants (or stop doing something) violently or aggressively when it's not her duty.
 
-But there are more than that. Three first types of characters actually are some subset of xTxIx personality types:
+But there are more than that. Three first types of characters actually are some subset of xTxIx personality types from Jungian Typology:
 
 * xTxIx in JATS: NTJIO, STJIO, NTPIY, STPIY,
 * IxTx in MBTI: INTx and ISTx,
