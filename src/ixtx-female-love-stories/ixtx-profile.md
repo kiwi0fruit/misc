@@ -1,27 +1,27 @@
-[IxTx list]
+[xTxIx list]
 ================================
 This is a special MAL profile https://myanimelist.net/profile/ixtx that contains anime, manga and LN with:
 
-1) romance with IxTx females (♡ tag).
-2) or when IxTx is one of the main characters.
+1) romance with xTxIx females (♡ tag).
+2) or when xTxIx is one of the main characters.
 
-IxTx personality is like kuuderes or not very emotional danderes. See MBTI for more details or in this text: https://github.com/kiwi0fruit/misc/blob/master/ixtx-female-love-stories/reddit_1.md
+xTxIx personality is like kuuderes or not very emotional danderes. It comes from Jungian Typology. See xTxIx in JATS, IxTx in MBTI, LXI/XLI in Socionics for more details. It's recommended to start with this text: https://github.com/kiwi0fruit/misc/blob/master/src/ixtx-female-love-stories/reddit_1.md
 
-👊 tag marks IxTx that are violent/agressive or something like that.
+👊 tag marks xTxIx that are violent/agressive or something like that.
 
-I've read/watched "completed" media. I've dropped or haven't even started "dropped" media. So I can't really comment on it or be sure. Some people said there are romance with kuuderes or IxTx.
+I've read/watched "completed" media. I've dropped or haven't even started "dropped" media. So I can't really comment on it or be sure. Some people said there are romance with kuuderes or xTxIx.
 
 
-[Anime, manga and light novels with IxTx female characters]
+[Anime, manga and light novels with xTxIx female characters]
 ================================
 1. https://myanimelist.net/animelist/ixtx
 2. https://myanimelist.net/mangalist/ixtx
-3. Some media that I watched but haven't added the the lists above:  
-https://myanimelist.net/animelist/kiwi0fruit?status=7&tag=2list  
+3. Some media that I watched but haven't added the the lists above:
+https://myanimelist.net/animelist/kiwi0fruit?status=7&tag=2list
 https://myanimelist.net/mangalist/kiwi0fruit?status=7&tag=2list
 
 
-[Movies and TV series with IxTx female characters]
+[Movies and TV series with xTxIx female characters]
 ================================
 1. ♡ Star Trek: Enterprise (2001–2005) [TV series] - **T'Pol**
 2. ♡ ShakespeaRe-Told, The Taming of the Shrew (2005) [movie] - **Kate Minola**
@@ -32,12 +32,20 @@ https://myanimelist.net/mangalist/kiwi0fruit?status=7&tag=2list
 7. ♡ Daria (1997–2001) [animated TV series] - **Daria Morgendorffer**
 8. ♡ Spellbound (2011) [movie] - **Kang Yeo-Ri** (O-ssak-han yeon-ae)
 
+[Books and novels with xTxIx female characters]
+================================
+1. ♡ When A Snail Loves [CN] - **Xu Xu**, https://novelupdates.com/series/when-a-snail-loves
+2. ♡ Dungeon Defense [Korean] - **Lapis Lazuli**, 👊, https://novelupdates.com/series/dungeon-defense
+3. ♡ The Experimental Log of the Crazy Lich [CN], [not sure about romance], [haven't read], https://novelupdates.com/series/the-experimental-log-of-the-crazy-lich
+4. ♡ Release that Witch [CN] - **Anna**, [not sure about romance], https://novelupdates.com/series/release-that-witch
+5. ♡ Hokuou Kizoku to Moukinzuma no Yukiguni Karigurashi [JP], [haven't read], https://novelupdates.com/series/hokuou-kizoku-to-moukinzuma-no-yukiguni-karigurashi
+6. ♡ The Simulacrum (by Egathentale) - **Judy**, https://www.royalroad.com/fiction/23173/the-simulacrum
 
 [Bonus]
 ================================
-a) There are some tags (soc tag) for other MBTI types in this MAL: https://myanimelist.net/profile/kiwi0fruit
+a) There are some tags (soc tag) for other Jungian types in this MAL: https://myanimelist.net/profile/kiwi0fruit
 
-b) There are some interesting male characters with INTx personality traits:
+b) There are some interesting male characters with NTxIx personality traits:
 
 1. Jonathan Strange & Mr Norrell (2015) [TV series] - Mr Norrell [No love story, only good friendship story but it deserves mentioning because this kind of personality is so rare in movies.]
 2. Salmon Fishing in the Yemen (2011) [movie] - Alfred Jones [Asperger's actually]
