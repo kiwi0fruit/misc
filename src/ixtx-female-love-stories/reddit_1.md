@@ -1,3 +1,5 @@
+# xTxIx female love stories
+
 I'm looking for a specific female characters from movies or other media (anime, manga, comics, TV series, books...) with an enough developed romance story. It should be stories where there is enough hope for successful love-story ending for such characters. There are many media where there is clearly no hope for such characters and they have unrequited love. Or such characters are friends only. Or there are media without romance at all. This is not what I'm looking for.
 
 And these female characters should be:
