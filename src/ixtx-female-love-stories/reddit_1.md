@@ -21,7 +21,7 @@ Also with an additional condition of being non violent and non aggressive person
 
 - ***I*** means introverted: more quiet than noisy, more passive than active, more observer than participant, more loner than social. Actually it's a complex trait that's not yet well defined.
 - ***T*** means prefering logical reasoning / tasks over feelings.
-- ***X*** means irrelevant placeholder.
+- ***X*** means irrelevant placeholder in XTxIx notation.
 
 To summ up XTxIx is a smart and reserved personality, sometimes it's a shy personality, sometimes not. Smartness is about analisys and intelligense but not in knowing other people feelings and relationships (or they simply see relationships as something logical). Sometimes such characters simply lack interest or skills in feelings and relationships (it may look like social bluntness) but there is also no information about them being smart or logical (it's out of the narration).
 
