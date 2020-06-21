@@ -11,11 +11,11 @@
 				<user_id>6458049</user_id>
 				<user_name>ixtx</user_name>
 				<user_export_type>1</user_export_type>
-				<user_total_anime>104</user_total_anime>
-				<user_total_watching>2</user_total_watching>
-				<user_total_completed>66</user_total_completed>
+				<user_total_anime>108</user_total_anime>
+				<user_total_watching>1</user_total_watching>
+				<user_total_completed>69</user_total_completed>
 				<user_total_onhold>0</user_total_onhold>
-				<user_total_dropped>36</user_total_dropped>
+				<user_total_dropped>38</user_total_dropped>
 				<user_total_plantowatch>0</user_total_plantowatch>
 			</myinfo>
 		
@@ -37,7 +37,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡, Tooko Amano, [not sure IxTx], [not sure about romance], [haven't watched]]]></my_tags>
+					<my_tags><![CDATA[♡, Tooko Amano, [not sure *T*I*], [not sure about romance], [haven't watched]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -136,6 +136,29 @@
 				</anime>
 			
 				<anime>
+					<series_animedb_id>22199</series_animedb_id>
+					<series_title><![CDATA[Akame ga Kill!]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>24</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Akame, [not sure about romance]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
 					<series_animedb_id>32828</series_animedb_id>
 					<series_title><![CDATA[Amaama to Inazuma]]></series_title>
 					<series_type>TV</series_type>
@@ -152,7 +175,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡, Kotori Iida, [not sure IxTx]]]></my_tags>
+					<my_tags><![CDATA[♡, Kotori Iida, [not sure *T*I*]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -175,7 +198,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡, Ai Nanasaki, [not sure IxTx], [13-16ep]]]></my_tags>
+					<my_tags><![CDATA[♡, Ai Nanasaki, [not sure *T*I*], [13-16ep]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -198,7 +221,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡, Isuzu Sento, [not sure IxTx], [though she is violent sometimes]]]></my_tags>
+					<my_tags><![CDATA[♡, Isuzu Sento, [not sure *T*I*], [though she is violent sometimes]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -221,7 +244,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡, Isuzu Sento, [not sure IxTx]]]></my_tags>
+					<my_tags><![CDATA[♡, Isuzu Sento, [not sure *T*I*]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -290,7 +313,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡, Ryouko Satou, [not sure IxTx]]]></my_tags>
+					<my_tags><![CDATA[♡, Ryouko Satou, [not sure *T*I*]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -313,7 +336,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡, Hitagi Senjougahara, [not sure IxTx] ]]></my_tags>
+					<my_tags><![CDATA[♡, 👊, Hitagi Senjougahara, [not sure *T*I*], [aggressive]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -359,7 +382,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡, Kayo Hinazuki, [not sure IxTx],[not sure about romance], [haven't watched]]]></my_tags>
+					<my_tags><![CDATA[♡, Kayo Hinazuki, [not sure *T*I*],[not sure about romance], [haven't watched]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -436,7 +459,7 @@
 			
 				<anime>
 					<series_animedb_id>21405</series_animedb_id>
-					<series_title><![CDATA[Bokura wa Minna Kawaisou]]></series_title>
+					<series_title><![CDATA[Bokura wa Minna Kawai-sou]]></series_title>
 					<series_type>TV</series_type>
 					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
@@ -459,7 +482,7 @@
 			
 				<anime>
 					<series_animedb_id>24913</series_animedb_id>
-					<series_title><![CDATA[Bokura wa Minna Kawaisou: Hajimete no]]></series_title>
+					<series_title><![CDATA[Bokura wa Minna Kawai-sou: Hajimete no]]></series_title>
 					<series_type>Special</series_type>
 					<series_episodes>1</series_episodes>
 					<my_id>0</my_id>
@@ -497,7 +520,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡, C.C., [not sure IxTx], [not sure about romance]]]></my_tags>
+					<my_tags><![CDATA[♡, C.C., [not sure *T*I*], [not sure about romance]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -520,7 +543,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡, Aoba Tsukishima, [not sure IxTx]]]></my_tags>
+					<my_tags><![CDATA[♡, Aoba Tsukishima, [not sure *T*I*]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -543,7 +566,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡, Roka Shibasaki, [not sure IxTx]]]></my_tags>
+					<my_tags><![CDATA[♡, Roka Shibasaki, [not sure *T*I*]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -551,7 +574,7 @@
 			
 				<anime>
 					<series_animedb_id>23383</series_animedb_id>
-					<series_title><![CDATA[D-Frag! OVA]]></series_title>
+					<series_title><![CDATA[D-Frag!*]]></series_title>
 					<series_type>OVA</series_type>
 					<series_episodes>1</series_episodes>
 					<my_id>0</my_id>
@@ -566,7 +589,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡, Roka Shibasaki, [not sure IxTx]]]></my_tags>
+					<my_tags><![CDATA[♡, Roka Shibasaki, [not sure *T*I*]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -642,6 +665,29 @@
 				</anime>
 			
 				<anime>
+					<series_animedb_id>4182</series_animedb_id>
+					<series_title><![CDATA[Darker than Black: Kuro no Keiyakusha - Sakura no Hana no Mankai no Shita]]></series_title>
+					<series_type>Special</series_type>
+					<series_episodes>1</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>1</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Yin, [not sure about romance], [may be romance is in sequels]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
 					<series_animedb_id>7338</series_animedb_id>
 					<series_title><![CDATA[Darker than Black: Kuro no Keiyakusha Gaiden]]></series_title>
 					<series_type>Special</series_type>
@@ -665,29 +711,6 @@
 				</anime>
 			
 				<anime>
-					<series_animedb_id>4182</series_animedb_id>
-					<series_title><![CDATA[Darker than Black: Kuro no Keiyakusha Special]]></series_title>
-					<series_type>Special</series_type>
-					<series_episodes>1</series_episodes>
-					<my_id>0</my_id>
-					<my_watched_episodes>1</my_watched_episodes>
-					<my_start_date>0000-00-00</my_start_date>
-					<my_finish_date>0000-00-00</my_finish_date>
-					<my_rated></my_rated>
-					<my_score>0</my_score>
-					<my_dvd></my_dvd>
-					<my_storage></my_storage>
-					<my_status>Completed</my_status>
-					<my_comments><![CDATA[]]></my_comments>
-					<my_times_watched>0</my_times_watched>
-					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡, Yin, [not sure about romance], [may be romance is in sequels]]]></my_tags>
-					<my_rewatching>0</my_rewatching>
-					<my_rewatching_ep>0</my_rewatching_ep>
-					<update_on_import>0</update_on_import>
-				</anime>
-			
-				<anime>
 					<series_animedb_id>9379</series_animedb_id>
 					<series_title><![CDATA[Denpa Onna to Seishun Otoko]]></series_title>
 					<series_type>TV</series_type>
@@ -704,7 +727,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡, Erio Touwa, [not sure IxTx]]]></my_tags>
+					<my_tags><![CDATA[♡, Erio Touwa, [not sure *T*I*]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -712,7 +735,7 @@
 			
 				<anime>
 					<series_animedb_id>10638</series_animedb_id>
-					<series_title><![CDATA[Denpa Onna to Seishun Otoko Special]]></series_title>
+					<series_title><![CDATA[Denpa Onna to Seishun Otoko: Mayonaka no Taiyou]]></series_title>
 					<series_type>Special</series_type>
 					<series_episodes>1</series_episodes>
 					<my_id>0</my_id>
@@ -727,7 +750,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡, Erio Touwa, [not sure IxTx]]]></my_tags>
+					<my_tags><![CDATA[♡, Erio Touwa, [not sure *T*I*]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -819,7 +842,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡, Reverie Metherlence, [not sure IxTx], [not sure about romance], [haven't watched]]]></my_tags>
+					<my_tags><![CDATA[♡, Reverie Metherlence, [not sure *T*I*], [not sure about romance], [haven't watched]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -842,7 +865,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[Saber, [not sure IxTx], [haven't watched]]]></my_tags>
+					<my_tags><![CDATA[Saber, [not sure *T*I*], [haven't watched]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -865,7 +888,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡, Eri Ninamori, [not sure IxTx]]]></my_tags>
+					<my_tags><![CDATA[♡, Eri Ninamori, [not sure *T*I*]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -957,7 +980,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡, Inori Yuzuriha, [not sure IxTx],
+					<my_tags><![CDATA[♡, Inori Yuzuriha, [not sure *T*I*],
  [not sure about romance], [haven't watched]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
@@ -981,7 +1004,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡, Hayami Kohinata, [not sure IxTx]]]></my_tags>
+					<my_tags><![CDATA[♡, Hayami Kohinata, [not sure *T*I*]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -1073,7 +1096,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[Yuuko Shionji, [not sure IxTx]]]></my_tags>
+					<my_tags><![CDATA[Yuuko Shionji, [not sure *T*I*]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -1142,7 +1165,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡, Sawako Kuronuma, [not sure IxTx], [She is more like chimera than IxTx but still is closer to IxTx. Also characters seem to be a bit stupid. But funny anyway]]]></my_tags>
+					<my_tags><![CDATA[♡, Sawako Kuronuma, [not sure *T*I*], [She is more like chimera than IxTx but still is closer to IxTx. Also characters seem to be a bit stupid. But funny anyway]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -1150,7 +1173,7 @@
 			
 				<anime>
 					<series_animedb_id>2927</series_animedb_id>
-					<series_title><![CDATA[Kimikiss Pure Rouge]]></series_title>
+					<series_title><![CDATA[KimiKiss Pure Rouge]]></series_title>
 					<series_type>TV</series_type>
 					<series_episodes>24</series_episodes>
 					<my_id>0</my_id>
@@ -1166,6 +1189,29 @@
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
 					<my_tags><![CDATA[♡, Eriko Futami]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>33206</series_animedb_id>
+					<series_title><![CDATA[Kobayashi-san Chi no Maid Dragon]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>13</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>13</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[Kobayashi]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -1265,7 +1311,7 @@
 			
 				<anime>
 					<series_animedb_id>15437</series_animedb_id>
-					<series_title><![CDATA[Kore wa Zombie Desu ka? of the Dead OVA]]></series_title>
+					<series_title><![CDATA[Kore wa Zombie Desu ka? of the Dead: Hai, Minotake ni Attemasu]]></series_title>
 					<series_type>OVA</series_type>
 					<series_episodes>1</series_episodes>
 					<my_id>0</my_id>
@@ -1326,7 +1372,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡,Horizon Ariadust, [not sure IxTx],[not sure about romance], [haven't watched]]]></my_tags>
+					<my_tags><![CDATA[♡,Horizon Ariadust, [not sure *T*I*],[not sure about romance], [haven't watched]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -1418,7 +1464,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡, Akatsuki, [not sure IxTx], akatsukishiroe.wordpress.com]]></my_tags>
+					<my_tags><![CDATA[♡, Akatsuki, [not sure *T*I*], akatsukishiroe.wordpress.com]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -1441,7 +1487,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡, Akatsuki, [not sure IxTx], akatsukishiroe.wordpress.com]]></my_tags>
+					<my_tags><![CDATA[♡, Akatsuki, [not sure *T*I*], akatsukishiroe.wordpress.com]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -1464,7 +1510,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡, Rurumo Maji Mojiruka, [not sure IxTx], [haven't watched]]]></my_tags>
+					<my_tags><![CDATA[♡, Rurumo Maji Mojiruka, [not sure *T*I*], [haven't watched]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -1487,7 +1533,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡, Subaru Konoe, [not sure IxTx]]]></my_tags>
+					<my_tags><![CDATA[♡, Subaru Konoe, [not sure *T*I*]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -1510,7 +1556,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡, Hitagi Senjougahara, [not sure IxTx]]]></my_tags>
+					<my_tags><![CDATA[♡, 👊, Hitagi Senjougahara, [not sure *T*I*], [aggressive]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -1533,7 +1579,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡, Nanaka Yatsushiro, [not sure IxTx]]]></my_tags>
+					<my_tags><![CDATA[♡, Nanaka Yatsushiro, [not sure *T*I*]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -1556,7 +1602,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡, Yuki Nagato, [not sure IxTx], [not sure about romance]]]></my_tags>
+					<my_tags><![CDATA[♡, Yuki Nagato, [not sure *T*I*], [not sure about romance]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -1632,6 +1678,29 @@
 				</anime>
 			
 				<anime>
+					<series_animedb_id>31414</series_animedb_id>
+					<series_title><![CDATA[Nijiiro Days]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>24</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>24</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Anna Kobayakawa, [not sure *T*I*]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
 					<series_animedb_id>19815</series_animedb_id>
 					<series_title><![CDATA[No Game No Life]]></series_title>
 					<series_type>TV</series_type>
@@ -1694,7 +1763,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡, Ringo Kinoshita, [not sure IxTx]]]></my_tags>
+					<my_tags><![CDATA[♡, Ringo Kinoshita, [not sure *T*I*]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -1717,7 +1786,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡, Ruri Gokou, [not sure IxTx], [haven't watched]]]></my_tags>
+					<my_tags><![CDATA[♡, Ruri Gokou, [not sure *T*I*], [not sure about romance], [haven't watched]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -1816,29 +1885,6 @@
 				</anime>
 			
 				<anime>
-					<series_animedb_id>31240</series_animedb_id>
-					<series_title><![CDATA[Re:Zero kara Hajimeru Isekai Seikatsu]]></series_title>
-					<series_type>TV</series_type>
-					<series_episodes>25</series_episodes>
-					<my_id>0</my_id>
-					<my_watched_episodes>0</my_watched_episodes>
-					<my_start_date>0000-00-00</my_start_date>
-					<my_finish_date>0000-00-00</my_finish_date>
-					<my_rated></my_rated>
-					<my_score>0</my_score>
-					<my_dvd></my_dvd>
-					<my_storage></my_storage>
-					<my_status>Dropped</my_status>
-					<my_comments><![CDATA[]]></my_comments>
-					<my_times_watched>0</my_times_watched>
-					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[Rem, [not sure IxTx]]]></my_tags>
-					<my_rewatching>0</my_rewatching>
-					<my_rewatching_ep>0</my_rewatching_ep>
-					<update_on_import>0</update_on_import>
-				</anime>
-			
-				<anime>
 					<series_animedb_id>30015</series_animedb_id>
 					<series_title><![CDATA[ReLIFE]]></series_title>
 					<series_type>TV</series_type>
@@ -1885,8 +1931,31 @@
 				</anime>
 			
 				<anime>
+					<series_animedb_id>23277</series_animedb_id>
+					<series_title><![CDATA[Saenai Heroine no Sodatekata]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[♡, Utaha Kasumigaoka, [not sure about romance], [unlikely to be the main lead]]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
 					<series_animedb_id>13759</series_animedb_id>
-					<series_title><![CDATA[Sakurasou no Pet na Kanojo]]></series_title>
+					<series_title><![CDATA[Sakura-sou no Pet na Kanojo]]></series_title>
 					<series_type>TV</series_type>
 					<series_episodes>24</series_episodes>
 					<my_id>0</my_id>
@@ -1924,7 +1993,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡, Shizuno Urushibara, [not sure IxTx], [not sure about romance]]]></my_tags>
+					<my_tags><![CDATA[♡, Shizuno Urushibara, [not sure *T*I*], [not sure about romance]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -1993,7 +2062,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡, Ikaros, [not sure IxTx], [not sure about romance]]]></my_tags>
+					<my_tags><![CDATA[♡, Ikaros, [not sure *T*I*], [not sure about romance]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -2016,7 +2085,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡, Kurisu Makise, [not sure IxTx]]]></my_tags>
+					<my_tags><![CDATA[♡, Kurisu Makise, [not sure *T*I*]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -2039,7 +2108,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡, Kurisu Makise, [not sure IxTx]]]></my_tags>
+					<my_tags><![CDATA[♡, Kurisu Makise, [not sure *T*I*]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -2154,7 +2223,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡, Hiromi Yuasa, [not sure IxTx]]]></my_tags>
+					<my_tags><![CDATA[♡, Hiromi Yuasa, [not sure *T*I*]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -2164,16 +2233,16 @@
 					<series_animedb_id>34902</series_animedb_id>
 					<series_title><![CDATA[Tsurezure Children]]></series_title>
 					<series_type>TV</series_type>
-					<series_episodes>0</series_episodes>
+					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>0</my_watched_episodes>
+					<my_watched_episodes>12</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
 					<my_score>0</my_score>
 					<my_dvd></my_dvd>
 					<my_storage></my_storage>
-					<my_status>Watching</my_status>
+					<my_status>Dropped</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -2200,7 +2269,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[Tomoko Kuroki, [not sure IxTx]]]></my_tags>
+					<my_tags><![CDATA[Tomoko Kuroki, [not sure *T*I*]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -2269,7 +2338,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡, Robin Sena, [not sure IxTx]]]></my_tags>
+					<my_tags><![CDATA[♡, Robin Sena, [not sure *T*I*]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -2361,7 +2430,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[♡, Urara Shiraishi]]></my_tags>
+					<my_tags><![CDATA[♡, Urara Shiraishi, [not sure *T*I*]]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>
@@ -2394,9 +2463,32 @@
 					<series_animedb_id>35507</series_animedb_id>
 					<series_title><![CDATA[Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV)]]></series_title>
 					<series_type>TV</series_type>
-					<series_episodes>0</series_episodes>
+					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>0</my_watched_episodes>
+					<my_watched_episodes>12</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_dvd></my_dvd>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_tags><![CDATA[Suzune Horikita]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>34798</series_animedb_id>
+					<series_title><![CDATA[Yuru Camp△]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>12</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
@@ -2407,7 +2499,7 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
-					<my_tags><![CDATA[Suzune Horikita]]></my_tags>
+					<my_tags><![CDATA[Rin Shima]]></my_tags>
 					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<update_on_import>0</update_on_import>

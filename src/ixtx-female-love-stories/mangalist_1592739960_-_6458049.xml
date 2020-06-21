@@ -12,11 +12,11 @@
 			<user_id>6458049</user_id>
 			<user_name>ixtx</user_name>
 			<user_export_type>2</user_export_type>
-			<user_total_manga>40</user_total_manga>
-			<user_total_reading>0</user_total_reading>
-			<user_total_completed>18</user_total_completed>
-			<user_total_onhold>0</user_total_onhold>
-			<user_total_dropped>22</user_total_dropped>
+			<user_total_manga>52</user_total_manga>
+			<user_total_reading>8</user_total_reading>
+			<user_total_completed>7</user_total_completed>
+			<user_total_onhold>2</user_total_onhold>
+			<user_total_dropped>35</user_total_dropped>
 			<user_total_plantoread>0</user_total_plantoread>
 		</myinfo>
 	
@@ -79,7 +79,7 @@
 					<my_status>Dropped</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_read>0</my_times_read>
-					<my_tags><![CDATA[♡,Shino Aizawa,[not sure IxTx]]]></my_tags>
+					<my_tags><![CDATA[♡,Shino Aizawa,[not sure *T*I*]]]></my_tags>
 					<my_reread_value></my_reread_value>
 					<update_on_import>0</update_on_import>
 				</manga>
@@ -87,8 +87,8 @@
 				<manga>
 					<manga_mangadb_id>63535</manga_mangadb_id>
 					<manga_title><![CDATA[Amaama to Inazuma]]></manga_title>
-					<manga_volumes>0</manga_volumes>
-					<manga_chapters>0</manga_chapters>
+					<manga_volumes>12</manga_volumes>
+					<manga_chapters>63</manga_chapters>
 					<my_id>61047422</my_id>
 					<my_read_volumes>0</my_read_volumes>
 					<my_read_chapters>0</my_read_chapters>
@@ -100,7 +100,49 @@
 					<my_status>Dropped</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_read>0</my_times_read>
-					<my_tags><![CDATA[♡,Kotori Iida,[not sure IxTx], [anime ends at vol.4 ch.19]]]></my_tags>
+					<my_tags><![CDATA[♡,Kotori Iida,[not sure *T*I*], [anime ends at vol.4 ch.19]]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>88923</manga_mangadb_id>
+					<manga_title><![CDATA[Arifureta Shokugyou de Sekai Saikyou]]></manga_title>
+					<manga_volumes>0</manga_volumes>
+					<manga_chapters>0</manga_chapters>
+					<my_id>68249873</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡, Yue, [not sure *T*I*]]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>39325</manga_mangadb_id>
+					<manga_title><![CDATA[Boku dake ga Inai Machi]]></manga_title>
+					<manga_volumes>9</manga_volumes>
+					<manga_chapters>49</manga_chapters>
+					<my_id>68249981</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡, Kayo Hinazuki, [not sure *T*I*], [not sure about romance], [haven't read]]]></my_tags>
 					<my_reread_value></my_reread_value>
 					<update_on_import>0</update_on_import>
 				</manga>
@@ -108,7 +150,7 @@
 				<manga>
 					<manga_mangadb_id>98104</manga_mangadb_id>
 					<manga_title><![CDATA[Boku no Kanojo ga Majimesugiru Shojo Bitch na Ken]]></manga_title>
-					<manga_volumes>0</manga_volumes>
+					<manga_volumes>8</manga_volumes>
 					<manga_chapters>0</manga_chapters>
 					<my_id>61047424</my_id>
 					<my_read_volumes>0</my_read_volumes>
@@ -121,16 +163,16 @@
 					<my_status>Dropped</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_read>0</my_times_read>
-					<my_tags><![CDATA[♡,Akiho Kousaka,[not sure IxTx]]]></my_tags>
+					<my_tags><![CDATA[♡,Akiho Kousaka,[not sure *T*I*]]]></my_tags>
 					<my_reread_value></my_reread_value>
 					<update_on_import>0</update_on_import>
 				</manga>
 			
 				<manga>
 					<manga_mangadb_id>26769</manga_mangadb_id>
-					<manga_title><![CDATA[Bokura wa Minna Kawaisou]]></manga_title>
-					<manga_volumes>0</manga_volumes>
-					<manga_chapters>0</manga_chapters>
+					<manga_title><![CDATA[Bokura wa Minna Kawai-sou]]></manga_title>
+					<manga_volumes>11</manga_volumes>
+					<manga_chapters>93</manga_chapters>
 					<my_id>61047345</my_id>
 					<my_read_volumes>0</my_read_volumes>
 					<my_read_chapters>0</my_read_chapters>
@@ -160,10 +202,31 @@
 					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
 					<my_score>0</my_score>
 					<my_storage></my_storage>
-					<my_status>Completed</my_status>
+					<my_status>On-Hold</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_read>0</my_times_read>
 					<my_tags><![CDATA[♡, Rizu Ogata, [unlikely to be the main lead]]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>80705</manga_mangadb_id>
+					<manga_title><![CDATA[Bu ni Mi wo Sasagete Hyaku to Yonen. Elf de Yarinaosu Musha Shugyou]]></manga_title>
+					<manga_volumes>10</manga_volumes>
+					<manga_chapters>180</manga_chapters>
+					<my_id>68250004</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡, Alma Shijima, [not sure *T*I*], [not sure about romance], [haven't read]]]></my_tags>
 					<my_reread_value></my_reread_value>
 					<update_on_import>0</update_on_import>
 				</manga>
@@ -184,7 +247,7 @@
 					<my_status>Dropped</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_read>0</my_times_read>
-					<my_tags><![CDATA[♡,Tokiko Tsumura,[not sure IxTx], [not sure about romance], [haven't read]]]></my_tags>
+					<my_tags><![CDATA[♡,Tokiko Tsumura,[not sure *T*I*], [not sure about romance], [haven't read]]]></my_tags>
 					<my_reread_value></my_reread_value>
 					<update_on_import>0</update_on_import>
 				</manga>
@@ -202,10 +265,10 @@
 					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
 					<my_score>0</my_score>
 					<my_storage></my_storage>
-					<my_status>Completed</my_status>
+					<my_status>Reading</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_read>0</my_times_read>
-					<my_tags><![CDATA[♡, Roka Shibasaki,[not sure IxTx], [anime ends at vol.4 ch.36]]]></my_tags>
+					<my_tags><![CDATA[♡, Roka Shibasaki,[not sure *T*I*], [anime ends at vol.4 ch.36]]]></my_tags>
 					<my_reread_value></my_reread_value>
 					<update_on_import>0</update_on_import>
 				</manga>
@@ -226,7 +289,7 @@
 					<my_status>Dropped</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_read>0</my_times_read>
-					<my_tags><![CDATA[♡,Erio Touwa,[not sure IxTx] ]]></my_tags>
+					<my_tags><![CDATA[♡,Erio Touwa,[not sure *T*I*] ]]></my_tags>
 					<my_reread_value></my_reread_value>
 					<update_on_import>0</update_on_import>
 				</manga>
@@ -247,7 +310,28 @@
 					<my_status>Dropped</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_read>0</my_times_read>
-					<my_tags><![CDATA[♡,Eriko Usami,[not sure IxTx]]]></my_tags>
+					<my_tags><![CDATA[♡,Eriko Usami,[not sure *T*I*]]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>67879</manga_mangadb_id>
+					<manga_title><![CDATA[Gate: Jieitai Kanochi nite, Kaku Tatakaeri]]></manga_title>
+					<manga_volumes>10</manga_volumes>
+					<manga_chapters>0</manga_chapters>
+					<my_id>68249782</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[Lelei la Lalena]]></my_tags>
 					<my_reread_value></my_reread_value>
 					<update_on_import>0</update_on_import>
 				</manga>
@@ -268,7 +352,7 @@
 					<my_status>Dropped</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_read>0</my_times_read>
-					<my_tags><![CDATA[Yuki Kurokawa,[not sure IxTx]]]></my_tags>
+					<my_tags><![CDATA[Yuki Kurokawa,[not sure *T*I*]]]></my_tags>
 					<my_reread_value></my_reread_value>
 					<update_on_import>0</update_on_import>
 				</manga>
@@ -289,7 +373,7 @@
 					<my_status>Dropped</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_read>0</my_times_read>
-					<my_tags><![CDATA[♡,In Gyi Yoon, [not sure IxTx],[not sure about romance], [haven't read]]]></my_tags>
+					<my_tags><![CDATA[♡,In Gyi Yoon, [not sure *T*I*],[not sure about romance], [haven't read]]]></my_tags>
 					<my_reread_value></my_reread_value>
 					<update_on_import>0</update_on_import>
 				</manga>
@@ -307,7 +391,7 @@
 					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
 					<my_score>0</my_score>
 					<my_storage></my_storage>
-					<my_status>Completed</my_status>
+					<my_status>Reading</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_read>0</my_times_read>
 					<my_tags><![CDATA[♡, Chisa Kotegawa, [no romance
@@ -332,14 +416,14 @@
 					<my_status>Completed</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_read>0</my_times_read>
-					<my_tags><![CDATA[♡, Sae Kagura,[not sure IxTx] ]]></my_tags>
+					<my_tags><![CDATA[♡, Sae Kagura,[not sure *T*I*] ]]></my_tags>
 					<my_reread_value></my_reread_value>
 					<update_on_import>0</update_on_import>
 				</manga>
 			
 				<manga>
 					<manga_mangadb_id>87466</manga_mangadb_id>
-					<manga_title><![CDATA[Henjo: Hen na Joshikousei Amaguri Chiko]]></manga_title>
+					<manga_title><![CDATA[Henjo: Hen na Joshikousei Amaguri Senko]]></manga_title>
 					<manga_volumes>0</manga_volumes>
 					<manga_chapters>0</manga_chapters>
 					<my_id>61047258</my_id>
@@ -350,7 +434,7 @@
 					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
 					<my_score>0</my_score>
 					<my_storage></my_storage>
-					<my_status>Completed</my_status>
+					<my_status>Reading</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_read>0</my_times_read>
 					<my_tags><![CDATA[♡, Senko Amaguri]]></my_tags>
@@ -361,8 +445,8 @@
 				<manga>
 					<manga_mangadb_id>44501</manga_mangadb_id>
 					<manga_title><![CDATA[High Score Girl]]></manga_title>
-					<manga_volumes>0</manga_volumes>
-					<manga_chapters>0</manga_chapters>
+					<manga_volumes>10</manga_volumes>
+					<manga_chapters>65</manga_chapters>
 					<my_id>61047265</my_id>
 					<my_read_volumes>0</my_read_volumes>
 					<my_read_chapters>0</my_read_chapters>
@@ -371,7 +455,7 @@
 					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
 					<my_score>0</my_score>
 					<my_storage></my_storage>
-					<my_status>Completed</my_status>
+					<my_status>Reading</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_read>0</my_times_read>
 					<my_tags><![CDATA[♡, 👊, Akira Oono]]></my_tags>
@@ -395,7 +479,7 @@
 					<my_status>Dropped</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_read>0</my_times_read>
-					<my_tags><![CDATA[♡,Kaguya Shinomiya,[not sure IxTx]]]></my_tags>
+					<my_tags><![CDATA[♡,Kaguya Shinomiya,[not sure *T*I*]]]></my_tags>
 					<my_reread_value></my_reread_value>
 					<update_on_import>0</update_on_import>
 				</manga>
@@ -422,10 +506,31 @@
 				</manga>
 			
 				<manga>
+					<manga_mangadb_id>3378</manga_mangadb_id>
+					<manga_title><![CDATA[Kimi ni Todoke]]></manga_title>
+					<manga_volumes>30</manga_volumes>
+					<manga_chapters>125</manga_chapters>
+					<my_id>68250213</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡, Sawako Kuronuma, [not sure *T*I*]]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
 					<manga_mangadb_id>44155</manga_mangadb_id>
 					<manga_title><![CDATA[Kimi wa Midara na Boku no Joou]]></manga_title>
-					<manga_volumes>0</manga_volumes>
-					<manga_chapters>0</manga_chapters>
+					<manga_volumes>2</manga_volumes>
+					<manga_chapters>13</manga_chapters>
 					<my_id>61047455</my_id>
 					<my_read_volumes>0</my_read_volumes>
 					<my_read_chapters>0</my_read_chapters>
@@ -437,7 +542,7 @@
 					<my_status>Dropped</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_read>0</my_times_read>
-					<my_tags><![CDATA[♡,Subaru Kawana,[not sure IxTx]]]></my_tags>
+					<my_tags><![CDATA[♡,Subaru Kawana,[not sure *T*I*]]]></my_tags>
 					<my_reread_value></my_reread_value>
 					<update_on_import>0</update_on_import>
 				</manga>
@@ -464,6 +569,27 @@
 				</manga>
 			
 				<manga>
+					<manga_mangadb_id>83573</manga_mangadb_id>
+					<manga_title><![CDATA[Kono Sekai ga Game da to Ore dake ga Shitteiru]]></manga_title>
+					<manga_volumes>0</manga_volumes>
+					<manga_chapters>0</manga_chapters>
+					<my_id>68250402</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡, [not sure *T*I*], [not sure about romance], [haven't read]]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
 					<manga_mangadb_id>30315</manga_mangadb_id>
 					<manga_title><![CDATA[Last Game]]></manga_title>
 					<manga_volumes>11</manga_volumes>
@@ -485,6 +611,27 @@
 				</manga>
 			
 				<manga>
+					<manga_mangadb_id>46024</manga_mangadb_id>
+					<manga_title><![CDATA[Log Horizon]]></manga_title>
+					<manga_volumes>0</manga_volumes>
+					<manga_chapters>0</manga_chapters>
+					<my_id>68249820</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Reading</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡, Akatsuki]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
 					<manga_mangadb_id>21860</manga_mangadb_id>
 					<manga_title><![CDATA[Mayo Chiki!]]></manga_title>
 					<manga_volumes>7</manga_volumes>
@@ -500,7 +647,7 @@
 					<my_status>Completed</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_read>0</my_times_read>
-					<my_tags><![CDATA[♡,Subaru Konoe, [not sure IxTx], [anime ends at vol.3 ch.19]]]></my_tags>
+					<my_tags><![CDATA[♡,Subaru Konoe, [not sure *T*I*], [anime ends at vol.3 ch.19]]]></my_tags>
 					<my_reread_value></my_reread_value>
 					<update_on_import>0</update_on_import>
 				</manga>
@@ -508,8 +655,8 @@
 				<manga>
 					<manga_mangadb_id>84339</manga_mangadb_id>
 					<manga_title><![CDATA[Mizutama Honey Boy]]></manga_title>
-					<manga_volumes>0</manga_volumes>
-					<manga_chapters>0</manga_chapters>
+					<manga_volumes>10</manga_volumes>
+					<manga_chapters>63</manga_chapters>
 					<my_id>61047468</my_id>
 					<my_read_volumes>0</my_read_volumes>
 					<my_read_chapters>0</my_read_chapters>
@@ -521,7 +668,7 @@
 					<my_status>Dropped</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_read>0</my_times_read>
-					<my_tags><![CDATA[♡,Mei Sengoku,[not sure IxTx]]]></my_tags>
+					<my_tags><![CDATA[♡,Mei Sengoku,[not sure *T*I*]]]></my_tags>
 					<my_reread_value></my_reread_value>
 					<update_on_import>0</update_on_import>
 				</manga>
@@ -543,6 +690,48 @@
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_read>0</my_times_read>
 					<my_tags><![CDATA[♡,Mikoto Urabe, [anime ends at vol.5 ch.36]]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>39291</manga_mangadb_id>
+					<manga_title><![CDATA[Nijiiro Days]]></manga_title>
+					<manga_volumes>16</manga_volumes>
+					<manga_chapters>80</manga_chapters>
+					<my_id>68250486</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡, Anna Kobayakawa, [not sure *T*I*]]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>48399</manga_mangadb_id>
+					<manga_title><![CDATA[No Game No Life]]></manga_title>
+					<manga_volumes>0</manga_volumes>
+					<manga_chapters>0</manga_chapters>
+					<my_id>68249726</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Reading</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[Shiro]]></my_tags>
 					<my_reread_value></my_reread_value>
 					<update_on_import>0</update_on_import>
 				</manga>
@@ -605,7 +794,7 @@
 					<my_status>Dropped</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_read>0</my_times_read>
-					<my_tags><![CDATA[♡,Mirea Mizushima,[not sure IxTx], [not sure about romance], [haven't read]]]></my_tags>
+					<my_tags><![CDATA[♡,Mirea Mizushima,[not sure *T*I*], [not sure about romance], [haven't read]]]></my_tags>
 					<my_reread_value></my_reread_value>
 					<update_on_import>0</update_on_import>
 				</manga>
@@ -614,7 +803,7 @@
 					<manga_mangadb_id>78523</manga_mangadb_id>
 					<manga_title><![CDATA[ReLIFE]]></manga_title>
 					<manga_volumes>0</manga_volumes>
-					<manga_chapters>0</manga_chapters>
+					<manga_chapters>237</manga_chapters>
 					<my_id>61047271</my_id>
 					<my_read_volumes>0</my_read_volumes>
 					<my_read_chapters>0</my_read_chapters>
@@ -623,7 +812,7 @@
 					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
 					<my_score>0</my_score>
 					<my_storage></my_storage>
-					<my_status>Completed</my_status>
+					<my_status>Dropped</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_read>0</my_times_read>
 					<my_tags><![CDATA[♡, Chizuru Hishiro, [anime ends at ch.108~]]]></my_tags>
@@ -634,8 +823,8 @@
 				<manga>
 					<manga_mangadb_id>92182</manga_mangadb_id>
 					<manga_title><![CDATA[Seishun Buta Yarou wa Bunny Girl-senpai no Yume wo Minai]]></manga_title>
-					<manga_volumes>0</manga_volumes>
-					<manga_chapters>0</manga_chapters>
+					<manga_volumes>2</manga_volumes>
+					<manga_chapters>20</manga_chapters>
 					<my_id>61047537</my_id>
 					<my_read_volumes>0</my_read_volumes>
 					<my_read_chapters>0</my_read_chapters>
@@ -647,7 +836,7 @@
 					<my_status>Dropped</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_read>0</my_times_read>
-					<my_tags><![CDATA[♡,Mai Sakurajima, [not sure IxTx], ,[haven't read]]]></my_tags>
+					<my_tags><![CDATA[♡,Mai Sakurajima, [not sure *T*I*], ,[haven't read]]]></my_tags>
 					<my_reread_value></my_reread_value>
 					<update_on_import>0</update_on_import>
 				</manga>
@@ -686,10 +875,52 @@
 					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
 					<my_score>0</my_score>
 					<my_storage></my_storage>
-					<my_status>Completed</my_status>
+					<my_status>Reading</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_read>0</my_times_read>
 					<my_tags><![CDATA[♡, Kirika Hijiribashi]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>23390</manga_mangadb_id>
+					<manga_title><![CDATA[Shingeki no Kyojin]]></manga_title>
+					<manga_volumes>0</manga_volumes>
+					<manga_chapters>0</manga_chapters>
+					<my_id>68250293</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡, Mikasa Ackerman, [not sure about romance]]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>8144</manga_mangadb_id>
+					<manga_title><![CDATA[Sora no Otoshimono]]></manga_title>
+					<manga_volumes>20</manga_volumes>
+					<manga_chapters>97</manga_chapters>
+					<my_id>68250250</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡, Ikaros, [not sure *T*I*], [haven't read]]]></my_tags>
 					<my_reread_value></my_reread_value>
 					<update_on_import>0</update_on_import>
 				</manga>
@@ -707,10 +938,10 @@
 					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
 					<my_score>0</my_score>
 					<my_storage></my_storage>
-					<my_status>Completed</my_status>
+					<my_status>Dropped</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_read>0</my_times_read>
-					<my_tags><![CDATA[♡,Touka Aizuki, [not sure IxTx]]]></my_tags>
+					<my_tags><![CDATA[♡,Touka Aizuki, [not sure *T*I*]]]></my_tags>
 					<my_reread_value></my_reread_value>
 					<update_on_import>0</update_on_import>
 				</manga>
@@ -718,8 +949,8 @@
 				<manga>
 					<manga_mangadb_id>92149</manga_mangadb_id>
 					<manga_title><![CDATA[Tomo-chan wa Onnanoko!]]></manga_title>
-					<manga_volumes>0</manga_volumes>
-					<manga_chapters>0</manga_chapters>
+					<manga_volumes>8</manga_volumes>
+					<manga_chapters>56</manga_chapters>
 					<my_id>61292550</my_id>
 					<my_read_volumes>0</my_read_volumes>
 					<my_read_chapters>0</my_read_chapters>
@@ -728,7 +959,7 @@
 					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
 					<my_score>0</my_score>
 					<my_storage></my_storage>
-					<my_status>Completed</my_status>
+					<my_status>Reading</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_read>0</my_times_read>
 					<my_tags><![CDATA[Misuzu Gundou]]></my_tags>
@@ -760,8 +991,8 @@
 				<manga>
 					<manga_mangadb_id>58027</manga_mangadb_id>
 					<manga_title><![CDATA[Tsurezure Children]]></manga_title>
-					<manga_volumes>0</manga_volumes>
-					<manga_chapters>0</manga_chapters>
+					<manga_volumes>12</manga_volumes>
+					<manga_chapters>212</manga_chapters>
 					<my_id>61047292</my_id>
 					<my_read_volumes>0</my_read_volumes>
 					<my_read_chapters>0</my_read_chapters>
@@ -770,7 +1001,7 @@
 					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
 					<my_score>0</my_score>
 					<my_storage></my_storage>
-					<my_status>Completed</my_status>
+					<my_status>Dropped</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_read>0</my_times_read>
 					<my_tags><![CDATA[♡,Chizuru Takano, Fuyumi Toda, others]]></my_tags>
@@ -815,7 +1046,7 @@
 					<my_status>Dropped</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_read>0</my_times_read>
-					<my_tags><![CDATA[♡,Yukina Himuro,[not sure IxTx]]]></my_tags>
+					<my_tags><![CDATA[♡,Yukina Himuro,[not sure *T*I*]]]></my_tags>
 					<my_reread_value></my_reread_value>
 					<update_on_import>0</update_on_import>
 				</manga>
@@ -833,10 +1064,31 @@
 					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
 					<my_score>0</my_score>
 					<my_storage></my_storage>
-					<my_status>Completed</my_status>
+					<my_status>On-Hold</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_read>0</my_times_read>
 					<my_tags><![CDATA[♡, Yukino Yukinoshita]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>35003</manga_mangadb_id>
+					<manga_title><![CDATA[Yamada-kun to 7-nin no Majo]]></manga_title>
+					<manga_volumes>28</manga_volumes>
+					<manga_chapters>246</manga_chapters>
+					<my_id>68250331</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[♡, Urara Shiraishi, [not sure *T*I*]]]></my_tags>
 					<my_reread_value></my_reread_value>
 					<update_on_import>0</update_on_import>
 				</manga>
@@ -857,7 +1109,7 @@
 					<my_status>Completed</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_read>0</my_times_read>
-					<my_tags><![CDATA[♡,Shia Arisugawa,[not sure IxTx]]]></my_tags>
+					<my_tags><![CDATA[♡,Shia Arisugawa,[not sure *T*I*]]]></my_tags>
 					<my_reread_value></my_reread_value>
 					<update_on_import>0</update_on_import>
 				</manga>
