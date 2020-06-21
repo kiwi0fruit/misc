@@ -15,7 +15,7 @@ But there are more than that. Three first types of characters actually are some 
 * \*T\*I\* in JATS: NTJIO, STJIO, NTPIY, STPIY,
 * IxTx in MBTI: INTx and ISTx,
 * LXI/XLI in Socionics: LII, LSI, ILI, SLI,
-* (See tables [**one**](https://github.com/kiwi0fruit/jats/blob/master/README.md#115-dominant-agnostic-type-names), [**two**](https://github.com/kiwi0fruit/jats/blob/master/README.md#4-socionics-reference-types-names-vs-mbti-types-names) and [**three**](https://github.com/kiwi0fruit/jats/blob/master/README.md#9-intermediate-and-unknown-types-names) from the article for unnecessary extra details).
+* (See tables [**one**](https://github.com/kiwi0fruit/jats/blob/master/README.md#4-socionics-reference-types-names-vs-mbti-types-names) and [**two**](https://github.com/kiwi0fruit/jats/blob/master/README.md#9-intermediate-and-unknown-types-names) from the article for unnecessary extra details).
 
 Also with an additional condition of being non violent and non aggressive personality (see above for details) - this is in most cases valid for NT\*I\* (INTx) and STPIY, but sometimes is not valid for STJIO (ISTx). **Surely there are \*T\*I\* that are neither emotionless girls nor kuuderes.**
 
