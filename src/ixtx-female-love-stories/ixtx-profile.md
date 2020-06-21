@@ -32,7 +32,7 @@ https://myanimelist.net/mangalist/kiwi0fruit?status=7&tag=2list
 7. ♡ Daria (1997–2001) [animated TV series] - **Daria Morgendorffer**
 8. ♡ Spellbound (2011) [movie] - **Kang Yeo-Ri** (O-ssak-han yeon-ae)
 
-[Books and novels with \*T\*I\* female characters]
+[Books and novels with *T*I* female characters]
 ================================
 1. ♡ When A Snail Loves [CN] - **Xu Xu**, https://novelupdates.com/series/when-a-snail-loves
 2. ♡ Dungeon Defense [Korean] - **Lapis Lazuli**, 👊, https://novelupdates.com/series/dungeon-defense
