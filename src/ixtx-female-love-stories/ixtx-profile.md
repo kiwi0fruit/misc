@@ -1,3 +1,6 @@
+Kuudere, dandere, introverted and logical female love stories
+================================
+
 [*T*I* list]
 ================================
 This is a special MAL profile https://myanimelist.net/profile/ixtx that contains anime, manga and LN with:
@@ -23,23 +26,23 @@ https://myanimelist.net/mangalist/kiwi0fruit?status=7&tag=2list
 
 [Movies and TV series with *T*I* female characters]
 ================================
-1. ♡ Star Trek: Enterprise (2001–2005) [TV series] - **T'Pol**
-2. ♡ ShakespeaRe-Told, The Taming of the Shrew (2005) [movie] - **Kate Minola**
-3. ♡ Plyus odin (2008) [movie] - **Masha**
-4. ♡ Moonrise Kingdom (2012) [movie] - **Suzy Bishop** [I'm not sure that she is *T*I*.]
-5. ♡ Harry Potter and the Methods of Rationality [book] - **Hermione Granger** [I'm not sure that she is *T*I*.]
-6. ♡ Addams Family Values (1993) [movie] - **Wednesday Addams**
-7. ♡ Daria (1997–2001) [animated TV series] - **Daria Morgendorffer**
-8. ♡ Spellbound (2011) [movie] - **Kang Yeo-Ri** (O-ssak-han yeon-ae)
+1. ♡ Star Trek: Enterprise (2001–2005) [TV series] - T'Pol
+2. ♡ ShakespeaRe-Told, The Taming of the Shrew (2005) [movie] - Kate Minola
+3. ♡ Plyus odin (2008) [movie] - Masha
+4. ♡ Moonrise Kingdom (2012) [movie] - Suzy Bishop [I'm not sure that she is *T*I*.]
+5. ♡ Harry Potter and the Methods of Rationality [book] - Hermione Granger [I'm not sure that she is *T*I*.]
+6. ♡ Addams Family Values (1993) [movie] - Wednesday Addams
+7. ♡ Daria (1997–2001) [animated TV series] - Daria Morgendorffer
+8. ♡ Spellbound (2011) [movie] - Kang Yeo-Ri (O-ssak-han yeon-ae)
 
 [Books and novels with *T*I* female characters]
 ================================
-1. ♡ When A Snail Loves [CN] - **Xu Xu**, https://novelupdates.com/series/when-a-snail-loves
-2. ♡ Dungeon Defense [Korean] - **Lapis Lazuli**, 👊, https://novelupdates.com/series/dungeon-defense
+1. ♡ When A Snail Loves [CN] - Xu Xu, https://novelupdates.com/series/when-a-snail-loves
+2. ♡ Dungeon Defense [Korean] - Lapis Lazuli, 👊, https://novelupdates.com/series/dungeon-defense
 3. ♡ The Experimental Log of the Crazy Lich [CN], [not sure about romance], [haven't read], https://novelupdates.com/series/the-experimental-log-of-the-crazy-lich
-4. ♡ Release that Witch [CN] - **Anna**, [not sure about romance], https://novelupdates.com/series/release-that-witch
+4. ♡ Release that Witch [CN] - Anna, [not sure about romance], https://novelupdates.com/series/release-that-witch
 5. ♡ Hokuou Kizoku to Moukinzuma no Yukiguni Karigurashi [JP], [haven't read], https://novelupdates.com/series/hokuou-kizoku-to-moukinzuma-no-yukiguni-karigurashi
-6. ♡ The Simulacrum (by Egathentale) - **Judy**, https://www.royalroad.com/fiction/23173/the-simulacrum
+6. ♡ The Simulacrum (by Egathentale) - Judy, https://www.royalroad.com/fiction/23173/the-simulacrum
 
 [Bonus]
 ================================
