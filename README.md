@@ -18,7 +18,7 @@
 | **1**  | [**atom-sugartex-completions**](https://github.com/kiwi0fruit/sugartex-completions) (*fork*). Easy Unicode input for Atom optimized for [SugarTeX](https://github.com/kiwi0fruit/sugartex). | |
 | **0**  | [**miranda-im-111**](https://github.com/kiwi0fruit/miranda-im-111). Miranda IM 111 Pack source code and latest installer. | |
 | **0**  | [**shutilwhich-cwdpatch**](https://github.com/kiwi0fruit/shutilwhich-cwdpatch). Patch for shutil.which and shutilwhich that disables search in CWD on Windows. | |
-| **0**  | [**py-open-fonts**](https://github.com/kiwi0fruit/py-open-fonts). Open Fonts in pip and conda. | |
+| **1**  | [**py-open-fonts**](https://github.com/kiwi0fruit/py-open-fonts). Open Fonts in pip and conda. | 1 |
 |        | **Repackaged (7)** | |
 | **0**  | [**vscode-theme-laravel-pycharm**](https://github.com/kiwi0fruit/vscode-theme-laravel-pycharm) (*fork*). Laravel code theme for Visual Studio Code and for PyCharm. | |
 | **0**  | [**atom-highlight-bad-chars-bl**](https://github.com/kiwi0fruit/atom-highlight-bad-chars-bl) (*fork*). Atom plugin: Highlight bad Unicode characters that can cause hard to spot syntax errors. | |
