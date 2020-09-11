@@ -32,4 +32,4 @@ List of anime, manga, movies, books, TV series & comics with IxTx romance is in 
 
 ### UPD
 
-In case this post is archieved but you'd like to add something please visit [**this forum**](https://myanimelist.net/forum/?topicid=1459621) (there are also links to crossposts with suggestions that are not in this list).
+In case this post is archieved but you'd like to add something please visit [**this forum**](https://myanimelist.net/forum/?topicid=1862767) (there are also links to crossposts with suggestions that are not in this list).
