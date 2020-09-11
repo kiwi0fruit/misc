@@ -32,4 +32,11 @@ List of anime, manga, movies, books, TV series & comics with IxTx romance is in 
 
 ### UPD
 
-In case this post is archieved but you'd like to add something please visit [**this forum**](https://myanimelist.net/forum/?topicid=1862767) (there are also links to crossposts with suggestions that are not in this list).
+In case this post is archieved but you'd like to add something please visit [**this forum**](https://myanimelist.net/forum/?topicid=1862767). There are links to crossposts with suggestions that are not in this list:
+
+* [r/anime/60ffp8](https://www.reddit.com/r/anime/comments/60ffp8/kuudere_dandere_introverted_and_logical_female/)
+* [r/Animesuggest/60lwpx](https://www.reddit.com/r/Animesuggest/comments/60lwpx/kuudere_dandere_introverted_and_logical_female/)
+* [r/MovieSuggestions/64i155](https://www.reddit.com/r/MovieSuggestions/comments/64i155/emotionless_girls_introverted_and_logical_female/)
+* [r/manga/66nqpc](https://www.reddit.com/r/manga/comments/66nqpc/kuudere_dandere_introverted_and_logical_female/)
+* [r/mbti/64dosf](https://www.reddit.com/r/mbti/comments/64dosf/ixtx_introverted_and_logical_female_love_stories/)
+* [r/INTP/64dqne](https://www.reddit.com/r/INTP/comments/64dqne/ixtx_introverted_and_logical_female_love_stories/)
