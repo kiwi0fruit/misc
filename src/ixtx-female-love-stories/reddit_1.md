@@ -14,12 +14,12 @@ And these female characters should be:
 
 But there are more than that. Three first types of characters actually are some subset of IxTx personality types from Jungian Typology:
 
-* IxTx in JATS: INT/ir, IST/ir, INT/-er, IST/-er,
+* IxTx in JATS: INTR, ISTR, INTM, ISTM,
 * IxTx in MBTI: INTx and ISTx,
 * LXI/XLI in Socionics: LII, LSI, ILI, SLI,
 * (See tables [**one**](https://github.com/kiwi0fruit/jats/blob/master/README.md#4-socionics-reference-types-names-vs-mbti-types-names) and [**two**](https://github.com/kiwi0fruit/jats/blob/master/README.md#9-intermediate-and-unknown-types-names) from the article for unnecessary extra details).
 
-Also with an additional condition of being non violent and non aggressive personality (see above for details) - this is in most cases valid for INTx and IST/-er, but sometimes is not valid for IST/ir (ISTx). **Surely there are IxTx that are neither emotionless girls nor kuuderes.**
+Also with an additional condition of being non violent and non aggressive personality (see above for details) - this is in most cases valid for INTx and ISTM, but sometimes is not valid for ISTR (ISTx). **Surely there are IxTx that are neither emotionless girls nor kuuderes.**
 
 - ***I*** means introverted: more quiet than noisy, more passive than active, more observer than participant, more loner than social. Actually it's a complex trait that's not yet well defined.
 - ***T*** means prefering logical reasoning / tasks over feelings.
