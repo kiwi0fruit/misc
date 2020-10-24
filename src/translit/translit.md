@@ -1,6 +1,6 @@
 # Kiwi0Fruit's translit
 
-## Yet another Russian to Latin translit
+## Yet another Russian to Latin translit (ver.2)
 
 Придумал в качестве развлечения ещё один транслит. Развлечением было удовлетворить ограничениям:
 
