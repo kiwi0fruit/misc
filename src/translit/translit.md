@@ -23,7 +23,7 @@
 
 ё/yo/jo, ж/zh, и/i/yi/ji, й/j/jj, х/h/kh/qh, ч/ch, ш/sh, щ/xch, ъ/j/w/wh, ы/y/yh, ь/j/jh, э/eh, ю/yu/ju, я/ya/ja.
 
-|        | Cyrillic\_Regular\_Expres. | Latin\_Regular\_Expres. | Examples                                               |
+|        | Cyrillic\_Regular\_Expression | Latin\_Regular\_Expression | Examples                                               |
 | ------ | ---------------------:|:------------------- | --------------------------------------------------------------------- |
 | ъе/je, ъё/jo, ъю/ju, ъя/ja, ъи/ji | `(?<=\c)ъ[еёюяи]` | `(?<=\c)j[eouai]` | об**ъе**кт/ob**je**kt, из**ъя**н/iz**ja**n, Мур**ъи**н/Mur**ji**n |
 | ъ/w    | `(?<=\c)ъ(?=[_\W])`   | `(?<=\c)w(?=[_\W])` | он**ъ**/on**w**                                                       |
