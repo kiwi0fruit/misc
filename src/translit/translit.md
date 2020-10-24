@@ -22,7 +22,7 @@
 
 ### Шаг 1
 
-ё/yo/jo, ж/zh, и/i/yi/ji, й/j/jj, х/h/kh/qh, ч/ch, ш/sh, щ/xch, ъ/j/wh, ы/y/yy, ь/j/jh, э/eh, ю/yu/ju, я/ya/ja.
+ё/yo/jo(ȍ/ö), ж/zh, и/i/yi/ji(ȉ/ï), й/j/jj, х/h/kh/qh, ч/ch, ш/sh, щ/xch, ъ/j/wh, ы/y/yy, ь/j/jh, э/eh, ю/yu/ju(ȕ/ü), я/ya/ja(ȁ/ä).
 
 |        | Cyrillic\_Regular\_Expression | Latin\_Regular\_Expression | Examples                                               |
 | ------ | ---------------------:|:------------------- | --------------------------------------------------------------------- |
