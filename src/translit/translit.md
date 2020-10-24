@@ -24,8 +24,8 @@
 
 | е | ё | ж | и | й | х | ч | ш | щ | ъ | ы | ь | э | ю | я |
 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
-| e/ye/je | yo/jo | zh | i/yi/ji | j/jj | h/kh/qh | ch | sh | xch | j/wh | y/yy | j/jh | eh | yu/ju | ya/ja |
-| e/ě/ë   | ǒ/ö   | ž  | i/ǐ/ï   | j/jj | h/ȟ/qh  | č  | š  | xč  | j/ŵ  | y/yy | j/ĵ  | ê  | ǔ/ü   | ǎ/ä   |
+| e/ye/je | yo/jo | zh | i/yi/ji | j/jj | h/kh/qh | ch | sh | schh | j/wh | y/yy | j/jh | eh | yu/ju | ya/ja |
+| e/ě/ë   | ǒ/ö   | ž  | i/ǐ/ï   | j/jj | h/ȟ/qh  | č  | š  | sčh  | j/ŵ  | y/yy | j/ĵ  | ê  | ǔ/ü   | ǎ/ä   |
 
 |        | Cyrillic\_Regular\_Expression | Latin\_Regular\_Expression | Examples                                               |
 | ------ | ---------------------:|:------------------- | --------------------------------------------------------------------- |
@@ -48,7 +48,7 @@
 | ё/yo   | `ё`                   | `yo`                | **ё**мко/**yo**mko, м**ё**д/m**yo**d                                  |
 | ж/zh   | `ж`                   | `zh`                | ё**ж**/yo**zh**                                                       |
 | и/i    | `и`                   | `i`                 | м**и**г/m**i**g                                                       |
-| щ/xch  | `щ`                   | `xch`               | **щ**ётка/**xch**yotka                                                |
+| щ/schh  | `щ`                   | `schh`               | **щ**ётка/**schh**yotka                                                |
 | ч/ch   | `ч`                   | `ch`                | **ч**ерныш/**ch**ernysh, с**ч**ётная/s**ch**yotnaya                   |
 | ш/sh   | `ш`                   | `sh`                | **ш**лем/**sh**lem                                                    |
 | э/eh   | `э`                   | `eh`                | **э**хо/**eh**kho, **э**он/**eh**on, **э**кран/**eh**kran, м**э**р/m**eh**r |
