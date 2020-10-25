@@ -22,10 +22,10 @@
 
 ### Шаг 1
 
-| е | ё | ж | и | й | х | ч | ш | щ | ъ | ы | ь | э | ю | я |
-| - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
-| e/je/je/ye | jo/jo/yo | zh | i/ji/yi | j/jj | h/kh/qh | ch | sh | schh | j/wh | y/yy | j/jh | eh | ju/ju/yu | ja/ja/ya |
-| e/je/ě/ě   | jo/ǒ/ǒ   | ž  | i/ji/ǐ  | j/jj | h/ĥ/qh  | č  | š  | ŝĉ   | j/ŵ  | y/yy | j/ĵ  | ê  | ju/ǔ/ǔ   | ja/ǎ/ǎ   |
+| е | ё | ж | й | х | ч | ш | щ | ъ | ы | ь | э | ю | я |
+| - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| e/je/je/ye | jo/jo/yo | zh | j/jj | h/kh/qh | ch | sh | schh | j/wh | y/yy | j/jh | eh | ju/ju/yu | ja/ja/ya |
+| e/je/ê/ê   | jo/ô/ô   | ž  | j/jj | h/ĥ/qh  | č  | š  | ŝĉ   | j/ŵ  | y/ŷ  | j/ĵ  | ė  | ju/û/û   | ja/â/â   |
 
 |        | Cyrillic\_Regular\_Expression | Latin\_Regular\_Expression | Examples                                               |
 | ------ | ---------------------:|:------------------- | --------------------------------------------------------------------- |
@@ -47,7 +47,6 @@
 | е/e    | `е`                   | `e`                 | в**е**к/v**e**k                                                       |
 | ё/yo/ǒ | `ё`                   | `yo`                | **ё**мко/**yo**mko/**ǒ**mko, м**ё**д/m**yo**d/m**ǒ**d                 |
 | ж/zh/ž | `ж`                   | `zh`                | ё**ж**/yo**zh**/yo**ž**                                               |
-| и/i    | `и`                   | `i`                 | м**и**г/m**i**g                                                       |
 | щ/schh/ŝĉ | `щ`                | `schh`              | **щ**ётка/**schh**yotka/**ŝĉ**ǒtka, **cч**ётка/**sch**yotka/**sč**ǒtka, **шч**ётка/**shch**yotka/**šč**ǒtka |
 | ч/ch/č | `ч`                   | `ch`                | **ч**ерныш/**ch**ernysh/**č**ernyš, с**ч**ётная/s**ch**yotnaya/s**č**ǒtnaǎ |
 | ш/sh   | `ш`                   | `sh`                | **ш**лем/**sh**lem                                                    |
