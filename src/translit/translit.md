@@ -24,8 +24,8 @@
 
 | е | ё | ж | и | й | х | ч | ш | щ | ъ | ы | ь | э | ю | я |
 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
-| e/ye/je | yo/jo | zh | i/yi/ji | j/jj | h/kh/qh | ch | sh | schh | j/wh | y/yy | j/jh | eh | yu/ju | ya/ja |
-| e/je/ě  | jo/ǒ  | ž  | i/ji/ǐ  | j/jj | h/ĥ/qh  | č  | š  | ŝĉ   | j/ŵ  | y/yy | j/ĵ  | ê  | ju/ǔ  | ja/ǎ  |
+| e/je/je/ye | jo/jo/yo | zh | i/ji/yi | j/jj | h/kh/qh | ch | sh | schh | j/wh | y/yy | j/jh | eh | ju/ju/yu | ja/ja/ya |
+| e/je/ě/ě   | jo/ǒ/ǒ   | ž  | i/ji/ǐ  | j/jj | h/ĥ/qh  | č  | š  | ŝĉ   | j/ŵ  | y/yy | j/ĵ  | ê  | ju/ǔ/ǔ   | ja/ǎ/ǎ   |
 
 |        | Cyrillic\_Regular\_Expression | Latin\_Regular\_Expression | Examples                                               |
 | ------ | ---------------------:|:------------------- | --------------------------------------------------------------------- |
