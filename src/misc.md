@@ -41,11 +41,6 @@ Crossposts to: [myanimelist.net/forum/?topicid=1459621](https://myanimelist.ne
 - [Markdown code](morrowind/morrowind.md) for a [blog post](http://kiwi0fruit.tumblr.com/post/75569701908) ([Edit post](https://www.tumblr.com/edit/75569701908)).
 
 
-## Yet another one Russian to Latin translit
-
-[Kiwi0Fruit's translit](translit/translit.md).
-
-
 ## Movies and books reviews
 
 [Movies and books reviews](review).
