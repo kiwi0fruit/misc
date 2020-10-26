@@ -1,4 +1,6 @@
-# Kiwi's Russian to English Translit & Kiwi's Romanization of Russian
+# ru-translit
+
+## Kiwi's Russian to English Translit & Kiwi's Romanization of Russian
 
 ## Обратимая и однозначная транслитерация из русского в английский алфавит. Русская латиница на основе этого транслита
 
