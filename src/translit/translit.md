@@ -97,4 +97,4 @@
 
 Я не проверял алгоритм декодирования даже мысленно. Но интуитивно чувствую, что он хорошо определён и реализуем. Собственно, алгоритм кодировки строился такой, чтобы не было такого, чтобы разные русские слова (любые) отображались в одну и ту же транслитерацию.
 
-[Latin Small Letter A](https://en.m.wikipedia.org/wiki/List_of_Unicode_characters).
+[latin small letter z with circumflex](https://en.m.wikipedia.org/wiki/List_of_Unicode_characters).
