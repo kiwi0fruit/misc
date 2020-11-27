@@ -31,7 +31,7 @@
 | **5**  | [**ultimate-question**](https://github.com/kiwi0fruit/ultimate-question). Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness. [kiwi0fruit.github.io/ultimate-question](https://kiwi0fruit.github.io/ultimate-question), [reddit.com/r/compsci/comments/97s8dl](https://www.reddit.com/r/compsci/comments/97s8dl/on_natural_selection_of_the_laws_of_nature/) | |
 | **2**  | [**breton**](https://github.com/kiwi0fruit/breton). Breton dances, French Balfolk and some celtic dances (music, video, dances descriptions in Russian). | |
 | **4**  | [**jats**](https://github.com/kiwi0fruit/jats). Alternative translation of Jung-Augustinavichiute-Talanov Socionics to English + On incompatibility of Socionics and MBTI. | |
-| **0**  | [**ru-translit**](https://github.com/kiwi0fruit/ru-translit). Uniquely reversible Russian to English transliteration (no extra letters, diacritics and non-letters) and dual romanization with diacritics (russkaya latinica) | |
+| **0**  | [**ru-translit**](https://github.com/kiwi0fruit/ru-translit). Uniquely reversible Russian to English transliteration/romanization: no extra letters, two versions - with and without non-letters (russkaja latinica) | |
 | **1**  | [**misc**](https://github.com/kiwi0fruit/misc). [Jupyter notebooks as PDF, MS Word and others killer](src/pdf_and_word_killer.md) and other [miscellaneous stuff](src/misc.md) (Markdown texts, html/css themes, etc.). | 1 |
 
 
