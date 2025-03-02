@@ -32,7 +32,6 @@
 | **7**  | [**ultimate-question**](https://github.com/kiwi0fruit/ultimate-question). Open-ended natural selection of interacting code-data-dual algorithms as a property analogous to Turing completeness. [kiwi0fruit.github.io/ultimate-question](https://kiwi0fruit.github.io/ultimate-question), [reddit.com/r/compsci/comments/97s8dl](https://www.reddit.com/r/compsci/comments/97s8dl/on_natural_selection_of_the_laws_of_nature/) | |
 | **3**  | [**breton**](https://github.com/kiwi0fruit/breton). Breton dances, French Balfolk and some celtic dances (music, video, dances descriptions). | |
 | **6**  | [**jats**](https://github.com/kiwi0fruit/jats). Alternative translation of Jung-Augustinavichiute-Talanov Socionics to English + On incompatibility of Socionics and MBTI. | 2 |
-| **0** | [**talking-regressor**](https://github.com/kiwi0fruit/talking-regressor). Brainstorm-like repo for applying language models like GPT to Auto-ML models that perform regression (automatic talking and answering questions on compressed and factorized latent representation). | |
 | **0** | [**wallpaper-art-gallery-ux**](https://github.com/kiwi0fruit/wallpaper-art-gallery-ux). How to set user experience to enjoy the favourite art on the desktop. Examples of art to wallpaper conversion. | |
 | **0**  | [**misc**](https://github.com/kiwi0fruit/misc). [Jupyter notebooks as PDF, MS Word and others killer](src/pdf_and_word_killer.md) and other [miscellaneous stuff](src/misc.md) (Markdown texts, html/css themes, etc.). | 1 |
 
